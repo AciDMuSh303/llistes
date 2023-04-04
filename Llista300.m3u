@@ -16269,3 +16269,131 @@ http://31.42.185.216:8000/movie/B5K04PT92N/1KA88CS4PE/158014.mp4
 http://31.42.185.216:8000/movie/B5K04PT92N/1KA88CS4PE/158015.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Amanecer Zulú (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBLqc5yAiVewgglfK9AydGJb3SA.jpg" group-title="⭐️RECIÉN AGREGADAS⭐️",Amanecer Zulú (1979)
 http://31.42.185.216:8000/movie/B5K04PT92N/1KA88CS4PE/158016.mkv
+
+#EXTINF:-1 group-title="DAZN / SKY / F1TV" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 1080 IPTV (VPN)
+http://minouch.xyz:80/live/iwWsGYliWf/KNm4bT65ji/52586.m3u8?play_token=ef12pyOxrp:1679523719:3939
+
+#EXTINF:-1 group-title="DAZN / SKY / F1TV" tvg-id="SkySportsF1.uk" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2541.png" ,Sky Sport F1 UK FHD IPTV
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:00:00:01&stream=2079&extension=ts&play_token=4JfcgxY1sF
+#EXTINF:-1 group-title="DAZN / SKY / F1TV" tvg-id="SkySportsF1.uk" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2541.png" ,Sky Sport F1 UK FHD IPTV
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:00:00:01&stream=1874&extension=ts&play_token=bAjff4pSIu
+#EXTINF:-1 group-title="DAZN / SKY / F1TV" tvg-id="SkySportsF1.uk" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2541.png" ,Sky Sport F1 UK FHD IPTV
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:00:00:01&stream=1904&extension=ts&play_token=Wdk5oQpsti
+#EXTINF:-1 group-title="DAZN / SKY / F1TV" tvg-id="SkySportsF1.uk" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2541.png" ,Sky Sport F1 UK FHD IPTV
+http://bmpremium.net:8080/ApB9X2QJDtu5/me8PYcGDbAWx/247438
+#EXTINF:-1 group-title="DAZN / SKY / F1TV" tvg-id="SkySportsF1.uk" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2541.png" ,Sky Sport F1 UK 1080 IPTV
+http://ollenytv.ddns.net:9000/amsabatino/diairolamattuzz/9978
+#EXTINF:-1 group-title="DAZN / SKY / F1TV" tvg-id="SkySportsF1.uk" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2541.png" ,Sky Sport F1 UK 720 IPTV
+http://bmpremium.net:8080/ApB9X2QJDtu5/me8PYcGDbAWx/247439
+#EXTINF:-1 group-title="DAZN / SKY / F1TV" tvg-id="SkySportF1Italy.it" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a359.png" ,Sky Sport F1 Italia 1080 H265 IPTV
+http://bmpremium.net:8080/ApB9X2QJDtu5/me8PYcGDbAWx/244108
+#EXTINF:-1 group-title="DAZN / SKY / F1TV" tvg-id="SkySportF1Italy.it" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a359.png" ,Sky Sport F1 Italia 1080 H265 IPTV
+http://ollenytv.ddns.net:9000/amsabatino/diairolamattuzz/49935
+#EXTINF:-1 group-title="DAZN / SKY / F1TV" tvg-id="SkySportF1Italy.it" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a359.png" ,Sky Sport F1 Italia 1080 IPTV
+http://bmpremium.net:8080/ApB9X2QJDtu5/me8PYcGDbAWx/244109
+#EXTINF:-1 group-title="DAZN / SKY / F1TV" tvg-id="SkySportF1Italy.it" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a359.png" ,Sky Sport F1 Italia FHD IPTV
+http://ollenytv.ddns.net:9000/amsabatino/diairolamattuzz/31838
+#EXTINF:-1 group-title="DAZN / SKY / F1TV" tvg-id="SkySportF1Italy.it" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a359.png" ,Sky Sport F1 Italia 720 IPTV
+http://bmpremium.net:8080/ApB9X2QJDtu5/me8PYcGDbAWx/244110
+#EXTINF:-1 group-title="DAZN / SKY / F1TV" tvg-id="SkySportF1Italy.it" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a359.png" ,Sky Sport F1 Italia 720 IPTV
+http://ollenytv.ddns.net:9000/amsabatino/diairolamattuzz/59
+#EXTINF:-1 group-title="MotoGP Sky" tvg-id="SkySportMotoGP.it" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a360.png" ,Sky Sport MotoGP Italia 1080 H265 IPTV
+http://bmpremium.net:8080/ApB9X2QJDtu5/me8PYcGDbAWx/244111
+#EXTINF:-1 group-title="MotoGP Sky" tvg-id="SkySportMotoGP.it" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a360.png" ,Sky Sport MotoGP Italia 1080 H265 IPTV
+http://ollenytv.ddns.net:9000/amsabatino/diairolamattuzz/49936
+#EXTINF:-1 group-title="MotoGP Sky" tvg-id="SkySportMotoGP.it" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a360.png" ,Sky Sport MotoGP Italia FHD IPTV
+http://ollenytv.ddns.net:9000/amsabatino/diairolamattuzz/31839
+#EXTINF:-1 group-title="MotoGP Sky" tvg-id="SkySportMotoGP.it" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a360.png" ,Sky Sport MotoGP Italia 1080 IPTV
+http://bmpremium.net:8080/ApB9X2QJDtu5/me8PYcGDbAWx/244112
+#EXTINF:-1 group-title="MotoGP Sky" tvg-id="SkySportMotoGP.it" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a360.png" ,Sky Sport MotoGP Italia 720 IPTV
+http://bmpremium.net:8080/ApB9X2QJDtu5/me8PYcGDbAWx/244113
+#EXTINF:-1 group-title="MotoGP Sky" tvg-id="SkySportMotoGP.it" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a360.png" ,Sky Sport MotoGP Italia 720 IPTV
+http://ollenytv.ddns.net:9000/amsabatino/diairolamattuzz/60
+
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 1080 multiaudio
+acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 1080 multiaudio*
+acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 1080
+acestream://c72263175266c90d376dcb8607c28e02939c1873
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 720
+acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga
+acestream://acefcfb8ec308c1ae5e66ccfc13a09bfbc6caa09
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga
+acestream://87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://i.postimg.cc/28psx1TB/daznliga2.png" ,DAZN LaLiga 2 1080 multiaudio
+acestream://
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://i.postimg.cc/28psx1TB/daznliga2.png" ,DAZN LaLiga 2 720 multiaudio
+acestream://
+#EXTINF:-1 group-title="Fox Sports Premium" tvg-id="FoxSportsPremiumMexico.mx" tvg-name="FoxSportsPremiumMexico.mx" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2812.png" ,Fox Sports Premium 
+acestream://63ab9528b16e536be0da44d6f5aceac357292b95
+
+#EXTINF:-1 group-title="Fox Sports Premium" tvg-id="FoxSportsPremiumMexico.mx" tvg-name="FoxSportsPremiumMexico.mx" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2812.png" ,Fox Sports Premium VPN IPTV
+http://allstar.is-by.us:25461/Jhimytv/t5YF6fVbjD/82570
+#EXTINF:-1 group-title="Fox Sports Premium" tvg-id="FoxSportsPremiumMexico.mx" tvg-name="FoxSportsPremiumMexico.mx" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2812.png" ,Fox Sports Premium VPN IPTV
+http://allstar.is-by.us:25461/Jhimytv/t5YF6fVbjD/126389
+#EXTINF:-1 group-title="Fox Sports Premium" tvg-id="FoxSportsPremiumMexico.mx" tvg-name="FoxSportsPremiumMexico.mx" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2812.png" ,Fox Sports Premium VPN IPTV
+http://allstar.is-by.us:25461/Jhimytv/t5YF6fVbjD/58744
+#EXTINF:-1 group-title="Fox Sports Premium" tvg-id="FoxSportsPremiumMexico.mx" tvg-name="FoxSportsPremiumMexico.mx" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2812.png" ,Fox Sports Premium VPN IPTV
+http://allstar.is-by.us:25461/Jhimytv/t5YF6fVbjD/93976
+#EXTINF:-1 group-title="Fox Sports Premium" tvg-id="FoxSportsPremiumMexico.mx" tvg-name="FoxSportsPremiumMexico.mx" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2812.png" ,Fox Sports Premium SD VPN IPTV
+http://allstar.is-by.us:25461/Jhimytv/t5YF6fVbjD/126390
+
+
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV1 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a450.png" ,Sport TV1 1080 IPTV
+http://bmpremium.net:8080/ApB9X2QJDtu5/me8PYcGDbAWx/245164
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV1 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a450.png" ,Sport TV1 1080 IPTV
+http://bmpremium.net:8080/ApB9X2QJDtu5/me8PYcGDbAWx/245165
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV1 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a450.png" ,Sport TV1 720 IPTV
+http://bmpremium.net:8080/ApB9X2QJDtu5/me8PYcGDbAWx/245166
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV1 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a450.png" ,Sport TV1 1080 IPTV
+http://bmpremium.net:8080/ApB9X2QJDtu5/me8PYcGDbAWx/245167
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV2 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a451.png" ,Sport TV2 1080
+acestream://a1bd609a2d64d1ee4b81af32464b36848fe36541
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV2 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a451.png" ,Sport TV2 1080 IPTV
+http://bmpremium.net:8080/ApB9X2QJDtu5/me8PYcGDbAWx/245168
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV2 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a451.png" ,Sport TV2 1080 IPTV
+http://bmpremium.net:8080/ApB9X2QJDtu5/me8PYcGDbAWx/245169
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV2 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a451.png" ,Sport TV2 1080 IPTV
+http://bmpremium.net:8080/ApB9X2QJDtu5/me8PYcGDbAWx/245170
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV2 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a451.png" ,Sport TV2 720 IPTV
+http://bmpremium.net:8080/ApB9X2QJDtu5/me8PYcGDbAWx/245172
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV2 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a451.png" ,Sport TV2 720 IPTV
+http://bmpremium.net:8080/ApB9X2QJDtu5/me8PYcGDbAWx/245171
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV3 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a452.png" ,Sport TV3 1080
+acestream://6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV3 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a452.png" ,Sport TV3 1080 IPTV
+http://bmpremium.net:8080/ApB9X2QJDtu5/me8PYcGDbAWx/245173
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV3 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a452.png" ,Sport TV3 1080 IPTV
+http://bmpremium.net:8080/ApB9X2QJDtu5/me8PYcGDbAWx/245176
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV3 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a452.png" ,Sport TV3 720 IPTV
+http://bmpremium.net:8080/ApB9X2QJDtu5/me8PYcGDbAWx/245174
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV3 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a452.png" ,Sport TV3 720 IPTV
+http://bmpremium.net:8080/ApB9X2QJDtu5/me8PYcGDbAWx/245175
+
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV4 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a453.png" ,Sport TV4 1080
+acestream://c300ecb07d854c1730b04ea022c3fb0a184d7801
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV4 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a453.png" ,Sport TV4 720
+acestream://7b910812372dc00639e284ffd342525686a5d43f
+
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV4 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a453.png" ,Sport TV4 1080 IPTV
+http://bmpremium.net:8080/ApB9X2QJDtu5/me8PYcGDbAWx/245177
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV4 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a453.png" ,Sport TV4 1080 IPTV
+http://bmpremium.net:8080/ApB9X2QJDtu5/me8PYcGDbAWx/245178
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV4 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a453.png" ,Sport TV4 720 IPTV
+http://bmpremium.net:8080/ApB9X2QJDtu5/me8PYcGDbAWx/245180
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV5 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a454.png" ,Sport TV5 1080 IPTV
+http://bmpremium.net:8080/ApB9X2QJDtu5/me8PYcGDbAWx/245181
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV5 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a454.png" ,Sport TV5 1080 IPTV
+http://bmpremium.net:8080/ApB9X2QJDtu5/me8PYcGDbAWx/245182
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV5 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a454.png" ,Sport TV5 720 IPTV
+http://bmpremium.net:8080/ApB9X2QJDtu5/me8PYcGDbAWx/245184
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV6 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2619.png" ,Sport TV6 1080 IPTV
+http://bmpremium.net:8080/ApB9X2QJDtu5/me8PYcGDbAWx/245185
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV6 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2619.png" ,Sport TV6 1080 IPTV
+http://bmpremium.net:8080/ApB9X2QJDtu5/me8PYcGDbAWx/245186
+
+
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="https://i.postimg.cc/3Rvx9ycR/primvideo-ligue1.png" , AMAZON PRIME MULTIPLEX [BE]
+http://iptvclub.live:25461/HDuKtDundvsnEZP/9jbryBZTcofehAV/170138

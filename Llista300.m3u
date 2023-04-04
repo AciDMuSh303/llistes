@@ -16270,6 +16270,9 @@ http://31.42.185.216:8000/movie/B5K04PT92N/1KA88CS4PE/158015.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Amanecer Zulú (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBLqc5yAiVewgglfK9AydGJb3SA.jpg" group-title="⭐️RECIÉN AGREGADAS⭐️",Amanecer Zulú (1979)
 http://31.42.185.216:8000/movie/B5K04PT92N/1KA88CS4PE/158016.mkv
 
+
+
+
 #EXTINF:-1 group-title="DAZN / SKY / F1TV" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 1080 IPTV (VPN)
 http://minouch.xyz:80/live/iwWsGYliWf/KNm4bT65ji/52586.m3u8?play_token=ef12pyOxrp:1679523719:3939
 
@@ -16331,8 +16334,7 @@ http://bmpremium.net:8080/ApB9X2QJDtu5/me8PYcGDbAWx/245165
 http://bmpremium.net:8080/ApB9X2QJDtu5/me8PYcGDbAWx/245166
 #EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV1 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a450.png" ,Sport TV1 1080 IPTV
 http://bmpremium.net:8080/ApB9X2QJDtu5/me8PYcGDbAWx/245167
-#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV2 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a451.png" ,Sport TV2 1080
-acestream://a1bd609a2d64d1ee4b81af32464b36848fe36541
+
 #EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV2 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a451.png" ,Sport TV2 1080 IPTV
 http://bmpremium.net:8080/ApB9X2QJDtu5/me8PYcGDbAWx/245168
 #EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV2 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a451.png" ,Sport TV2 1080 IPTV
@@ -16343,8 +16345,7 @@ http://bmpremium.net:8080/ApB9X2QJDtu5/me8PYcGDbAWx/245170
 http://bmpremium.net:8080/ApB9X2QJDtu5/me8PYcGDbAWx/245172
 #EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV2 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a451.png" ,Sport TV2 720 IPTV
 http://bmpremium.net:8080/ApB9X2QJDtu5/me8PYcGDbAWx/245171
-#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV3 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a452.png" ,Sport TV3 1080
-acestream://6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
+
 #EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV3 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a452.png" ,Sport TV3 1080 IPTV
 http://bmpremium.net:8080/ApB9X2QJDtu5/me8PYcGDbAWx/245173
 #EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV3 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a452.png" ,Sport TV3 1080 IPTV

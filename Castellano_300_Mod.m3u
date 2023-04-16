@@ -1,480 +1,167 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="" tvg-name="۩๑๑۩๑๑۩  SPAIN DIGITAL TV  ۩๑๑۩๑๑۩" tvg-logo="" group-title="SPAIN",۩๑๑۩๑๑۩  SPAIN DIGITAL TV  ۩๑๑۩๑๑۩
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/2148
-#EXTINF:-1 tvg-id="#0.es" tvg-name="ES: #0 FHD" tvg-logo="" group-title="SPAIN",ES: #0 FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18768
-#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: LA 1 FHD" tvg-logo="" group-title="SPAIN",ES: LA 1 FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18756
-#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1 ᶠʰᵈ" tvg-logo="" group-title="SPAIN",ES: LA 1 ᶠʰᵈ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135370
-#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1 HD" tvg-logo="" group-title="SPAIN",ES: LA 1 HD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135371
-#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1 SD" tvg-logo="" group-title="SPAIN",ES: LA 1 SD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135372
-#EXTINF:-1 tvg-id="la2.es" tvg-name="ES: LA 2" tvg-logo="" group-title="SPAIN",ES: LA 2
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18757
-#EXTINF:-1 tvg-id="la2.es" tvg-name="ES: LA 2 FHD" tvg-logo="" group-title="SPAIN",ES: LA 2 FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/67652
-#EXTINF:-1 tvg-id="" tvg-name="ES: La 2 ᶠʰᵈ" tvg-logo="" group-title="SPAIN",ES: La 2 ᶠʰᵈ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135373
-#EXTINF:-1 tvg-id="" tvg-name="ES: LA 2 SD" tvg-logo="" group-title="SPAIN",ES: LA 2 SD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135374
-#EXTINF:-1 tvg-id="antena3.es" tvg-name="ES: ANTENA 3 FHD" tvg-logo="" group-title="SPAIN",ES: ANTENA 3 FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18758
-#EXTINF:-1 tvg-id="" tvg-name="ES: ANTENA 3 ᶠʰᵈ" tvg-logo="" group-title="SPAIN",ES: ANTENA 3 ᶠʰᵈ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135375
-#EXTINF:-1 tvg-id="" tvg-name="ES: ANTENA 3 HD" tvg-logo="" group-title="SPAIN",ES: ANTENA 3 HD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135376
-#EXTINF:-1 tvg-id="" tvg-name="ES: ANTENA 3 SD" tvg-logo="" group-title="SPAIN",ES: ANTENA 3 SD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135377
-#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES: CUATRO  FHD" tvg-logo="" group-title="SPAIN",ES: CUATRO  FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18759
-#EXTINF:-1 tvg-id="" tvg-name="ES: CUATRO ᶠʰᵈ" tvg-logo="" group-title="SPAIN",ES: CUATRO ᶠʰᵈ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135378
-#EXTINF:-1 tvg-id="" tvg-name="ES: CUATRO HD" tvg-logo="" group-title="SPAIN",ES: CUATRO HD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135379
-#EXTINF:-1 tvg-id="" tvg-name="ES: CUATRO SD" tvg-logo="" group-title="SPAIN",ES: CUATRO SD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135380
-#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES: TELECINCO FHD" tvg-logo="" group-title="SPAIN",ES: TELECINCO FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18760
-#EXTINF:-1 tvg-id="" tvg-name="ES: TELECINCO ᶠʰᵈ" tvg-logo="" group-title="SPAIN",ES: TELECINCO ᶠʰᵈ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135381
-#EXTINF:-1 tvg-id="" tvg-name="ES: TELECINCO HD" tvg-logo="" group-title="SPAIN",ES: TELECINCO HD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135382
-#EXTINF:-1 tvg-id="" tvg-name="ES: TELECINCO" tvg-logo="" group-title="SPAIN",ES: TELECINCO
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135383
-#EXTINF:-1 tvg-id="lasexta.es" tvg-name="ES: LA SEXTA  FHD" tvg-logo="" group-title="SPAIN",ES: LA SEXTA  FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18761
-#EXTINF:-1 tvg-id="" tvg-name="ES: LA SEXTA ᶠʰᵈ" tvg-logo="" group-title="SPAIN",ES: LA SEXTA ᶠʰᵈ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135384
-#EXTINF:-1 tvg-id="" tvg-name="ES: LA SEXTA HD" tvg-logo="" group-title="SPAIN",ES: LA SEXTA HD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135385
-#EXTINF:-1 tvg-id="" tvg-name="ES: LA SEXTA SD" tvg-logo="" group-title="SPAIN",ES: LA SEXTA SD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135386
-#EXTINF:-1 tvg-id="clantve.es" tvg-name="ES: CLAN TVE" tvg-logo="" group-title="SPAIN",ES: CLAN TVE
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18762
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ CLAN SD (MULTI AUDIO) SD" tvg-logo="" group-title="SPAIN",ES: M+ CLAN SD (MULTI AUDIO) SD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135387
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ CLAN ᶠʰᵈ" tvg-logo="" group-title="SPAIN",ES: M+ CLAN ᶠʰᵈ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135388
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ CLAN HD" tvg-logo="" group-title="SPAIN",ES: M+ CLAN HD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135389
-#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="ES: Factoria De Ficcion" tvg-logo="" group-title="SPAIN",ES: Factoria De Ficcion
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18823
-#EXTINF:-1 tvg-id="nova.es" tvg-name="ES: NOVA HD" tvg-logo="" group-title="SPAIN",ES: NOVA HD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18816
-#EXTINF:-1 tvg-id="divinity.es" tvg-name="ES: DIVINITY" tvg-logo="" group-title="SPAIN",ES: DIVINITY
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18818
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DIVINITY SD" tvg-logo="" group-title="SPAIN",ES: M+ DIVINITY SD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135394
-#EXTINF:-1 tvg-id="energy.es" tvg-name="ES: ENERGY" tvg-logo="" group-title="SPAIN",ES: ENERGY
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18819
-#EXTINF:-1 tvg-id="canalsur.es" tvg-name="ES: CANAL SUR A" tvg-logo="" group-title="SPAIN",ES: CANAL SUR A
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18821
-#EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: 24 HORAS" tvg-logo="" group-title="SPAIN",ES: 24 HORAS
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18831
-#EXTINF:-1 tvg-id="" tvg-name="ES: 24 HORAS ᶠʰᵈ" tvg-logo="" group-title="SPAIN",ES: 24 HORAS ᶠʰᵈ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135368
-#EXTINF:-1 tvg-id="" tvg-name="ES: 24 HORAS HD" tvg-logo="" group-title="SPAIN",ES: 24 HORAS HD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135369
-#EXTINF:-1 tvg-id="dkiss.es" tvg-name="ES: DKISS" tvg-logo="" group-title="SPAIN",ES: DKISS
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18832
-#EXTINF:-1 tvg-id="tvgalicia.es" tvg-name="ES: TV GALICIA" tvg-logo="" group-title="SPAIN",ES: TV GALICIA
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18834
-#EXTINF:-1 tvg-id="mega.es" tvg-name="ES: MEGA FHD" tvg-logo="" group-title="SPAIN",ES: MEGA FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18840
-#EXTINF:-1 tvg-id="neox.es" tvg-name="ES: NEOX" tvg-logo="" group-title="SPAIN",ES: NEOX
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18842
-#EXTINF:-1 tvg-id="" tvg-name="۩๑๑۩๑๑۩  SPAIN CINEMA  ۩๑๑۩๑๑۩" tvg-logo="" group-title="SPAIN",۩๑๑۩๑๑۩  SPAIN CINEMA  ۩๑๑۩๑๑۩
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/2147
-#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="ES: M.DRAMA FHD" tvg-logo="" group-title="SPAIN",ES: M.DRAMA FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18769
-#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="ES: M.COMEDIA FHD" tvg-logo="" group-title="SPAIN",ES: M.COMEDIA FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18770
-#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="ES: COMEDY CENTRAL FHD" tvg-logo="" group-title="SPAIN",ES: COMEDY CENTRAL FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18815
-#EXTINF:-1 tvg-id="cosmo.es" tvg-name="ES: COSMO FHD" tvg-logo="" group-title="SPAIN",ES: COSMO FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18814
-#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="ES: M.ACCION FHD" tvg-logo="" group-title="SPAIN",ES: M.ACCION FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18771
-#EXTINF:-1 tvg-id="movistarseriesmania.es" tvg-name="ES: M.SERIESMANIA FHD" tvg-logo="" group-title="SPAIN",ES: M.SERIESMANIA FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18772
-#EXTINF:-1 tvg-id="movistarestrenos2.es" tvg-name="ES: M.ESTRENOS 2 FHD" tvg-logo="" group-title="SPAIN",ES: M.ESTRENOS 2 FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18773
-#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="ES: M.ESTRENOS FHD" tvg-logo="" group-title="SPAIN",ES: M.ESTRENOS FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18774
-#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="ES: M.SERIES FHD" tvg-logo="" group-title="SPAIN",ES: M.SERIES FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18775
-#EXTINF:-1 tvg-id="tcm.es" tvg-name="ES: TCM FHD" tvg-logo="" group-title="SPAIN",ES: TCM FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18778
-#EXTINF:-1 tvg-id="tnt.es" tvg-name="ES: TNT FHD" tvg-logo="" group-title="SPAIN",ES: TNT FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18779
-#EXTINF:-1 tvg-id="hollywood.es" tvg-name="ES: HOLLYWOOD FHD" tvg-logo="" group-title="SPAIN",ES: HOLLYWOOD FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18780
-#EXTINF:-1 tvg-id="calle13.es" tvg-name="ES: CALLE 13 FHD" tvg-logo="" group-title="SPAIN",ES: CALLE 13 FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18781
-#EXTINF:-1 tvg-id="amc.es" tvg-name="ES: AMC FHD" tvg-logo="" group-title="SPAIN",ES: AMC FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18782
-#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="ES: PARAMOUNT CHANNEL" tvg-logo="" group-title="SPAIN",ES: PARAMOUNT CHANNEL
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18802
-#EXTINF:-1 tvg-id="" tvg-name="ES: PELLICULAS 4K CHANNELS" tvg-logo="" group-title="SPAIN",ES: PELLICULAS 4K CHANNELS
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/133131
-#EXTINF:-1 tvg-id="alquiler1.es" tvg-name="ES: ALQUILER 1 HD" tvg-logo="" group-title="SPAIN",ES: ALQUILER 1 HD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18824
-#EXTINF:-1 tvg-id="alquiler2.es" tvg-name="ES: ALQUILER 2 HD" tvg-logo="" group-title="SPAIN",ES: ALQUILER 2 HD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18825
-#EXTINF:-1 tvg-id="alquiler3.es" tvg-name="ES: ALQUILER 3 HD" tvg-logo="" group-title="SPAIN",ES: ALQUILER 3 HD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18826
-#EXTINF:-1 tvg-id="alquiler4.es" tvg-name="ES: ALQUILER 4 HD" tvg-logo="" group-title="SPAIN",ES: ALQUILER 4 HD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18827
-#EXTINF:-1 tvg-id="alquiler5.es" tvg-name="ES: ALQUILER 5 HD" tvg-logo="" group-title="SPAIN",ES: ALQUILER 5 HD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18828
-#EXTINF:-1 tvg-id="alquiler6.es" tvg-name="ES: ALQUILER 6 HD" tvg-logo="" group-title="SPAIN",ES: ALQUILER 6 HD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18829
-#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 7 HD" tvg-logo="" group-title="SPAIN",ES: ALQUILER 7 HD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/23687
-#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER 8 HD" tvg-logo="" group-title="SPAIN",ES: ALQUILER 8 HD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/23688
-#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER HD 1  Drama" tvg-logo="" group-title="SPAIN",ES: ALQUILER HD 1  Drama
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135359
-#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER HD 2 Thriller" tvg-logo="" group-title="SPAIN",ES: ALQUILER HD 2 Thriller
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135360
-#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER HD 3" tvg-logo="" group-title="SPAIN",ES: ALQUILER HD 3
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135361
-#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER HD 4 Documental" tvg-logo="" group-title="SPAIN",ES: ALQUILER HD 4 Documental
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135362
-#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER HD 5" tvg-logo="" group-title="SPAIN",ES: ALQUILER HD 5
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135363
-#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER HD 6" tvg-logo="" group-title="SPAIN",ES: ALQUILER HD 6
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135364
-#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER HD 7" tvg-logo="" group-title="SPAIN",ES: ALQUILER HD 7
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135365
-#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER HD 8" tvg-logo="" group-title="SPAIN",ES: ALQUILER HD 8
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135366
-#EXTINF:-1 tvg-id="" tvg-name="ES: ALQUILER HD 9 Drama 2" tvg-logo="" group-title="SPAIN",ES: ALQUILER HD 9 Drama 2
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135367
-#EXTINF:-1 tvg-id="" tvg-name="۩๑๑۩๑๑۩  SPAIN ENTERTAINMENT ۩๑๑۩๑๑۩" tvg-logo="" group-title="SPAIN",۩๑๑۩๑๑۩  SPAIN ENTERTAINMENT ۩๑๑۩๑๑۩
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/2146
-#EXTINF:-1 tvg-id="syfy.es" tvg-name="ES: SYFY FHD" tvg-logo="" group-title="SPAIN",ES: SYFY FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18777
-#EXTINF:-1 tvg-id="axn.es" tvg-name="ES: AXN FHD" tvg-logo="" group-title="SPAIN",ES: AXN FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18763
-#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="ES: AXN WHITE FHD" tvg-logo="" group-title="SPAIN",ES: AXN WHITE FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18764
-#EXTINF:-1 tvg-id="foxlife.es" tvg-name="ES: FOX LIFE HD" tvg-logo="" group-title="SPAIN",ES: FOX LIFE HD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/115963
-#EXTINF:-1 tvg-id="fox.es" tvg-name="ES: FOX FHD" tvg-logo="" group-title="SPAIN",ES: FOX FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18766
-#EXTINF:-1 tvg-id="atreseries.es" tvg-name="ES: A3 SERIES FHD" tvg-logo="" group-title="SPAIN",ES: A3 SERIES FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18836
-#EXTINF:-1 tvg-id="mtv.es" tvg-name="ES: MTV ESPANA" tvg-logo="" group-title="SPAIN",ES: MTV ESPANA
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18813
-#EXTINF:-1 tvg-id="" tvg-name="۩๑๑۩๑๑۩ SPAIN DOCUMENTARY ۩๑๑۩๑๑۩" tvg-logo="" group-title="SPAIN",۩๑๑۩๑๑۩ SPAIN DOCUMENTARY ۩๑๑۩๑๑۩
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/2143
-#EXTINF:-1 tvg-id="viajar.es" tvg-name="ES: VIAJAR FHD" tvg-logo="" group-title="SPAIN",ES: VIAJAR FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18795
-#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES: CAZA Y PESCA FHD" tvg-logo="" group-title="SPAIN",ES: CAZA Y PESCA FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18796
-#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NATIONAL GEOGRAPHIC FHD" tvg-logo="" group-title="SPAIN",ES: NATIONAL GEOGRAPHIC FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18797
-#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="ES: NAT GEO WILD FHD" tvg-logo="" group-title="SPAIN",ES: NAT GEO WILD FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18798
-#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="ES: DISCOVERY CHANNEL" tvg-logo="" group-title="SPAIN",ES: DISCOVERY CHANNEL
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18799
-#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="ES: CANAL COCINA" tvg-logo="" group-title="SPAIN",ES: CANAL COCINA
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18803
-#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="ES: CANAL DECASA" tvg-logo="" group-title="SPAIN",ES: CANAL DECASA
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18804
-#EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="ES: CRIMEN & INVESTIGACION" tvg-logo="" group-title="SPAIN",ES: CRIMEN & INVESTIGACION
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18812
-#EXTINF:-1 tvg-id="" tvg-name="۩๑๑۩๑๑۩  SPAIN KIDS  ۩๑๑۩๑๑۩" tvg-logo="" group-title="SPAIN",۩๑๑۩๑๑۩  SPAIN KIDS  ۩๑๑۩๑๑۩
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/2144
-#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY CHANNEL" tvg-logo="" group-title="SPAIN",ES: DISNEY CHANNEL
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135395
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DISNEY SD" tvg-logo="" group-title="SPAIN",ES: M+ DISNEY SD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135393
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DISNEY CHANNEL HD" tvg-logo="" group-title="SPAIN",ES: M+ DISNEY CHANNEL HD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135396
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DISNEY CHANNEL ᶠʰᵈ" tvg-logo="" group-title="SPAIN",ES: M+ DISNEY CHANNEL ᶠʰᵈ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135397
-#EXTINF:-1 tvg-id="" tvg-name="M+ Dreamworks HD" tvg-logo="" group-title="SPAIN",M+ Dreamworks HD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135390
-#EXTINF:-1 tvg-id="" tvg-name="M+ DreamWorks ᶠʰᵈ" tvg-logo="" group-title="SPAIN",M+ DreamWorks ᶠʰᵈ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135391
-#EXTINF:-1 tvg-id="boing.es" tvg-name="ES: BOING" tvg-logo="" group-title="SPAIN",ES: BOING
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18806
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ BOING HD" tvg-logo="" group-title="SPAIN",ES: M+ BOING HD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135398
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ BOING" tvg-logo="" group-title="SPAIN",ES: M+ BOING
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135399
-#EXTINF:-1 tvg-id="babytv.es" tvg-name="ES: BABY TV" tvg-logo="" group-title="SPAIN",ES: BABY TV
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18807
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ BABY TV SD" tvg-logo="" group-title="SPAIN",ES: M+ BABY TV SD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135403
-#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="ES: DISNEY JUNIOR" tvg-logo="" group-title="SPAIN",ES: DISNEY JUNIOR
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18809
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+  Disney Junior HD" tvg-logo="" group-title="SPAIN",ES: M+  Disney Junior HD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135392
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ PANDA ᶠʰᵈ" tvg-logo="" group-title="SPAIN",ES: M+ PANDA ᶠʰᵈ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135400
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ PANDA SD" tvg-logo="" group-title="SPAIN",ES: M+ PANDA SD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135401
-#EXTINF:-1 tvg-id="nickjr.es" tvg-name="ES: NICK JR" tvg-logo="" group-title="SPAIN",ES: NICK JR
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18837
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ NICK JR ᶠʰᵈ" tvg-logo="" group-title="SPAIN",ES: M+ NICK JR ᶠʰᵈ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135404
-#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="ES: NICKELODEON FHD" tvg-logo="" group-title="SPAIN",ES: NICKELODEON FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18838
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ NICKELODEON HD" tvg-logo="" group-title="SPAIN",ES: M+ NICKELODEON HD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135402
-#EXTINF:-1 tvg-id="blaze.es" tvg-name="ES: BLAZE" tvg-logo="" group-title="SPAIN",ES: BLAZE
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18820
-#EXTINF:-1 tvg-id="canalpanda.es" tvg-name="ES: CANAL PANDA" tvg-logo="" group-title="SPAIN",ES: CANAL PANDA
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18811
-#EXTINF:-1 tvg-id="" tvg-name="۩๑๑۩๑๑۩  SPAIN SPORT ۩๑๑۩๑๑۩" tvg-logo="" group-title="SPAIN",۩๑๑۩๑๑۩  SPAIN SPORT ۩๑๑۩๑๑۩
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/2145
-#EXTINF:-1 tvg-id="gol.es" tvg-name="ES: GOL TV" tvg-logo="" group-title="SPAIN",ES: GOL TV
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/67653
-#EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="ES: Movistar+ F1 FHD" tvg-logo="" group-title="SPAIN",ES: Movistar+ F1 FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/70541
-#EXTINF:-1 tvg-id="mdeportes2.es" tvg-name="ES: MOVISTAR DEPORTES 2" tvg-logo="" group-title="SPAIN",ES: MOVISTAR DEPORTES 2
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/70768
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LALIGA FHD" tvg-logo="" group-title="SPAIN",ES: DAZN LALIGA FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/134638
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: DAZN LALIGA HD" tvg-logo="" group-title="SPAIN",ES: DAZN LALIGA HD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/133090
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LALIGA 2 FHD" tvg-logo="" group-title="SPAIN",ES: DAZN LALIGA 2 FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/134639
-#EXTINF:-1 tvg-id="gol.es" tvg-name="ES: GOL TV FHD" tvg-logo="" group-title="SPAIN",ES: GOL TV FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/19952
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: M+ LALIGA FHD" tvg-logo="" group-title="SPAIN",ES: M+ LALIGA FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/23137
-#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="ES: M+ LIGA 2 HD" tvg-logo="" group-title="SPAIN",ES: M+ LIGA 2 HD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/23139
-#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES: M+ LIGA CAMPEONES HD (NODO 1)" tvg-logo="" group-title="SPAIN",ES: M+ LIGA CAMPEONES HD (NODO 1)
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/23141
-#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: #VAMOS FHD" tvg-logo="" group-title="SPAIN",ES: #VAMOS FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18786
-#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES: M.LIGA DE CAMPEONES FHD" tvg-logo="" group-title="SPAIN",ES: M.LIGA DE CAMPEONES FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18788
-#EXTINF:-1 tvg-id="gol.es" tvg-name="ES: GOL" tvg-logo="" group-title="SPAIN",ES: GOL
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18789
-#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="ES: M.GOLF FHD" tvg-logo="" group-title="SPAIN",ES: M.GOLF FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18785
-#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="ES: REAL MADRID TV FHD" tvg-logo="" group-title="SPAIN",ES: REAL MADRID TV FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18790
-#EXTINF:-1 tvg-id="barcatv.es" tvg-name="ES: BARCA TV" tvg-logo="" group-title="SPAIN",ES: BARCA TV
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18791
-#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="ES: EUROSPORT 1 FHD" tvg-logo="" group-title="SPAIN",ES: EUROSPORT 1 FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18792
-#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="ES: TELEDEPORTE FHD" tvg-logo="" group-title="SPAIN",ES: TELEDEPORTE FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18794
-#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="ES: M.DEPORTES FHD" tvg-logo="" group-title="SPAIN",ES: M.DEPORTES FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18784
-#EXTINF:-1 tvg-id="toros.es" tvg-name="ES: TOROS TV FHD" tvg-logo="" group-title="SPAIN",ES: TOROS TV FHD
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/18767
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLIGA ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ LaLIGA ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135274
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLIGA  FHD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ LaLIGA  FHD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135275
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLIGA SD ANDROID M ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ LaLIGA SD ANDROID M ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135276
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLIGA 1 ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ LaLIGA 1 ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135277
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLIGA 1 FHD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ LaLIGA 1 FHD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135278
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLIGA 2 HD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ LaLIGA 2 HD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135279
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLIGA 3 ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ LaLIGA 3 ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135280
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLIGA 3 FULLHD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ LaLIGA 3 FULLHD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135281
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLIGA 4 ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ LaLIGA 4 ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135282
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLIGA 5 ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ LaLIGA 5 ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135283
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLIGA 6 ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ LaLIGA 6 ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135284
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLIGA 7 ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ LaLIGA 7 ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135285
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LaLIGA 8 ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ LaLIGA 8 ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135286
-#EXTINF:-1 tvg-id="" tvg-name="ES: LaLIGA SMARTBANK HD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: LaLIGA SMARTBANK HD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135287
-#EXTINF:-1 tvg-id="" tvg-name="ES: LaLIGA SMARTBANK TV FHD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: LaLIGA SMARTBANK TV FHD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135288
-#EXTINF:-1 tvg-id="" tvg-name="ES: LaLIGA SMARTBANK TV SD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: LaLIGA SMARTBANK TV SD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135289
-#EXTINF:-1 tvg-id="" tvg-name="ES: LaLIGA SMARTBANK  FHD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: LaLIGA SMARTBANK  FHD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135290
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LaLIGA 1 HD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: DAZN LaLIGA 1 HD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135291
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LaLIGA 1 ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: DAZN LaLIGA 1 ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135292
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LaLIGA  SOLO DIRECTO ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: DAZN LaLIGA  SOLO DIRECTO ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135293
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LaLIGA 1 SMART TV ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: DAZN LaLIGA 1 SMART TV ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135294
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LaLIGA HD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: DAZN LaLIGA HD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135295
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LaLIGA HD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: DAZN LaLIGA HD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135296
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DAZN 1 FHD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ DAZN 1 FHD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135297
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LaLIGA 2 SD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: DAZN LaLIGA 2 SD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135298
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LaLIGA 2 HD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: DAZN LaLIGA 2 HD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135299
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LaLIGA 2 FHD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: DAZN LaLIGA 2 FHD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135300
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LaLIGA 2 HD (OP1) ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: DAZN LaLIGA 2 HD (OP1) ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135301
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTE 2 FHD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ DEPORTE 2 FHD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135302
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ FORMULA 1 HD ANDROID M ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ FORMULA 1 HD ANDROID M ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135303
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DAZN FORMULA  SMART TV ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ DAZN FORMULA  SMART TV ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135304
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DAZN 1 SD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ DAZN 1 SD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135305
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DAZN 1 HD ANDROID ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ DAZN 1 HD ANDROID ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135306
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DAZN  2 SD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ DAZN  2 SD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135307
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DAZN 2 HD ES ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ DAZN 2 HD ES ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135308
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DAZN 3 ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ DAZN 3 ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135309
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DAZN 3 HD ES ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ DAZN 3 HD ES ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135310
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DAZN 3 FHD ES ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ DAZN 3 FHD ES ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135311
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DAZN 4 ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ DAZN 4 ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135312
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DAZN 4 HD ES ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ DAZN 4 HD ES ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135313
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DAZN 4 FHD ES ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ DAZN 4 FHD ES ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135314
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ MULTIDEPORTE ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ MULTIDEPORTE ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135315
-#EXTINF:-1 tvg-id="" tvg-name="ES: TELEDEPORTE FHD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: TELEDEPORTE FHD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135316
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ TELEDEPORTE ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ TELEDEPORTE ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135317
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTES HD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ DEPORTES HD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135318
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ TELEDEPORTE FHD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ TELEDEPORTE FHD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135319
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTE 1 ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ DEPORTE 1 ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135320
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTE 1 FHD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ DEPORTE 1 FHD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135321
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTE 2 (Solo Eventos) ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ DEPORTE 2 (Solo Eventos) ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135322
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTE 3 (Solo Eventos) ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ DEPORTE 3 (Solo Eventos) ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135323
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTE 4 (Solo Eventos) ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ DEPORTE 4 (Solo Eventos) ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135324
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTE 5 (Solo Eventos) ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ DEPORTE 5 (Solo Eventos) ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135325
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTE 6 (Solo Eventos) ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ DEPORTE 6 (Solo Eventos) ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135326
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ GOLF FHD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ GOLF FHD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135327
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ GOL TV FHD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ GOL TV FHD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135328
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ TOROS ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ TOROS ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135329
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ TOROS HD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ TOROS HD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135330
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ TOROS FHD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ TOROS FHD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135331
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTE ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ DEPORTE ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135332
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTE FHD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ DEPORTE FHD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135333
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ GOLF ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ GOLF ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135334
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ GOLF HD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ GOLF HD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135335
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ REAL MADRID TV HD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ REAL MADRID TV HD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135336
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ REAL MADRID FHD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ REAL MADRID FHD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135337
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ #VAMOS ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ #VAMOS ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135338
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ VAMOS HD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ VAMOS HD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135339
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ VAMOS FHD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ VAMOS FHD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135340
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ EUROSPORT SD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ EUROSPORT SD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135341
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ EUROSPORT 1 HD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ EUROSPORT 1 HD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135342
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ EUROSPORT FULL HD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ EUROSPORT FULL HD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135343
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Eurosport 2 SD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ Eurosport 2 SD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135344
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ EUROSPORT 2 FHD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ EUROSPORT 2 FHD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135345
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA CAMPEONES ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ LIGA CAMPEONES ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135346
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA CAMPEONES HD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ LIGA CAMPEONES HD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135347
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA CAMPEONES FHD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ LIGA CAMPEONES FHD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135348
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA CAMPEONES 1 SD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ LIGA CAMPEONES 1 SD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135349
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA CAMPEONES 1 FHD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ LIGA CAMPEONES 1 FHD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135350
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA DE CAMPEONES 2 SD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ LIGA DE CAMPEONES 2 SD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135351
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA CAMPEONES 2 FHD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ LIGA CAMPEONES 2 FHD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135352
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA CAMPEONES 3 HD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ LIGA CAMPEONES 3 HD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135353
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA CAMPEONES 4 SD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ LIGA CAMPEONES 4 SD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135354
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA CAMPEONES 5 SD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ LIGA CAMPEONES 5 SD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135355
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA CAMPEONES 6 SD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ LIGA CAMPEONES 6 SD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135356
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA CAMPEONES 7 SD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ LIGA CAMPEONES 7 SD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135357
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA CAMPEONES 8 SD ʰᵉᵛᶜ" tvg-logo="" group-title="SPAIN",ES: M+ LIGA CAMPEONES 8 SD ʰᵉᵛᶜ
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/135358
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 1" tvg-logo="http://51.159.64.24:22333/logo_channels/game_one.png" group-title="SPAIN",ES: LIGA DE CAMPEONES 1
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/133780
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 2" tvg-logo="http://51.159.64.24:22333/logo_channels/game_one.png" group-title="SPAIN",ES: LIGA DE CAMPEONES 2
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/133781
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 3" tvg-logo="http://51.159.64.24:22333/logo_channels/game_one.png" group-title="SPAIN",ES: LIGA DE CAMPEONES 3
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/133782
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 4" tvg-logo="http://51.159.64.24:22333/logo_channels/game_one.png" group-title="SPAIN",ES: LIGA DE CAMPEONES 4
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/133783
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 6" tvg-logo="http://51.159.64.24:22333/logo_channels/game_one.png" group-title="SPAIN",ES: LIGA DE CAMPEONES 6
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/133784
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 7" tvg-logo="http://51.159.64.24:22333/logo_channels/game_one.png" group-title="SPAIN",ES: LIGA DE CAMPEONES 7
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/133785
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 8" tvg-logo="http://51.159.64.24:22333/logo_channels/game_one.png" group-title="SPAIN",ES: LIGA DE CAMPEONES 8
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/133786
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 9" tvg-logo="http://51.159.64.24:22333/logo_channels/game_one.png" group-title="SPAIN",ES: LIGA DE CAMPEONES 9
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/133787
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 10" tvg-logo="http://51.159.64.24:22333/logo_channels/movistar_es_deportes_1.png" group-title="SPAIN",ES: LIGA DE CAMPEONES 10
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/133788
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 11" tvg-logo="http://51.159.64.24:22333/logo_channels/game_one.png" group-title="SPAIN",ES: LIGA DE CAMPEONES 11
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/133789
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 12" tvg-logo="http://51.159.64.24:22333/logo_channels/game_one.png" group-title="SPAIN",ES: LIGA DE CAMPEONES 12
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/133790
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 13" tvg-logo="http://51.159.64.24:22333/logo_channels/game_one.png" group-title="SPAIN",ES: LIGA DE CAMPEONES 13
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/133791
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 14" tvg-logo="http://51.159.64.24:22333/logo_channels/movistar_es_deportes_1.png" group-title="SPAIN",ES: LIGA DE CAMPEONES 14
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/133792
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 15" tvg-logo="http://51.159.64.24:22333/logo_channels/movistar_es_deportes_1.png" group-title="SPAIN",ES: LIGA DE CAMPEONES 15
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/133793
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 16" tvg-logo="http://51.159.64.24:22333/logo_channels/game_one.png" group-title="SPAIN",ES: LIGA DE CAMPEONES 16
-http://tv.kingreshare.eu:7711/bvv64FH876BVfh/mnZXS4Gjh87/133794
+#EXTINF: -1 group-title="Ungrouped", |ES| Canal Decasa
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14013
+#EXTINF: -1 group-title="Ungrouped", |ES| Canal Orbe 21
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14017
+#EXTINF: -1 group-title="Ungrouped", |ES| Toros TV 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14020
+#EXTINF: -1 group-title="Ungrouped", |ES| LA 1 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14023
+#EXTINF: -1 group-title="Ungrouped", |ES| LA 2 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14026
+#EXTINF: -1 group-title="Ungrouped", |ES| Antena 3 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14028
+#EXTINF: -1 group-title="Ungrouped", |ES| Cuatro 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14029
+#EXTINF: -1 group-title="Ungrouped", |ES| Telecinco 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14030
+#EXTINF: -1 group-title="Ungrouped", |ES| La Sexta 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14032
+#EXTINF: -1 group-title="Ungrouped", |ES| TV 3 Catalunya 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14041
+#EXTINF: -1 group-title="Ungrouped", |ES| Comedy Central 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14044
+#EXTINF: -1 group-title="Ungrouped", |ES| Cosmo 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14048
+#EXTINF: -1 group-title="Ungrouped", |ES| Mega 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14053
+#EXTINF: -1 group-title="Ungrouped", |ES| 24 Horas
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14057
+#EXTINF: -1 group-title="Ungrouped", |ES| Andalucia TV
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14058
+#EXTINF: -1 group-title="Ungrouped", |ES| Divinity
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14059
+#EXTINF: -1 group-title="Ungrouped", |ES| Energy
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14060
+#EXTINF: -1 group-title="Ungrouped", |ES| Nova
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14061
+#EXTINF: -1 group-title="Ungrouped", |ES| Canal Cocina
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14062
+#EXTINF: -1 group-title="Ungrouped", |ES| Esperanza TV
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14063
+#EXTINF: -1 group-title="Ungrouped", |ES| Extremadura TV
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14064
+#EXTINF: -1 group-title="Ungrouped", |ES| Galicia TV 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14065
+#EXTINF: -1 group-title="Ungrouped", |ES| Be Mad
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14066
+#EXTINF: -1 group-title="Ungrouped", |ES| Caza y Pesca 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14067
+#EXTINF: -1 group-title="Ungrouped", |ES| Crime + Investigacion
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14070
+#EXTINF: -1 group-title="Ungrouped", |ES| Discovery Channel
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14071
+#EXTINF: -1 group-title="Ungrouped", |ES| National Geographic 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14072
+#EXTINF: -1 group-title="Ungrouped", |ES| Nat Geo Wild 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14073
+#EXTINF: -1 group-title="Ungrouped", |ES| Blaze 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14074
+#EXTINF: -1 group-title="Ungrouped", |ES| Historia
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14075
+#EXTINF: -1 group-title="Ungrouped", |ES| Odisea 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14076
+#EXTINF: -1 group-title="Ungrouped", |ES| Viajar 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14077
+#EXTINF: -1 group-title="Ungrouped", |ES| Fox 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14078
+#EXTINF: -1 group-title="Ungrouped", |ES| Fox Life 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14079
+#EXTINF: -1 group-title="Ungrouped", |ES| Neox 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14080
+#EXTINF: -1 group-title="Ungrouped", |ES| Canal Iberalia 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14056
+#EXTINF: -1 group-title="Ungrouped", |ES| VH1 Shuffle
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/46268
+#EXTINF: -1 group-title="Ungrouped", |ES| Mezzo Live
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/46269
+#EXTINF: -1 group-title="Ungrouped", |ES| Classica
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/46270
+#EXTINF: -1 group-title="Ungrouped", |ES| MTV DANCE
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/46273
+#EXTINF: -1 group-title="Ungrouped", |ES| MTV ESPAÑA
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/46276
+#EXTINF: -1 group-title="Ungrouped", |ES| Paramount Network
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13947
+#EXTINF: -1 group-title="Ungrouped", |ES| Calle 13 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13948
+#EXTINF: -1 group-title="Ungrouped", |ES| Movistar Accion 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13951
+#EXTINF: -1 group-title="Ungrouped", |ES| Movistar Comedia 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13955
+#EXTINF: -1 group-title="Ungrouped", |ES| Movistar Cine 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13960
+#EXTINF: -1 group-title="Ungrouped", |ES| Movistar Estrenos 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13961
+#EXTINF: -1 group-title="Ungrouped", |ES| Movistar Drama 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13962
+#EXTINF: -1 group-title="Ungrouped", |ES| Movistar Series 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13963
+#EXTINF: -1 group-title="Ungrouped", |ES| Movistar Doc&Roll 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13964
+#EXTINF: -1 group-title="Ungrouped", |ES| #0 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13996
+#EXTINF: -1 group-title="Ungrouped", |ES| FDF
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13999
+#EXTINF: -1 group-title="Ungrouped", |ES| AMC 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14000
+#EXTINF: -1 group-title="Ungrouped", |ES| AXN 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14001
+#EXTINF: -1 group-title="Ungrouped", |ES| AXN White 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14002
+#EXTINF: -1 group-title="Ungrouped", |ES| Syfy 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14004
+#EXTINF: -1 group-title="Ungrouped", |ES| TCM 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14006
+#EXTINF: -1 group-title="Ungrouped", |ES| TNT 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14008
+#EXTINF: -1 group-title="Ungrouped", |ES| Movistar Series Mania 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13983
+#EXTINF: -1 group-title="Ungrouped", |ES| Movistar Formula 1 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13965
+#EXTINF: -1 group-title="Ungrouped", |ES| Movistar LaLiga 3 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13966
+#EXTINF: -1 group-title="Ungrouped", |ES| Movistar LaLiga 2 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13967
+#EXTINF: -1 group-title="Ungrouped", |ES| Movistar LaLiga 1 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13969
+#EXTINF: -1 group-title="Ungrouped", |ES| Movistar LaLigaTVBAR 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13971
+#EXTINF: -1 group-title="Ungrouped", |ES| Movistar Deportes 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13973
+#EXTINF: -1 group-title="Ungrouped", |ES| Movistar LaLiga 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13975
+#EXTINF: -1 group-title="Ungrouped", |ES| Movistar Liga de Campeones 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13982
+#EXTINF: -1 group-title="Ungrouped", |ES| Movistar Golf 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13988
+#EXTINF: -1 group-title="Ungrouped", |ES| LaLiga TV 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14081
+#EXTINF: -1 group-title="Ungrouped", |ES| Mega TV 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14082
+#EXTINF: -1 group-title="Ungrouped", |ES| Eurosport 2 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14088
+#EXTINF: -1 group-title="Ungrouped", |ES| Real Madrid TV 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14089
+#EXTINF: -1 group-title="Ungrouped", |ES| Barca TV
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14093
+#EXTINF: -1 group-title="Ungrouped", |ES| Gol
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14094
+#EXTINF: -1 group-title="Ungrouped", |ES| Eurosport 1 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14084
+#EXTINF: -1 group-title="Ungrouped", |ES| Teledeporte
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14098
+#EXTINF: -1 group-title="Ungrouped", ES - DAZN F1
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/88483
+#EXTINF: -1 group-title="Ungrouped", ES - DAZN 1
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/88484
+#EXTINF: -1 group-title="Ungrouped", ES - DAZN 2
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/88485
+#EXTINF: -1 group-title="Ungrouped", ES - DAZN 3
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/88486
+#EXTINF: -1 group-title="Ungrouped", ES - DAZN 4
 
 #EXTINF:0, Mega HD
 http://46.21.250.55:8080/jorge/jorge/93241

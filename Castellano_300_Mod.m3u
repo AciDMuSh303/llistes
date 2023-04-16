@@ -822,3 +822,56 @@ http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/9198.ts
 http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/9199.ts
 #EXTINF: -1 tvg-name="TOROS TV HD" group-title="PORTUGAL", TOROS TV HD
 http://nomores.ddns.net:8080/plexserver/OUQvcPFRIp/212566.ts
+
+
+#EXTINF:0,LA 1
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69297.ts
+#EXTINF:0,LA 2 
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69298.ts
+#EXTINF:0,Antena 3
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69299.ts
+#EXTINF:0,Cuatro 
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69300.ts
+#EXTINF:0,Telecinco
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69301.ts
+#EXTINF:0,LA Sexta
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69302.ts
+#EXTINF:0,Aragon Tv
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69303.ts
+#EXTINF:0,Neox
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69304.ts
+#EXTINF:0,Nova 
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69305.ts
+#EXTINF:0,Movistar Estrenos
+http://desastre3.deficoin.life/play/estrenos/index.m3u8
+#EXTINF:0,Movistar Accion
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69306.ts
+#EXTINF:0,Movistar Comedia
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69307.ts
+#EXTINF:0,Movistar Drama
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69309.ts
+#EXTINF:0,Movistar Series
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69308.ts
+#EXTINF:0,Cale 13
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69310.ts
+#EXTINF:0,Hollywood
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69311.ts
+#EXTINF:0,Comedy Central
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69312.ts
+#EXTINF:0,Syfy
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69313.ts
+#EXTINF:0,AXN 
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69314.ts
+#EXTINF:0,FOX 
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69315.ts
+#EXTINF:0,National Geographic 
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69316.ts
+#EXTINF:0,National Geographic Wild 
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69317.ts
+#EXTINF:0,Discovery 
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69318.ts
+#EXTINF:0,Caza Y Pesca
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69319.ts
+#EXTINF:0,Crimen + Investigacion
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69323.ts
+

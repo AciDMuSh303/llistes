@@ -1,1291 +1,1024 @@
 #EXTM3U
 #EXTINF:0, |ES| Canal Decasa
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14013
 #EXTINF:0, |ES| Canal Orbe 21
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14017
 #EXTINF:0, |ES| Toros TV 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14020
 #EXTINF:0, |ES| LA 1 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14023
 #EXTINF:0, |ES| LA 2 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14026
 #EXTINF:0, |ES| Antena 3 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14028
 #EXTINF:0, |ES| Cuatro 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14029
 #EXTINF:0, |ES| Telecinco 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14030
 #EXTINF:0, |ES| La Sexta 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14032
 #EXTINF:0, |ES| TV 3 Catalunya 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14041
 #EXTINF:0, |ES| Comedy Central 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14044
 #EXTINF:0, |ES| Cosmo 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14048
 #EXTINF:0, |ES| Mega 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14053
 #EXTINF:0, |ES| 24 Horas
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14057
 #EXTINF:0, |ES| Andalucia TV
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14058
 #EXTINF:0, |ES| Divinity
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14059
 #EXTINF:0, |ES| Energy
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14060
 #EXTINF:0, |ES| Nova
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14061
 #EXTINF:0, |ES| Canal Cocina
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14062
 #EXTINF:0, |ES| Esperanza TV
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14063
 #EXTINF:0, |ES| Extremadura TV
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14064
 #EXTINF:0, |ES| Galicia TV 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14065
 #EXTINF:0, |ES| Be Mad
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14066
 #EXTINF:0, |ES| Caza y Pesca 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14067
 #EXTINF:0, |ES| Crime + Investigacion
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14070
 #EXTINF:0, |ES| Discovery Channel
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14071
 #EXTINF:0, |ES| National Geographic 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14072
 #EXTINF:0, |ES| Nat Geo Wild 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14073
 #EXTINF:0, |ES| Blaze 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14074
 #EXTINF:0, |ES| Historia
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14075
 #EXTINF:0, |ES| Odisea 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14076
 #EXTINF:0, |ES| Viajar 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14077
 #EXTINF:0, |ES| Fox 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14078
 #EXTINF:0, |ES| Fox Life 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14079
 #EXTINF:0, |ES| Neox 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14080
 #EXTINF:0, |ES| Canal Iberalia 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14056
 #EXTINF:0, |ES| VH1 Shuffle
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/46268
 #EXTINF:0, |ES| Mezzo Live
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/46269
 #EXTINF:0, |ES| Classica
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/46270
 #EXTINF:0, |ES| MTV DANCE
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/46273
 #EXTINF:0, |ES| MTV ESPAÑA
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/46276
 #EXTINF:0, |ES| Paramount Network
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13947
 #EXTINF:0, |ES| Calle 13 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13948
 #EXTINF:0, |ES| Movistar Accion 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13951
 #EXTINF:0, |ES| Movistar Comedia 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13955
 #EXTINF:0, |ES| Movistar Cine 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13960
 #EXTINF:0, |ES| Movistar Estrenos 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13961
 #EXTINF:0, |ES| Movistar Drama 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13962
 #EXTINF:0, |ES| Movistar Series 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13963
 #EXTINF:0, |ES| Movistar Doc&Roll 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13964
 #EXTINF:0, |ES| #0 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13996
 #EXTINF:0, |ES| FDF
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13999
 #EXTINF:0, |ES| AMC 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14000
 #EXTINF:0, |ES| AXN 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14001
 #EXTINF:0, |ES| AXN White 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14002
 #EXTINF:0, |ES| Syfy 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14004
 #EXTINF:0, |ES| TCM 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14006
 #EXTINF:0, |ES| TNT 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14008
 #EXTINF:0, |ES| Movistar Series Mania 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13983
 #EXTINF:0, |ES| Movistar Formula 1 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13965
 #EXTINF:0, |ES| Movistar LaLiga 3 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13966
 #EXTINF:0, |ES| Movistar LaLiga 2 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13967
 #EXTINF:0, |ES| Movistar LaLiga 1 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13969
 #EXTINF:0, |ES| Movistar LaLigaTVBAR 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13971
 #EXTINF:0, |ES| Movistar Deportes 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13973
 #EXTINF:0, |ES| Movistar LaLiga 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13975
 #EXTINF:0, |ES| Movistar Liga de Campeones 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13982
 #EXTINF:0, |ES| Movistar Golf 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13988
 #EXTINF:0, |ES| LaLiga TV 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14081
 #EXTINF:0, |ES| Mega TV 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14082
 #EXTINF:0, |ES| Eurosport 2 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14088
 #EXTINF:0, |ES| Real Madrid TV 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14089
 #EXTINF:0, |ES| Barca TV
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14093
 #EXTINF:0, |ES| Gol
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14094
 #EXTINF:0, |ES| Eurosport 1 4K+
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14084
 #EXTINF:0, |ES| Teledeporte
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14098
 #EXTINF:0, ES - DAZN F1
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/88483
 #EXTINF:0, ES - DAZN 1
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/88484
 #EXTINF:0, ES - DAZN 2
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/88485
 #EXTINF:0, ES - DAZN 3
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/88486
 #EXTINF:0, ES - DAZN 4
+#EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/88487
-
-
 #EXTINF:0,LA 1
+#EXTVLCOPT:network-caching=1000
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69297.ts
 #EXTINF:0,LA 2 
+#EXTVLCOPT:network-caching=1000
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69298.ts
 #EXTINF:0,Antena 3
+#EXTVLCOPT:network-caching=1000
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69299.ts
 #EXTINF:0,Cuatro 
+#EXTVLCOPT:network-caching=1000
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69300.ts
 #EXTINF:0,Telecinco
+#EXTVLCOPT:network-caching=1000
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69301.ts
 #EXTINF:0,LA Sexta
+#EXTVLCOPT:network-caching=1000
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69302.ts
 #EXTINF:0,Aragon Tv
+#EXTVLCOPT:network-caching=1000
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69303.ts
 #EXTINF:0,Neox
+#EXTVLCOPT:network-caching=1000
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69304.ts
 #EXTINF:0,Nova 
+#EXTVLCOPT:network-caching=1000
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69305.ts
-#EXTINF:0,Movistar Estrenos
+#EXTINF:41,Movistar Estrenos
+#EXTVLCOPT:network-caching=1000
 http://desastre3.deficoin.life/play/estrenos/index.m3u8
 #EXTINF:0,Movistar Accion
+#EXTVLCOPT:network-caching=1000
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69306.ts
 #EXTINF:0,Movistar Comedia
+#EXTVLCOPT:network-caching=1000
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69307.ts
 #EXTINF:0,Movistar Drama
+#EXTVLCOPT:network-caching=1000
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69309.ts
 #EXTINF:0,Movistar Series
+#EXTVLCOPT:network-caching=1000
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69308.ts
 #EXTINF:0,Cale 13
+#EXTVLCOPT:network-caching=1000
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69310.ts
 #EXTINF:0,Hollywood
+#EXTVLCOPT:network-caching=1000
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69311.ts
 #EXTINF:0,Comedy Central
+#EXTVLCOPT:network-caching=1000
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69312.ts
 #EXTINF:0,Syfy
+#EXTVLCOPT:network-caching=1000
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69313.ts
 #EXTINF:0,AXN 
+#EXTVLCOPT:network-caching=1000
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69314.ts
 #EXTINF:0,FOX 
+#EXTVLCOPT:network-caching=1000
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69315.ts
 #EXTINF:0,National Geographic 
+#EXTVLCOPT:network-caching=1000
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69316.ts
 #EXTINF:0,National Geographic Wild 
+#EXTVLCOPT:network-caching=1000
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69317.ts
 #EXTINF:0,Discovery 
+#EXTVLCOPT:network-caching=1000
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69318.ts
 #EXTINF:0,Caza Y Pesca
+#EXTVLCOPT:network-caching=1000
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69319.ts
 #EXTINF:0,Crimen + Investigacion
+#EXTVLCOPT:network-caching=1000
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69323.ts
-
-
-
-#EXTINF: -1 group-title="Nou_Servidor", ES: La 1 HD
+#EXTINF:0, ES: La 1 HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4407
-#EXTINF: -1 group-title="Nou_Servidor", ES: La 2
+#EXTINF:0, ES: La 2
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4408
-#EXTINF: -1 group-title="Nou_Servidor", ES: 24 Horas HD
+#EXTINF:0, ES: 24 Horas HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4409
-#EXTINF: -1 group-title="Nou_Servidor", ES: Clan TV HD
+#EXTINF:0, ES: Clan TV HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4410
-#EXTINF: -1 group-title="Nou_Servidor", ES: Antena 3 HD
+#EXTINF:0, ES: Antena 3 HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4411
-#EXTINF: -1 group-title="Nou_Servidor", ES: Cuatro HD
+#EXTINF:0, ES: Cuatro HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4412
-#EXTINF: -1 group-title="Nou_Servidor", ES: La Sexta HD
+#EXTINF:0, ES: La Sexta HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4413
-#EXTINF: -1 group-title="Nou_Servidor", ES: 7 Noticias
+#EXTINF:0, ES: 7 Noticias
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4414
-#EXTINF: -1 group-title="Nou_Servidor", ES: AMC HD
+#EXTINF:0, ES: AMC HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4415
-#EXTINF: -1 group-title="Nou_Servidor", ES: Boing HD
+#EXTINF:0, ES: Boing HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4416
-#EXTINF: -1 group-title="Nou_Servidor", ES: Calle 13 HD
+#EXTINF:0, ES: Calle 13 HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4417
-#EXTINF: -1 group-title="Nou_Servidor", ES: Canal Extremadura TV
+#EXTINF:0, ES: Canal Extremadura TV
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4418
-#EXTINF: -1 group-title="Nou_Servidor", ES: Hollywood
+#EXTINF:0, ES: Hollywood
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4419
-#EXTINF: -1 group-title="Nou_Servidor", ES: Canal Panda
+#EXTINF:0, ES: Canal Panda
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4420
-#EXTINF: -1 group-title="Nou_Servidor", ES: Clan TVE
+#EXTINF:0, ES: Clan TVE
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4421
-#EXTINF: -1 group-title="Nou_Servidor", ES: Comedy Central HD
+#EXTINF:0, ES: Comedy Central HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4422
-#EXTINF: -1 group-title="Nou_Servidor", ES: Crimen Investigacion
+#EXTINF:0, ES: Crimen Investigacion
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4423
-#EXTINF: -1 group-title="Nou_Servidor", ES: Castilla-La Mancha Media
+#EXTINF:0, ES: Castilla-La Mancha Media
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4424
-#EXTINF: -1 group-title="Nou_Servidor", ES: Disney Channel HD
+#EXTINF:0, ES: Disney Channel HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4425
-#EXTINF: -1 group-title="Nou_Servidor", ES: Divinity
+#EXTINF:0, ES: Divinity
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4426
-#EXTINF: -1 group-title="Nou_Servidor", ES: DMAX
+#EXTINF:0, ES: DMAX
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4427
-#EXTINF: -1 group-title="Nou_Servidor", ES: Energy
+#EXTINF:0, ES: Energy
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4428
-#EXTINF: -1 group-title="Nou_Servidor", ES: ETB 1 HD
+#EXTINF:0, ES: ETB 1 HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4429
-#EXTINF: -1 group-title="Nou_Servidor", ES: ETB 2 HD
+#EXTINF:0, ES: ETB 2 HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4430
-#EXTINF: -1 group-title="Nou_Servidor", ES: FOX
+#EXTINF:0, ES: FOX
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4431
-#EXTINF: -1 group-title="Nou_Servidor", ES: FOX HD
+#EXTINF:0, ES: FOX HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4432
-#EXTINF: -1 group-title="Nou_Servidor", ES: FOX FHD
+#EXTINF:0, ES: FOX FHD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4433
-#EXTINF: -1 group-title="Nou_Servidor", ES: FOX Life
+#EXTINF:0, ES: FOX Life
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4434
-#EXTINF: -1 group-title="Nou_Servidor", ES: FOX Life HD
+#EXTINF:0, ES: FOX Life HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4435
-#EXTINF: -1 group-title="Nou_Servidor", ES: FOX Life FHD
+#EXTINF:0, ES: FOX Life FHD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4436
-#EXTINF: -1 group-title="Nou_Servidor", ES: ETB SAT
+#EXTINF:0, ES: ETB SAT
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4437
-#EXTINF: -1 group-title="Nou_Servidor", ES: ETB 1 HD
+#EXTINF:0, ES: ETB 1 HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4438
-#EXTINF: -1 group-title="Nou_Servidor", ES: ETB 2 HD
+#EXTINF:0, ES: ETB 2 HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4439
-#EXTINF: -1 group-title="Nou_Servidor", ES: MEGA HD
+#EXTINF:0, ES: MEGA HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4440
-#EXTINF: -1 group-title="Nou_Servidor", ES: Movistar Accion
+#EXTINF:0, ES: Movistar Accion
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4441
-#EXTINF: -1 group-title="Nou_Servidor", ES: Movistar Accion HD
+#EXTINF:0, ES: Movistar Accion HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4442
-#EXTINF: -1 group-title="Nou_Servidor", ES: Movistar Accion FHD
+#EXTINF:0, ES: Movistar Accion FHD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4443
-#EXTINF: -1 group-title="Nou_Servidor", ES: Movistar Cine
+#EXTINF:0, ES: Movistar Cine
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4444
-#EXTINF: -1 group-title="Nou_Servidor", ES: Movistar Cine Español FHD
+#EXTINF:0, ES: Movistar Cine Español FHD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4445
-#EXTINF: -1 group-title="Nou_Servidor", ES: Movistar Accion FHD
+#EXTINF:0, ES: Movistar Accion FHD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4447
-#EXTINF: -1 group-title="Nou_Servidor", ES: Movistar CineDoc&Roll
+#EXTINF:0, ES: Movistar CineDoc&Roll
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4446
-#EXTINF: -1 group-title="Nou_Servidor", ES: Movistar CineDoc&Roll FHD
+#EXTINF:0, ES: Movistar CineDoc&Roll FHD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4448
-#EXTINF: -1 group-title="Nou_Servidor", ES: Movistar Comedia
+#EXTINF:0, ES: Movistar Comedia
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4449
-#EXTINF: -1 group-title="Nou_Servidor", ES: Movistar Comedia HD
+#EXTINF:0, ES: Movistar Comedia HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4450
-#EXTINF: -1 group-title="Nou_Servidor", ES: Movistar Comedia FHD
+#EXTINF:0, ES: Movistar Comedia FHD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4451
-#EXTINF: -1 group-title="Nou_Servidor", ES: Movistar Drama FHD
+#EXTINF:0, ES: Movistar Drama FHD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4454
-#EXTINF: -1 group-title="Nou_Servidor", ES: Movistar Estrenos
+#EXTINF:0, ES: Movistar Estrenos
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4455
-#EXTINF: -1 group-title="Nou_Servidor", ES: Movistar Estrenos HD
+#EXTINF:0, ES: Movistar Estrenos HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4456
-#EXTINF: -1 group-title="Nou_Servidor", ES: Movistar Estrenos FHD
+#EXTINF:0, ES: Movistar Estrenos FHD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4457
-#EXTINF: -1 group-title="Nou_Servidor", ES: Movistar Series
+#EXTINF:0, ES: Movistar Series
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4458
-#EXTINF: -1 group-title="Nou_Servidor", ES: Movistar Series HD
+#EXTINF:0, ES: Movistar Series HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4459
-#EXTINF: -1 group-title="Nou_Servidor", ES: Movistar Series hevc
+#EXTINF:0, ES: Movistar Series hevc
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4460
-#EXTINF: -1 group-title="Nou_Servidor", ES: Movistar Seriesmania
+#EXTINF:0, ES: Movistar Seriesmania
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4461
-#EXTINF: -1 group-title="Nou_Servidor", ES: Movistar Seriesmania HD
+#EXTINF:0, ES: Movistar Seriesmania HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4462
-#EXTINF: -1 group-title="Nou_Servidor", ES: Movistar Seriesmania FHD
+#EXTINF:0, ES: Movistar Seriesmania FHD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4463
-#EXTINF: -1 group-title="Nou_Servidor", ES: Movistar Disney+
+#EXTINF:0, ES: Movistar Disney+
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4464
-#EXTINF: -1 group-title="Nou_Servidor", ES: Movistar Estrenos FHD
+#EXTINF:0, ES: Movistar Estrenos FHD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15205
-#EXTINF: -1 group-title="Nou_Servidor", ES: MOVISTAR DEPORTE 1
+#EXTINF:0, ES: MOVISTAR DEPORTE 1
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15223
-#EXTINF: -1 group-title="Nou_Servidor", ES: MOVISTAR DEPORTES 1 FHD
+#EXTINF:0, ES: MOVISTAR DEPORTES 1 FHD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15206
-#EXTINF: -1 group-title="Nou_Servidor", ES: MOVISTAR DEPORTE 2
+#EXTINF:0, ES: MOVISTAR DEPORTE 2
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15224
-#EXTINF: -1 group-title="Nou_Servidor", ES: Movistar Liga Campeones FHD
+#EXTINF:0, ES: Movistar Liga Campeones FHD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15225
-#EXTINF: -1 group-title="Nou_Servidor", ES: MOVISTAR LaLiga 1 FHD
+#EXTINF:0, ES: MOVISTAR LaLiga 1 FHD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15256
-#EXTINF: -1 group-title="Nou_Servidor", ES: MOVISTAR F1 FHD
+#EXTINF:0, ES: MOVISTAR F1 FHD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15257
-#EXTINF: -1 group-title="Nou_Servidor", ES: Movistar Golf
+#EXTINF:0, ES: Movistar Golf
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4466
-#EXTINF: -1 group-title="Nou_Servidor", ES: MOVISTAR TOROS
+#EXTINF:0, ES: MOVISTAR TOROS
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15221
-#EXTINF: -1 group-title="Nou_Servidor", ES: MOVISTAR Vamos HD
+#EXTINF:0, ES: MOVISTAR Vamos HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15222
-#EXTINF: -1 group-title="Nou_Servidor", ES: La Liga BAR
+#EXTINF:0, ES: La Liga BAR
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15220
-#EXTINF: -1 group-title="Nou_Servidor", ES: REAL MADRID TV HD
+#EXTINF:0, ES: REAL MADRID TV HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15226
-#EXTINF: -1 group-title="Nou_Servidor", ES: DAZN 1 FHD
+#EXTINF:0, ES: DAZN 1 FHD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4479
-#EXTINF: -1 group-title="Nou_Servidor", ES: DAZN 2 FHD
+#EXTINF:0, ES: DAZN 2 FHD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4500
-#EXTINF: -1 group-title="Nou_Servidor", ES: DAZN 3 FHD
+#EXTINF:0, ES: DAZN 3 FHD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4503
-#EXTINF: -1 group-title="Nou_Servidor", ES: Eurosport 1
+#EXTINF:0, ES: Eurosport 1
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4467
-#EXTINF: -1 group-title="Nou_Servidor", ES: Eurosport 1 HD
+#EXTINF:0, ES: Eurosport 1 HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4468
-#EXTINF: -1 group-title="Nou_Servidor", ES: Eurosport 2
+#EXTINF:0, ES: Eurosport 2
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4469
-#EXTINF: -1 group-title="Nou_Servidor", ES: MTV España
+#EXTINF:0, ES: MTV España
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4470
-#EXTINF: -1 group-title="Nou_Servidor", ES: Neox HD
+#EXTINF:0, ES: Neox HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4471
-#EXTINF: -1 group-title="Nou_Servidor", ES: Nickelodeon HD
+#EXTINF:0, ES: Nickelodeon HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4472
-#EXTINF: -1 group-title="Nou_Servidor", ES: Nova
+#EXTINF:0, ES: Nova
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4473
-#EXTINF: -1 group-title="Nou_Servidor", ES: Odisea HD
+#EXTINF:0, ES: Odisea HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4474
-#EXTINF: -1 group-title="Nou_Servidor", ES: SyFy HD
+#EXTINF:0, ES: SyFy HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4475
-#EXTINF: -1 group-title="Nou_Servidor", ES: Telecinco HD
+#EXTINF:0, ES: Telecinco HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4476
-#EXTINF: -1 group-title="Nou_Servidor", ES: Teledeporte FHD
+#EXTINF:0, ES: Teledeporte FHD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4477
-#EXTINF: -1 group-title="Nou_Servidor", ES: Telemadrid HD
+#EXTINF:0, ES: Telemadrid HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4478
-#EXTINF: -1 group-title="Nou_Servidor", ES: Ten
+#EXTINF:0, ES: Ten
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4480
-#EXTINF: -1 group-title="Nou_Servidor", ES: TVE
+#EXTINF:0, ES: TVE
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4481
-#EXTINF: -1 group-title="Nou_Servidor", ES: Viajar HD
+#EXTINF:0, ES: Viajar HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4482
-#EXTINF: -1 group-title="Nou_Servidor", ES: Blaze
+#EXTINF:0, ES: Blaze
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4483
-#EXTINF: -1 group-title="Nou_Servidor", ES: Discovery Channel
+#EXTINF:0, ES: Discovery Channel
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4484
-#EXTINF: -1 group-title="Nou_Servidor", ES: Discovery Channel HD
+#EXTINF:0, ES: Discovery Channel HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4485
-#EXTINF: -1 group-title="Nou_Servidor", ES: Historia HD
+#EXTINF:0, ES: Historia HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4486
-#EXTINF: -1 group-title="Nou_Servidor", ES: Nat Geo Wild
+#EXTINF:0, ES: Nat Geo Wild
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4487
-#EXTINF: -1 group-title="Nou_Servidor", ES: Nat Geo Wild HD
+#EXTINF:0, ES: Nat Geo Wild HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4488
-#EXTINF: -1 group-title="Nou_Servidor", ES: National Geographic
+#EXTINF:0, ES: National Geographic
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4489
-#EXTINF: -1 group-title="Nou_Servidor", ES: National Geographic HD
+#EXTINF:0, ES: National Geographic HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4490
-#EXTINF: -1 group-title="Nou_Servidor", ES: SyFy HD
+#EXTINF:0, ES: SyFy HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4491
-#EXTINF: -1 group-title="Nou_Servidor", ES: TNT HD
+#EXTINF:0, ES: TNT HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4492
-#EXTINF: -1 group-title="Nou_Servidor", ES: Disney Junior
+#EXTINF:0, ES: Disney Junior
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4493
-#EXTINF: -1 group-title="Nou_Servidor", ES: Nick Jr
+#EXTINF:0, ES: Nick Jr
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4494
-#EXTINF: -1 group-title="Nou_Servidor", ES: Nickelodeon
+#EXTINF:0, ES: Nickelodeon
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4495
-#EXTINF: -1 group-title="Nou_Servidor", ES: Canal Panda
+#EXTINF:0, ES: Canal Panda
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4496
-#EXTINF: -1 group-title="Nou_Servidor", ES: Baby TV
+#EXTINF:0, ES: Baby TV
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4497
-#EXTINF: -1 group-title="Nou_Servidor", ES: Interalmeria FHD
+#EXTINF:0, ES: Interalmeria FHD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4498
-#EXTINF: -1 group-title="Nou_Servidor", ES: PTV Cordoba HD
+#EXTINF:0, ES: PTV Cordoba HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4499
-#EXTINF: -1 group-title="Nou_Servidor", ES: Canal Malaga
+#EXTINF:0, ES: Canal Malaga
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4501
-#EXTINF: -1 group-title="Nou_Servidor", ES: Aragon TV
+#EXTINF:0, ES: Aragon TV
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4502
-#EXTINF: -1 group-title="Nou_Servidor", ES: Canal 25 Barbastro TV
+#EXTINF:0, ES: Canal 25 Barbastro TV
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4504
-#EXTINF: -1 group-title="Nou_Servidor", ES: EL Pinguino TV HD
+#EXTINF:0, ES: EL Pinguino TV HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4505
-#EXTINF: -1 group-title="Nou_Servidor", ES: Popular TV
+#EXTINF:0, ES: Popular TV
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4506
-#EXTINF: -1 group-title="Nou_Servidor", ES: Sky Sports Liga Española HD
+#EXTINF:0, ES: Sky Sports Liga Española HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4507
-#EXTINF: -1 group-title="Nou_Servidor", ES: BEIN Sports N
+#EXTINF:0, ES: BEIN Sports N
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4508
-#EXTINF: -1 group-title="Nou_Servidor", ES: Fox Sports 1 HD
+#EXTINF:0, ES: Fox Sports 1 HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4512
-#EXTINF: -1 group-title="Nou_Servidor", ES: Fox Sports 2 Sur HD
+#EXTINF:0, ES: Fox Sports 2 Sur HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4510
-#EXTINF: -1 group-title="Nou_Servidor", ES: Fox Sports 2 HD
+#EXTINF:0, ES: Fox Sports 2 HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4513
-#EXTINF: -1 group-title="Nou_Servidor", ES: Fox Sports 3 HD
+#EXTINF:0, ES: Fox Sports 3 HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4514
-#EXTINF: -1 group-title="Nou_Servidor", ES: Espn 1 Sur
+#EXTINF:0, ES: Espn 1 Sur
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4515
-#EXTINF: -1 group-title="Nou_Servidor", ES: Espn 2 Sur
+#EXTINF:0, ES: Espn 2 Sur
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4516
-#EXTINF: -1 group-title="Nou_Servidor", ES: TV5 Limares
+#EXTINF:0, ES: TV5 Limares
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4517
-#EXTINF: -1 group-title="Nou_Servidor", ES: CANAL SUR 1 HD
+#EXTINF:0, ES: CANAL SUR 1 HD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15204
-#EXTINF: -1 group-title="Nou_Servidor", ES: La Urban TV
+#EXTINF:0, ES: La Urban TV
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15208
-#EXTINF: -1 group-title="Nou_Servidor", ES: Navarra TV
+#EXTINF:0, ES: Navarra TV
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15209
-#EXTINF: -1 group-title="Nou_Servidor", ES: Taquilla 3
+#EXTINF:0, ES: Taquilla 3
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15210
-#EXTINF: -1 group-title="Nou_Servidor", ES: Super Radyo DZBB
+#EXTINF:0, ES: Super Radyo DZBB
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15211
-#EXTINF: -1 group-title="Nou_Servidor", ES: A&E
+#EXTINF:0, ES: A&E
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15212
-#EXTINF: -1 group-title="Nou_Servidor", ES: ANTENA 3 Series FHD
+#EXTINF:0, ES: ANTENA 3 Series FHD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15213
-#EXTINF: -1 group-title="Nou_Servidor", ES: AXN
+#EXTINF:0, ES: AXN
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15214
-#EXTINF: -1 group-title="Nou_Servidor", ES: AXN White
+#EXTINF:0, ES: AXN White
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15215
-#EXTINF: -1 group-title="Nou_Servidor", ES: BARCA TV
+#EXTINF:0, ES: BARCA TV
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15216
-#EXTINF: -1 group-title="Nou_Servidor", ES: COSMO
+#EXTINF:0, ES: COSMO
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15217
-#EXTINF: -1 group-title="Nou_Servidor", ES: Fox
+#EXTINF:0, ES: Fox
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15219
-#EXTINF: -1 group-title="Nou_Servidor", ES: Sundance
+#EXTINF:0, ES: Sundance
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15227
-#EXTINF: -1 group-title="Nou_Servidor", ES: TCM
+#EXTINF:0, ES: TCM
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15228
-#EXTINF: -1 group-title="Nou_Servidor", ES: TV3 FHD
+#EXTINF:0, ES: TV3 FHD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15229
-#EXTINF: -1 group-title="Nou_Servidor", ES: TVE INTERNACIONAL
+#EXTINF:0, ES: TVE INTERNACIONAL
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15230
-#EXTINF: -1 group-title="Nou_Servidor", ES: MEZZO LIVE FHD
+#EXTINF:0, ES: MEZZO LIVE FHD
+#EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15255
-
-
-
-#EXTINF: -1 group-title="Nou_Servidor", ▂ ▄ ▅ ▆  SPAIN  ▆ ▅ ▄ ▂
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21156
-#EXTINF: -1 group-title="Nou_Servidor", •●★-- Entretenimiento --★●
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21157
-#EXTINF: -1 group-title="Nou_Servidor", ES: TVE Internacional
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21158
-#EXTINF: -1 group-title="Nou_Servidor", ES: La 1
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21159
-#EXTINF: -1 group-title="Nou_Servidor", ES: La 1 HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21160
-#EXTINF: -1 group-title="Nou_Servidor", ES: La 1 FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21161
-#EXTINF: -1 group-title="Nou_Servidor", ES: La 2
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21162
-#EXTINF: -1 group-title="Nou_Servidor", ES: La 2 FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21163
-#EXTINF: -1 group-title="Nou_Servidor", ES: Antena Series HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21164
-#EXTINF: -1 group-title="Nou_Servidor", ES: Antena 3
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21165
-#EXTINF: -1 group-title="Nou_Servidor", ES: Antena 3 HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21166
-#EXTINF: -1 group-title="Nou_Servidor", ES: Antena 3 FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21167
-#EXTINF: -1 group-title="Nou_Servidor", ES: Antena 3 Internacional SD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21168
-#EXTINF: -1 group-title="Nou_Servidor", ES: Antena 3 Internacional
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21169
-#EXTINF: -1 group-title="Nou_Servidor", ES: Cuatro
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21170
-#EXTINF: -1 group-title="Nou_Servidor", ES: Cuatro HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21171
-#EXTINF: -1 group-title="Nou_Servidor", ES: Cuatro FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21172
-#EXTINF: -1 group-title="Nou_Servidor", ES: Telecinco
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21173
-#EXTINF: -1 group-title="Nou_Servidor", ES: Telecinco HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21174
-#EXTINF: -1 group-title="Nou_Servidor", ES: Telecinco FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21175
-#EXTINF: -1 group-title="Nou_Servidor", ES: La Sexta
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21176
-#EXTINF: -1 group-title="Nou_Servidor", ES: La Sexta HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21177
-#EXTINF: -1 group-title="Nou_Servidor", ES: La Sexta FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21178
-#EXTINF: -1 group-title="Nou_Servidor", ES: Star TVE
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21179
-#EXTINF: -1 group-title="Nou_Servidor", ES: Star TVE FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21180
-#EXTINF: -1 group-title="Nou_Servidor", ES: 24h
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21181
-#EXTINF: -1 group-title="Nou_Servidor", ES: Hispan TV
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21182
-#EXTINF: -1 group-title="Nou_Servidor", ES: CGTN En Español
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21183
-#EXTINF: -1 group-title="Nou_Servidor", ES: MEGA
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21184
-#EXTINF: -1 group-title="Nou_Servidor", ES: MEGA HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21185
-#EXTINF: -1 group-title="Nou_Servidor", ES: MEGA FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21186
-#EXTINF: -1 group-title="Nou_Servidor", ES: BeMad
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21187
-#EXTINF: -1 group-title="Nou_Servidor", ES: BeMad HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21188
-#EXTINF: -1 group-title="Nou_Servidor", ES: BeMad FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21189
-#EXTINF: -1 group-title="Nou_Servidor", ES: Dkiss
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21190
-#EXTINF: -1 group-title="Nou_Servidor", ES: DMAX
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21191
-#EXTINF: -1 group-title="Nou_Servidor", ES: Divinity
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21192
-#EXTINF: -1 group-title="Nou_Servidor", ES: Energy
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21193
-#EXTINF: -1 group-title="Nou_Servidor", ES: Blaze
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21194
-#EXTINF: -1 group-title="Nou_Servidor", ES: Nova
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21195
-#EXTINF: -1 group-title="Nou_Servidor", ES: Nova FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21196
-#EXTINF: -1 group-title="Nou_Servidor", ES: Odisea
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21197
-#EXTINF: -1 group-title="Nou_Servidor", ES: Odisea HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21198
-#EXTINF: -1 group-title="Nou_Servidor", ES: Odisea FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21199
-#EXTINF: -1 group-title="Nou_Servidor", ES: FDF
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21200
-#EXTINF: -1 group-title="Nou_Servidor", ES: Neox
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21201
-#EXTINF: -1 group-title="Nou_Servidor", ES: Neox FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21202
-#EXTINF: -1 group-title="Nou_Servidor", ES: Ten
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21203
-#EXTINF: -1 group-title="Nou_Servidor", ES: Crimen Investigacion
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21204
-#EXTINF: -1 group-title="Nou_Servidor", ES: M. Crimen
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21205
-#EXTINF: -1 group-title="Nou_Servidor", ES: Discovery Channel
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21206
-#EXTINF: -1 group-title="Nou_Servidor", ES: Historia
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21207
-#EXTINF: -1 group-title="Nou_Servidor", ES: Historia FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21208
-#EXTINF: -1 group-title="Nou_Servidor", ES: Nat Geo Wild
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21209
-#EXTINF: -1 group-title="Nou_Servidor", ES: Nat Geo Wild HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21210
-#EXTINF: -1 group-title="Nou_Servidor", ES: Nat Geo Wild FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21211
-#EXTINF: -1 group-title="Nou_Servidor", ES: National Geographic
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21212
-#EXTINF: -1 group-title="Nou_Servidor", ES: National Geographic HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21213
-#EXTINF: -1 group-title="Nou_Servidor", ES: National Geographic FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21214
-#EXTINF: -1 group-title="Nou_Servidor", ES: Canal Sur Andalucía
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21215
-#EXTINF: -1 group-title="Nou_Servidor", ES: Telemadrid
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21216
-#EXTINF: -1 group-title="Nou_Servidor", ES: Comedy Central
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21217
-#EXTINF: -1 group-title="Nou_Servidor", ES: Comedy Central HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21218
-#EXTINF: -1 group-title="Nou_Servidor", ES: Comedy Central FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21219
-#EXTINF: -1 group-title="Nou_Servidor", ES: Decasa
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21220
-#EXTINF: -1 group-title="Nou_Servidor", ES: Decasa FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21221
-#EXTINF: -1 group-title="Nou_Servidor", ES: Canal Cocina
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21222
-#EXTINF: -1 group-title="Nou_Servidor", ES: Canal Cocina HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21223
-#EXTINF: -1 group-title="Nou_Servidor", ES: Canal Cocina FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21224
-#EXTINF: -1 group-title="Nou_Servidor", ES: COSMO
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21225
-#EXTINF: -1 group-title="Nou_Servidor", ES: COSMO HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21226
-#EXTINF: -1 group-title="Nou_Servidor", ES: COSMO FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21227
-#EXTINF: -1 group-title="Nou_Servidor", ES: Viajar
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21228
-#EXTINF: -1 group-title="Nou_Servidor", ES: Viajar HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21229
-#EXTINF: -1 group-title="Nou_Servidor", ES: Viajar FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21230
-#EXTINF: -1 group-title="Nou_Servidor", ES: Toros TV
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21231
-#EXTINF: -1 group-title="Nou_Servidor", ES: Toros TV HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21232
-#EXTINF: -1 group-title="Nou_Servidor", ES: Toros TV FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21233
-#EXTINF: -1 group-title="Nou_Servidor", ES: Cazavision
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21234
-#EXTINF: -1 group-title="Nou_Servidor", ES: Cazavision HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21235
-#EXTINF: -1 group-title="Nou_Servidor", ES: Cazavision FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21236
-#EXTINF: -1 group-title="Nou_Servidor", ES: Caza y Pesca
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21237
-#EXTINF: -1 group-title="Nou_Servidor", ES: Caza y Pesca HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21238
-#EXTINF: -1 group-title="Nou_Servidor", ES: Caza y Pesca FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21239
-#EXTINF: -1 group-title="Nou_Servidor", ES: Iberalia TV
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21240
-#EXTINF: -1 group-title="Nou_Servidor", •●★-- Cine TV --★●
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21241
-#EXTINF: -1 group-title="Nou_Servidor", ES: #0
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21242
-#EXTINF: -1 group-title="Nou_Servidor", ES: #0 HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21243
-#EXTINF: -1 group-title="Nou_Servidor", ES: #0 FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21244
-#EXTINF: -1 group-title="Nou_Servidor", ES: AMC
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21245
-#EXTINF: -1 group-title="Nou_Servidor", ES: AMC HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21246
-#EXTINF: -1 group-title="Nou_Servidor", ES: AMC FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21247
-#EXTINF: -1 group-title="Nou_Servidor", ES: AXN
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21248
-#EXTINF: -1 group-title="Nou_Servidor", ES: AXN HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21249
-#EXTINF: -1 group-title="Nou_Servidor", ES: AXN FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21250
-#EXTINF: -1 group-title="Nou_Servidor", ES: AXN White
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21251
-#EXTINF: -1 group-title="Nou_Servidor", ES: AXN White HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21252
-#EXTINF: -1 group-title="Nou_Servidor", ES: AXN White FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21253
-#EXTINF: -1 group-title="Nou_Servidor", ES: Calle 13
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21254
-#EXTINF: -1 group-title="Nou_Servidor", ES: Calle 13 HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21255
-#EXTINF: -1 group-title="Nou_Servidor", ES: Calle 13 FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21256
-#EXTINF: -1 group-title="Nou_Servidor", ES: DARK
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21257
-#EXTINF: -1 group-title="Nou_Servidor", ES: DARK HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21258
-#EXTINF: -1 group-title="Nou_Servidor", ES: DARK FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21259
-#EXTINF: -1 group-title="Nou_Servidor", ES: FOX
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21260
-#EXTINF: -1 group-title="Nou_Servidor", ES: FOX HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21261
-#EXTINF: -1 group-title="Nou_Servidor", ES: FOX FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21262
-#EXTINF: -1 group-title="Nou_Servidor", ES: FOX Life
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21263
-#EXTINF: -1 group-title="Nou_Servidor", ES: FOX Life HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21264
-#EXTINF: -1 group-title="Nou_Servidor", ES: FOX Life FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21265
-#EXTINF: -1 group-title="Nou_Servidor", ES: SOMOS FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21266
-#EXTINF: -1 group-title="Nou_Servidor", ES: A3Series FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21267
-#EXTINF: -1 group-title="Nou_Servidor", ES: A3Series Internacional FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21268
-#EXTINF: -1 group-title="Nou_Servidor", ES: Hollywood
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21269
-#EXTINF: -1 group-title="Nou_Servidor", ES: Hollywood HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21270
-#EXTINF: -1 group-title="Nou_Servidor", ES: Hollywood FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21271
-#EXTINF: -1 group-title="Nou_Servidor", ES: M. Accion
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21272
-#EXTINF: -1 group-title="Nou_Servidor", ES: M. Accion HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21273
-#EXTINF: -1 group-title="Nou_Servidor", ES: M. Accion FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21274
-#EXTINF: -1 group-title="Nou_Servidor", ES: M. Cine Español
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21275
-#EXTINF: -1 group-title="Nou_Servidor", ES: M. CineDoc&Roll
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21276
-#EXTINF: -1 group-title="Nou_Servidor", ES: M. CineDoc&Roll HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21277
-#EXTINF: -1 group-title="Nou_Servidor", ES: M. CineDoc&Roll FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21278
-#EXTINF: -1 group-title="Nou_Servidor", ES: M. Comedia
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21279
-#EXTINF: -1 group-title="Nou_Servidor", ES: M. Comedia HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21280
-#EXTINF: -1 group-title="Nou_Servidor", ES: M. Comedia FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21281
-#EXTINF: -1 group-title="Nou_Servidor", ES: M. Drama
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21282
-#EXTINF: -1 group-title="Nou_Servidor", ES: M. Drama HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21283
-#EXTINF: -1 group-title="Nou_Servidor", ES: M. Drama FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21284
-#EXTINF: -1 group-title="Nou_Servidor", ES: M. Estrenos
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21285
-#EXTINF: -1 group-title="Nou_Servidor", ES: M. Estrenos HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21286
-#EXTINF: -1 group-title="Nou_Servidor", ES: M. Estrenos FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21287
-#EXTINF: -1 group-title="Nou_Servidor", ES: M. Series
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21288
-#EXTINF: -1 group-title="Nou_Servidor", ES: M. Series HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21289
-#EXTINF: -1 group-title="Nou_Servidor", ES: M. Series FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21290
-#EXTINF: -1 group-title="Nou_Servidor", ES: M. Seriesmania
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21291
-#EXTINF: -1 group-title="Nou_Servidor", ES: M. Seriesmania HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21292
-#EXTINF: -1 group-title="Nou_Servidor", ES: M. Seriesmania FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21293
-#EXTINF: -1 group-title="Nou_Servidor", ES: SyFy
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21294
-#EXTINF: -1 group-title="Nou_Servidor", ES: SyFy HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21295
-#EXTINF: -1 group-title="Nou_Servidor", ES: SyFy FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21296
-#EXTINF: -1 group-title="Nou_Servidor", ES: TCM
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21297
-#EXTINF: -1 group-title="Nou_Servidor", ES: TCM HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21298
-#EXTINF: -1 group-title="Nou_Servidor", ES: TCM FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21299
-#EXTINF: -1 group-title="Nou_Servidor", ES: TNT
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21300
-#EXTINF: -1 group-title="Nou_Servidor", ES: TNT HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21301
-#EXTINF: -1 group-title="Nou_Servidor", ES: TNT FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21302
-#EXTINF: -1 group-title="Nou_Servidor", ES: XTRM
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21303
-#EXTINF: -1 group-title="Nou_Servidor", ES: XTRM FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21304
-#EXTINF: -1 group-title="Nou_Servidor", ES: Taquilla 1 Acción
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21305
-#EXTINF: -1 group-title="Nou_Servidor", ES: Taquilla 2 Animación
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21306
-#EXTINF: -1 group-title="Nou_Servidor", ES: Taquilla 3 Ciencia Ficción
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21307
-#EXTINF: -1 group-title="Nou_Servidor", ES: Taquilla 4 Crimen
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21308
-#EXTINF: -1 group-title="Nou_Servidor", ES: Taquilla 5 Terror
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21309
-#EXTINF: -1 group-title="Nou_Servidor", ES: Taquilla 6 Drama
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21310
-#EXTINF: -1 group-title="Nou_Servidor", ES: Taquilla 7 Comedia
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21311
-#EXTINF: -1 group-title="Nou_Servidor", ES: Bom Cine
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21312
-#EXTINF: -1 group-title="Nou_Servidor", ES: Paramount Channel
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21313
-#EXTINF: -1 group-title="Nou_Servidor", ES: Sundance TV
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21314
-#EXTINF: -1 group-title="Nou_Servidor", •●★-- Infantil --★●
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21315
-#EXTINF: -1 group-title="Nou_Servidor", ES: Boing
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21316
-#EXTINF: -1 group-title="Nou_Servidor", ES: Boing HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21317
-#EXTINF: -1 group-title="Nou_Servidor", ES: Clan TVE
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21318
-#EXTINF: -1 group-title="Nou_Servidor", ES: Clan TVE HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21319
-#EXTINF: -1 group-title="Nou_Servidor", ES: Clan TVE FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21320
-#EXTINF: -1 group-title="Nou_Servidor", ES: Disney Channel
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21321
-#EXTINF: -1 group-title="Nou_Servidor", ES: Disney Channel HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21322
-#EXTINF: -1 group-title="Nou_Servidor", ES: Disney Channel FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21323
-#EXTINF: -1 group-title="Nou_Servidor", ES: Disney Junior
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21324
-#EXTINF: -1 group-title="Nou_Servidor", ES: Nick Jr
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21325
-#EXTINF: -1 group-title="Nou_Servidor", ES: Nickelodeon
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21326
-#EXTINF: -1 group-title="Nou_Servidor", ES: Nickelodeon HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21327
-#EXTINF: -1 group-title="Nou_Servidor", ES: Nickelodeon FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21328
-#EXTINF: -1 group-title="Nou_Servidor", ES: Canal Panda
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21329
-#EXTINF: -1 group-title="Nou_Servidor", ES: Baby TV
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21330
-#EXTINF: -1 group-title="Nou_Servidor", ES: M. Disney+
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21331
-#EXTINF: -1 group-title="Nou_Servidor", ES: M. Dreamworks
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21332
-#EXTINF: -1 group-title="Nou_Servidor", ES: M. Dreamworks FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21333
-#EXTINF: -1 group-title="Nou_Servidor", •●★-- Musicales --★●
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21334
-#EXTINF: -1 group-title="Nou_Servidor", ES: MTV España
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21335
-#EXTINF: -1 group-title="Nou_Servidor", ES: Mezzo
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21336
-#EXTINF: -1 group-title="Nou_Servidor", ES: Mezzo HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21337
-#EXTINF: -1 group-title="Nou_Servidor", ES: Mezzo FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21338
-#EXTINF: -1 group-title="Nou_Servidor", ES: TV3 HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21339
-#EXTINF: -1 group-title="Nou_Servidor", ES: TV3 FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21340
-#EXTINF: -1 group-title="Nou_Servidor", ES: Bondia TV
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21341
-#EXTINF: -1 group-title="Nou_Servidor", ES: Televisió de Girona
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21342
-#EXTINF: -1 group-title="Nou_Servidor", ES: Esplugues TV
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21343
-#EXTINF: -1 group-title="Nou_Servidor", ES: Vallès Oriental TV
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21344
-#EXTINF: -1 group-title="Nou_Servidor", ES: Diez TV
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21345
-#EXTINF: -1 group-title="Nou_Servidor", ES: Canal Extremadura TV
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21346
-#EXTINF: -1 group-title="Nou_Servidor", ES: TV Galicia Europa SD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21347
-#EXTINF: -1 group-title="Nou_Servidor", ES: TV Galicia America SD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21348
-#EXTINF: -1 group-title="Nou_Servidor", ES: 7RM Radio Televisión Murcia
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21349
-#EXTINF: -1 group-title="Nou_Servidor", ES: Hamaika FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21350
-#EXTINF: -1 group-title="Nou_Servidor", ES: TV Galicia America HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21351
-#EXTINF: -1 group-title="Nou_Servidor", ES: TV Galicia Cultura
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21352
-#EXTINF: -1 group-title="Nou_Servidor", ES: TV Galicia Europa HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21353
-#EXTINF: -1 group-title="Nou_Servidor", ES: TV Galicia Momentos G HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21354
-#EXTINF: -1 group-title="Nou_Servidor", ES: TV Galicia Infantil HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21355
-#EXTINF: -1 group-title="Nou_Servidor", ES: Teleonuba HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21356
-#EXTINF: -1 group-title="Nou_Servidor", ES: Lebrija TV
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21357
-#EXTINF: -1 group-title="Nou_Servidor", ES: Alcarria TV
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21358
-#EXTINF: -1 group-title="Nou_Servidor", ES: A Punt SD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21359
-#EXTINF: -1 group-title="Nou_Servidor", ES: Intereconomia
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21360
-#EXTINF: -1 group-title="Nou_Servidor", ES: Interalmeria FHD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21361
-#EXTINF: -1 group-title="Nou_Servidor", ES: Marbella TV
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21362
-#EXTINF: -1 group-title="Nou_Servidor", ES: Canal Malaga
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21363
-#EXTINF: -1 group-title="Nou_Servidor", ES: Aragon TV
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21364
-#EXTINF: -1 group-title="Nou_Servidor", ES: Huesca TV
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21365
-#EXTINF: -1 group-title="Nou_Servidor", ES: Canal 25 Barbastro TV
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21366
-#EXTINF: -1 group-title="Nou_Servidor", ES: Popular TV
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21367
-#EXTINF: -1 group-title="Nou_Servidor", ES: RTV Castilla y León SD (web)
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21368
-#EXTINF: -1 group-title="Nou_Servidor", ES: RTV Castilla y León HD (web)
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21369
-#EXTINF: -1 group-title="Nou_Servidor", ES: ETB SAT
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21370
-#EXTINF: -1 group-title="Nou_Servidor", ES: ETB 1 SD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21371
-#EXTINF: -1 group-title="Nou_Servidor", ES: ETB 2 SD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21372
-#EXTINF: -1 group-title="Nou_Servidor", ES: ETB 1 HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21373
-#EXTINF: -1 group-title="Nou_Servidor", ES: ETB 2 HD
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21374
-#EXTINF: -1 group-title="Nou_Servidor", ES: Onda Algeciras TV
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21375
-
-
-#EXTINF: -1 group-title="Nou_Servidor", •●★-- 24/7 Cine Series --★●
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21376
-#EXTINF: -1 group-title="Nou_Servidor", ES: 091 Alerta Policia HD 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21377
-#EXTINF: -1 group-title="Nou_Servidor", ES: Empeños a lo Bestia HD 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21378
-#EXTINF: -1 group-title="Nou_Servidor", ES: Wild Frank HD 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21379
-#EXTINF: -1 group-title="Nou_Servidor", ES: Amazonas Clandestino HD 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21380
-#EXTINF: -1 group-title="Nou_Servidor", ES: Callejeros 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21381
-#EXTINF: -1 group-title="Nou_Servidor", ES: Callejeros Viajeros 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21382
-#EXTINF: -1 group-title="Nou_Servidor", ES: Cuarto Milenio HD 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21383
-#EXTINF: -1 group-title="Nou_Servidor", ES: En Tierra Hostil HD 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21384
-#EXTINF: -1 group-title="Nou_Servidor", ES: La Que se Avecina 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21385
-#EXTINF: -1 group-title="Nou_Servidor", ES: Pippi Calzaslargas 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21386
-#EXTINF: -1 group-title="Nou_Servidor", ES: Xena La Princesa Guerrera 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21387
-#EXTINF: -1 group-title="Nou_Servidor", ES: El Principe de Bel Air Temp 1 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21388
-#EXTINF: -1 group-title="Nou_Servidor", ES: El Principe de Bel Air Temp 2 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21389
-#EXTINF: -1 group-title="Nou_Servidor", ES: El Principe de Bel Air Temp 3 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21390
-#EXTINF: -1 group-title="Nou_Servidor", ES: El Principe de Bel Air Temp 4 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21391
-#EXTINF: -1 group-title="Nou_Servidor", ES: El Principe de Bel Air Temp 5 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21392
-#EXTINF: -1 group-title="Nou_Servidor", ES: El Principe de Bel Air Temp 6 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21393
-#EXTINF: -1 group-title="Nou_Servidor", ES: Expedientes X Temp 1 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21394
-#EXTINF: -1 group-title="Nou_Servidor", ES: Expedientes X Temp 2 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21395
-#EXTINF: -1 group-title="Nou_Servidor", ES: Expedientes X Temp 3 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21396
-#EXTINF: -1 group-title="Nou_Servidor", ES: Expedientes X Temp 4 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21397
-#EXTINF: -1 group-title="Nou_Servidor", ES: Expedientes X Temp 5 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21398
-#EXTINF: -1 group-title="Nou_Servidor", •●★-- 24/7 Series Animadas --★●
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21399
-#EXTINF: -1 group-title="Nou_Servidor", ES: Los Simpsons Temp 1-5 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21400
-#EXTINF: -1 group-title="Nou_Servidor", ES: Los Simpsons HD 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21401
-#EXTINF: -1 group-title="Nou_Servidor", ES: Los Simpsons La casa-árbol del terror SD 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21402
-#EXTINF: -1 group-title="Nou_Servidor", ES: Los Simpsons La casa-árbol del terror HD 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21403
-#EXTINF: -1 group-title="Nou_Servidor", ES: Futurama 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21404
-#EXTINF: -1 group-title="Nou_Servidor", ES: Futurama HD 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21405
-#EXTINF: -1 group-title="Nou_Servidor", ES: Padre de Familia 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21406
-#EXTINF: -1 group-title="Nou_Servidor", ES: Ben Y Holly 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21407
-#EXTINF: -1 group-title="Nou_Servidor", ES: Fabulas de Disney 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21408
-#EXTINF: -1 group-title="Nou_Servidor", ES: Patrulla Canina 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21409
-#EXTINF: -1 group-title="Nou_Servidor", ES: Vaca y Pollito 24h
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21410
-#EXTINF: -1 group-title="Nou_Servidor", ES: Super Wings 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21411
-#EXTINF: -1 group-title="Nou_Servidor", ES: El Bebé Jefazo (Vuelta al curro) 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21412
-#EXTINF: -1 group-title="Nou_Servidor", ES: Wabbit 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21413
-#EXTINF: -1 group-title="Nou_Servidor", ES: Kim Possible SD 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21414
-#EXTINF: -1 group-title="Nou_Servidor", ES: Kim Possible HD 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21415
-#EXTINF: -1 group-title="Nou_Servidor", ES: Lilo y Stitch SD 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21416
-#EXTINF: -1 group-title="Nou_Servidor", ES: Lilo y Stitch HD 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21417
-#EXTINF: -1 group-title="Nou_Servidor", ES: Caballeros del Zodiaco Torneo Galactico SD (1-40) 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21418
-#EXTINF: -1 group-title="Nou_Servidor", ES: Caballeros del Zodiaco Torneo Galactico HD (1-40) 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21419
-#EXTINF: -1 group-title="Nou_Servidor", ES: Caballeros del Zodiaco Santuario SD (41-73) 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21420
-#EXTINF: -1 group-title="Nou_Servidor", ES: Caballeros del Zodiaco Santuario HD (41-73) 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21421
-#EXTINF: -1 group-title="Nou_Servidor", ES: Caballeros del Zodiaco Asgard SD (74-99) 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21422
-#EXTINF: -1 group-title="Nou_Servidor", ES: Caballeros del Zodiaco Asgard HD (74-99) 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21423
-#EXTINF: -1 group-title="Nou_Servidor", ES: Caballeros del Zodiaco Poseidon SD (100-114) 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21424
-#EXTINF: -1 group-title="Nou_Servidor", ES: Caballeros del Zodiaco Poseidon HD (100-114) 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21425
-#EXTINF: -1 group-title="Nou_Servidor", ES: Caballeros del Zodiaco Hades SD (115-145) 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21426
-#EXTINF: -1 group-title="Nou_Servidor", ES: Caballeros del Zodiaco Hades HD (115-145) 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21427
-#EXTINF: -1 group-title="Nou_Servidor", ES: Heroes Mitologicos 24H
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21428
-#EXTINF: -1 group-title="Nou_Servidor", ES: #0 H265
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21429
-#EXTINF: -1 group-title="Nou_Servidor", ES: M.ACCION HEVC
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21430
-#EXTINF: -1 group-title="Nou_Servidor", ES: M.COMEDIA HEVC
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21431
-#EXTINF: -1 group-title="Nou_Servidor", ES: M.CINE DOC&ROLL HEVC
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21432
-#EXTINF: -1 group-title="Nou_Servidor", ES: M.DRAMA HEVC
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21433
-#EXTINF: -1 group-title="Nou_Servidor", ES: M.ESTRENOS HEVC
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21434
-#EXTINF: -1 group-title="Nou_Servidor", ES: HOLLYWOOD HEVC
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21435
-#EXTINF: -1 group-title="Nou_Servidor", ES: NAT GEO WILD HEVC
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21436
-#EXTINF: -1 group-title="Nou_Servidor", ES: CAZA Y PESCA H265
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21437
-#EXTINF: -1 group-title="Nou_Servidor", ES: liga hd HEVC
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21438
-#EXTINF: -1 group-title="Nou_Servidor", ES: TOROS HEVC
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21439
-#EXTINF: -1 group-title="Nou_Servidor", ES: VIAJAR HEVC
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21440
-#EXTINF: -1 group-title="Nou_Servidor", ES: M LIGA 1 H265
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21441
-#EXTINF: -1 group-title="Nou_Servidor", ES: M.EUROSPORT H265
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21442
-#EXTINF: -1 group-title="Nou_Servidor", ES: M.LALIGA 2 H265
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21443
-#EXTINF: -1 group-title="Nou_Servidor", ES: M.LIGA DE CAMPEONES HEVC
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21444
-#EXTINF: -1 group-title="Nou_Servidor", ES: #VAMOS HEVC
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21445
-#EXTINF: -1 group-title="Nou_Servidor", ES: M.DEPORTES HEVC
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21446
-#EXTINF: -1 group-title="Nou_Servidor", ES: FORMULA 1 H265
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21447
-#EXTINF: -1 group-title="Nou_Servidor", ES: GOLF H265
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21448
-#EXTINF: -1 group-title="Nou_Servidor", ES: TDP H265
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21449
-#EXTINF: -1 group-title="Nou_Servidor", ES: DAZN 1 H265
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21450
-#EXTINF: -1 group-title="Nou_Servidor", ES: DAZN 2 H265
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21451
-#EXTINF: -1 group-title="Nou_Servidor", ES: LA LIGA TV BAR HEVC
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21452
-#EXTINF: -1 group-title="Nou_Servidor", ES: LALIGA TVBAR 2 HEVC
-http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/21453
-
-
-
-
-#EXTINF:-1,ES:La1
+#EXTINF:50,ES:La1
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/536.m3u
-#EXTINF:-1,ES:La2
+#EXTINF:0,ES:La2
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/537.m3u
-#EXTINF:-1,ES:Antena 3
+#EXTINF:50,ES:Antena 3
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/971.m3u
-#EXTINF:-1,ES:Cuatro
+#EXTINF:0,ES:Cuatro
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/153.m3u
-#EXTINF:-1,ES:Tele5
+#EXTINF:49,ES:Tele5
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/36.m3u
-#EXTINF:-1,ES:La sexta
+#EXTINF:50,ES:La sexta
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/970.m3u
-#EXTINF:-1,ES:Mega
+#EXTINF:50,ES:Mega
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/925.m3u
-#EXTINF:-1,ES:Neox
+#EXTINF:48,ES:Neox
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/930.m3u
-#EXTINF:-1,ES:Nova
+#EXTINF:50,ES:Nova
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/924.m3u
-#EXTINF:-1,ES:#0
+#EXTINF:49,ES:#0
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/152.m3u
-#EXTINF:-1,ES:7rm
+#EXTINF:49,ES:7rm
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21946.m3u
-#EXTINF:-1,ES:A3 series
+#EXTINF:50,ES:A3 series
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2700.m3u
-#EXTINF:-1,ES:A&E
+#EXTINF:49,ES:A&E
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21953.m3u
-#EXTINF:-1,ES:AMC ESP
+#EXTINF:50,ES:AMC ESP
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2729.m3u
-#EXTINF:-1,ES:Aragon TV
+#EXTINF:50,ES:Aragon TV
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21956.m3u
-#EXTINF:-1,ES:AXN es
+#EXTINF:0,ES:AXN es
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1601.m3u
-#EXTINF:-1,ES:AXN  WHITE
+#EXTINF:50,ES:AXN  WHITE
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2728.m3u
-#EXTINF:-1,ES:BABY TV ESP
+#EXTINF:0,ES:BABY TV ESP
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2718.m3u
-#EXTINF:-1,ES:Barca TV
+#EXTINF:50,ES:Barca TV
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1037.m3u
-#EXTINF:-1,ES:Be Mad
+#EXTINF:50,ES:Be Mad
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1594.m3u
-#EXTINF:-1,ES:Blaze
+#EXTINF:49,ES:Blaze
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2747.m3u
-#EXTINF:-1,ES:Boing es
+#EXTINF:50,ES:Boing es
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1540.m3u
-#EXTINF:-1,ES:Bom TV
+#EXTINF:50,ES:Bom TV
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21949.m3u
-#EXTINF:-1,ES:C33 madrid
+#EXTINF:0,ES:C33 madrid
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21951.m3u
-#EXTINF:-1,ES:Calle 13
+#EXTINF:50,ES:Calle 13
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1039.m3u
-#EXTINF:-1,ES:Canal 24 Horas
+#EXTINF:50,ES:Canal 24 Horas
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/3415.m3u
-#EXTINF:-1,ES:Canal Cocina
+#EXTINF:50,ES:Canal Cocina
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/3952.m3u
-#EXTINF:-1,ES:Canal Panda SP
+#EXTINF:49,ES:Canal Panda SP
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/3937.m3u
-#EXTINF:-1,ES:Canal Sur
+#EXTINF:50,ES:Canal Sur
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/3414.m3u
-#EXTINF:-1,ES:Caza y Pesca
+#EXTINF:49,ES:Caza y Pesca
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1597.m3u
-#EXTINF:-1,ES:Clan
+#EXTINF:50,ES:Clan
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1541.m3u
-#EXTINF:-1,ES:Comedy Central es
+#EXTINF:50,ES:Comedy Central es
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1593.m3u
-#EXTINF:-1,ES:COSMO
+#EXTINF:50,ES:COSMO
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2710.m3u
-#EXTINF:-1,ES:CRIMEN  INVES
+#EXTINF:50,ES:CRIMEN  INVES
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2709.m3u
-#EXTINF:-1,ES:Dark
+#EXTINF:0,ES:Dark
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21954.m3u
-#EXTINF:-1,ES:Dazn1
+#EXTINF:0,ES:Dazn1
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/19235.m3u
-#EXTINF:-1,ES:Dazn2
+#EXTINF:53,ES:Dazn2
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/19236.m3u
-#EXTINF:-1,ES:Dazn Liga1
+#EXTINF:50,FR: RMC Live 6
+#EXTVLCOPT:network-caching=1000
+http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/19237.m3u
+#EXTINF:50,FR: RMC Live 7
+#EXTVLCOPT:network-caching=1000
+http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/19238.m3u
+#EXTINF:48,ES:Dazn Liga1
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/44538.m3u
-#EXTINF:-1,ES:Dazn Liga2
+#EXTINF:50,ES:Dazn Liga2
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/44539.m3u
-#EXTINF:-1,ES:DeCasa
+#EXTINF:50,ES:DeCasa
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1599.m3u
-#EXTINF:-1,ES:Discovery es
+#EXTINF:50,ES:Discovery es
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1600.m3u
-#EXTINF:-1,ES:Disney es
+#EXTINF:52,ES:Disney es
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1539.m3u
-#EXTINF:-1,ES:Disney Junior es
+#EXTINF:50,ES:Disney Junior es
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1538.m3u
-#EXTINF:-1,ES:DIVINITY
+#EXTINF:50,ES:DIVINITY
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2737.m3u
-#EXTINF:-1,ES:Dkiss
+#EXTINF:50,ES:Dkiss
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2746.m3u
-#EXTINF:-1,ES:ENERGY
+#EXTINF:50,ES:ENERGY
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2735.m3u
-#EXTINF:-1,ES:Eurosport1 es
+#EXTINF:49,ES:Eurosport1 es
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1596.m3u
-#EXTINF:-1,ES:Eurosport 2 
+#EXTINF:50,ES:Eurosport 2 
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21952.m3u
-#EXTINF:-1,ES:Extremadura TV
+#EXTINF:50,ES:Extremadura TV
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21957.m3u
-#EXTINF:-1,ES:FDF
+#EXTINF:50,ES:FDF
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2754.m3u
-#EXTINF:-1,ES:Fox  ES
+#EXTINF:0,ES:Fox  ES
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1592.m3u
-#EXTINF:-1,ES:GOL TV
+#EXTINF:0,ES:GOL TV
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2753.m3u
-#EXTINF:-1,ES:HISTORIA ESP
+#EXTINF:50,ES:HISTORIA ESP
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2699.m3u
-#EXTINF:-1,ES:Hollywood es
+#EXTINF:50,ES:Hollywood es
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/157.m3u
-#EXTINF:-1,ES:Iberalia 
+#EXTINF:49,ES:Iberalia 
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21958.m3u
-#EXTINF:-1,ES:la Liga  Tv BAR
+#EXTINF:0,ES:la Liga  Tv BAR
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/32.m3u
-#EXTINF:-1,ES:Liga De Campeones
+#EXTINF:50,ES:Liga De Campeones
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/578.m3u
-#EXTINF:-1,ES:Liga De Campeones 1
+#EXTINF:0,ES:Liga De Campeones 1
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2738.m3u
-#EXTINF:-1,ES:Liga De Campeones 2
+#EXTINF:50,ES:Liga De Campeones 2
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2696.m3u
-#EXTINF:-1,ES:M  Accion
+#EXTINF:49,ES:M  Accion
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/159.m3u
-#EXTINF:-1,ES:M. CINE ESPANOL
+#EXTINF:50,ES:M. CINE ESPANOL
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/33.m3u
-#EXTINF:-1,ES:M Comedia
+#EXTINF:0,ES:M Comedia
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/155.m3u
-#EXTINF:-1,ES:M Deportes
+#EXTINF:50,ES:M Deportes
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/34.m3u
-#EXTINF:-1,ES:M Drama
+#EXTINF:49,ES:M Drama
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/156.m3u
-#EXTINF:-1,ES:M Estrenos
+#EXTINF:50,ES:M Estrenos
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/31.m3u
-#EXTINF:-1,ES:M.Estrenos2
+#EXTINF:50,ES:M.Estrenos2
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2698.m3u
-#EXTINF:-1,ES:M Formula1
+#EXTINF:49,ES:M Formula1
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1595.m3u
-#EXTINF:-1,ES:M Golf
+#EXTINF:50,ES:M Golf
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1598.m3u
-#EXTINF:-1,ES:Movistar LaLiga
+#EXTINF:50,ES:Movistar LaLiga
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1590.m3u
-#EXTINF:-1,ES:M Serie1
+#EXTINF:50,ES:M Serie1
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/35.m3u
-#EXTINF:-1,ES:M.Serie 2
+#EXTINF:0,ES:M.Serie 2
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2721.m3u
-#EXTINF:-1,ES:MTV ESPANA
+#EXTINF:50,ES:MTV ESPANA
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2697.m3u
-#EXTINF:-1,ES:Nat geo es
+#EXTINF:0,ES:Nat geo es
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/558.m3u
-#EXTINF:-1,ES:Nat Geo Wild es
+#EXTINF:0,ES:Nat Geo Wild es
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2755.m3u
-#EXTINF:-1,ES:Nickelodeon es
+#EXTINF:0,ES:Nickelodeon es
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1536.m3u
-#EXTINF:-1,ES:nick JR
+#EXTINF:49,ES:nick JR
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21959.m3u
-#EXTINF:-1,ES:Odisea
+#EXTINF:50,ES:Odisea
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/154.m3u
-#EXTINF:-1,ES:PARAMOUNT CHANNEL
+#EXTINF:0,ES:PARAMOUNT CHANNEL
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2725.m3u
-#EXTINF:-1,ES:Popular TV
+#EXTINF:49,ES:Popular TV
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21950.m3u
-#EXTINF:-1,ES:Real Madrid TV
+#EXTINF:49,ES:Real Madrid TV
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1038.m3u
-#EXTINF:-1,ES:Smartbank liga
+#EXTINF:50,ES:Smartbank liga
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2756.m3u
-#EXTINF:-1,ES:Smartbank Liga 1
+#EXTINF:50,ES:Smartbank Liga 1
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21955.m3u
-#EXTINF:-1,ES:SOMOS
+#EXTINF:50,ES:SOMOS
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2733.m3u
-#EXTINF:-1,ES:SUNDANCE
+#EXTINF:0,ES:SUNDANCE
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2724.m3u
-#EXTINF:-1,ES:Syfy es
+#EXTINF:50,ES:Syfy es
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/929.m3u
-#EXTINF:-1,ES:Taquilla1
+#EXTINF:0,ES:Taquilla1
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1706.m3u
-#EXTINF:-1,ES:Taquilla2
+#EXTINF:0,ES:Taquilla2
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1589.m3u
-#EXTINF:-1,ES:Taquilla3
+#EXTINF:0,ES:Taquilla3
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1584.m3u
-#EXTINF:-1,ES:Taquilla4
+#EXTINF:0,ES:Taquilla4
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1503.m3u
-#EXTINF:-1,ES:Taquilla5
+#EXTINF:0,ES:Taquilla5
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1502.m3u
-#EXTINF:-1,ES:TCM
+#EXTINF:49,ES:TCM
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2514.m3u
-#EXTINF:-1,ES:TELEDEPORTE
+#EXTINF:49,ES:TELEDEPORTE
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2704.m3u
-#EXTINF:-1,ES:Ten
+#EXTINF:0,ES:Ten
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2730.m3u
-#EXTINF:-1,ES:TNT
+#EXTINF:49,ES:TNT
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1537.m3u
-#EXTINF:-1,ES:Toros Tv
+#EXTINF:50,ES:Toros Tv
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/3935.m3u
-#EXTINF:-1,ES:Trece TV
+#EXTINF:50,ES:Trece TV
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21948.m3u
-#EXTINF:-1,ES:TV3 Cat
+#EXTINF:50,ES:TV3 Cat
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21960.m3u
-#EXTINF:-1,ES:TV Galicia
+#EXTINF:50,ES:TV Galicia
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21947.m3u
-#EXTINF:-1,ES:#Vamos.
+#EXTINF:49,ES:#Vamos.
+#EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1591.m3u
-
-

@@ -1,231 +1,230 @@
 #EXTM3U
-#EXTINF:0,------SERVIDOR network
-#EXTINF:0,Canal Decasa
+#EXTINF:0, |ES| Canal Decasa
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14013
-#EXTINF:0,Canal Orbe 21
+#EXTINF:0, |ES| Canal Orbe 21
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14017
-#EXTINF:0,Toros TV 4K+
+#EXTINF:0, |ES| Toros TV 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14020
-#EXTINF:0,LA 1 4K+
+#EXTINF:0, |ES| LA 1 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14023
-#EXTINF:0,LA 2 4K+
+#EXTINF:0, |ES| LA 2 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14026
-#EXTINF:0,Antena 3 4K+
+#EXTINF:0, |ES| Antena 3 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14028
-#EXTINF:0,Cuatro 4K+
+#EXTINF:0, |ES| Cuatro 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14029
-#EXTINF:0,Telecinco 4K+
+#EXTINF:0, |ES| Telecinco 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14030
-#EXTINF:0,La Sexta 4K+
+#EXTINF:0, |ES| La Sexta 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14032
-#EXTINF:0,TV 3 Catalunya 4K+
+#EXTINF:0, |ES| TV 3 Catalunya 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14041
-#EXTINF:0,Comedy Central 4K+
+#EXTINF:0, |ES| Comedy Central 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14044
-#EXTINF:0,Cosmo 4K+
+#EXTINF:0, |ES| Cosmo 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14048
-#EXTINF:0,Mega 4K+
+#EXTINF:0, |ES| Mega 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14053
-#EXTINF:0,24 Horas
+#EXTINF:0, |ES| 24 Horas
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14057
-#EXTINF:0,Andalucia TV
+#EXTINF:0, |ES| Andalucia TV
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14058
-#EXTINF:0,Divinity
+#EXTINF:0, |ES| Divinity
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14059
-#EXTINF:0,Energy
+#EXTINF:0, |ES| Energy
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14060
-#EXTINF:0,Nova
+#EXTINF:0, |ES| Nova
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14061
-#EXTINF:0,Canal Cocina
+#EXTINF:0, |ES| Canal Cocina
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14062
-#EXTINF:0,Esperanza TV
+#EXTINF:0, |ES| Esperanza TV
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14063
-#EXTINF:0,Extremadura TV
+#EXTINF:0, |ES| Extremadura TV
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14064
-#EXTINF:0,Galicia TV 4K+
+#EXTINF:0, |ES| Galicia TV 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14065
-#EXTINF:0,Be Mad
+#EXTINF:0, |ES| Be Mad
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14066
-#EXTINF:0,Caza y Pesca 4K+
+#EXTINF:0, |ES| Caza y Pesca 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14067
-#EXTINF:0,Crime + Investigacion
+#EXTINF:0, |ES| Crime + Investigacion
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14070
-#EXTINF:0,Discovery Channel
+#EXTINF:0, |ES| Discovery Channel
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14071
-#EXTINF:0,National Geographic 4K+
+#EXTINF:0, |ES| National Geographic 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14072
-#EXTINF:0,Nat Geo Wild 4K+
+#EXTINF:0, |ES| Nat Geo Wild 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14073
-#EXTINF:0,Blaze 4K+
+#EXTINF:0, |ES| Blaze 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14074
-#EXTINF:0,Historia
+#EXTINF:0, |ES| Historia
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14075
-#EXTINF:0,Odisea 4K+
+#EXTINF:0, |ES| Odisea 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14076
-#EXTINF:0,Viajar 4K+
+#EXTINF:0, |ES| Viajar 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14077
-#EXTINF:0,Fox 4K+
+#EXTINF:0, |ES| Fox 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14078
-#EXTINF:0,Fox Life 4K+
+#EXTINF:0, |ES| Fox Life 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14079
-#EXTINF:0,Neox 4K+
+#EXTINF:0, |ES| Neox 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14080
-#EXTINF:0,Canal Iberalia 4K+
+#EXTINF:0, |ES| Canal Iberalia 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14056
-#EXTINF:0,VH1 Shuffle
+#EXTINF:0, |ES| VH1 Shuffle
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/46268
-#EXTINF:0,Mezzo Live
+#EXTINF:0, |ES| Mezzo Live
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/46269
-#EXTINF:0,Classica
+#EXTINF:0, |ES| Classica
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/46270
-#EXTINF:0,MTV DANCE
+#EXTINF:0, |ES| MTV DANCE
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/46273
-#EXTINF:0,MTV ESPAÑA
+#EXTINF:0, |ES| MTV ESPAÑA
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/46276
-#EXTINF:0,Paramount Network
+#EXTINF:0, |ES| Paramount Network
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13947
-#EXTINF:0,Calle 13 4K+
+#EXTINF:0, |ES| Calle 13 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13948
-#EXTINF:0,Movistar Accion 4K+
+#EXTINF:0, |ES| Movistar Accion 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13951
-#EXTINF:0,Movistar Comedia 4K+
+#EXTINF:0, |ES| Movistar Comedia 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13955
-#EXTINF:0,Movistar Cine 4K+
+#EXTINF:0, |ES| Movistar Cine 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13960
-#EXTINF:0,Movistar Estrenos 4K+
+#EXTINF:0, |ES| Movistar Estrenos 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13961
-#EXTINF:0,Movistar Drama 4K+
+#EXTINF:0, |ES| Movistar Drama 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13962
-#EXTINF:0,Movistar Series 4K+
+#EXTINF:0, |ES| Movistar Series 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13963
-#EXTINF:0,Movistar Doc&Roll 4K+
+#EXTINF:0, |ES| Movistar Doc&Roll 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13964
-#EXTINF:0,#0 4K+
+#EXTINF:0, |ES| #0 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13996
-#EXTINF:0,FDF
+#EXTINF:0, |ES| FDF
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13999
-#EXTINF:0,AMC 4K+
+#EXTINF:0, |ES| AMC 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14000
-#EXTINF:0,AXN 4K+
+#EXTINF:0, |ES| AXN 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14001
-#EXTINF:0,AXN White 4K+
+#EXTINF:0, |ES| AXN White 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14002
-#EXTINF:0,Syfy 4K+
+#EXTINF:0, |ES| Syfy 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14004
-#EXTINF:0,TCM 4K+
+#EXTINF:0, |ES| TCM 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14006
-#EXTINF:0,TNT 4K+
+#EXTINF:0, |ES| TNT 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14008
-#EXTINF:0,Movistar Series Mania 4K+
+#EXTINF:0, |ES| Movistar Series Mania 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13983
-#EXTINF:0,Movistar Formula 1 4K+
+#EXTINF:0, |ES| Movistar Formula 1 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13965
-#EXTINF:0,Movistar LaLiga 3 4K+
+#EXTINF:0, |ES| Movistar LaLiga 3 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13966
-#EXTINF:0,Movistar LaLiga 2 4K+
+#EXTINF:0, |ES| Movistar LaLiga 2 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13967
-#EXTINF:0,Movistar LaLiga 1 4K+
+#EXTINF:0, |ES| Movistar LaLiga 1 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13969
-#EXTINF:0,Movistar LaLigaTVBAR 4K+
+#EXTINF:0, |ES| Movistar LaLigaTVBAR 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13971
-#EXTINF:0,Movistar Deportes 4K+
+#EXTINF:0, |ES| Movistar Deportes 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13973
-#EXTINF:0,Movistar LaLiga 4K+
+#EXTINF:0, |ES| Movistar LaLiga 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13975
-#EXTINF:0,Movistar Liga de Campeones 4K+
+#EXTINF:0, |ES| Movistar Liga de Campeones 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13982
-#EXTINF:0,Movistar Golf 4K+
+#EXTINF:0, |ES| Movistar Golf 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13988
-#EXTINF:0,LaLiga TV 4K+
+#EXTINF:0, |ES| LaLiga TV 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14081
-#EXTINF:0,Mega TV 4K+
+#EXTINF:0, |ES| Mega TV 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14082
-#EXTINF:0,Eurosport 2 4K+
+#EXTINF:0, |ES| Eurosport 2 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14088
-#EXTINF:0,Real Madrid TV 4K+
+#EXTINF:0, |ES| Real Madrid TV 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14089
-#EXTINF:0,Barca TV
+#EXTINF:0, |ES| Barca TV
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14093
-#EXTINF:0,Gol
+#EXTINF:0, |ES| Gol
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14094
-#EXTINF:0,Eurosport 1 4K+
+#EXTINF:0, |ES| Eurosport 1 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14084
-#EXTINF:0,Teledeporte
+#EXTINF:0, |ES| Teledeporte
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14098
 #EXTINF:0, ES - DAZN F1
@@ -318,517 +317,517 @@ http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69319.ts
 #EXTINF:0,Crimen + Investigacion
 #EXTVLCOPT:network-caching=1000
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69323.ts
-#EXTINF:0,La 1 HD
+#EXTINF:0, ES: La 1 HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4407
-#EXTINF:0,La 2
+#EXTINF:0, ES: La 2
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4408
-#EXTINF:0,24 Horas HD
+#EXTINF:0, ES: 24 Horas HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4409
-#EXTINF:0,Clan TV HD
+#EXTINF:0, ES: Clan TV HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4410
-#EXTINF:0,Antena 3 HD
+#EXTINF:0, ES: Antena 3 HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4411
-#EXTINF:0,Cuatro HD
+#EXTINF:0, ES: Cuatro HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4412
-#EXTINF:0,La Sexta HD
+#EXTINF:0, ES: La Sexta HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4413
-#EXTINF:0,7 Noticias
+#EXTINF:0, ES: 7 Noticias
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4414
-#EXTINF:0,AMC HD
+#EXTINF:0, ES: AMC HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4415
-#EXTINF:0,Boing HD
+#EXTINF:0, ES: Boing HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4416
-#EXTINF:0,Calle 13 HD
+#EXTINF:0, ES: Calle 13 HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4417
-#EXTINF:0,Canal Extremadura TV
+#EXTINF:0, ES: Canal Extremadura TV
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4418
-#EXTINF:0,Hollywood
+#EXTINF:0, ES: Hollywood
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4419
-#EXTINF:0,Canal Panda
+#EXTINF:0, ES: Canal Panda
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4420
-#EXTINF:0,Clan TVE
+#EXTINF:0, ES: Clan TVE
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4421
-#EXTINF:0,Comedy Central HD
+#EXTINF:0, ES: Comedy Central HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4422
-#EXTINF:0,Crimen Investigacion
+#EXTINF:0, ES: Crimen Investigacion
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4423
-#EXTINF:0,Castilla-La Mancha Media
+#EXTINF:0, ES: Castilla-La Mancha Media
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4424
-#EXTINF:0,Disney Channel HD
+#EXTINF:0, ES: Disney Channel HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4425
-#EXTINF:0,Divinity
+#EXTINF:0, ES: Divinity
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4426
-#EXTINF:0,DMAX
+#EXTINF:0, ES: DMAX
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4427
-#EXTINF:0,Energy
+#EXTINF:0, ES: Energy
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4428
-#EXTINF:0,ETB 1 HD
+#EXTINF:0, ES: ETB 1 HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4429
-#EXTINF:0,ETB 2 HD
+#EXTINF:0, ES: ETB 2 HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4430
-#EXTINF:0,FOX
+#EXTINF:0, ES: FOX
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4431
-#EXTINF:0,FOX HD
+#EXTINF:0, ES: FOX HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4432
-#EXTINF:0,FOX FHD
+#EXTINF:0, ES: FOX FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4433
-#EXTINF:0,FOX Life
+#EXTINF:0, ES: FOX Life
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4434
-#EXTINF:0,FOX Life HD
+#EXTINF:0, ES: FOX Life HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4435
-#EXTINF:0,FOX Life FHD
+#EXTINF:0, ES: FOX Life FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4436
-#EXTINF:0,ETB SAT
+#EXTINF:0, ES: ETB SAT
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4437
-#EXTINF:0,ETB 1 HD
+#EXTINF:0, ES: ETB 1 HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4438
-#EXTINF:0,ETB 2 HD
+#EXTINF:0, ES: ETB 2 HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4439
-#EXTINF:0,MEGA HD
+#EXTINF:0, ES: MEGA HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4440
-#EXTINF:0,Movistar Accion
+#EXTINF:0, ES: Movistar Accion
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4441
-#EXTINF:0,Movistar Accion HD
+#EXTINF:0, ES: Movistar Accion HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4442
-#EXTINF:0,Movistar Accion FHD
+#EXTINF:0, ES: Movistar Accion FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4443
-#EXTINF:0,Movistar Cine
+#EXTINF:0, ES: Movistar Cine
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4444
-#EXTINF:0,Movistar Cine Español FHD
+#EXTINF:0, ES: Movistar Cine Español FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4445
-#EXTINF:0,Movistar Accion FHD
+#EXTINF:0, ES: Movistar Accion FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4447
-#EXTINF:0,Movistar CineDoc&Roll
+#EXTINF:0, ES: Movistar CineDoc&Roll
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4446
-#EXTINF:0,Movistar CineDoc&Roll FHD
+#EXTINF:0, ES: Movistar CineDoc&Roll FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4448
-#EXTINF:0,Movistar Comedia
+#EXTINF:0, ES: Movistar Comedia
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4449
-#EXTINF:0,Movistar Comedia HD
+#EXTINF:0, ES: Movistar Comedia HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4450
-#EXTINF:0,Movistar Comedia FHD
+#EXTINF:0, ES: Movistar Comedia FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4451
-#EXTINF:0,Movistar Drama FHD
+#EXTINF:0, ES: Movistar Drama FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4454
-#EXTINF:0,Movistar Estrenos
+#EXTINF:0, ES: Movistar Estrenos
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4455
-#EXTINF:0,Movistar Estrenos HD
+#EXTINF:0, ES: Movistar Estrenos HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4456
-#EXTINF:0,Movistar Estrenos FHD
+#EXTINF:0, ES: Movistar Estrenos FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4457
-#EXTINF:0,Movistar Series
+#EXTINF:0, ES: Movistar Series
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4458
-#EXTINF:0,Movistar Series HD
+#EXTINF:0, ES: Movistar Series HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4459
-#EXTINF:0,Movistar Series hevc
+#EXTINF:0, ES: Movistar Series hevc
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4460
-#EXTINF:0,Movistar Seriesmania
+#EXTINF:0, ES: Movistar Seriesmania
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4461
-#EXTINF:0,Movistar Seriesmania HD
+#EXTINF:0, ES: Movistar Seriesmania HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4462
-#EXTINF:0,Movistar Seriesmania FHD
+#EXTINF:0, ES: Movistar Seriesmania FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4463
-#EXTINF:0,Movistar Disney+
+#EXTINF:0, ES: Movistar Disney+
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4464
-#EXTINF:0,Movistar Estrenos FHD
+#EXTINF:0, ES: Movistar Estrenos FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15205
-#EXTINF:0,MOVISTAR DEPORTE 1
+#EXTINF:0, ES: MOVISTAR DEPORTE 1
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15223
-#EXTINF:0,MOVISTAR DEPORTES 1 FHD
+#EXTINF:0, ES: MOVISTAR DEPORTES 1 FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15206
-#EXTINF:0,MOVISTAR DEPORTE 2
+#EXTINF:0, ES: MOVISTAR DEPORTE 2
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15224
-#EXTINF:0,Movistar Liga Campeones FHD
+#EXTINF:0, ES: Movistar Liga Campeones FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15225
-#EXTINF:0,MOVISTAR LaLiga 1 FHD
+#EXTINF:0, ES: MOVISTAR LaLiga 1 FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15256
-#EXTINF:0,MOVISTAR F1 FHD
+#EXTINF:0, ES: MOVISTAR F1 FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15257
-#EXTINF:0,Movistar Golf
+#EXTINF:0, ES: Movistar Golf
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4466
-#EXTINF:0,MOVISTAR TOROS
+#EXTINF:0, ES: MOVISTAR TOROS
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15221
-#EXTINF:0,MOVISTAR Vamos HD
+#EXTINF:0, ES: MOVISTAR Vamos HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15222
-#EXTINF:0,La Liga BAR
+#EXTINF:0, ES: La Liga BAR
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15220
-#EXTINF:0,REAL MADRID TV HD
+#EXTINF:0, ES: REAL MADRID TV HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15226
-#EXTINF:0,DAZN 1 FHD
+#EXTINF:0, ES: DAZN 1 FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4479
-#EXTINF:0,DAZN 2 FHD
+#EXTINF:0, ES: DAZN 2 FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4500
-#EXTINF:0,DAZN 3 FHD
+#EXTINF:0, ES: DAZN 3 FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4503
-#EXTINF:0,Eurosport 1
+#EXTINF:0, ES: Eurosport 1
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4467
-#EXTINF:0,Eurosport 1 HD
+#EXTINF:0, ES: Eurosport 1 HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4468
-#EXTINF:0,Eurosport 2
+#EXTINF:0, ES: Eurosport 2
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4469
-#EXTINF:0,MTV España
+#EXTINF:0, ES: MTV España
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4470
-#EXTINF:0,Neox HD
+#EXTINF:0, ES: Neox HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4471
-#EXTINF:0,Nickelodeon HD
+#EXTINF:0, ES: Nickelodeon HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4472
-#EXTINF:0,Nova
+#EXTINF:0, ES: Nova
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4473
-#EXTINF:0,Odisea HD
+#EXTINF:0, ES: Odisea HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4474
-#EXTINF:0,SyFy HD
+#EXTINF:0, ES: SyFy HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4475
-#EXTINF:0,Telecinco HD
+#EXTINF:0, ES: Telecinco HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4476
-#EXTINF:0,Teledeporte FHD
+#EXTINF:0, ES: Teledeporte FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4477
-#EXTINF:0,Telemadrid HD
+#EXTINF:0, ES: Telemadrid HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4478
-#EXTINF:0,Ten
+#EXTINF:0, ES: Ten
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4480
-#EXTINF:0,TVE
+#EXTINF:0, ES: TVE
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4481
-#EXTINF:0,Viajar HD
+#EXTINF:0, ES: Viajar HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4482
-#EXTINF:0,Blaze
+#EXTINF:0, ES: Blaze
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4483
-#EXTINF:0,Discovery Channel
+#EXTINF:0, ES: Discovery Channel
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4484
-#EXTINF:0,Discovery Channel HD
+#EXTINF:0, ES: Discovery Channel HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4485
-#EXTINF:0,Historia HD
+#EXTINF:0, ES: Historia HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4486
-#EXTINF:0,Nat Geo Wild
+#EXTINF:0, ES: Nat Geo Wild
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4487
-#EXTINF:0,Nat Geo Wild HD
+#EXTINF:0, ES: Nat Geo Wild HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4488
-#EXTINF:0,National Geographic
+#EXTINF:0, ES: National Geographic
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4489
-#EXTINF:0,National Geographic HD
+#EXTINF:0, ES: National Geographic HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4490
-#EXTINF:0,SyFy HD
+#EXTINF:0, ES: SyFy HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4491
-#EXTINF:0,TNT HD
+#EXTINF:0, ES: TNT HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4492
-#EXTINF:0,Disney Junior
+#EXTINF:0, ES: Disney Junior
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4493
-#EXTINF:0,Nick Jr
+#EXTINF:0, ES: Nick Jr
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4494
-#EXTINF:0,Nickelodeon
+#EXTINF:0, ES: Nickelodeon
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4495
-#EXTINF:0,Canal Panda
+#EXTINF:0, ES: Canal Panda
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4496
-#EXTINF:0,Baby TV
+#EXTINF:0, ES: Baby TV
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4497
-#EXTINF:0,Interalmeria FHD
+#EXTINF:0, ES: Interalmeria FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4498
-#EXTINF:0,PTV Cordoba HD
+#EXTINF:0, ES: PTV Cordoba HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4499
-#EXTINF:0,Canal Malaga
+#EXTINF:0, ES: Canal Malaga
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4501
-#EXTINF:0,Aragon TV
+#EXTINF:0, ES: Aragon TV
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4502
-#EXTINF:0,Canal 25 Barbastro TV
+#EXTINF:0, ES: Canal 25 Barbastro TV
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4504
-#EXTINF:0,EL Pinguino TV HD
+#EXTINF:0, ES: EL Pinguino TV HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4505
-#EXTINF:0,Popular TV
+#EXTINF:0, ES: Popular TV
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4506
-#EXTINF:0,Sky Sports Liga Española HD
+#EXTINF:0, ES: Sky Sports Liga Española HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4507
-#EXTINF:0,BEIN Sports N
+#EXTINF:0, ES: BEIN Sports N
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4508
-#EXTINF:0,Fox Sports 1 HD
+#EXTINF:0, ES: Fox Sports 1 HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4512
-#EXTINF:0,Fox Sports 2 Sur HD
+#EXTINF:0, ES: Fox Sports 2 Sur HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4510
-#EXTINF:0,Fox Sports 2 HD
+#EXTINF:0, ES: Fox Sports 2 HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4513
-#EXTINF:0,Fox Sports 3 HD
+#EXTINF:0, ES: Fox Sports 3 HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4514
-#EXTINF:0,Espn 1 Sur
+#EXTINF:0, ES: Espn 1 Sur
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4515
-#EXTINF:0,Espn 2 Sur
+#EXTINF:0, ES: Espn 2 Sur
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4516
-#EXTINF:0,TV5 Limares
+#EXTINF:0, ES: TV5 Limares
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4517
-#EXTINF:0,CANAL SUR 1 HD
+#EXTINF:0, ES: CANAL SUR 1 HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15204
-#EXTINF:0,La Urban TV
+#EXTINF:0, ES: La Urban TV
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15208
-#EXTINF:0,Navarra TV
+#EXTINF:0, ES: Navarra TV
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15209
-#EXTINF:0,Taquilla 3
+#EXTINF:0, ES: Taquilla 3
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15210
-#EXTINF:0,Super Radyo DZBB
+#EXTINF:0, ES: Super Radyo DZBB
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15211
-#EXTINF:0,A&E
+#EXTINF:0, ES: A&E
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15212
-#EXTINF:0,ANTENA 3 Series FHD
+#EXTINF:0, ES: ANTENA 3 Series FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15213
-#EXTINF:0,AXN
+#EXTINF:0, ES: AXN
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15214
-#EXTINF:0,AXN White
+#EXTINF:0, ES: AXN White
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15215
-#EXTINF:0,BARCA TV
+#EXTINF:0, ES: BARCA TV
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15216
-#EXTINF:0,COSMO
+#EXTINF:0, ES: COSMO
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15217
-#EXTINF:0,Fox
+#EXTINF:0, ES: Fox
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15219
-#EXTINF:0,Sundance
+#EXTINF:0, ES: Sundance
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15227
-#EXTINF:0,TCM
+#EXTINF:0, ES: TCM
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15228
-#EXTINF:0,TV3 FHD
+#EXTINF:0, ES: TV3 FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15229
-#EXTINF:0,TVE INTERNACIONAL
+#EXTINF:0, ES: TVE INTERNACIONAL
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15230
-#EXTINF:0,MEZZO LIVE FHD
+#EXTINF:0, ES: MEZZO LIVE FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15255
-#EXTINF:50,La1
+#EXTINF:50,ES:La1
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/536.m3u
-#EXTINF:0,La2
+#EXTINF:0,ES:La2
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/537.m3u
-#EXTINF:50,Antena 3
+#EXTINF:50,ES:Antena 3
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/971.m3u
-#EXTINF:0,Cuatro
+#EXTINF:0,ES:Cuatro
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/153.m3u
-#EXTINF:49,Tele5
+#EXTINF:49,ES:Tele5
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/36.m3u
-#EXTINF:50,La sexta
+#EXTINF:50,ES:La sexta
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/970.m3u
-#EXTINF:50,Mega
+#EXTINF:50,ES:Mega
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/925.m3u
-#EXTINF:48,Neox
+#EXTINF:48,ES:Neox
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/930.m3u
-#EXTINF:50,Nova
+#EXTINF:50,ES:Nova
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/924.m3u
-#EXTINF:49,#0
+#EXTINF:49,ES:#0
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/152.m3u
-#EXTINF:49,7rm
+#EXTINF:49,ES:7rm
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21946.m3u
-#EXTINF:50,A3 series
+#EXTINF:50,ES:A3 series
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2700.m3u
-#EXTINF:49,A&E
+#EXTINF:49,ES:A&E
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21953.m3u
-#EXTINF:50,AMC ESP
+#EXTINF:50,ES:AMC ESP
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2729.m3u
-#EXTINF:50,Aragon TV
+#EXTINF:50,ES:Aragon TV
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21956.m3u
-#EXTINF:0,AXN es
+#EXTINF:0,ES:AXN es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1601.m3u
-#EXTINF:50,AXN  WHITE
+#EXTINF:50,ES:AXN  WHITE
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2728.m3u
-#EXTINF:0,BABY TV ESP
+#EXTINF:0,ES:BABY TV ESP
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2718.m3u
-#EXTINF:50,Barca TV
+#EXTINF:50,ES:Barca TV
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1037.m3u
-#EXTINF:50,Be Mad
+#EXTINF:50,ES:Be Mad
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1594.m3u
-#EXTINF:49,Blaze
+#EXTINF:49,ES:Blaze
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2747.m3u
-#EXTINF:50,Boing es
+#EXTINF:50,ES:Boing es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1540.m3u
-#EXTINF:50,Bom TV
+#EXTINF:50,ES:Bom TV
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21949.m3u
-#EXTINF:0,C33 madrid
+#EXTINF:0,ES:C33 madrid
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21951.m3u
-#EXTINF:50,Calle 13
+#EXTINF:50,ES:Calle 13
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1039.m3u
-#EXTINF:50,Canal 24 Horas
+#EXTINF:50,ES:Canal 24 Horas
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/3415.m3u
-#EXTINF:50,Canal Cocina
+#EXTINF:50,ES:Canal Cocina
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/3952.m3u
-#EXTINF:49,Canal Panda SP
+#EXTINF:49,ES:Canal Panda SP
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/3937.m3u
-#EXTINF:50,Canal Sur
+#EXTINF:50,ES:Canal Sur
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/3414.m3u
-#EXTINF:49,Caza y Pesca
+#EXTINF:49,ES:Caza y Pesca
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1597.m3u
-#EXTINF:50,Clan
+#EXTINF:50,ES:Clan
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1541.m3u
-#EXTINF:50,Comedy Central es
+#EXTINF:50,ES:Comedy Central es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1593.m3u
-#EXTINF:50,COSMO
+#EXTINF:50,ES:COSMO
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2710.m3u
-#EXTINF:50,CRIMEN  INVES
+#EXTINF:50,ES:CRIMEN  INVES
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2709.m3u
-#EXTINF:0,Dark
+#EXTINF:0,ES:Dark
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21954.m3u
-#EXTINF:0,Dazn1
+#EXTINF:0,ES:Dazn1
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/19235.m3u
-#EXTINF:53,Dazn2
+#EXTINF:53,ES:Dazn2
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/19236.m3u
 #EXTINF:50,FR: RMC Live 6
@@ -837,421 +836,421 @@ http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/19237.m3u
 #EXTINF:50,FR: RMC Live 7
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/19238.m3u
-#EXTINF:48,Dazn Liga1
+#EXTINF:48,ES:Dazn Liga1
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/44538.m3u
-#EXTINF:50,Dazn Liga2
+#EXTINF:50,ES:Dazn Liga2
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/44539.m3u
-#EXTINF:50,DeCasa
+#EXTINF:50,ES:DeCasa
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1599.m3u
-#EXTINF:50,Discovery es
+#EXTINF:50,ES:Discovery es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1600.m3u
-#EXTINF:52,Disney es
+#EXTINF:52,ES:Disney es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1539.m3u
-#EXTINF:50,Disney Junior es
+#EXTINF:50,ES:Disney Junior es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1538.m3u
-#EXTINF:50,DIVINITY
+#EXTINF:50,ES:DIVINITY
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2737.m3u
-#EXTINF:50,Dkiss
+#EXTINF:50,ES:Dkiss
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2746.m3u
-#EXTINF:50,ENERGY
+#EXTINF:50,ES:ENERGY
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2735.m3u
-#EXTINF:49,Eurosport1 es
+#EXTINF:49,ES:Eurosport1 es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1596.m3u
-#EXTINF:50,Eurosport 2 
+#EXTINF:50,ES:Eurosport 2 
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21952.m3u
-#EXTINF:50,Extremadura TV
+#EXTINF:50,ES:Extremadura TV
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21957.m3u
-#EXTINF:50,FDF
+#EXTINF:50,ES:FDF
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2754.m3u
-#EXTINF:0,Fox  ES
+#EXTINF:0,ES:Fox  ES
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1592.m3u
-#EXTINF:0,GOL TV
+#EXTINF:0,ES:GOL TV
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2753.m3u
-#EXTINF:50,HISTORIA ESP
+#EXTINF:50,ES:HISTORIA ESP
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2699.m3u
-#EXTINF:50,Hollywood es
+#EXTINF:50,ES:Hollywood es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/157.m3u
-#EXTINF:49,Iberalia 
+#EXTINF:49,ES:Iberalia 
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21958.m3u
-#EXTINF:0,la Liga  Tv BAR
+#EXTINF:0,ES:la Liga  Tv BAR
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/32.m3u
-#EXTINF:50,Liga De Campeones
+#EXTINF:50,ES:Liga De Campeones
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/578.m3u
-#EXTINF:0,Liga De Campeones 1
+#EXTINF:0,ES:Liga De Campeones 1
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2738.m3u
-#EXTINF:50,Liga De Campeones 2
+#EXTINF:50,ES:Liga De Campeones 2
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2696.m3u
-#EXTINF:49,M  Accion
+#EXTINF:49,ES:M  Accion
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/159.m3u
-#EXTINF:50,M. CINE ESPANOL
+#EXTINF:50,ES:M. CINE ESPANOL
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/33.m3u
-#EXTINF:0,M Comedia
+#EXTINF:0,ES:M Comedia
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/155.m3u
-#EXTINF:50,M Deportes
+#EXTINF:50,ES:M Deportes
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/34.m3u
-#EXTINF:49,M Drama
+#EXTINF:49,ES:M Drama
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/156.m3u
-#EXTINF:50,M Estrenos
+#EXTINF:50,ES:M Estrenos
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/31.m3u
-#EXTINF:50,M.Estrenos2
+#EXTINF:50,ES:M.Estrenos2
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2698.m3u
-#EXTINF:49,M Formula1
+#EXTINF:49,ES:M Formula1
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1595.m3u
-#EXTINF:50,M Golf
+#EXTINF:50,ES:M Golf
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1598.m3u
-#EXTINF:50,Movistar LaLiga
+#EXTINF:50,ES:Movistar LaLiga
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1590.m3u
-#EXTINF:50,M Serie1
+#EXTINF:50,ES:M Serie1
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/35.m3u
-#EXTINF:0,M.Serie 2
+#EXTINF:0,ES:M.Serie 2
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2721.m3u
-#EXTINF:50,MTV ESPANA
+#EXTINF:50,ES:MTV ESPANA
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2697.m3u
-#EXTINF:0,Nat geo es
+#EXTINF:0,ES:Nat geo es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/558.m3u
-#EXTINF:0,Nat Geo Wild es
+#EXTINF:0,ES:Nat Geo Wild es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2755.m3u
-#EXTINF:0,Nickelodeon es
+#EXTINF:0,ES:Nickelodeon es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1536.m3u
-#EXTINF:49,nick JR
+#EXTINF:49,ES:nick JR
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21959.m3u
-#EXTINF:50,Odisea
+#EXTINF:50,ES:Odisea
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/154.m3u
-#EXTINF:0,PARAMOUNT CHANNEL
+#EXTINF:0,ES:PARAMOUNT CHANNEL
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2725.m3u
-#EXTINF:49,Popular TV
+#EXTINF:49,ES:Popular TV
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21950.m3u
-#EXTINF:49,Real Madrid TV
+#EXTINF:49,ES:Real Madrid TV
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1038.m3u
-#EXTINF:50,Smartbank liga
+#EXTINF:50,ES:Smartbank liga
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2756.m3u
-#EXTINF:50,Smartbank Liga 1
+#EXTINF:50,ES:Smartbank Liga 1
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21955.m3u
-#EXTINF:50,SOMOS
+#EXTINF:50,ES:SOMOS
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2733.m3u
-#EXTINF:0,SUNDANCE
+#EXTINF:0,ES:SUNDANCE
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2724.m3u
-#EXTINF:50,Syfy es
+#EXTINF:50,ES:Syfy es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/929.m3u
-#EXTINF:0,Taquilla1
+#EXTINF:0,ES:Taquilla1
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1706.m3u
-#EXTINF:0,Taquilla2
+#EXTINF:0,ES:Taquilla2
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1589.m3u
-#EXTINF:0,Taquilla3
+#EXTINF:0,ES:Taquilla3
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1584.m3u
-#EXTINF:0,Taquilla4
+#EXTINF:0,ES:Taquilla4
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1503.m3u
-#EXTINF:0,Taquilla5
+#EXTINF:0,ES:Taquilla5
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1502.m3u
-#EXTINF:49,TCM
+#EXTINF:49,ES:TCM
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2514.m3u
-#EXTINF:49,TELEDEPORTE
+#EXTINF:49,ES:TELEDEPORTE
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2704.m3u
-#EXTINF:0,Ten
+#EXTINF:0,ES:Ten
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2730.m3u
-#EXTINF:49,TNT
+#EXTINF:49,ES:TNT
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1537.m3u
-#EXTINF:50,Toros Tv
+#EXTINF:50,ES:Toros Tv
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/3935.m3u
-#EXTINF:50,Trece TV
+#EXTINF:50,ES:Trece TV
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21948.m3u
-#EXTINF:50,TV3 Cat
+#EXTINF:50,ES:TV3 Cat
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21960.m3u
-#EXTINF:50,TV Galicia
+#EXTINF:50,ES:TV Galicia
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21947.m3u
-#EXTINF:49,#Vamos.
+#EXTINF:49,ES:#Vamos.
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1591.m3u
 
 
-#EXTINF:0,---------------SERVIDOR lion 
-#EXTINF:0,Canal Decasa
+#EXTM3U
+#EXTINF:0, |ES| Canal Decasa
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14013
-#EXTINF:0,Canal Orbe 21
+#EXTINF:0, |ES| Canal Orbe 21
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14017
-#EXTINF:0,Toros TV 4K+
+#EXTINF:0, |ES| Toros TV 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14020
-#EXTINF:0,LA 1 4K+
+#EXTINF:0, |ES| LA 1 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14023
-#EXTINF:0,LA 2 4K+
+#EXTINF:0, |ES| LA 2 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14026
-#EXTINF:0,Antena 3 4K+
+#EXTINF:0, |ES| Antena 3 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14028
-#EXTINF:0,Cuatro 4K+
+#EXTINF:0, |ES| Cuatro 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14029
-#EXTINF:0,Telecinco 4K+
+#EXTINF:0, |ES| Telecinco 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14030
-#EXTINF:0,La Sexta 4K+
+#EXTINF:0, |ES| La Sexta 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14032
-#EXTINF:0,TV 3 Catalunya 4K+
+#EXTINF:0, |ES| TV 3 Catalunya 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14041
-#EXTINF:0,Comedy Central 4K+
+#EXTINF:0, |ES| Comedy Central 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14044
-#EXTINF:0,Cosmo 4K+
+#EXTINF:0, |ES| Cosmo 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14048
-#EXTINF:0,Mega 4K+
+#EXTINF:0, |ES| Mega 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14053
-#EXTINF:0,24 Horas
+#EXTINF:0, |ES| 24 Horas
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14057
-#EXTINF:0,Andalucia TV
+#EXTINF:0, |ES| Andalucia TV
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14058
-#EXTINF:0,Divinity
+#EXTINF:0, |ES| Divinity
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14059
-#EXTINF:0,Energy
+#EXTINF:0, |ES| Energy
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14060
-#EXTINF:0,Nova
+#EXTINF:0, |ES| Nova
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14061
-#EXTINF:0,Canal Cocina
+#EXTINF:0, |ES| Canal Cocina
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14062
-#EXTINF:0,Esperanza TV
+#EXTINF:0, |ES| Esperanza TV
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14063
-#EXTINF:0,Extremadura TV
+#EXTINF:0, |ES| Extremadura TV
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14064
-#EXTINF:0,Galicia TV 4K+
+#EXTINF:0, |ES| Galicia TV 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14065
-#EXTINF:0,Be Mad
+#EXTINF:0, |ES| Be Mad
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14066
-#EXTINF:0,Caza y Pesca 4K+
+#EXTINF:0, |ES| Caza y Pesca 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14067
-#EXTINF:0,Crime + Investigacion
+#EXTINF:0, |ES| Crime + Investigacion
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14070
-#EXTINF:0,Discovery Channel
+#EXTINF:0, |ES| Discovery Channel
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14071
-#EXTINF:0,National Geographic 4K+
+#EXTINF:0, |ES| National Geographic 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14072
-#EXTINF:0,Nat Geo Wild 4K+
+#EXTINF:0, |ES| Nat Geo Wild 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14073
-#EXTINF:0,Blaze 4K+
+#EXTINF:0, |ES| Blaze 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14074
-#EXTINF:0,Historia
+#EXTINF:0, |ES| Historia
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14075
-#EXTINF:0,Odisea 4K+
+#EXTINF:0, |ES| Odisea 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14076
-#EXTINF:0,Viajar 4K+
+#EXTINF:0, |ES| Viajar 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14077
-#EXTINF:0,Fox 4K+
+#EXTINF:0, |ES| Fox 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14078
-#EXTINF:0,Fox Life 4K+
+#EXTINF:0, |ES| Fox Life 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14079
-#EXTINF:0,Neox 4K+
+#EXTINF:0, |ES| Neox 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14080
-#EXTINF:0,Canal Iberalia 4K+
+#EXTINF:0, |ES| Canal Iberalia 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14056
-#EXTINF:0,VH1 Shuffle
+#EXTINF:0, |ES| VH1 Shuffle
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/46268
-#EXTINF:0,Mezzo Live
+#EXTINF:0, |ES| Mezzo Live
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/46269
-#EXTINF:0,Classica
+#EXTINF:0, |ES| Classica
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/46270
-#EXTINF:0,MTV DANCE
+#EXTINF:0, |ES| MTV DANCE
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/46273
-#EXTINF:0,MTV ESPAÑA
+#EXTINF:0, |ES| MTV ESPAÑA
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/46276
-#EXTINF:0,Paramount Network
+#EXTINF:0, |ES| Paramount Network
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13947
-#EXTINF:0,Calle 13 4K+
+#EXTINF:0, |ES| Calle 13 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13948
-#EXTINF:0,Movistar Accion 4K+
+#EXTINF:0, |ES| Movistar Accion 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13951
-#EXTINF:0,Movistar Comedia 4K+
+#EXTINF:0, |ES| Movistar Comedia 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13955
-#EXTINF:0,Movistar Cine 4K+
+#EXTINF:0, |ES| Movistar Cine 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13960
-#EXTINF:0,Movistar Estrenos 4K+
+#EXTINF:0, |ES| Movistar Estrenos 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13961
-#EXTINF:0,Movistar Drama 4K+
+#EXTINF:0, |ES| Movistar Drama 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13962
-#EXTINF:0,Movistar Series 4K+
+#EXTINF:0, |ES| Movistar Series 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13963
-#EXTINF:0,Movistar Doc&Roll 4K+
+#EXTINF:0, |ES| Movistar Doc&Roll 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13964
-#EXTINF:0,#0 4K+
+#EXTINF:0, |ES| #0 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13996
-#EXTINF:0,FDF
+#EXTINF:0, |ES| FDF
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13999
-#EXTINF:0,AMC 4K+
+#EXTINF:0, |ES| AMC 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14000
-#EXTINF:0,AXN 4K+
+#EXTINF:0, |ES| AXN 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14001
-#EXTINF:0,AXN White 4K+
+#EXTINF:0, |ES| AXN White 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14002
-#EXTINF:0,Syfy 4K+
+#EXTINF:0, |ES| Syfy 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14004
-#EXTINF:0,TCM 4K+
+#EXTINF:0, |ES| TCM 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14006
-#EXTINF:0,TNT 4K+
+#EXTINF:0, |ES| TNT 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14008
-#EXTINF:0,Movistar Series Mania 4K+
+#EXTINF:0, |ES| Movistar Series Mania 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13983
-#EXTINF:0,Movistar Formula 1 4K+
+#EXTINF:0, |ES| Movistar Formula 1 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13965
-#EXTINF:0,Movistar LaLiga 3 4K+
+#EXTINF:0, |ES| Movistar LaLiga 3 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13966
-#EXTINF:0,Movistar LaLiga 2 4K+
+#EXTINF:0, |ES| Movistar LaLiga 2 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13967
-#EXTINF:0,Movistar LaLiga 1 4K+
+#EXTINF:0, |ES| Movistar LaLiga 1 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13969
-#EXTINF:0,Movistar LaLigaTVBAR 4K+
+#EXTINF:0, |ES| Movistar LaLigaTVBAR 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13971
-#EXTINF:0,Movistar Deportes 4K+
+#EXTINF:0, |ES| Movistar Deportes 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13973
-#EXTINF:0,Movistar LaLiga 4K+
+#EXTINF:0, |ES| Movistar LaLiga 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13975
-#EXTINF:0,Movistar Liga de Campeones 4K+
+#EXTINF:0, |ES| Movistar Liga de Campeones 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13982
-#EXTINF:0,Movistar Golf 4K+
+#EXTINF:0, |ES| Movistar Golf 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/13988
-#EXTINF:0,LaLiga TV 4K+
+#EXTINF:0, |ES| LaLiga TV 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14081
-#EXTINF:0,Mega TV 4K+
+#EXTINF:0, |ES| Mega TV 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14082
-#EXTINF:0,Eurosport 2 4K+
+#EXTINF:0, |ES| Eurosport 2 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14088
-#EXTINF:0,Real Madrid TV 4K+
+#EXTINF:0, |ES| Real Madrid TV 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14089
-#EXTINF:0,Barca TV
+#EXTINF:0, |ES| Barca TV
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14093
-#EXTINF:0,Gol
+#EXTINF:0, |ES| Gol
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14094
-#EXTINF:0,Eurosport 1 4K+
+#EXTINF:0, |ES| Eurosport 1 4K+
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14084
-#EXTINF:0,Teledeporte
+#EXTINF:0, |ES| Teledeporte
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14098
 #EXTINF:0, ES - DAZN F1
@@ -1344,517 +1343,517 @@ http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69319.ts
 #EXTINF:0,Crimen + Investigacion
 #EXTVLCOPT:network-caching=1000
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69323.ts
-#EXTINF:0,La 1 HD
+#EXTINF:0, ES: La 1 HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4407
-#EXTINF:0,La 2
+#EXTINF:0, ES: La 2
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4408
-#EXTINF:0,24 Horas HD
+#EXTINF:0, ES: 24 Horas HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4409
-#EXTINF:0,Clan TV HD
+#EXTINF:0, ES: Clan TV HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4410
-#EXTINF:0,Antena 3 HD
+#EXTINF:0, ES: Antena 3 HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4411
-#EXTINF:0,Cuatro HD
+#EXTINF:0, ES: Cuatro HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4412
-#EXTINF:0,La Sexta HD
+#EXTINF:0, ES: La Sexta HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4413
-#EXTINF:0,7 Noticias
+#EXTINF:0, ES: 7 Noticias
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4414
-#EXTINF:0,AMC HD
+#EXTINF:0, ES: AMC HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4415
-#EXTINF:0,Boing HD
+#EXTINF:0, ES: Boing HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4416
-#EXTINF:0,Calle 13 HD
+#EXTINF:0, ES: Calle 13 HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4417
-#EXTINF:0,Canal Extremadura TV
+#EXTINF:0, ES: Canal Extremadura TV
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4418
-#EXTINF:0,Hollywood
+#EXTINF:0, ES: Hollywood
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4419
-#EXTINF:0,Canal Panda
+#EXTINF:0, ES: Canal Panda
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4420
-#EXTINF:0,Clan TVE
+#EXTINF:0, ES: Clan TVE
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4421
-#EXTINF:0,Comedy Central HD
+#EXTINF:0, ES: Comedy Central HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4422
-#EXTINF:0,Crimen Investigacion
+#EXTINF:0, ES: Crimen Investigacion
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4423
-#EXTINF:0,Castilla-La Mancha Media
+#EXTINF:0, ES: Castilla-La Mancha Media
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4424
-#EXTINF:0,Disney Channel HD
+#EXTINF:0, ES: Disney Channel HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4425
-#EXTINF:0,Divinity
+#EXTINF:0, ES: Divinity
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4426
-#EXTINF:0,DMAX
+#EXTINF:0, ES: DMAX
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4427
-#EXTINF:0,Energy
+#EXTINF:0, ES: Energy
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4428
-#EXTINF:0,ETB 1 HD
+#EXTINF:0, ES: ETB 1 HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4429
-#EXTINF:0,ETB 2 HD
+#EXTINF:0, ES: ETB 2 HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4430
-#EXTINF:0,FOX
+#EXTINF:0, ES: FOX
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4431
-#EXTINF:0,FOX HD
+#EXTINF:0, ES: FOX HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4432
-#EXTINF:0,FOX FHD
+#EXTINF:0, ES: FOX FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4433
-#EXTINF:0,FOX Life
+#EXTINF:0, ES: FOX Life
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4434
-#EXTINF:0,FOX Life HD
+#EXTINF:0, ES: FOX Life HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4435
-#EXTINF:0,FOX Life FHD
+#EXTINF:0, ES: FOX Life FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4436
-#EXTINF:0,ETB SAT
+#EXTINF:0, ES: ETB SAT
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4437
-#EXTINF:0,ETB 1 HD
+#EXTINF:0, ES: ETB 1 HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4438
-#EXTINF:0,ETB 2 HD
+#EXTINF:0, ES: ETB 2 HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4439
-#EXTINF:0,MEGA HD
+#EXTINF:0, ES: MEGA HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4440
-#EXTINF:0,Movistar Accion
+#EXTINF:0, ES: Movistar Accion
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4441
-#EXTINF:0,Movistar Accion HD
+#EXTINF:0, ES: Movistar Accion HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4442
-#EXTINF:0,Movistar Accion FHD
+#EXTINF:0, ES: Movistar Accion FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4443
-#EXTINF:0,Movistar Cine
+#EXTINF:0, ES: Movistar Cine
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4444
-#EXTINF:0,Movistar Cine Español FHD
+#EXTINF:0, ES: Movistar Cine Español FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4445
-#EXTINF:0,Movistar Accion FHD
+#EXTINF:0, ES: Movistar Accion FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4447
-#EXTINF:0,Movistar CineDoc&Roll
+#EXTINF:0, ES: Movistar CineDoc&Roll
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4446
-#EXTINF:0,Movistar CineDoc&Roll FHD
+#EXTINF:0, ES: Movistar CineDoc&Roll FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4448
-#EXTINF:0,Movistar Comedia
+#EXTINF:0, ES: Movistar Comedia
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4449
-#EXTINF:0,Movistar Comedia HD
+#EXTINF:0, ES: Movistar Comedia HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4450
-#EXTINF:0,Movistar Comedia FHD
+#EXTINF:0, ES: Movistar Comedia FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4451
-#EXTINF:0,Movistar Drama FHD
+#EXTINF:0, ES: Movistar Drama FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4454
-#EXTINF:0,Movistar Estrenos
+#EXTINF:0, ES: Movistar Estrenos
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4455
-#EXTINF:0,Movistar Estrenos HD
+#EXTINF:0, ES: Movistar Estrenos HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4456
-#EXTINF:0,Movistar Estrenos FHD
+#EXTINF:0, ES: Movistar Estrenos FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4457
-#EXTINF:0,Movistar Series
+#EXTINF:0, ES: Movistar Series
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4458
-#EXTINF:0,Movistar Series HD
+#EXTINF:0, ES: Movistar Series HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4459
-#EXTINF:0,Movistar Series hevc
+#EXTINF:0, ES: Movistar Series hevc
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4460
-#EXTINF:0,Movistar Seriesmania
+#EXTINF:0, ES: Movistar Seriesmania
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4461
-#EXTINF:0,Movistar Seriesmania HD
+#EXTINF:0, ES: Movistar Seriesmania HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4462
-#EXTINF:0,Movistar Seriesmania FHD
+#EXTINF:0, ES: Movistar Seriesmania FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4463
-#EXTINF:0,Movistar Disney+
+#EXTINF:0, ES: Movistar Disney+
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4464
-#EXTINF:0,Movistar Estrenos FHD
+#EXTINF:0, ES: Movistar Estrenos FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15205
-#EXTINF:0,MOVISTAR DEPORTE 1
+#EXTINF:0, ES: MOVISTAR DEPORTE 1
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15223
-#EXTINF:0,MOVISTAR DEPORTES 1 FHD
+#EXTINF:0, ES: MOVISTAR DEPORTES 1 FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15206
-#EXTINF:0,MOVISTAR DEPORTE 2
+#EXTINF:0, ES: MOVISTAR DEPORTE 2
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15224
-#EXTINF:0,Movistar Liga Campeones FHD
+#EXTINF:0, ES: Movistar Liga Campeones FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15225
-#EXTINF:0,MOVISTAR LaLiga 1 FHD
+#EXTINF:0, ES: MOVISTAR LaLiga 1 FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15256
-#EXTINF:0,MOVISTAR F1 FHD
+#EXTINF:0, ES: MOVISTAR F1 FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15257
-#EXTINF:0,Movistar Golf
+#EXTINF:0, ES: Movistar Golf
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4466
-#EXTINF:0,MOVISTAR TOROS
+#EXTINF:0, ES: MOVISTAR TOROS
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15221
-#EXTINF:0,MOVISTAR Vamos HD
+#EXTINF:0, ES: MOVISTAR Vamos HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15222
-#EXTINF:0,La Liga BAR
+#EXTINF:0, ES: La Liga BAR
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15220
-#EXTINF:0,REAL MADRID TV HD
+#EXTINF:0, ES: REAL MADRID TV HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15226
-#EXTINF:0,DAZN 1 FHD
+#EXTINF:0, ES: DAZN 1 FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4479
-#EXTINF:0,DAZN 2 FHD
+#EXTINF:0, ES: DAZN 2 FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4500
-#EXTINF:0,DAZN 3 FHD
+#EXTINF:0, ES: DAZN 3 FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4503
-#EXTINF:0,Eurosport 1
+#EXTINF:0, ES: Eurosport 1
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4467
-#EXTINF:0,Eurosport 1 HD
+#EXTINF:0, ES: Eurosport 1 HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4468
-#EXTINF:0,Eurosport 2
+#EXTINF:0, ES: Eurosport 2
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4469
-#EXTINF:0,MTV España
+#EXTINF:0, ES: MTV España
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4470
-#EXTINF:0,Neox HD
+#EXTINF:0, ES: Neox HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4471
-#EXTINF:0,Nickelodeon HD
+#EXTINF:0, ES: Nickelodeon HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4472
-#EXTINF:0,Nova
+#EXTINF:0, ES: Nova
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4473
-#EXTINF:0,Odisea HD
+#EXTINF:0, ES: Odisea HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4474
-#EXTINF:0,SyFy HD
+#EXTINF:0, ES: SyFy HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4475
-#EXTINF:0,Telecinco HD
+#EXTINF:0, ES: Telecinco HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4476
-#EXTINF:0,Teledeporte FHD
+#EXTINF:0, ES: Teledeporte FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4477
-#EXTINF:0,Telemadrid HD
+#EXTINF:0, ES: Telemadrid HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4478
-#EXTINF:0,Ten
+#EXTINF:0, ES: Ten
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4480
-#EXTINF:0,TVE
+#EXTINF:0, ES: TVE
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4481
-#EXTINF:0,Viajar HD
+#EXTINF:0, ES: Viajar HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4482
-#EXTINF:0,Blaze
+#EXTINF:0, ES: Blaze
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4483
-#EXTINF:0,Discovery Channel
+#EXTINF:0, ES: Discovery Channel
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4484
-#EXTINF:0,Discovery Channel HD
+#EXTINF:0, ES: Discovery Channel HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4485
-#EXTINF:0,Historia HD
+#EXTINF:0, ES: Historia HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4486
-#EXTINF:0,Nat Geo Wild
+#EXTINF:0, ES: Nat Geo Wild
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4487
-#EXTINF:0,Nat Geo Wild HD
+#EXTINF:0, ES: Nat Geo Wild HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4488
-#EXTINF:0,National Geographic
+#EXTINF:0, ES: National Geographic
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4489
-#EXTINF:0,National Geographic HD
+#EXTINF:0, ES: National Geographic HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4490
-#EXTINF:0,SyFy HD
+#EXTINF:0, ES: SyFy HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4491
-#EXTINF:0,TNT HD
+#EXTINF:0, ES: TNT HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4492
-#EXTINF:0,Disney Junior
+#EXTINF:0, ES: Disney Junior
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4493
-#EXTINF:0,Nick Jr
+#EXTINF:0, ES: Nick Jr
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4494
-#EXTINF:0,Nickelodeon
+#EXTINF:0, ES: Nickelodeon
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4495
-#EXTINF:0,Canal Panda
+#EXTINF:0, ES: Canal Panda
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4496
-#EXTINF:0,Baby TV
+#EXTINF:0, ES: Baby TV
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4497
-#EXTINF:0,Interalmeria FHD
+#EXTINF:0, ES: Interalmeria FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4498
-#EXTINF:0,PTV Cordoba HD
+#EXTINF:0, ES: PTV Cordoba HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4499
-#EXTINF:0,Canal Malaga
+#EXTINF:0, ES: Canal Malaga
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4501
-#EXTINF:0,Aragon TV
+#EXTINF:0, ES: Aragon TV
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4502
-#EXTINF:0,Canal 25 Barbastro TV
+#EXTINF:0, ES: Canal 25 Barbastro TV
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4504
-#EXTINF:0,EL Pinguino TV HD
+#EXTINF:0, ES: EL Pinguino TV HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4505
-#EXTINF:0,Popular TV
+#EXTINF:0, ES: Popular TV
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4506
-#EXTINF:0,Sky Sports Liga Española HD
+#EXTINF:0, ES: Sky Sports Liga Española HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4507
-#EXTINF:0,BEIN Sports N
+#EXTINF:0, ES: BEIN Sports N
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4508
-#EXTINF:0,Fox Sports 1 HD
+#EXTINF:0, ES: Fox Sports 1 HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4512
-#EXTINF:0,Fox Sports 2 Sur HD
+#EXTINF:0, ES: Fox Sports 2 Sur HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4510
-#EXTINF:0,Fox Sports 2 HD
+#EXTINF:0, ES: Fox Sports 2 HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4513
-#EXTINF:0,Fox Sports 3 HD
+#EXTINF:0, ES: Fox Sports 3 HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4514
-#EXTINF:0,Espn 1 Sur
+#EXTINF:0, ES: Espn 1 Sur
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4515
-#EXTINF:0,Espn 2 Sur
+#EXTINF:0, ES: Espn 2 Sur
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4516
-#EXTINF:0,TV5 Limares
+#EXTINF:0, ES: TV5 Limares
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4517
-#EXTINF:0,CANAL SUR 1 HD
+#EXTINF:0, ES: CANAL SUR 1 HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15204
-#EXTINF:0,La Urban TV
+#EXTINF:0, ES: La Urban TV
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15208
-#EXTINF:0,Navarra TV
+#EXTINF:0, ES: Navarra TV
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15209
-#EXTINF:0,Taquilla 3
+#EXTINF:0, ES: Taquilla 3
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15210
-#EXTINF:0,Super Radyo DZBB
+#EXTINF:0, ES: Super Radyo DZBB
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15211
-#EXTINF:0,A&E
+#EXTINF:0, ES: A&E
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15212
-#EXTINF:0,ANTENA 3 Series FHD
+#EXTINF:0, ES: ANTENA 3 Series FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15213
-#EXTINF:0,AXN
+#EXTINF:0, ES: AXN
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15214
-#EXTINF:0,AXN White
+#EXTINF:0, ES: AXN White
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15215
-#EXTINF:0,BARCA TV
+#EXTINF:0, ES: BARCA TV
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15216
-#EXTINF:0,COSMO
+#EXTINF:0, ES: COSMO
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15217
-#EXTINF:0,Fox
+#EXTINF:0, ES: Fox
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15219
-#EXTINF:0,Sundance
+#EXTINF:0, ES: Sundance
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15227
-#EXTINF:0,TCM
+#EXTINF:0, ES: TCM
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15228
-#EXTINF:0,TV3 FHD
+#EXTINF:0, ES: TV3 FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15229
-#EXTINF:0,TVE INTERNACIONAL
+#EXTINF:0, ES: TVE INTERNACIONAL
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15230
-#EXTINF:0,MEZZO LIVE FHD
+#EXTINF:0, ES: MEZZO LIVE FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15255
-#EXTINF:50,La1
+#EXTINF:50,ES:La1
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/536.m3u
-#EXTINF:0,La2
+#EXTINF:0,ES:La2
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/537.m3u
-#EXTINF:50,Antena 3
+#EXTINF:50,ES:Antena 3
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/971.m3u
-#EXTINF:0,Cuatro
+#EXTINF:0,ES:Cuatro
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/153.m3u
-#EXTINF:49,Tele5
+#EXTINF:49,ES:Tele5
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/36.m3u
-#EXTINF:50,La sexta
+#EXTINF:50,ES:La sexta
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/970.m3u
-#EXTINF:50,Mega
+#EXTINF:50,ES:Mega
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/925.m3u
-#EXTINF:48,Neox
+#EXTINF:48,ES:Neox
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/930.m3u
-#EXTINF:50,Nova
+#EXTINF:50,ES:Nova
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/924.m3u
-#EXTINF:49,#0
+#EXTINF:49,ES:#0
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/152.m3u
-#EXTINF:49,7rm
+#EXTINF:49,ES:7rm
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21946.m3u
-#EXTINF:50,A3 series
+#EXTINF:50,ES:A3 series
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2700.m3u
-#EXTINF:49,A&E
+#EXTINF:49,ES:A&E
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21953.m3u
-#EXTINF:50,AMC ESP
+#EXTINF:50,ES:AMC ESP
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2729.m3u
-#EXTINF:50,Aragon TV
+#EXTINF:50,ES:Aragon TV
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21956.m3u
-#EXTINF:0,AXN es
+#EXTINF:0,ES:AXN es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1601.m3u
-#EXTINF:50,AXN  WHITE
+#EXTINF:50,ES:AXN  WHITE
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2728.m3u
-#EXTINF:0,BABY TV ESP
+#EXTINF:0,ES:BABY TV ESP
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2718.m3u
-#EXTINF:50,Barca TV
+#EXTINF:50,ES:Barca TV
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1037.m3u
-#EXTINF:50,Be Mad
+#EXTINF:50,ES:Be Mad
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1594.m3u
-#EXTINF:49,Blaze
+#EXTINF:49,ES:Blaze
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2747.m3u
-#EXTINF:50,Boing es
+#EXTINF:50,ES:Boing es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1540.m3u
-#EXTINF:50,Bom TV
+#EXTINF:50,ES:Bom TV
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21949.m3u
-#EXTINF:0,C33 madrid
+#EXTINF:0,ES:C33 madrid
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21951.m3u
-#EXTINF:50,Calle 13
+#EXTINF:50,ES:Calle 13
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1039.m3u
-#EXTINF:50,Canal 24 Horas
+#EXTINF:50,ES:Canal 24 Horas
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/3415.m3u
-#EXTINF:50,Canal Cocina
+#EXTINF:50,ES:Canal Cocina
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/3952.m3u
-#EXTINF:49,Canal Panda SP
+#EXTINF:49,ES:Canal Panda SP
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/3937.m3u
-#EXTINF:50,Canal Sur
+#EXTINF:50,ES:Canal Sur
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/3414.m3u
-#EXTINF:49,Caza y Pesca
+#EXTINF:49,ES:Caza y Pesca
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1597.m3u
-#EXTINF:50,Clan
+#EXTINF:50,ES:Clan
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1541.m3u
-#EXTINF:50,Comedy Central es
+#EXTINF:50,ES:Comedy Central es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1593.m3u
-#EXTINF:50,COSMO
+#EXTINF:50,ES:COSMO
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2710.m3u
-#EXTINF:50,CRIMEN  INVES
+#EXTINF:50,ES:CRIMEN  INVES
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2709.m3u
-#EXTINF:0,Dark
+#EXTINF:0,ES:Dark
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21954.m3u
-#EXTINF:0,Dazn1
+#EXTINF:0,ES:Dazn1
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/19235.m3u
-#EXTINF:53,Dazn2
+#EXTINF:53,ES:Dazn2
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/19236.m3u
 #EXTINF:50,FR: RMC Live 6
@@ -1863,197 +1862,197 @@ http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/19237.m3u
 #EXTINF:50,FR: RMC Live 7
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/19238.m3u
-#EXTINF:48,Dazn Liga1
+#EXTINF:48,ES:Dazn Liga1
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/44538.m3u
-#EXTINF:50,Dazn Liga2
+#EXTINF:50,ES:Dazn Liga2
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/44539.m3u
-#EXTINF:50,DeCasa
+#EXTINF:50,ES:DeCasa
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1599.m3u
-#EXTINF:50,Discovery es
+#EXTINF:50,ES:Discovery es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1600.m3u
-#EXTINF:52,Disney es
+#EXTINF:52,ES:Disney es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1539.m3u
-#EXTINF:50,Disney Junior es
+#EXTINF:50,ES:Disney Junior es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1538.m3u
-#EXTINF:50,DIVINITY
+#EXTINF:50,ES:DIVINITY
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2737.m3u
-#EXTINF:50,Dkiss
+#EXTINF:50,ES:Dkiss
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2746.m3u
-#EXTINF:50,ENERGY
+#EXTINF:50,ES:ENERGY
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2735.m3u
-#EXTINF:49,Eurosport1 es
+#EXTINF:49,ES:Eurosport1 es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1596.m3u
-#EXTINF:50,Eurosport 2 
+#EXTINF:50,ES:Eurosport 2 
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21952.m3u
-#EXTINF:50,Extremadura TV
+#EXTINF:50,ES:Extremadura TV
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21957.m3u
-#EXTINF:50,FDF
+#EXTINF:50,ES:FDF
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2754.m3u
-#EXTINF:0,Fox  ES
+#EXTINF:0,ES:Fox  ES
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1592.m3u
-#EXTINF:0,GOL TV
+#EXTINF:0,ES:GOL TV
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2753.m3u
-#EXTINF:50,HISTORIA ESP
+#EXTINF:50,ES:HISTORIA ESP
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2699.m3u
-#EXTINF:50,Hollywood es
+#EXTINF:50,ES:Hollywood es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/157.m3u
-#EXTINF:49,Iberalia 
+#EXTINF:49,ES:Iberalia 
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21958.m3u
-#EXTINF:0,la Liga  Tv BAR
+#EXTINF:0,ES:la Liga  Tv BAR
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/32.m3u
-#EXTINF:50,Liga De Campeones
+#EXTINF:50,ES:Liga De Campeones
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/578.m3u
-#EXTINF:0,Liga De Campeones 1
+#EXTINF:0,ES:Liga De Campeones 1
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2738.m3u
-#EXTINF:50,Liga De Campeones 2
+#EXTINF:50,ES:Liga De Campeones 2
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2696.m3u
-#EXTINF:49,M  Accion
+#EXTINF:49,ES:M  Accion
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/159.m3u
-#EXTINF:50,M. CINE ESPANOL
+#EXTINF:50,ES:M. CINE ESPANOL
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/33.m3u
-#EXTINF:0,M Comedia
+#EXTINF:0,ES:M Comedia
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/155.m3u
-#EXTINF:50,M Deportes
+#EXTINF:50,ES:M Deportes
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/34.m3u
-#EXTINF:49,M Drama
+#EXTINF:49,ES:M Drama
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/156.m3u
-#EXTINF:50,M Estrenos
+#EXTINF:50,ES:M Estrenos
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/31.m3u
-#EXTINF:50,M.Estrenos2
+#EXTINF:50,ES:M.Estrenos2
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2698.m3u
-#EXTINF:49,M Formula1
+#EXTINF:49,ES:M Formula1
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1595.m3u
-#EXTINF:50,M Golf
+#EXTINF:50,ES:M Golf
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1598.m3u
-#EXTINF:50,Movistar LaLiga
+#EXTINF:50,ES:Movistar LaLiga
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1590.m3u
-#EXTINF:50,M Serie1
+#EXTINF:50,ES:M Serie1
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/35.m3u
-#EXTINF:0,M.Serie 2
+#EXTINF:0,ES:M.Serie 2
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2721.m3u
-#EXTINF:50,MTV ESPANA
+#EXTINF:50,ES:MTV ESPANA
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2697.m3u
-#EXTINF:0,Nat geo es
+#EXTINF:0,ES:Nat geo es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/558.m3u
-#EXTINF:0,Nat Geo Wild es
+#EXTINF:0,ES:Nat Geo Wild es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2755.m3u
-#EXTINF:0,Nickelodeon es
+#EXTINF:0,ES:Nickelodeon es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1536.m3u
-#EXTINF:49,nick JR
+#EXTINF:49,ES:nick JR
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21959.m3u
-#EXTINF:50,Odisea
+#EXTINF:50,ES:Odisea
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/154.m3u
-#EXTINF:0,PARAMOUNT CHANNEL
+#EXTINF:0,ES:PARAMOUNT CHANNEL
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2725.m3u
-#EXTINF:49,Popular TV
+#EXTINF:49,ES:Popular TV
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21950.m3u
-#EXTINF:49,Real Madrid TV
+#EXTINF:49,ES:Real Madrid TV
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1038.m3u
-#EXTINF:50,Smartbank liga
+#EXTINF:50,ES:Smartbank liga
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2756.m3u
-#EXTINF:50,Smartbank Liga 1
+#EXTINF:50,ES:Smartbank Liga 1
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21955.m3u
-#EXTINF:50,SOMOS
+#EXTINF:50,ES:SOMOS
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2733.m3u
-#EXTINF:0,SUNDANCE
+#EXTINF:0,ES:SUNDANCE
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2724.m3u
-#EXTINF:50,Syfy es
+#EXTINF:50,ES:Syfy es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/929.m3u
-#EXTINF:0,Taquilla1
+#EXTINF:0,ES:Taquilla1
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1706.m3u
-#EXTINF:0,Taquilla2
+#EXTINF:0,ES:Taquilla2
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1589.m3u
-#EXTINF:0,Taquilla3
+#EXTINF:0,ES:Taquilla3
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1584.m3u
-#EXTINF:0,Taquilla4
+#EXTINF:0,ES:Taquilla4
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1503.m3u
-#EXTINF:0,Taquilla5
+#EXTINF:0,ES:Taquilla5
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1502.m3u
-#EXTINF:49,TCM
+#EXTINF:49,ES:TCM
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2514.m3u
-#EXTINF:49,TELEDEPORTE
+#EXTINF:49,ES:TELEDEPORTE
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2704.m3u
-#EXTINF:0,Ten
+#EXTINF:0,ES:Ten
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2730.m3u
-#EXTINF:49,TNT
+#EXTINF:49,ES:TNT
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1537.m3u
-#EXTINF:50,Toros Tv
+#EXTINF:50,ES:Toros Tv
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/3935.m3u
-#EXTINF:50,Trece TV
+#EXTINF:50,ES:Trece TV
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21948.m3u
-#EXTINF:50,TV3 Cat
+#EXTINF:50,ES:TV3 Cat
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21960.m3u
-#EXTINF:50,TV Galicia
+#EXTINF:50,ES:TV Galicia
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21947.m3u
-#EXTINF:49,#Vamos.
+#EXTINF:49,ES:#Vamos.
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1591.m3u
 
 
 
 
-#EXTINF:-1,--------- SERVIDOR XTRA
+
 #EXTINF:-1,ES : SD LA 1 
 http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/96137
 #EXTINF:-1,ES : HD LA 1 
@@ -2098,7 +2097,7 @@ http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg4547144152552
 http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/96158
 #EXTINF:-1,ES : 4K TELEMADRID
 http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/96159
-#EXTINF:-1, 4K TVG
+#EXTINF:-1,ES: 4K TVG
 http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/96160
 #EXTINF:-1,ES : 4K TVG 2
 http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/96161
@@ -2570,7 +2569,7 @@ http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg4547144152552
 http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/96311
 #EXTINF:-1,ES : SD LA RESISTENCIA
 http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/96312
-#EXTINF:-1,ES : HD M+RESISTENCIA
+#EXTINF:-1,ES : HD M+ ES: RESISTENCIA
 http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/96313
 #EXTINF:-1,ES : 4K M+ LA RESISTENCIA
 http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/96314
@@ -2832,17 +2831,17 @@ http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg4547144152552
 http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/151457
 #EXTINF:-1,ES : HD M+ DEPORTES 1
 http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/151958
-#EXTINF:-1, M+ LIGA DE CAMPEONES SD
+#EXTINF:-1,ES: M+ LIGA DE CAMPEONES SD
 http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/285649
-#EXTINF:-1, M+ LIGA DE CAMPEONES HD
+#EXTINF:-1,ES: M+ LIGA DE CAMPEONES HD
 http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/285650
-#EXTINF:-1, M+ LIGA DE CAMPEONES FHD
+#EXTINF:-1,ES: M+ LIGA DE CAMPEONES FHD
 http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/285651
-#EXTINF:-1, M+ LA LIGA FHD
+#EXTINF:-1,ES: M+ LA LIGA FHD
 http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/285652
-#EXTINF:-1, M+ LA LIGA HD
+#EXTINF:-1,ES: M+ LA LIGA HD
 http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/285653
-#EXTINF:-1, M+ LA LIGA SD
+#EXTINF:-1,ES: M+ LA LIGA SD
 http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/285654
 #EXTINF:-1,ES : SD M+ NAUTICAL 
 http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/96412
@@ -3042,6 +3041,6 @@ http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg4547144152552
 http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/96510
 #EXTINF:-1,ES : HD MOVISTAR+ ALQUILER 9
 http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/96511
-#EXTINF:-1, MOVISTAR+ ALQUILER 10 HD
+#EXTINF:-1,ES: MOVISTAR+ ALQUILER 10 HD
 http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/255726
 

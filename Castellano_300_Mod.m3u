@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="-----SERVER_GROGI-----" tvg-logo="" group-title="",-----SERVER_GROGI-----
+
 #EXTINF:0,LA 1
 #EXTVLCOPT:network-caching=1000
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69297.ts
@@ -336,10 +336,10 @@ http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4482
 #EXTINF:0,Blaze
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4483
-#EXTINF:0,Discovery Channel
+#EXTINF:0,Discovery 
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4484
-#EXTINF:0,Discovery Channel HD
+#EXTINF:0,Discovery HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4485
 #EXTINF:0,Historia HD
@@ -714,7 +714,7 @@ http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21959.m3u
 #EXTINF:50,Odisea
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/154.m3u
-#EXTINF:0,PARAMOUNT CHANNEL
+#EXTINF:0,PARAMOUNT
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2725.m3u
 #EXTINF:49,Popular TV
@@ -1120,10 +1120,10 @@ http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4482
 #EXTINF:0,Blaze
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4483
-#EXTINF:0,Discovery Channel
+#EXTINF:0,Discovery 
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4484
-#EXTINF:0,Discovery Channel HD
+#EXTINF:0,Discovery HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4485
 #EXTINF:0,Historia HD
@@ -1498,7 +1498,7 @@ http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21959.m3u
 #EXTINF:50,Odisea
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/154.m3u
-#EXTINF:0,PARAMOUNT CHANNEL
+#EXTINF:0,PARAMOUNT
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2725.m3u
 #EXTINF:49,Popular TV

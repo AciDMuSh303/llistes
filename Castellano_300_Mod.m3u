@@ -1,4 +1,4 @@
-#EXTM3U   url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true"
+#EXTM3U	url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true"
 
 #EXTINF:0,LA 1
 #EXTVLCOPT:network-caching=1000
@@ -30,7 +30,7 @@ http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69305.ts
 #EXTINF:41,M+ Estrenos
 #EXTVLCOPT:network-caching=1000
 http://desastre3.deficoin.life/play/estrenos/index.m3u8
-#EXTINF:0,M+ Accion
+#EXTINF:0,M+ ACCION HD
 #EXTVLCOPT:network-caching=1000
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69306.ts
 #EXTINF:0,M+ Comedia
@@ -177,13 +177,13 @@ http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4439
 #EXTINF:0,MEGA HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4440
-#EXTINF:0,M+ Accion
+#EXTINF:0,M+ ACCION 
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4441
-#EXTINF:0,M+ Accion HD
+#EXTINF:0,M+ ACCION HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4442
-#EXTINF:0,M+ Accion FHD
+#EXTINF:0,M+ ACCION FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4443
 #EXTINF:0,M+ Cine
@@ -192,7 +192,7 @@ http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4444
 #EXTINF:0,M+ Cine Español FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4445
-#EXTINF:0,M+ Accion FHD
+#EXTINF:0,M+ ACCION FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4447
 #EXTINF:0,M+ CineDoc&Roll
@@ -660,7 +660,7 @@ http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2738.m3u
 #EXTINF:50,Liga De Campeones 2
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2696.m3u
-#EXTINF:49,M  Accion
+#EXTINF:49,M  ACCION
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/159.m3u
 #EXTINF:50,M. CINE ESPANOL
@@ -814,7 +814,7 @@ http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69305.ts
 #EXTINF:41,M+ Estrenos
 #EXTVLCOPT:network-caching=1000
 http://desastre3.deficoin.life/play/estrenos/index.m3u8
-#EXTINF:0,M+ Accion
+#EXTINF:0,M+ ACCION
 #EXTVLCOPT:network-caching=1000
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69306.ts
 #EXTINF:0,M+ Comedia
@@ -961,13 +961,13 @@ http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4439
 #EXTINF:0,MEGA HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4440
-#EXTINF:0,M+ Accion
+#EXTINF:0,M+ ACCION
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4441
-#EXTINF:0,M+ Accion HD
+#EXTINF:0,M+ ACCION HD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4442
-#EXTINF:0,M+ Accion FHD
+#EXTINF:0,M+ ACCION FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4443
 #EXTINF:0,M+ Cine
@@ -976,7 +976,7 @@ http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4444
 #EXTINF:0,M+ Cine Español FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4445
-#EXTINF:0,M+ Accion FHD
+#EXTINF:0,M+ ACCION FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/4447
 #EXTINF:0,M+ CineDoc&Roll
@@ -1444,7 +1444,7 @@ http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2738.m3u
 #EXTINF:50,Liga De Campeones 2
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2696.m3u
-#EXTINF:49,M  Accion
+#EXTINF:49,M  ACCION
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/159.m3u
 #EXTINF:50,M. CINE ESPANOL

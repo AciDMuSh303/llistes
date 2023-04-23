@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:0,------SERVIDOR network
 #EXTINF:0,Canal Decasa
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14013
@@ -719,115 +720,115 @@ http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15230
 #EXTINF:0,MEZZO LIVE FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15255
-#EXTINF:50,ES:La1
+#EXTINF:50,La1
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/536.m3u
-#EXTINF:0,ES:La2
+#EXTINF:0,La2
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/537.m3u
-#EXTINF:50,ES:Antena 3
+#EXTINF:50,Antena 3
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/971.m3u
-#EXTINF:0,ES:Cuatro
+#EXTINF:0,Cuatro
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/153.m3u
-#EXTINF:49,ES:Tele5
+#EXTINF:49,Tele5
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/36.m3u
-#EXTINF:50,ES:La sexta
+#EXTINF:50,La sexta
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/970.m3u
-#EXTINF:50,ES:Mega
+#EXTINF:50,Mega
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/925.m3u
-#EXTINF:48,ES:Neox
+#EXTINF:48,Neox
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/930.m3u
-#EXTINF:50,ES:Nova
+#EXTINF:50,Nova
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/924.m3u
-#EXTINF:49,ES:#0
+#EXTINF:49,#0
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/152.m3u
-#EXTINF:49,ES:7rm
+#EXTINF:49,7rm
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21946.m3u
-#EXTINF:50,ES:A3 series
+#EXTINF:50,A3 series
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2700.m3u
-#EXTINF:49,ES:A&E
+#EXTINF:49,A&E
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21953.m3u
-#EXTINF:50,ES:AMC ESP
+#EXTINF:50,AMC ESP
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2729.m3u
-#EXTINF:50,ES:Aragon TV
+#EXTINF:50,Aragon TV
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21956.m3u
-#EXTINF:0,ES:AXN es
+#EXTINF:0,AXN es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1601.m3u
-#EXTINF:50,ES:AXN  WHITE
+#EXTINF:50,AXN  WHITE
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2728.m3u
-#EXTINF:0,ES:BABY TV ESP
+#EXTINF:0,BABY TV ESP
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2718.m3u
-#EXTINF:50,ES:Barca TV
+#EXTINF:50,Barca TV
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1037.m3u
-#EXTINF:50,ES:Be Mad
+#EXTINF:50,Be Mad
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1594.m3u
-#EXTINF:49,ES:Blaze
+#EXTINF:49,Blaze
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2747.m3u
-#EXTINF:50,ES:Boing es
+#EXTINF:50,Boing es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1540.m3u
-#EXTINF:50,ES:Bom TV
+#EXTINF:50,Bom TV
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21949.m3u
-#EXTINF:0,ES:C33 madrid
+#EXTINF:0,C33 madrid
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21951.m3u
-#EXTINF:50,ES:Calle 13
+#EXTINF:50,Calle 13
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1039.m3u
-#EXTINF:50,ES:Canal 24 Horas
+#EXTINF:50,Canal 24 Horas
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/3415.m3u
-#EXTINF:50,ES:Canal Cocina
+#EXTINF:50,Canal Cocina
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/3952.m3u
-#EXTINF:49,ES:Canal Panda SP
+#EXTINF:49,Canal Panda SP
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/3937.m3u
-#EXTINF:50,ES:Canal Sur
+#EXTINF:50,Canal Sur
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/3414.m3u
-#EXTINF:49,ES:Caza y Pesca
+#EXTINF:49,Caza y Pesca
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1597.m3u
-#EXTINF:50,ES:Clan
+#EXTINF:50,Clan
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1541.m3u
-#EXTINF:50,ES:Comedy Central es
+#EXTINF:50,Comedy Central es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1593.m3u
-#EXTINF:50,ES:COSMO
+#EXTINF:50,COSMO
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2710.m3u
-#EXTINF:50,ES:CRIMEN  INVES
+#EXTINF:50,CRIMEN  INVES
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2709.m3u
-#EXTINF:0,ES:Dark
+#EXTINF:0,Dark
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21954.m3u
-#EXTINF:0,ES:Dazn1
+#EXTINF:0,Dazn1
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/19235.m3u
-#EXTINF:53,ES:Dazn2
+#EXTINF:53,Dazn2
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/19236.m3u
 #EXTINF:50,FR: RMC Live 6
@@ -836,195 +837,195 @@ http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/19237.m3u
 #EXTINF:50,FR: RMC Live 7
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/19238.m3u
-#EXTINF:48,ES:Dazn Liga1
+#EXTINF:48,Dazn Liga1
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/44538.m3u
-#EXTINF:50,ES:Dazn Liga2
+#EXTINF:50,Dazn Liga2
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/44539.m3u
-#EXTINF:50,ES:DeCasa
+#EXTINF:50,DeCasa
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1599.m3u
-#EXTINF:50,ES:Discovery es
+#EXTINF:50,Discovery es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1600.m3u
-#EXTINF:52,ES:Disney es
+#EXTINF:52,Disney es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1539.m3u
-#EXTINF:50,ES:Disney Junior es
+#EXTINF:50,Disney Junior es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1538.m3u
-#EXTINF:50,ES:DIVINITY
+#EXTINF:50,DIVINITY
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2737.m3u
-#EXTINF:50,ES:Dkiss
+#EXTINF:50,Dkiss
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2746.m3u
-#EXTINF:50,ES:ENERGY
+#EXTINF:50,ENERGY
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2735.m3u
-#EXTINF:49,ES:Eurosport1 es
+#EXTINF:49,Eurosport1 es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1596.m3u
-#EXTINF:50,ES:Eurosport 2 
+#EXTINF:50,Eurosport 2 
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21952.m3u
-#EXTINF:50,ES:Extremadura TV
+#EXTINF:50,Extremadura TV
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21957.m3u
-#EXTINF:50,ES:FDF
+#EXTINF:50,FDF
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2754.m3u
-#EXTINF:0,ES:Fox  ES
+#EXTINF:0,Fox  ES
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1592.m3u
-#EXTINF:0,ES:GOL TV
+#EXTINF:0,GOL TV
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2753.m3u
-#EXTINF:50,ES:HISTORIA ESP
+#EXTINF:50,HISTORIA ESP
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2699.m3u
-#EXTINF:50,ES:Hollywood es
+#EXTINF:50,Hollywood es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/157.m3u
-#EXTINF:49,ES:Iberalia 
+#EXTINF:49,Iberalia 
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21958.m3u
-#EXTINF:0,ES:la Liga  Tv BAR
+#EXTINF:0,la Liga  Tv BAR
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/32.m3u
-#EXTINF:50,ES:Liga De Campeones
+#EXTINF:50,Liga De Campeones
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/578.m3u
-#EXTINF:0,ES:Liga De Campeones 1
+#EXTINF:0,Liga De Campeones 1
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2738.m3u
-#EXTINF:50,ES:Liga De Campeones 2
+#EXTINF:50,Liga De Campeones 2
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2696.m3u
-#EXTINF:49,ES:M  Accion
+#EXTINF:49,M  Accion
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/159.m3u
-#EXTINF:50,ES:M. CINE ESPANOL
+#EXTINF:50,M. CINE ESPANOL
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/33.m3u
-#EXTINF:0,ES:M Comedia
+#EXTINF:0,M Comedia
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/155.m3u
-#EXTINF:50,ES:M Deportes
+#EXTINF:50,M Deportes
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/34.m3u
-#EXTINF:49,ES:M Drama
+#EXTINF:49,M Drama
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/156.m3u
-#EXTINF:50,ES:M Estrenos
+#EXTINF:50,M Estrenos
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/31.m3u
-#EXTINF:50,ES:M.Estrenos2
+#EXTINF:50,M.Estrenos2
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2698.m3u
-#EXTINF:49,ES:M Formula1
+#EXTINF:49,M Formula1
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1595.m3u
-#EXTINF:50,ES:M Golf
+#EXTINF:50,M Golf
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1598.m3u
-#EXTINF:50,ES:Movistar LaLiga
+#EXTINF:50,Movistar LaLiga
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1590.m3u
-#EXTINF:50,ES:M Serie1
+#EXTINF:50,M Serie1
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/35.m3u
-#EXTINF:0,ES:M.Serie 2
+#EXTINF:0,M.Serie 2
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2721.m3u
-#EXTINF:50,ES:MTV ESPANA
+#EXTINF:50,MTV ESPANA
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2697.m3u
-#EXTINF:0,ES:Nat geo es
+#EXTINF:0,Nat geo es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/558.m3u
-#EXTINF:0,ES:Nat Geo Wild es
+#EXTINF:0,Nat Geo Wild es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2755.m3u
-#EXTINF:0,ES:Nickelodeon es
+#EXTINF:0,Nickelodeon es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1536.m3u
-#EXTINF:49,ES:nick JR
+#EXTINF:49,nick JR
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21959.m3u
-#EXTINF:50,ES:Odisea
+#EXTINF:50,Odisea
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/154.m3u
-#EXTINF:0,ES:PARAMOUNT CHANNEL
+#EXTINF:0,PARAMOUNT CHANNEL
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2725.m3u
-#EXTINF:49,ES:Popular TV
+#EXTINF:49,Popular TV
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21950.m3u
-#EXTINF:49,ES:Real Madrid TV
+#EXTINF:49,Real Madrid TV
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1038.m3u
-#EXTINF:50,ES:Smartbank liga
+#EXTINF:50,Smartbank liga
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2756.m3u
-#EXTINF:50,ES:Smartbank Liga 1
+#EXTINF:50,Smartbank Liga 1
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21955.m3u
-#EXTINF:50,ES:SOMOS
+#EXTINF:50,SOMOS
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2733.m3u
-#EXTINF:0,ES:SUNDANCE
+#EXTINF:0,SUNDANCE
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2724.m3u
-#EXTINF:50,ES:Syfy es
+#EXTINF:50,Syfy es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/929.m3u
-#EXTINF:0,ES:Taquilla1
+#EXTINF:0,Taquilla1
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1706.m3u
-#EXTINF:0,ES:Taquilla2
+#EXTINF:0,Taquilla2
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1589.m3u
-#EXTINF:0,ES:Taquilla3
+#EXTINF:0,Taquilla3
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1584.m3u
-#EXTINF:0,ES:Taquilla4
+#EXTINF:0,Taquilla4
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1503.m3u
-#EXTINF:0,ES:Taquilla5
+#EXTINF:0,Taquilla5
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1502.m3u
-#EXTINF:49,ES:TCM
+#EXTINF:49,TCM
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2514.m3u
-#EXTINF:49,ES:TELEDEPORTE
+#EXTINF:49,TELEDEPORTE
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2704.m3u
-#EXTINF:0,ES:Ten
+#EXTINF:0,Ten
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2730.m3u
-#EXTINF:49,ES:TNT
+#EXTINF:49,TNT
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1537.m3u
-#EXTINF:50,ES:Toros Tv
+#EXTINF:50,Toros Tv
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/3935.m3u
-#EXTINF:50,ES:Trece TV
+#EXTINF:50,Trece TV
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21948.m3u
-#EXTINF:50,ES:TV3 Cat
+#EXTINF:50,TV3 Cat
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21960.m3u
-#EXTINF:50,ES:TV Galicia
+#EXTINF:50,TV Galicia
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21947.m3u
-#EXTINF:49,ES:#Vamos.
+#EXTINF:49,#Vamos.
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1591.m3u
 
 
-#EXTM3U
+#EXTINF:0,---------------SERVIDOR lion 
 #EXTINF:0,Canal Decasa
 #EXTVLCOPT:network-caching=1000
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14013
@@ -1745,115 +1746,115 @@ http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15230
 #EXTINF:0,MEZZO LIVE FHD
 #EXTVLCOPT:network-caching=1000
 http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15255
-#EXTINF:50,ES:La1
+#EXTINF:50,La1
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/536.m3u
-#EXTINF:0,ES:La2
+#EXTINF:0,La2
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/537.m3u
-#EXTINF:50,ES:Antena 3
+#EXTINF:50,Antena 3
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/971.m3u
-#EXTINF:0,ES:Cuatro
+#EXTINF:0,Cuatro
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/153.m3u
-#EXTINF:49,ES:Tele5
+#EXTINF:49,Tele5
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/36.m3u
-#EXTINF:50,ES:La sexta
+#EXTINF:50,La sexta
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/970.m3u
-#EXTINF:50,ES:Mega
+#EXTINF:50,Mega
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/925.m3u
-#EXTINF:48,ES:Neox
+#EXTINF:48,Neox
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/930.m3u
-#EXTINF:50,ES:Nova
+#EXTINF:50,Nova
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/924.m3u
-#EXTINF:49,ES:#0
+#EXTINF:49,#0
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/152.m3u
-#EXTINF:49,ES:7rm
+#EXTINF:49,7rm
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21946.m3u
-#EXTINF:50,ES:A3 series
+#EXTINF:50,A3 series
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2700.m3u
-#EXTINF:49,ES:A&E
+#EXTINF:49,A&E
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21953.m3u
-#EXTINF:50,ES:AMC ESP
+#EXTINF:50,AMC ESP
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2729.m3u
-#EXTINF:50,ES:Aragon TV
+#EXTINF:50,Aragon TV
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21956.m3u
-#EXTINF:0,ES:AXN es
+#EXTINF:0,AXN es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1601.m3u
-#EXTINF:50,ES:AXN  WHITE
+#EXTINF:50,AXN  WHITE
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2728.m3u
-#EXTINF:0,ES:BABY TV ESP
+#EXTINF:0,BABY TV ESP
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2718.m3u
-#EXTINF:50,ES:Barca TV
+#EXTINF:50,Barca TV
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1037.m3u
-#EXTINF:50,ES:Be Mad
+#EXTINF:50,Be Mad
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1594.m3u
-#EXTINF:49,ES:Blaze
+#EXTINF:49,Blaze
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2747.m3u
-#EXTINF:50,ES:Boing es
+#EXTINF:50,Boing es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1540.m3u
-#EXTINF:50,ES:Bom TV
+#EXTINF:50,Bom TV
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21949.m3u
-#EXTINF:0,ES:C33 madrid
+#EXTINF:0,C33 madrid
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21951.m3u
-#EXTINF:50,ES:Calle 13
+#EXTINF:50,Calle 13
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1039.m3u
-#EXTINF:50,ES:Canal 24 Horas
+#EXTINF:50,Canal 24 Horas
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/3415.m3u
-#EXTINF:50,ES:Canal Cocina
+#EXTINF:50,Canal Cocina
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/3952.m3u
-#EXTINF:49,ES:Canal Panda SP
+#EXTINF:49,Canal Panda SP
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/3937.m3u
-#EXTINF:50,ES:Canal Sur
+#EXTINF:50,Canal Sur
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/3414.m3u
-#EXTINF:49,ES:Caza y Pesca
+#EXTINF:49,Caza y Pesca
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1597.m3u
-#EXTINF:50,ES:Clan
+#EXTINF:50,Clan
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1541.m3u
-#EXTINF:50,ES:Comedy Central es
+#EXTINF:50,Comedy Central es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1593.m3u
-#EXTINF:50,ES:COSMO
+#EXTINF:50,COSMO
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2710.m3u
-#EXTINF:50,ES:CRIMEN  INVES
+#EXTINF:50,CRIMEN  INVES
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2709.m3u
-#EXTINF:0,ES:Dark
+#EXTINF:0,Dark
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21954.m3u
-#EXTINF:0,ES:Dazn1
+#EXTINF:0,Dazn1
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/19235.m3u
-#EXTINF:53,ES:Dazn2
+#EXTINF:53,Dazn2
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/19236.m3u
 #EXTINF:50,FR: RMC Live 6
@@ -1862,197 +1863,197 @@ http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/19237.m3u
 #EXTINF:50,FR: RMC Live 7
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/19238.m3u
-#EXTINF:48,ES:Dazn Liga1
+#EXTINF:48,Dazn Liga1
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/44538.m3u
-#EXTINF:50,ES:Dazn Liga2
+#EXTINF:50,Dazn Liga2
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/44539.m3u
-#EXTINF:50,ES:DeCasa
+#EXTINF:50,DeCasa
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1599.m3u
-#EXTINF:50,ES:Discovery es
+#EXTINF:50,Discovery es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1600.m3u
-#EXTINF:52,ES:Disney es
+#EXTINF:52,Disney es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1539.m3u
-#EXTINF:50,ES:Disney Junior es
+#EXTINF:50,Disney Junior es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1538.m3u
-#EXTINF:50,ES:DIVINITY
+#EXTINF:50,DIVINITY
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2737.m3u
-#EXTINF:50,ES:Dkiss
+#EXTINF:50,Dkiss
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2746.m3u
-#EXTINF:50,ES:ENERGY
+#EXTINF:50,ENERGY
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2735.m3u
-#EXTINF:49,ES:Eurosport1 es
+#EXTINF:49,Eurosport1 es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1596.m3u
-#EXTINF:50,ES:Eurosport 2 
+#EXTINF:50,Eurosport 2 
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21952.m3u
-#EXTINF:50,ES:Extremadura TV
+#EXTINF:50,Extremadura TV
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21957.m3u
-#EXTINF:50,ES:FDF
+#EXTINF:50,FDF
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2754.m3u
-#EXTINF:0,ES:Fox  ES
+#EXTINF:0,Fox  ES
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1592.m3u
-#EXTINF:0,ES:GOL TV
+#EXTINF:0,GOL TV
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2753.m3u
-#EXTINF:50,ES:HISTORIA ESP
+#EXTINF:50,HISTORIA ESP
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2699.m3u
-#EXTINF:50,ES:Hollywood es
+#EXTINF:50,Hollywood es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/157.m3u
-#EXTINF:49,ES:Iberalia 
+#EXTINF:49,Iberalia 
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21958.m3u
-#EXTINF:0,ES:la Liga  Tv BAR
+#EXTINF:0,la Liga  Tv BAR
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/32.m3u
-#EXTINF:50,ES:Liga De Campeones
+#EXTINF:50,Liga De Campeones
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/578.m3u
-#EXTINF:0,ES:Liga De Campeones 1
+#EXTINF:0,Liga De Campeones 1
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2738.m3u
-#EXTINF:50,ES:Liga De Campeones 2
+#EXTINF:50,Liga De Campeones 2
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2696.m3u
-#EXTINF:49,ES:M  Accion
+#EXTINF:49,M  Accion
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/159.m3u
-#EXTINF:50,ES:M. CINE ESPANOL
+#EXTINF:50,M. CINE ESPANOL
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/33.m3u
-#EXTINF:0,ES:M Comedia
+#EXTINF:0,M Comedia
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/155.m3u
-#EXTINF:50,ES:M Deportes
+#EXTINF:50,M Deportes
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/34.m3u
-#EXTINF:49,ES:M Drama
+#EXTINF:49,M Drama
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/156.m3u
-#EXTINF:50,ES:M Estrenos
+#EXTINF:50,M Estrenos
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/31.m3u
-#EXTINF:50,ES:M.Estrenos2
+#EXTINF:50,M.Estrenos2
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2698.m3u
-#EXTINF:49,ES:M Formula1
+#EXTINF:49,M Formula1
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1595.m3u
-#EXTINF:50,ES:M Golf
+#EXTINF:50,M Golf
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1598.m3u
-#EXTINF:50,ES:Movistar LaLiga
+#EXTINF:50,Movistar LaLiga
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1590.m3u
-#EXTINF:50,ES:M Serie1
+#EXTINF:50,M Serie1
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/35.m3u
-#EXTINF:0,ES:M.Serie 2
+#EXTINF:0,M.Serie 2
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2721.m3u
-#EXTINF:50,ES:MTV ESPANA
+#EXTINF:50,MTV ESPANA
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2697.m3u
-#EXTINF:0,ES:Nat geo es
+#EXTINF:0,Nat geo es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/558.m3u
-#EXTINF:0,ES:Nat Geo Wild es
+#EXTINF:0,Nat Geo Wild es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2755.m3u
-#EXTINF:0,ES:Nickelodeon es
+#EXTINF:0,Nickelodeon es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1536.m3u
-#EXTINF:49,ES:nick JR
+#EXTINF:49,nick JR
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21959.m3u
-#EXTINF:50,ES:Odisea
+#EXTINF:50,Odisea
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/154.m3u
-#EXTINF:0,ES:PARAMOUNT CHANNEL
+#EXTINF:0,PARAMOUNT CHANNEL
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2725.m3u
-#EXTINF:49,ES:Popular TV
+#EXTINF:49,Popular TV
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21950.m3u
-#EXTINF:49,ES:Real Madrid TV
+#EXTINF:49,Real Madrid TV
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1038.m3u
-#EXTINF:50,ES:Smartbank liga
+#EXTINF:50,Smartbank liga
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2756.m3u
-#EXTINF:50,ES:Smartbank Liga 1
+#EXTINF:50,Smartbank Liga 1
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21955.m3u
-#EXTINF:50,ES:SOMOS
+#EXTINF:50,SOMOS
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2733.m3u
-#EXTINF:0,ES:SUNDANCE
+#EXTINF:0,SUNDANCE
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2724.m3u
-#EXTINF:50,ES:Syfy es
+#EXTINF:50,Syfy es
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/929.m3u
-#EXTINF:0,ES:Taquilla1
+#EXTINF:0,Taquilla1
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1706.m3u
-#EXTINF:0,ES:Taquilla2
+#EXTINF:0,Taquilla2
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1589.m3u
-#EXTINF:0,ES:Taquilla3
+#EXTINF:0,Taquilla3
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1584.m3u
-#EXTINF:0,ES:Taquilla4
+#EXTINF:0,Taquilla4
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1503.m3u
-#EXTINF:0,ES:Taquilla5
+#EXTINF:0,Taquilla5
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1502.m3u
-#EXTINF:49,ES:TCM
+#EXTINF:49,TCM
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2514.m3u
-#EXTINF:49,ES:TELEDEPORTE
+#EXTINF:49,TELEDEPORTE
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2704.m3u
-#EXTINF:0,ES:Ten
+#EXTINF:0,Ten
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/2730.m3u
-#EXTINF:49,ES:TNT
+#EXTINF:49,TNT
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1537.m3u
-#EXTINF:50,ES:Toros Tv
+#EXTINF:50,Toros Tv
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/3935.m3u
-#EXTINF:50,ES:Trece TV
+#EXTINF:50,Trece TV
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21948.m3u
-#EXTINF:50,ES:TV3 Cat
+#EXTINF:50,TV3 Cat
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21960.m3u
-#EXTINF:50,ES:TV Galicia
+#EXTINF:50,TV Galicia
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/21947.m3u
-#EXTINF:49,ES:#Vamos.
+#EXTINF:49,#Vamos.
 #EXTVLCOPT:network-caching=1000
 http://iptv.ndasat.xyz:88/live/221640561474911/221640561474911/1591.m3u
 
 
 
 
-
+#EXTINF:-1,--------- SERVIDOR XTRA
 #EXTINF:-1,ES : SD LA 1 
 http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/96137
 #EXTINF:-1,ES : HD LA 1 
@@ -2097,7 +2098,7 @@ http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg4547144152552
 http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/96158
 #EXTINF:-1,ES : 4K TELEMADRID
 http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/96159
-#EXTINF:-1,ES: 4K TVG
+#EXTINF:-1, 4K TVG
 http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/96160
 #EXTINF:-1,ES : 4K TVG 2
 http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/96161
@@ -2831,17 +2832,17 @@ http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg4547144152552
 http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/151457
 #EXTINF:-1,ES : HD M+ DEPORTES 1
 http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/151958
-#EXTINF:-1,ES: M+ LIGA DE CAMPEONES SD
+#EXTINF:-1, M+ LIGA DE CAMPEONES SD
 http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/285649
-#EXTINF:-1,ES: M+ LIGA DE CAMPEONES HD
+#EXTINF:-1, M+ LIGA DE CAMPEONES HD
 http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/285650
-#EXTINF:-1,ES: M+ LIGA DE CAMPEONES FHD
+#EXTINF:-1, M+ LIGA DE CAMPEONES FHD
 http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/285651
-#EXTINF:-1,ES: M+ LA LIGA FHD
+#EXTINF:-1, M+ LA LIGA FHD
 http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/285652
-#EXTINF:-1,ES: M+ LA LIGA HD
+#EXTINF:-1, M+ LA LIGA HD
 http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/285653
-#EXTINF:-1,ES: M+ LA LIGA SD
+#EXTINF:-1, M+ LA LIGA SD
 http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/285654
 #EXTINF:-1,ES : SD M+ NAUTICAL 
 http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/96412
@@ -3041,6 +3042,6 @@ http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg4547144152552
 http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/96510
 #EXTINF:-1,ES : HD MOVISTAR+ ALQUILER 9
 http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/96511
-#EXTINF:-1,ES: MOVISTAR+ ALQUILER 10 HD
+#EXTINF:-1, MOVISTAR+ ALQUILER 10 HD
 http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/255726
 

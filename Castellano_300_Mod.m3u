@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U   url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true"
 
 #EXTINF:0,LA 1
 #EXTVLCOPT:network-caching=1000

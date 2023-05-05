@@ -19,7 +19,7 @@ http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69300.ts
 #EXTINF:0,Telecinco
 #EXTVLCOPT:network-caching=1000
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69301.ts
-#EXTINF:0,LA Sexta
+#EXTINF:0,La Sexta
 #EXTVLCOPT:network-caching=1000
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69302.ts
 #EXTINF:0,Aragon Tv

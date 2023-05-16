@@ -1,79 +1,644 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ext" tvg-name="LA 1" tvg-logo="" group-title="Server 1⭐️  grogi.online",LA 1
-http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69297.ts
 
-#EXTINF:-1 tvg-id="ext" tvg-name="LA 2 " tvg-logo="" group-title="Server 1⭐️  grogi.online",LA 2 
-http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69298.ts
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Antena 3" tvg-logo="" group-title="Server 1⭐️  grogi.online",Antena 3
-http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69299.ts
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Cuatro " tvg-logo="" group-title="Server 1⭐️  grogi.online",Cuatro 
-http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69300.ts
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Telecinco" tvg-logo="" group-title="Server 1⭐️  grogi.online",Telecinco
-http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69301.ts
-
-#EXTINF:-1 tvg-id="ext" tvg-name="La Sexta" tvg-logo="" group-title="Server 1⭐️  grogi.online",La Sexta
-http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69302.ts
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Aragon Tv" tvg-logo="" group-title="Server 1⭐️  grogi.online",Aragon Tv
-http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69303.ts
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Neox" tvg-logo="" group-title="Server 1⭐️  grogi.online",Neox
-http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69304.ts
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Nova " tvg-logo="" group-title="Server 1⭐️  grogi.online",Nova 
-http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69305.ts
-
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ Estrenos" tvg-logo="" group-title="Server 1⭐️  grogi.online",M+ Estrenos
-http://desastre3.deficoin.life/play/estrenos/index.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ ACCION" tvg-logo="" group-title="Server 1⭐️  grogi.online",M+ ACCION
-http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69306.ts
-
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ Comedia" tvg-logo="" group-title="Server 1⭐️  grogi.online",M+ Comedia
-http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69307.ts
-
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ Drama" tvg-logo="" group-title="Server 1⭐️  grogi.online",M+ Drama
-http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69309.ts
-
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ Series" tvg-logo="" group-title="Server 1⭐️  grogi.online",M+ Series
-http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69308.ts
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Cale 13" tvg-logo="" group-title="Server 1⭐️  grogi.online",Cale 13
-http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69310.ts
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Hollywood" tvg-logo="" group-title="Server 1⭐️  grogi.online",Hollywood
-http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69311.ts
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Comedy Central" tvg-logo="" group-title="Server 1⭐️  grogi.online",Comedy Central
-http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69312.ts
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Syfy" tvg-logo="" group-title="Server 1⭐️  grogi.online",Syfy
-http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69313.ts
-
-#EXTINF:-1 tvg-id="ext" tvg-name="AXN " tvg-logo="" group-title="Server 1⭐️  grogi.online",AXN 
-http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69314.ts
-
-#EXTINF:-1 tvg-id="ext" tvg-name="FOX " tvg-logo="" group-title="Server 1⭐️  grogi.online",FOX 
-http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69315.ts
-
-#EXTINF:-1 tvg-id="ext" tvg-name="National Geographic " tvg-logo="" group-title="Server 1⭐️  grogi.online",National Geographic 
-http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69316.ts
-
-#EXTINF:-1 tvg-id="ext" tvg-name="National Geographic Wild " tvg-logo="" group-title="Server 1⭐️  grogi.online",National Geographic Wild 
-http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69317.ts
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Discovery " tvg-logo="" group-title="Server 1⭐️  grogi.online",Discovery 
-http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69318.ts
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Caza Y Pesca" tvg-logo="" group-title="Server 1⭐️  grogi.online",Caza Y Pesca
-http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69319.ts
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Crimen + Investigacion" tvg-logo="" group-title="Server 1⭐️  grogi.online",Crimen + Investigacion
-http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69323.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="CINE| CINEBOX 4 HD" tvg-logo="https://i.picasion.com/pic92/c8aee52a11608c2b131ba6ac15db3c6e.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",CINE| CINEBOX 4 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87669
+#EXTINF:-1 tvg-id="ext" tvg-name="CINE| CINEBOX 5 HD" tvg-logo="https://i.picasion.com/pic92/c8aee52a11608c2b131ba6ac15db3c6e.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",CINE| CINEBOX 5 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87670
+#EXTINF:-1 tvg-id="ext" tvg-name="CINE| CINEBOX 6 HD" tvg-logo="https://i.picasion.com/pic92/c8aee52a11608c2b131ba6ac15db3c6e.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",CINE| CINEBOX 6 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87671
+#EXTINF:-1 tvg-id="ext" tvg-name="CINE| CINEBOX 7 HD" tvg-logo="https://i.picasion.com/pic92/c8aee52a11608c2b131ba6ac15db3c6e.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",CINE| CINEBOX 7 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87672
+#EXTINF:-1 tvg-id="ext" tvg-name="CINE| CINEBOX 8 HD" tvg-logo="https://i.picasion.com/pic92/c8aee52a11608c2b131ba6ac15db3c6e.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",CINE| CINEBOX 8 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87673
+#EXTINF:-1 tvg-id="ext" tvg-name="CINE| CINEBOX 9 HD" tvg-logo="https://i.picasion.com/pic92/c8aee52a11608c2b131ba6ac15db3c6e.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",CINE| CINEBOX 9 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87674
+#EXTINF:-1 tvg-id="ext" tvg-name="CINE| CINEBOX 10 HD" tvg-logo="https://i.picasion.com/pic92/c8aee52a11608c2b131ba6ac15db3c6e.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",CINE| CINEBOX 10 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87675
+#EXTINF:-1 tvg-id="ext" tvg-name="CINE| CINEBOX 11 HD" tvg-logo="https://i.picasion.com/pic92/c8aee52a11608c2b131ba6ac15db3c6e.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",CINE| CINEBOX 11 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87676
+#EXTINF:-1 tvg-id="ext" tvg-name="CINE| CINEBOX 12 HD" tvg-logo="https://i.picasion.com/pic92/c8aee52a11608c2b131ba6ac15db3c6e.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",CINE| CINEBOX 12 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/87677
+#EXTINF:-1 tvg-id="ext" tvg-name="NETFLIX 22" tvg-logo="https://i.picasion.com/pic92/ee330a5c9e579cd7bb6cd2365bab4248.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",NETFLIX 22
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/124815
+#EXTINF:-1 tvg-id="ext" tvg-name="NETFLIX 21" tvg-logo="https://i.picasion.com/pic92/ee330a5c9e579cd7bb6cd2365bab4248.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",NETFLIX 21
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/124816
+#EXTINF:-1 tvg-id="ext" tvg-name="NETFLIX 20" tvg-logo="https://i.picasion.com/pic92/ee330a5c9e579cd7bb6cd2365bab4248.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",NETFLIX 20
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/124817
+#EXTINF:-1 tvg-id="ext" tvg-name="NETFLIX 19" tvg-logo="https://i.picasion.com/pic92/ee330a5c9e579cd7bb6cd2365bab4248.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",NETFLIX 19
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/124818
+#EXTINF:-1 tvg-id="ext" tvg-name="NETFLIX 18" tvg-logo="https://i.picasion.com/pic92/ee330a5c9e579cd7bb6cd2365bab4248.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",NETFLIX 18
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/124819
+#EXTINF:-1 tvg-id="ext" tvg-name="NETFLIX 17" tvg-logo="https://i.picasion.com/pic92/ee330a5c9e579cd7bb6cd2365bab4248.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",NETFLIX 17
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/124820
+#EXTINF:-1 tvg-id="ext" tvg-name="NETFLIX 16" tvg-logo="https://i.picasion.com/pic92/ee330a5c9e579cd7bb6cd2365bab4248.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",NETFLIX 16
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/124821
+#EXTINF:-1 tvg-id="ext" tvg-name="NETFLIX 15" tvg-logo="https://i.picasion.com/pic92/ee330a5c9e579cd7bb6cd2365bab4248.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",NETFLIX 15
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/124822
+#EXTINF:-1 tvg-id="ext" tvg-name="NETFLIX 14" tvg-logo="https://i.picasion.com/pic92/ee330a5c9e579cd7bb6cd2365bab4248.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",NETFLIX 14
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/124823
+#EXTINF:-1 tvg-id="ext" tvg-name="NETFLIX TV 01" tvg-logo="https://i.picasion.com/pic92/ee330a5c9e579cd7bb6cd2365bab4248.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",NETFLIX TV 01
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/126316
+#EXTINF:-1 tvg-id="ext" tvg-name="NETFLIX TV 05" tvg-logo="https://i.picasion.com/pic92/ee330a5c9e579cd7bb6cd2365bab4248.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",NETFLIX TV 05
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/126320
+#EXTINF:-1 tvg-id="ext" tvg-name="NETFLIX TV 15" tvg-logo="https://i.picasion.com/pic92/ee330a5c9e579cd7bb6cd2365bab4248.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",NETFLIX TV 15
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/126330
+#EXTINF:-1 tvg-id="ext" tvg-name="NETFLIX TV  01" tvg-logo="https://i.picasion.com/pic92/ee330a5c9e579cd7bb6cd2365bab4248.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",NETFLIX TV  01
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/126344
+#EXTINF:-1 tvg-id="ext" tvg-name="NETFLIX TV 18" tvg-logo="https://i.picasion.com/pic92/ee330a5c9e579cd7bb6cd2365bab4248.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",NETFLIX TV 18
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/126361
+#EXTINF:-1 tvg-id="ext" tvg-name="ALQUILER 3 HD" tvg-logo="http://iptvglobal.site:25461/images/86186d7e17cf81cfcc551999633eb9f2.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ALQUILER 3 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/130137
+#EXTINF:-1 tvg-id="ext" tvg-name="ALQUILER 4 HD" tvg-logo="http://iptvglobal.site:25461/images/86186d7e17cf81cfcc551999633eb9f2.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ALQUILER 4 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/130138
+#EXTINF:-1 tvg-id="ext" tvg-name="ALQUILER 8 HD" tvg-logo="http://iptvglobal.site:25461/images/86186d7e17cf81cfcc551999633eb9f2.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ALQUILER 8 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/130142
+#EXTINF:-1 tvg-id="ext" tvg-name="ALQUILER 10 HD" tvg-logo="http://iptvglobal.site:25461/images/86186d7e17cf81cfcc551999633eb9f2.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ALQUILER 10 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/130144
+#EXTINF:-1 tvg-id="ext" tvg-name="PPV - CINEMA 16 FHD (ES)." tvg-logo="http://playhispano.org:25461/images/d13a47cc815d773ed0daa51619a8fc1d.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",PPV - CINEMA 16 FHD (ES).
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179052
+#EXTINF:-1 tvg-id="ext" tvg-name="||ES|| TAQUILLA 5" tvg-logo="" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",||ES|| TAQUILLA 5
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179078
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Documentales" tvg-logo="https://images.pluto.tv/channels/61cd78920b90cb0007e28231/colorLogoPNG.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",Pluto TV Documentales
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111962
+#EXTINF:-1 tvg-id="ext" tvg-name="Big Time Rush" tvg-logo="https://images.pluto.tv/channels/5f1aa7aab66c76000790ee7e/colorLogoPNG.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",Big Time Rush
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111860
+#EXTINF:-1 tvg-id="ext" tvg-name="Go Diego Go!" tvg-logo="https://images.pluto.tv/channels/5f1aa89d42a0500007363ea3/colorLogoPNG.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",Go Diego Go!
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111862
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV Prank" tvg-logo="https://images.pluto.tv/channels/5f1aae8c65727d0007d15a17/colorLogoPNG.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",MTV Prank
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111867
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV Catfish TV Show" tvg-logo="https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",MTV Catfish TV Show
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111869
+#EXTINF:-1 tvg-id="ext" tvg-name="FailArmy" tvg-logo="https://images.pluto.tv/channels/5f1abf5fafb5ee0007d4d0ca/colorLogoPNG.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",FailArmy
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111874
+#EXTINF:-1 tvg-id="ext" tvg-name="People are Awesome" tvg-logo="https://images.pluto.tv/channels/5eb95c119dc712000741fa35/colorLogoPNG.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",People are Awesome
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111876
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Cine Estelar" tvg-logo="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",Pluto TV Cine Estelar
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111877
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Action Sports" tvg-logo="https://images.pluto.tv/channels/5f1ac8588734f8000823b7de/colorLogoPNG.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",Pluto TV Action Sports
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111880
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Thrillers" tvg-logo="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",Pluto TV Thrillers
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111881
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Cine Drama" tvg-logo="https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",Pluto TV Cine Drama
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111883
+#EXTINF:-1 tvg-id="ext" tvg-name="Bob Esponja" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",Bob Esponja
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111885
+#EXTINF:-1 tvg-id="ext" tvg-name="Asesinatos de Midsomer" tvg-logo="https://images.pluto.tv/channels/5f1aca8310a30e00074fab92/colorLogoPNG.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",Asesinatos de Midsomer
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111886
+#EXTINF:-1 tvg-id="ext" tvg-name="Los nuevos detectives" tvg-logo="https://images.pluto.tv/channels/5f1acba0d1f6340007db8843/colorLogoPNG.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",Los nuevos detectives
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111888
+#EXTINF:-1 tvg-id="ext" tvg-name="Los archivos del FBI" tvg-logo="https://images.pluto.tv/channels/5f1acbed25948a0007ffbe65/colorLogoPNG.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",Los archivos del FBI
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111889
+#EXTINF:-1 tvg-id="ext" tvg-name="Mutante X" tvg-logo="https://images.pluto.tv/channels/5f1acc91cc9e1b000711ff21/colorLogoPNG.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",Mutante X
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111891
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Mundo Real" tvg-logo="https://images.pluto.tv/channels/5f1acdfda84c970007e750b5/colorLogoPNG.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",Pluto TV Mundo Real
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111895
+#EXTINF:-1 tvg-id="ext" tvg-name="Vaya semanita" tvg-logo="https://images.pluto.tv/channels/5f28009b150b2500077766b8/colorLogoPNG.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",Vaya semanita
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111896
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/colorLogoPNG.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",Pluto TV Sci-Fi
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111898
+#EXTINF:-1 tvg-id="ext" tvg-name="Cine Latino" tvg-logo="https://images.pluto.tv/channels/5f984c1dc54853000797a5e8/colorLogoPNG.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",Cine Latino
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111899
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV Embarazada a los 16" tvg-logo="https://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",MTV Embarazada a los 16
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111902
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV Dating" tvg-logo="https://images.pluto.tv/channels/600169ec77e6f70008fa9cf0/colorLogoPNG.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",MTV Dating
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111903
+#EXTINF:-1 tvg-id="ext" tvg-name="Clubbing TV" tvg-logo="https://images.pluto.tv/channels/600ad4ad6537680007be2ea6/colorLogoPNG.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",Clubbing TV
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111905
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Animales" tvg-logo="https://images.pluto.tv/channels/600ae6a78d801e0007117d21/colorLogoPNG.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",Pluto TV Animales
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111908
+#EXTINF:-1 tvg-id="ext" tvg-name="Empeños a lo bestia" tvg-logo="https://images.pluto.tv/channels/60218baa464ef900073168c1/colorLogoPNG.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",Empeños a lo bestia
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111910
+#EXTINF:-1 tvg-id="ext" tvg-name="Wipeout" tvg-logo="https://images.pluto.tv/channels/604f8125c6669b00077f7699/colorLogoPNG.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",Wipeout
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111912
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV Teen Mom" tvg-logo="https://images.pluto.tv/channels/604f81a49ef73300070e554f/colorLogoPNG.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",MTV Teen Mom
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111913
+#EXTINF:-1 tvg-id="ext" tvg-name="Anime Clásico" tvg-logo="https://images.pluto.tv/channels/6054acc871ec430007f54c7d/colorLogoPNG.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",Anime Clásico
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111915
+#EXTINF:-1 tvg-id="ext" tvg-name="Tuning" tvg-logo="https://images.pluto.tv/channels/6076c74daa05ac0007d0eb07/colorLogoPNG.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",Tuning
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111916
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Motor" tvg-logo="https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/colorLogoPNG.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",Pluto TV Motor
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111918
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Indies" tvg-logo="https://images.pluto.tv/channels/60cc807324d60a0007708dc8/colorLogoPNG.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",Pluto TV Indies
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111933
+#EXTINF:-1 tvg-id="ext" tvg-name="Top Gear" tvg-logo="https://images.pluto.tv/channels/60d356a534f63f000850cdd7/colorLogoPNG.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",Top Gear
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111934
+#EXTINF:-1 tvg-id="ext" tvg-name="El encantador de perros" tvg-logo="https://images.pluto.tv/channels/60e45687313c5f0007bc8e94/colorLogoPNG.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",El encantador de perros
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111940
+#EXTINF:-1 tvg-id="ext" tvg-name="Mi Extraña Obsesión" tvg-logo="https://images.pluto.tv/channels/60e4573c9f963e00077ecf25/colorLogoPNG.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",Mi Extraña Obsesión
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111941
+#EXTINF:-1 tvg-id="ext" tvg-name="Matrimonio con hijos" tvg-logo="https://images.pluto.tv/channels/60f58d45696a530007088486/colorLogoPNG.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",Matrimonio con hijos
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111945
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV En Vivo" tvg-logo="https://images.pluto.tv/channels/6130d6f3f3f7bb0007dbd092/colorLogoPNG.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",MTV En Vivo
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111950
+#EXTINF:-1 tvg-id="ext" tvg-name="En el punto de mira" tvg-logo="https://images.pluto.tv/channels/61922be835f3910007fc58f6/colorLogoPNG.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",En el punto de mira
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111957
+#EXTINF:-1 tvg-id="ext" tvg-name="Constance Meyer: Jueza en prácticas" tvg-logo="https://images.pluto.tv/channels/6193963c5a960200074ce816/colorLogoPNG.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",Constance Meyer: Jueza en prácticas
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111958
+#EXTINF:-1 tvg-id="ext" tvg-name="M LaLiga 1 HD (VIP)" tvg-logo="http://127.0.0.1/" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",M LaLiga 1 HD (VIP)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/211504
+#EXTINF:-1 tvg-id="ext" tvg-name="M LaLiga 2 HD (VIP)" tvg-logo="http://127.0.0.1/" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",M LaLiga 2 HD (VIP)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/211505
+#EXTINF:-1 tvg-id="ext" tvg-name="M LaLiga 3 HD (VIP)" tvg-logo="http://127.0.0.1/" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",M LaLiga 3 HD (VIP)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/211506
+#EXTINF:-1 tvg-id="ext" tvg-name="M Liga de Campeones 1 HD (VIP)" tvg-logo="http://127.0.0.1/" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",M Liga de Campeones 1 HD (VIP)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/211507
+#EXTINF:-1 tvg-id="ext" tvg-name="M Liga de Campeones 2 HD (VIP)" tvg-logo="http://127.0.0.1/" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",M Liga de Campeones 2 HD (VIP)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/211508
+#EXTINF:-1 tvg-id="ext" tvg-name="M Liga de Campeones 3 HD (VIP)" tvg-logo="http://127.0.0.1/" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",M Liga de Campeones 3 HD (VIP)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/211509
+#EXTINF:-1 tvg-id="ext" tvg-name="M Liga de Campeones 4 HD (VIP)" tvg-logo="http://127.0.0.1/" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",M Liga de Campeones 4 HD (VIP)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/211510
+#EXTINF:-1 tvg-id="ext" tvg-name="M Liga de Campeones 5 HD (SOLO EVENTOS)" tvg-logo="http://127.0.0.1/" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",M Liga de Campeones 5 HD (SOLO EVENTOS)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/211511
+#EXTINF:-1 tvg-id="ext" tvg-name="M Liga de Campeones 6 HD (SOLO EVENTOS)" tvg-logo="http://127.0.0.1/" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",M Liga de Campeones 6 HD (SOLO EVENTOS)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/211512
+#EXTINF:-1 tvg-id="ext" tvg-name="M Liga de Campeones 7 HD (SOLO EVENTOS)" tvg-logo="http://127.0.0.1/" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",M Liga de Campeones 7 HD (SOLO EVENTOS)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/211513
+#EXTINF:-1 tvg-id="ext" tvg-name="M Liga de Campeones 8 HD (SOLO EVENTOS)" tvg-logo="http://127.0.0.1/" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",M Liga de Campeones 8 HD (SOLO EVENTOS)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/211514
+#EXTINF:-1 tvg-id="ext" tvg-name="REAL  MADRID" tvg-logo="http://127.0.0.1/" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",REAL  MADRID
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/211515
+#EXTINF:-1 tvg-id="ext" tvg-name="M Liga de Campeones HD" tvg-logo="" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",M Liga de Campeones HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/211516
+#EXTINF:-1 tvg-id="ext" tvg-name="|ES| Toros TV 4K+" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/t/o/r/torostv.jpg" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",|ES| Toros TV 4K+
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/70732
+#EXTINF:-1 tvg-id="ext" tvg-name="DEPORTES| LA LIGA TV BAR FHD" tvg-logo="http://iptvglobal.site:25461/images/b6526f8f970c3d22d001eb1a87690552.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",DEPORTES| LA LIGA TV BAR FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/70743
+#EXTINF:-1 tvg-id="ext" tvg-name="MOVISTAR PLUS SD | PE" tvg-logo="http://playhispano.org:25461/images/83841d3ba986f51f654a5ce21f1b216b.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",MOVISTAR PLUS SD | PE
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/105212
+#EXTINF:-1 tvg-id="ext" tvg-name="MOVISTAR VAMOS HD | DEP_ESP" tvg-logo="https://lh3.googleusercontent.com/proxy/yObeSWWoIa3SI5pH2uahtRbZY9pLLuRQbY7IQa0to6U0St0HF7nmHBPuUQNQXvspISwwcv__Y8zw4BTTCXKZpPgIpY0J9SGa_iNQiKcgf1crlGjTbozo8MqWusg0F5NVnmk" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",MOVISTAR VAMOS HD | DEP_ESP
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/105213
+#EXTINF:-1 tvg-id="ext" tvg-name="|ES| Movistar Deportes 4K+" tvg-logo="https://i.picasion.com/pic92/bc92bd200ea3f9f5f9cfe1c1edf1fd00.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",|ES| Movistar Deportes 4K+
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/105220
+#EXTINF:-1 tvg-id="ext" tvg-name="|ES| Caza y Pesca 4K+" tvg-logo="" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",|ES| Caza y Pesca 4K+
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/107116
+#EXTINF:-1 tvg-id="ext" tvg-name="|ES| Eurosport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Eurosport_2_HD_Logo.svg/1280px-Eurosport_2_HD_Logo.svg.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",|ES| Eurosport 2
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/107130
+#EXTINF:-1 tvg-id="ext" tvg-name="|ES| Movistar Deportes 4K+" tvg-logo="https://i.picasion.com/pic92/bc92bd200ea3f9f5f9cfe1c1edf1fd00.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",|ES| Movistar Deportes 4K+
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/107132
+#EXTINF:-1 tvg-id="ext" tvg-name="eurosport 1" tvg-logo="http://iptvglobal.site:25461/images/f04450994df11988cf2da4b77d33dd0a.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",eurosport 1
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/107136
+#EXTINF:-1 tvg-id="ext" tvg-name="ES | Caza y Pezca" tvg-logo="http://iptvglobal.site:25461/images/3b581a191e6a52e02cb837e1c5f3b124.jpg" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ES | Caza y Pezca
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129544
+#EXTINF:-1 tvg-id="ext" tvg-name="EUROSPORT 1 FHD" tvg-logo="http://playhispano.org:25461/images/c8c334d77d19406110b87722ffc402cf.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",EUROSPORT 1 FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179324
+#EXTINF:-1 tvg-id="ext" tvg-name="EUROSPORT 1 HD" tvg-logo="http://playhispano.org:25461/images/c8c334d77d19406110b87722ffc402cf.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",EUROSPORT 1 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179325
+#EXTINF:-1 tvg-id="ext" tvg-name="EUROSPORT 2 HD" tvg-logo="http://playhispano.org:25461/images/9295814d84d30ca0c7bb6c3981a34556.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",EUROSPORT 2 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179326
+#EXTINF:-1 tvg-id="ext" tvg-name="GOL HD" tvg-logo="http://playhispano.org:25461/images/29501e66c58f28988ae87da9b68ea71a.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",GOL HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179328
+#EXTINF:-1 tvg-id="ext" tvg-name="GOL TV FHD" tvg-logo="http://playhispano.org:25461/images/29501e66c58f28988ae87da9b68ea71a.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",GOL TV FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179329
+#EXTINF:-1 tvg-id="ext" tvg-name="GOLF FHD" tvg-logo="http://playhispano.org:25461/images/5381c995f7067ed5e3fda1d0b54fd8f5.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",GOLF FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179330
+#EXTINF:-1 tvg-id="ext" tvg-name="GOLF HD" tvg-logo="http://playhispano.org:25461/images/5381c995f7067ed5e3fda1d0b54fd8f5.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",GOLF HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179331
+#EXTINF:-1 tvg-id="ext" tvg-name="ESP| DAZN F1 HD" tvg-logo="http://playhispano.org:25461/images/0d3fc1618dbcf419f824c26cabc028d5.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ESP| DAZN F1 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/188154
+#EXTINF:-1 tvg-id="ext" tvg-name="España - beIN Sports ñ 2mb" tvg-logo="https://sc.dish.com/shared/images/station-logos/BEINE.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",España - beIN Sports ñ 2mb
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/204875
+#EXTINF:-1 tvg-id="ext" tvg-name="ESP| TOROS HD" tvg-logo="http://playhispano.org:8080/images/5d77467481f2fbce7adbf0b85169886b.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ESP| TOROS HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/204939
+#EXTINF:-1 tvg-id="ext" tvg-name="ESP| F1 HD" tvg-logo="http://miarea.vip:8080/images/377cbd98d10f523ad92542a102841202.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ESP| F1 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/204940
+#EXTINF:-1 tvg-id="ext" tvg-name="ESP| #0 SPORTS  FHD" tvg-logo="http://playhispano.org:8080/images/67940993cb73c0e92cc8558dc78c4d22.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ESP| #0 SPORTS  FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/204941
+#EXTINF:-1 tvg-id="ext" tvg-name="ESP| GOLTV HD" tvg-logo="http://miarea.vip:8080/images/16fc5add2debd20c90a043ab94e376a6.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ESP| GOLTV HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/204944
+#EXTINF:-1 tvg-id="ext" tvg-name="ESP| M+ GOLF HD" tvg-logo="http://miarea.vip:8080/images/6d6ca5aab7ca4523edf5dad3584b99b8.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ESP| M+ GOLF HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/204945
+#EXTINF:-1 tvg-id="ext" tvg-name="ESP| VAMOS SPORTS HD" tvg-logo="http://miarea.vip:8080/images/4ca6cac0857448f84313dedb88d5cf49.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ESP| VAMOS SPORTS HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/204943
+#EXTINF:-1 tvg-id="ext" tvg-name="ESP| EUROSPORTS 2 HD" tvg-logo="http://miarea.vip:8080/images/0b29e5bfc58b925a22de70afd7154732.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ESP| EUROSPORTS 2 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/204952
+#EXTINF:-1 tvg-id="ext" tvg-name="M Dazn F1 FHD" tvg-logo="http://boxdigital.xyz:8080/images/666ab05f3ae687687c929f8ddd2f5eb1.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",M Dazn F1 FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/204966
+#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="|ES| Disney Channel 4K+" tvg-logo="https://i.picasion.com/pic92/009881f71fe3a89fc0046b2cbdfaf437.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",|ES| Disney Channel 4K+
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/70698
+#EXTINF:-1 tvg-id="babytv.es" tvg-name="ES | Baby TV" tvg-logo="http://playhispano.org:8080/images/49aa398dd8ac6c020b63d4323ad717d1.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ES | Baby TV
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129552
+#EXTINF:-1 tvg-id="ext" tvg-name="M Dazn F1 HD" tvg-logo="http://boxdigital.xyz:8080/images/666ab05f3ae687687c929f8ddd2f5eb1.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",M Dazn F1 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/204967
+#EXTINF:-1 tvg-id="nickjr.es" tvg-name="ES | Nick Jr" tvg-logo="http://playhispano.org:8080/images/e1050567ce27d7d5464d48ec96ecc0ef.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ES | Nick Jr
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129553
+#EXTINF:-1 tvg-id="clantve.es" tvg-name="CLAN HD" tvg-logo="http://playhispano.org:8080/images/b17252483c97a45ecb814aa4baf17d00.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",CLAN HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179297
+#EXTINF:-1 tvg-id="ext" tvg-name="TVG Infantil" tvg-logo="http://playhispano.org:8080/images/5736ef2d00f1d32e3b732db6ff136dc8.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",TVG Infantil
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179334
+#EXTINF:-1 tvg-id="ext" tvg-name="TVG Musigal" tvg-logo="http://playhispano.org:25461/images/dea14a98358bac488fdcd15cb141fb04.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",TVG Musigal
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179335
+#EXTINF:-1 tvg-id="ext" tvg-name="|ES| LA 1 4K+" tvg-logo="" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",|ES| LA 1 4K+
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/70682
+#EXTINF:-1 tvg-id="ext" tvg-name="|ES| Cuatro 4K+" tvg-logo="" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",|ES| Cuatro 4K+
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/70685
+#EXTINF:-1 tvg-id="ext" tvg-name="|ES| La Sexta 4K+" tvg-logo="" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",|ES| La Sexta 4K+
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/70687
+#EXTINF:-1 tvg-id="ext" tvg-name="|ES| Discovery Channel" tvg-logo="https://i.picasion.com/pic92/3c7bc98108d7b928092a5f425eb60641.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",|ES| Discovery Channel
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/70705
+#EXTINF:-1 tvg-id="ext" tvg-name="|ES| Real Madrid TV 4K+" tvg-logo="" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",|ES| Real Madrid TV 4K+
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/70734
+#EXTINF:-1 tvg-id="ext" tvg-name="|ES| Movistar Comedia 4K+" tvg-logo="http://iptvglobal.site:25461/images/fa088fe42f466888eb83dabf9e837aac.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",|ES| Movistar Comedia 4K+
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/105214
+#EXTINF:-1 tvg-id="ext" tvg-name="|ES| Movistar Estrenos 4K+" tvg-logo="http://iptvglobal.site:25461/images/bc0ee4b850bf9b102969d755520143f4.jpg" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",|ES| Movistar Estrenos 4K+
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/105216
+#EXTINF:-1 tvg-id="ext" tvg-name="|ES| Movistar Series 4K+" tvg-logo="http://iptvglobal.site:25461/images/bda00adee03c0c6489caa59ee9851f88.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",|ES| Movistar Series 4K+
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/105218
+#EXTINF:-1 tvg-id="ext" tvg-name="|ES| Movistar Series Mania 4K+" tvg-logo="" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",|ES| Movistar Series Mania 4K+
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/105221
+#EXTINF:-1 tvg-id="ext" tvg-name="|ES| Comedy Central 4K+" tvg-logo="" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",|ES| Comedy Central 4K+
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/107112
+#EXTINF:-1 tvg-id="ext" tvg-name="|ES| Movistar Comedia 4K+" tvg-logo="http://iptvglobal.site:25461/images/fa088fe42f466888eb83dabf9e837aac.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",|ES| Movistar Comedia 4K+
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/107125
+#EXTINF:-1 tvg-id="ext" tvg-name="|ES| Movistar Estrenos 4K+" tvg-logo="http://iptvglobal.site:25461/images/bc0ee4b850bf9b102969d755520143f4.jpg" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",|ES| Movistar Estrenos 4K+
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/107127
+#EXTINF:-1 tvg-id="ext" tvg-name="|ES| Movistar Series Mania 4K+" tvg-logo="" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",|ES| Movistar Series Mania 4K+
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/107133
+#EXTINF:-1 tvg-id="ext" tvg-name="ESP| TELECINCO HD" tvg-logo="http://miarea.vip:8080/images/403853df6f96513354d146c4eace61da.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ESP| TELECINCO HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/124251
+#EXTINF:-1 tvg-id="ext" tvg-name="ES | La 2" tvg-logo="http://51.222.43.170:36995/images/5a87354bd010051229d13539bd5d2cbb.jpg" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ES | La 2
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129518
+#EXTINF:-1 tvg-id="ext" tvg-name="ES | ANTENA 3" tvg-logo="http://51.222.43.170:36995/images/822ae1f639e631a95779c1c0abef8128.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ES | ANTENA 3
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129519
+#EXTINF:-1 tvg-id="ext" tvg-name="ES | Telecinco" tvg-logo="http://51.222.43.170:36995/images/ab71f380322e796b814765a382cb82b4.jpeg" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ES | Telecinco
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129521
+#EXTINF:-1 tvg-id="ext" tvg-name="ES | Energy" tvg-logo="http://iptvglobal.site:25461/images/b283ba62c958491d39eb5d0e0fa227ba.jpg" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ES | Energy
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129523
+#EXTINF:-1 tvg-id="ext" tvg-name="ES | Mega" tvg-logo="http://51.222.43.170:36995/images/bcc2706ee2a40a8028cdfdfc9d7140ed.jpg" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ES | Mega
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129525
+#EXTINF:-1 tvg-id="ext" tvg-name="ES | Dkiss" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE7XZs1LdVP452Hs0BiIeLvyVhNyWrkb7yZYwuNFIz0fFaNi46&s" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ES | Dkiss
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129527
+#EXTINF:-1 tvg-id="ext" tvg-name="ES | Movistar Estrenos" tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-estrenos.jpg.pagespeed.ic.0N8z3R8Y9H.jpg" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ES | Movistar Estrenos
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129528
+#EXTINF:-1 tvg-id="ext" tvg-name="ES | AMC" tvg-logo="http://iptvglobal.site:25461/images/a615120e6d3bbfe8ca0b5a38509b4cf7.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ES | AMC
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129533
+#EXTINF:-1 tvg-id="ext" tvg-name="ES | TCM" tvg-logo="http://iptvglobal.site:25461/images/3caa0458528da3c317b9cc2b63c2f12f.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ES | TCM
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129534
+#EXTINF:-1 tvg-id="ext" tvg-name="ES | AXN" tvg-logo="http://iptvglobal.site:25461/images/8c6a4bc9e59472a8ce9f6e1cb0292ac4.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ES | AXN
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129536
+#EXTINF:-1 tvg-id="ext" tvg-name="ES | AXN White" tvg-logo="http://iptvglobal.site:25461/images/8c6a4bc9e59472a8ce9f6e1cb0292ac4.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ES | AXN White
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129537
+#EXTINF:-1 tvg-id="ext" tvg-name="ES | Movistar Series" tvg-logo="http://iptvglobal.site:25461/images/ed5f3594e4e3836cf447a2d3e294a196.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ES | Movistar Series
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129540
+#EXTINF:-1 tvg-id="ext" tvg-name="ES | Movistar Seriesmania" tvg-logo="http://iptvglobal.site:25461/images/ed5f3594e4e3836cf447a2d3e294a196.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ES | Movistar Seriesmania
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129541
+#EXTINF:-1 tvg-id="ext" tvg-name="ES | Odisea" tvg-logo="https://pbs.twimg.com/profile_images/726543483377438720/qL4LgDCT_400x400.jpg" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ES | Odisea
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129542
+#EXTINF:-1 tvg-id="ext" tvg-name="ES | Discovery Channel" tvg-logo="http://iptvglobal.site:25461/images/eb0167b32c20afb8a07d0e7167464e6c.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ES | Discovery Channel
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129543
+#EXTINF:-1 tvg-id="ext" tvg-name="ES | Telemadrid HD" tvg-logo="http://51.222.43.170:36995/images/0626d6706af402fb067b91f9f51ecc53.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ES | Telemadrid HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129556
+#EXTINF:-1 tvg-id="ext" tvg-name="ES | Canal Panda" tvg-logo="https://cdn.sincroguia.tv/uploads/images/c/a/n/xcanal-panda.jpg.pagespeed.ic.6suDEFuAPU.webp" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ES | Canal Panda
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129557
+#EXTINF:-1 tvg-id="ext" tvg-name="LA 1 FHD" tvg-logo="http://playhispano.org:25461/images/579dd927d834ecafd6022b70f6da34ba.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",LA 1 FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/152297
+#EXTINF:-1 tvg-id="ext" tvg-name="La 2 HD" tvg-logo="http://playhispano.org:25461/images/a266e77451e29a2596dd206a1ce576af.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",La 2 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/152299
+#EXTINF:-1 tvg-id="ext" tvg-name="CUATRO FHD" tvg-logo="http://iptvglobal.site:25461/images/64e2895fe535c3dbbb675717ce67e852.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",CUATRO FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/152305
+#EXTINF:-1 tvg-id="ext" tvg-name="TELECINCO FHD" tvg-logo="http://iptvglobal.site:25461/images/5ad332383ce0872e8c04a92ee6d19810.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",TELECINCO FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/152308
+#EXTINF:-1 tvg-id="ext" tvg-name="FDF" tvg-logo="http://iptvglobal.site:25461/images/eb570785ad18d66664f5778f3dd461c1.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",FDF
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/152315
+#EXTINF:-1 tvg-id="ext" tvg-name="24 HORAS" tvg-logo="http://boxdigital.xyz:8080/images/1b4ec146befce6f86d0fc8994852ea7e.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",24 HORAS
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179264
+#EXTINF:-1 tvg-id="ext" tvg-name="24 HORAS SD" tvg-logo="http://playhispano.org:25461/images/3b28dcfba84f936846c59c2e51788f2e.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",24 HORAS SD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179265
+#EXTINF:-1 tvg-id="ext" tvg-name="La 1 HD" tvg-logo="http://playhispano.org:25461/images/579dd927d834ecafd6022b70f6da34ba.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",La 1 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179267
+#EXTINF:-1 tvg-id="ext" tvg-name="LA 1 FHD" tvg-logo="http://playhispano.org:25461/images/579dd927d834ecafd6022b70f6da34ba.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",LA 1 FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179268
+#EXTINF:-1 tvg-id="ext" tvg-name="LA 1  FHD (H.265)" tvg-logo="http://playhispano.org:25461/images/d2948d888462d6f27b8feb25c5736518.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",LA 1  FHD (H.265)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179269
+#EXTINF:-1 tvg-id="ext" tvg-name="La 2 HD" tvg-logo="http://playhispano.org:25461/images/a266e77451e29a2596dd206a1ce576af.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",La 2 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179270
+#EXTINF:-1 tvg-id="ext" tvg-name="LA 2 SD" tvg-logo="http://playhispano.org:25461/images/2eec4f9150467b8a74daa405ccb2db06.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",LA 2 SD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179271
+#EXTINF:-1 tvg-id="ext" tvg-name="ANTENA 3" tvg-logo="http://playhispano.org:25461/images/5a57821055007ef407f4991556a89482.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ANTENA 3
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179272
+#EXTINF:-1 tvg-id="ext" tvg-name="ANTENA 3 HD" tvg-logo="http://playhispano.org:25461/images/5a57821055007ef407f4991556a89482.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ANTENA 3 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179273
+#EXTINF:-1 tvg-id="ext" tvg-name="ANTENA 3 FHD" tvg-logo="http://playhispano.org:25461/images/5a57821055007ef407f4991556a89482.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ANTENA 3 FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179274
+#EXTINF:-1 tvg-id="ext" tvg-name="CUATRO" tvg-logo="http://playhispano.org:25461/images/62931604b9282997bbaca7b642c36d33.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",CUATRO
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179275
+#EXTINF:-1 tvg-id="ext" tvg-name="CUATRO HD" tvg-logo="http://playhispano.org:25461/images/64e2895fe535c3dbbb675717ce67e852.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",CUATRO HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179276
+#EXTINF:-1 tvg-id="ext" tvg-name="CUATRO FHD" tvg-logo="http://playhispano.org:25461/images/64e2895fe535c3dbbb675717ce67e852.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",CUATRO FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179277
+#EXTINF:-1 tvg-id="ext" tvg-name="TELECINCO" tvg-logo="http://playhispano.org:25461/images/5438e3b15da7c1a48cf11e7b38298255.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",TELECINCO
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179278
+#EXTINF:-1 tvg-id="ext" tvg-name="TELECINCO HD" tvg-logo="http://playhispano.org:25461/images/e93714898bfe75ad268822111b83836a.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",TELECINCO HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179279
+#EXTINF:-1 tvg-id="ext" tvg-name="TELECINCO FHD" tvg-logo="http://playhispano.org:25461/images/5ad332383ce0872e8c04a92ee6d19810.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",TELECINCO FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179280
+#EXTINF:-1 tvg-id="ext" tvg-name="LA SEXTA" tvg-logo="http://playhispano.org:25461/images/f41d8466919bcba38059226548d37a43.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",LA SEXTA
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179281
+#EXTINF:-1 tvg-id="ext" tvg-name="La Sexta HD" tvg-logo="http://playhispano.org:25461/images/913f42e41823ebcbc17b6f7ca14a6207.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",La Sexta HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179282
+#EXTINF:-1 tvg-id="ext" tvg-name="MEGA" tvg-logo="http://playhispano.org:25461/images/b8e7e9a54566707d8cdeac1fc441c8fe.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",MEGA
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179284
+#EXTINF:-1 tvg-id="ext" tvg-name="NOVA HD" tvg-logo="http://playhispano.org:25461/images/0a24522530b32a1e5ddeb4fa45f4077d.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",NOVA HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179285
+#EXTINF:-1 tvg-id="ext" tvg-name="NEOX" tvg-logo="http://playhispano.org:25461/images/9cfc5d6d2a0056733c727020389654da.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",NEOX
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179286
+#EXTINF:-1 tvg-id="ext" tvg-name="FDF" tvg-logo="http://playhispano.org:25461/images/eb570785ad18d66664f5778f3dd461c1.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",FDF
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179287
+#EXTINF:-1 tvg-id="ext" tvg-name="FDF HD" tvg-logo="http://playhispano.org:25461/images/15c14f7c9b9418ac0b6b761b167a76cc.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",FDF HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179288
+#EXTINF:-1 tvg-id="ext" tvg-name="ENERGY" tvg-logo="http://playhispano.org:25461/images/6c0137ce1ab9583c9073fce173578377.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ENERGY
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179289
+#EXTINF:-1 tvg-id="ext" tvg-name="ENERGY HD" tvg-logo="http://playhispano.org:25461/images/6c0137ce1ab9583c9073fce173578377.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ENERGY HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179290
+#EXTINF:-1 tvg-id="ext" tvg-name="COSMO" tvg-logo="http://playhispano.org:25461/images/d48c3e071bb67e7977b1b37c3e7a4196.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",COSMO
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179291
+#EXTINF:-1 tvg-id="ext" tvg-name="COSMO FHD" tvg-logo="http://playhispano.org:25461/images/f94de889dbb61fba7e41df190ac8a086.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",COSMO FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179292
+#EXTINF:-1 tvg-id="ext" tvg-name="DIVINITY" tvg-logo="http://playhispano.org:25461/images/1a8a746eaa95c13746f2135420973a79.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",DIVINITY
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179293
+#EXTINF:-1 tvg-id="ext" tvg-name="DIVINITY HD" tvg-logo="http://playhispano.org:25461/images/1a8a746eaa95c13746f2135420973a79.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",DIVINITY HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179294
+#EXTINF:-1 tvg-id="ext" tvg-name="DKISS" tvg-logo="http://playhispano.org:25461/images/12120ef9394ed86f941392ce45f1ffea.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",DKISS
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179295
+#EXTINF:-1 tvg-id="ext" tvg-name="DMAX" tvg-logo="http://playhispano.org:25461/images/94b31984afbc54b15c27b75a2e0f8f5b.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",DMAX
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179296
+#EXTINF:-1 tvg-id="ext" tvg-name="CLAN TVE" tvg-logo="http://playhispano.org:25461/images/bd8e48556304854905234cf962d2b445.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",CLAN TVE
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179298
+#EXTINF:-1 tvg-id="ext" tvg-name="ARAGON INT" tvg-logo="http://playhispano.org:25461/images/9a98f63de84730ae08519530e8ccad80.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ARAGON INT
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179299
+#EXTINF:-1 tvg-id="ext" tvg-name="SUNDANCE" tvg-logo="http://playhispano.org:25461/images/f470693c441b9003cafc938620bb1fd9.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",SUNDANCE
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179300
+#EXTINF:-1 tvg-id="ext" tvg-name="TV GALICIA" tvg-logo="http://playhispano.org:25461/images/cc03f0685d4a30eb65fa4956c06f8590.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",TV GALICIA
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179301
+#EXTINF:-1 tvg-id="ext" tvg-name="#0  FHD" tvg-logo="http://playhispano.org:25461/images/13488685430089965e4bd86b692dba19.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",#0  FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179302
+#EXTINF:-1 tvg-id="ext" tvg-name="#0 HD" tvg-logo="http://playhispano.org:25461/images/13488685430089965e4bd86b692dba19.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",#0 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179303
+#EXTINF:-1 tvg-id="ext" tvg-name="101TV Malaga" tvg-logo="http://playhispano.org:25461/images/fd35fa7692c23017e493e6f5dbe96401.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",101TV Malaga
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179304
+#EXTINF:-1 tvg-id="ext" tvg-name="3/24" tvg-logo="http://playhispano.org:25461/images/ae0034a889c809ec350bf4a261faebb4.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",3/24
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179310
+#EXTINF:-1 tvg-id="ext" tvg-name="AMC FHD" tvg-logo="http://playhispano.org:25461/images/8c7fefd33adc3c53670239fa79084170.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",AMC FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179311
+#EXTINF:-1 tvg-id="ext" tvg-name="AXN HD" tvg-logo="http://playhispano.org:25461/images/8bfe76f9947c918d6f8f77b5de246191.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",AXN HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179312
+#EXTINF:-1 tvg-id="ext" tvg-name="AXN HD" tvg-logo="http://playhispano.org:25461/images/8bfe76f9947c918d6f8f77b5de246191.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",AXN HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179313
+#EXTINF:-1 tvg-id="ext" tvg-name="AXN WHITE FHD" tvg-logo="http://playhispano.org:25461/images/1e37e0e7f6152c92f880e63ac2445ce8.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",AXN WHITE FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179314
+#EXTINF:-1 tvg-id="ext" tvg-name="AXN WHITE HD" tvg-logo="http://playhispano.org:25461/images/1e37e0e7f6152c92f880e63ac2445ce8.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",AXN WHITE HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179315
+#EXTINF:-1 tvg-id="ext" tvg-name="CALLE 13 FHD" tvg-logo="http://playhispano.org:25461/images/3293238b4bb44fc090947cb6b9fa7e3d.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",CALLE 13 FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179318
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL COCINA" tvg-logo="http://playhispano.org:25461/images/e85f6f3fd8aa7437cc31c013cb6b2d7c.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",CANAL COCINA
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179319
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL COSTA TV" tvg-logo="http://playhispano.org:25461/images/4dbe9bc48f7f6b99f58b08a65f6e7b44.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",CANAL COSTA TV
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179320
+#EXTINF:-1 tvg-id="ext" tvg-name="CLASSICA" tvg-logo="http://playhispano.org:25461/images/ee0111f21222d0c97f7fb4ea4e01847a.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",CLASSICA
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179322
+#EXTINF:-1 tvg-id="ext" tvg-name="FOX FHD" tvg-logo="http://playhispano.org:25461/images/e6ac5b651207c7d3af4c61fdc8f7054e.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",FOX FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179327
+#EXTINF:-1 tvg-id="ext" tvg-name="TVG Cultural" tvg-logo="http://playhispano.org:25461/images/dd061dd53e1b26ce9ce0fbdc9e59fdb2.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",TVG Cultural
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179332
+#EXTINF:-1 tvg-id="ext" tvg-name="TVG Europa" tvg-logo="http://playhispano.org:25461/images/5d8c93afeb16a7a309a9b66451ad0da2.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",TVG Europa
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179333
+#EXTINF:-1 tvg-id="ext" tvg-name="3/24" tvg-logo="http://playhispano.org:8080/images/1f16c0f29bd65ce5cb990bb34889ef2e.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",3/24
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/207584
+#EXTINF:-1 tvg-id="ext" tvg-name="DW Español (FHD)" tvg-logo="http://playhispano.org:8080/images/e7dc2741e1b8be4622c27294fd745e4d.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",DW Español (FHD)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/207710
+#EXTINF:-1 tvg-id="ext" tvg-name="LIGA DE CAMPEONES 13 por M+ FHD" tvg-logo="http://playhispano.org:8080/images/07f329fee4cef9429950f8adf90884f5.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",LIGA DE CAMPEONES 13 por M+ FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/214042
+#EXTINF:-1 tvg-id="ext" tvg-name="D-ESP | M. LIGA DE CAMPEONES 6" tvg-logo="https://subir-imagen.com/images/2023/02/20/Diseno-sin-titulo5.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",D-ESP | M. LIGA DE CAMPEONES 6
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/214017
+#EXTINF:-1 tvg-id="ext" tvg-name="D-ESP | M. LIGA DE CAMPEONES 7" tvg-logo="http://playhispano.org:8080/images/7e9928f58dd163cb231e0e2ee0df6ca6.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",D-ESP | M. LIGA DE CAMPEONES 7
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/214018
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA FHD | MOVISTAR LIGA DE CAMPEONES" tvg-logo="http://playhispano.org:8080/images/7e9928f58dd163cb231e0e2ee0df6ca6.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ESPAÑA FHD | MOVISTAR LIGA DE CAMPEONES
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/214019
+#EXTINF:-1 tvg-id="ext" tvg-name="LA LIGA SMARTBANK TV ESPAÑA FHD" tvg-logo="http://playhispano.org:8080/images/48d22096be30c2b2d4d76513fbe5047f.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",LA LIGA SMARTBANK TV ESPAÑA FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/214020
+#EXTINF:-1 tvg-id="ext" tvg-name="LA LIGA SMARTBANK TV 2 ESPAÑA FHD" tvg-logo="http://playhispano.org:8080/images/7c95e3969d48032cdb9b8606377aca42.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",LA LIGA SMARTBANK TV 2 ESPAÑA FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/214021
+#EXTINF:-1 tvg-id="ext" tvg-name="LA LIGA SMARTBANK TV 3 ESPAÑA FHD" tvg-logo="http://playhispano.org:8080/images/32ec7c04800123f1d4420627e281eb45.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",LA LIGA SMARTBANK TV 3 ESPAÑA FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/214022
+#EXTINF:-1 tvg-id="ext" tvg-name="LA LIGA TV por M+ FHD" tvg-logo="http://playhispano.org:8080/images/29404eef4f49bd614e74aa4e27aa363c.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",LA LIGA TV por M+ FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/214023
+#EXTINF:-1 tvg-id="ext" tvg-name="LA LIGA TV por M+ FHD" tvg-logo="http://playhispano.org:8080/images/29404eef4f49bd614e74aa4e27aa363c.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",LA LIGA TV por M+ FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/214024
+#EXTINF:-1 tvg-id="ext" tvg-name="LA LIGA TV 2 por M+ FHD" tvg-logo="http://playhispano.org:8080/images/1f0cd502410df52ebf22f93172fda512.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",LA LIGA TV 2 por M+ FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/214025
+#EXTINF:-1 tvg-id="ext" tvg-name="LA LIGA TV 3 por M+ FHD" tvg-logo="http://playhispano.org:8080/images/89ef2cb79b8a2a8587952b3377c147dc.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",LA LIGA TV 3 por M+ FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/214026
+#EXTINF:-1 tvg-id="ext" tvg-name="LA LIGA TV 4 por M+ FHD" tvg-logo="http://playhispano.org:8080/images/2a8c65c44862f1ac246cd4b7ada6e21f.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",LA LIGA TV 4 por M+ FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/214027
+#EXTINF:-1 tvg-id="ext" tvg-name="LA LIGA TV 5 por M+ FHD" tvg-logo="http://playhispano.org:8080/images/a84ef0e53d736b32dad5911513bd4a25.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",LA LIGA TV 5 por M+ FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/214028
+#EXTINF:-1 tvg-id="ext" tvg-name="LA LIGA TV 6 por M+ FHD" tvg-logo="http://playhispano.org:8080/images/57a1ed5503fdbcfb89fe652ccbb7cf20.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",LA LIGA TV 6 por M+ FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/214029
+#EXTINF:-1 tvg-id="ext" tvg-name="LA LIGA TV BAR ESPAÑA FHD" tvg-logo="http://playhispano.org:8080/images/3c1e4bd67169b8153e0047536c9f541e.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",LA LIGA TV BAR ESPAÑA FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/214030
+#EXTINF:-1 tvg-id="ext" tvg-name="LIGA DE CAMPEONES por M+ FHD" tvg-logo="http://playhispano.org:8080/images/203f2ca22cd9de1edd31c717e5fbf1a7.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",LIGA DE CAMPEONES por M+ FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/214031
+#EXTINF:-1 tvg-id="ext" tvg-name="LIGA DE CAMPEONES por M+ FHD" tvg-logo="http://playhispano.org:8080/images/203f2ca22cd9de1edd31c717e5fbf1a7.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",LIGA DE CAMPEONES por M+ FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/214032
+#EXTINF:-1 tvg-id="ext" tvg-name="LIGA DE CAMPEONES 2 por M+ FHD" tvg-logo="http://playhispano.org:8080/images/a15c12c446e2d4b6379a3d9ed1d2e519.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",LIGA DE CAMPEONES 2 por M+ FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/214033
+#EXTINF:-1 tvg-id="ext" tvg-name="LIGA DE CAMPEONES 3 por M+ FHD" tvg-logo="http://playhispano.org:8080/images/c9f07c1ae1e1fa0454e1bb03c8ac47bb.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",LIGA DE CAMPEONES 3 por M+ FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/214034
+#EXTINF:-1 tvg-id="ext" tvg-name="LIGA DE CAMPEONES 4 por M+ FHD" tvg-logo="http://playhispano.org:8080/images/22a3851b88211008d306197ce9fd8ccb.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",LIGA DE CAMPEONES 4 por M+ FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/214035
+#EXTINF:-1 tvg-id="ext" tvg-name="LIGA DE CAMPEONES 6 por M+ FHD" tvg-logo="http://playhispano.org:8080/images/ad5744fc65e5e7808d6a9ad440d038fb.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",LIGA DE CAMPEONES 6 por M+ FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/214036
+#EXTINF:-1 tvg-id="ext" tvg-name="LIGA DE CAMPEONES 7 por M+ FHD" tvg-logo="http://playhispano.org:8080/images/991e0a7095373df035d49f092f3e646c.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",LIGA DE CAMPEONES 7 por M+ FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/214037
+#EXTINF:-1 tvg-id="ext" tvg-name="LIGA DE CAMPEONES 9 por M+ FHD" tvg-logo="http://playhispano.org:8080/images/e202dd86c6e59e656091ad3728f049e0.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",LIGA DE CAMPEONES 9 por M+ FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/214038
+#EXTINF:-1 tvg-id="ext" tvg-name="LIGA DE CAMPEONES 10 por M+ FHD" tvg-logo="http://playhispano.org:8080/images/b30959466ffba718aa01d0a7e83296e5.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",LIGA DE CAMPEONES 10 por M+ FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/214039
+#EXTINF:-1 tvg-id="ext" tvg-name="LIGA DE CAMPEONES 11 por M+ FHD" tvg-logo="http://playhispano.org:8080/images/e3f5d12f093576a2a11fd3cf9ddfc49a.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",LIGA DE CAMPEONES 11 por M+ FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/214040
+#EXTINF:-1 tvg-id="ext" tvg-name="LIGA DE CAMPEONES 12 por M+ FHD" tvg-logo="http://playhispano.org:8080/images/63011bef316d84fb209bcd288ebeb8b6.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",LIGA DE CAMPEONES 12 por M+ FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/214041
+#EXTINF:-1 tvg-id="ext" tvg-name="ESP| MOVISTAR LIGA CAMPEONES 7 HD" tvg-logo="http://playhispano.org:25461/images/42a46488ed6ec7c96363a6eff718631a.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ESP| MOVISTAR LIGA CAMPEONES 7 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/201895
+#EXTINF:-1 tvg-id="ext" tvg-name="LA LIGA TV BAR HD" tvg-logo="" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",LA LIGA TV BAR HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129714
+#EXTINF:-1 tvg-id="ext" tvg-name="SKY SPORTS LA LIGA" tvg-logo="http://daleplay.biz:8080/images/1754717a2d78dae6670ab32973d28f74.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",SKY SPORTS LA LIGA
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129717
+#EXTINF:-1 tvg-id="ext" tvg-name="SPORTS| LA LIGA TV FULL HD" tvg-logo="http://playhispano.org:25461/images/da9c81c849c384a4dba6b0cb6723dfe4.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",SPORTS| LA LIGA TV FULL HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/201873
+#EXTINF:-1 tvg-id="ext" tvg-name="ESP| MOVISTAR LA LIGA HD" tvg-logo="http://playhispano.org:25461/images/10fcb53beacf562ddca9db7242ca83a1.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ESP| MOVISTAR LA LIGA HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/201883
+#EXTINF:-1 tvg-id="ext" tvg-name="ESP| LA LIGA TV BAR FULL HD" tvg-logo="http://playhispano.org:25461/images/b6526f8f970c3d22d001eb1a87690552.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ESP| LA LIGA TV BAR FULL HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/201884
+#EXTINF:-1 tvg-id="ext" tvg-name="ESP| MOVISTAR LIGA HD" tvg-logo="http://playhispano.org:25461/images/10fcb53beacf562ddca9db7242ca83a1.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ESP| MOVISTAR LIGA HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/201885
+#EXTINF:-1 tvg-id="ext" tvg-name="ESP| MOVISTAR LA LIGA HD 1" tvg-logo="http://playhispano.org:25461/images/10fcb53beacf562ddca9db7242ca83a1.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ESP| MOVISTAR LA LIGA HD 1
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/201886
+#EXTINF:-1 tvg-id="ext" tvg-name="ESP| MOVISTA LIGA DE CAMPEONES HD" tvg-logo="http://playhispano.org:25461/images/42a46488ed6ec7c96363a6eff718631a.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ESP| MOVISTA LIGA DE CAMPEONES HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/201888
+#EXTINF:-1 tvg-id="ext" tvg-name="ESP| MOVISTAR LIGA CAMPEONES 4 HD" tvg-logo="http://playhispano.org:25461/images/42a46488ed6ec7c96363a6eff718631a.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ESP| MOVISTAR LIGA CAMPEONES 4 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/201892
+#EXTINF:-1 tvg-id="ext" tvg-name="BEIN SPORT ESPANA" tvg-logo="https://elcomercio.pe/resizer/yLO4T708aaZcC3WUPpP_6eW7KvY=/787x442/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/YYMGVXVEWZAFJNGBVQULIWBRCY.jpg" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",BEIN SPORT ESPANA
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/179316
+#EXTINF:-1 tvg-id="ext" tvg-name="|ES| #0 4K+" tvg-logo="" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",|ES| #0 4K+
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/70690
+#EXTINF:-1 tvg-id="ext" tvg-name="ESPAÑA| MOVISTAR LA LIGA FHD" tvg-logo="https://i.picasion.com/pic92/9e9f173f9818cb06cda373646924c965.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ESPAÑA| MOVISTAR LA LIGA FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/70747
+#EXTINF:-1 tvg-id="ext" tvg-name="MOVISTAR DEPORTES FHD | DEP_ESP" tvg-logo="https://i.picasion.com/pic92/a8988552c2f2400e3fb51f6a6e2d0fcb.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",MOVISTAR DEPORTES FHD | DEP_ESP
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/70748
+#EXTINF:-1 tvg-id="ext" tvg-name="MOVISTAR DEPORTES SD | PE" tvg-logo="https://i.picasion.com/pic92/a8988552c2f2400e3fb51f6a6e2d0fcb.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",MOVISTAR DEPORTES SD | PE
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/70749
+#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="Bein Sports ES" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/4b9cad1/2147483647/strip/true/crop/1000x716+0+0/resize/1000x716!/format/webp/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2F0f%2Fd6%2F71d0eb894151a228abcc5d13f591%2Fcopa-suramericana-conmebol-foto-twitter.jpg" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",Bein Sports ES
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/90528
+#EXTINF:-1 tvg-id="ext" tvg-name="MOVISTAR DEPORTES FHD | DEP_ESP" tvg-logo="https://i.picasion.com/pic92/a8988552c2f2400e3fb51f6a6e2d0fcb.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",MOVISTAR DEPORTES FHD | DEP_ESP
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/105203
+#EXTINF:-1 tvg-id="ext" tvg-name="MOVISTAR DEPORTES SD | PE" tvg-logo="https://i.picasion.com/pic92/a8988552c2f2400e3fb51f6a6e2d0fcb.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",MOVISTAR DEPORTES SD | PE
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/105204
+#EXTINF:-1 tvg-id="ext" tvg-name="MOVISTAR LA LIGA | DEP_ESP" tvg-logo="https://i.picasion.com/pic92/9e9f173f9818cb06cda373646924c965.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",MOVISTAR LA LIGA | DEP_ESP
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/105206
+#EXTINF:-1 tvg-id="ext" tvg-name="MOVISTAR LIGA DE CAMPEONES HD | DEP_ESP" tvg-logo="https://i.picasion.com/pic92/eca6e881b070a58d6e88b09bf765de3a.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",MOVISTAR LIGA DE CAMPEONES HD | DEP_ESP
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/105210
+#EXTINF:-1 tvg-id="ext" tvg-name="|ES| Movistar Golf 4K+" tvg-logo="https://i.picasion.com/pic92/2cd7eeec2f29bc787fa7b41eeec0c27f.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",|ES| Movistar Golf 4K+
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/105222
+#EXTINF:-1 tvg-id="ext" tvg-name="ESP| EUROSPORTS 1 HD" tvg-logo="https://i.picasion.com/pic92/da7c6370ff64dcf1973e7e662cfbffb9.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ESP| EUROSPORTS 1 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/122827
+#EXTINF:-1 tvg-id="ext" tvg-name="DEP HD: MOVISTAR LA LIGA (OPC 2)" tvg-logo="https://i.picasion.com/pic92/8d0918f640fdfec1dd4301790d4bf7cc.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",DEP HD: MOVISTAR LA LIGA (OPC 2)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/156575
+#EXTINF:-1 tvg-id="ext" tvg-name="DEP SD: BEIN SPORTS Ñ (OPC 2)" tvg-logo="https://i.picasion.com/pic92/0e984eae6af0e4da9aaa26ba63041e67.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",DEP SD: BEIN SPORTS Ñ (OPC 2)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/156590
+#EXTINF:-1 tvg-id="ext" tvg-name="DEP SD: MOVISTAR LA LIGA DE CAMPEONES (OPC 1)" tvg-logo="https://i.picasion.com/pic92/8d0918f640fdfec1dd4301790d4bf7cc.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",DEP SD: MOVISTAR LA LIGA DE CAMPEONES (OPC 1)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/156617
+#EXTINF:-1 tvg-id="ext" tvg-name="DEP SD: MOVISTAR LA LIGA DE CAMPEONES" tvg-logo="https://i.picasion.com/pic92/8d0918f640fdfec1dd4301790d4bf7cc.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",DEP SD: MOVISTAR LA LIGA DE CAMPEONES
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/156618
+#EXTINF:-1 tvg-id="ext" tvg-name="DEP SD: MOVISTAR TOROS" tvg-logo="http://iptvglobal.site:25461/images/526d0beaefe36336043e170448d78619.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",DEP SD: MOVISTAR TOROS
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/156619
+#EXTINF:-1 tvg-id="ext" tvg-name="Movistar Deportes 2" tvg-logo="https://i.picasion.com/pic92/7871ef3a0267ebe80b42997f85d66980.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",Movistar Deportes 2
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/156621
+#EXTINF:-1 tvg-id="ext" tvg-name="LA LIGA SMARTBANK 1 FHD" tvg-logo="https://i.picasion.com/pic92/ff07a1c0218f5564c5088dbd3f7f06b0.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",LA LIGA SMARTBANK 1 FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/163239
+#EXTINF:-1 tvg-id="ext" tvg-name="LA LIGA SMARTBANK2 FHD" tvg-logo="https://i.picasion.com/pic92/ff07a1c0218f5564c5088dbd3f7f06b0.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",LA LIGA SMARTBANK2 FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/163240
+#EXTINF:-1 tvg-id="ext" tvg-name="LA LIGA SMARTBANK  HD" tvg-logo="https://i.picasion.com/pic92/ff07a1c0218f5564c5088dbd3f7f06b0.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",LA LIGA SMARTBANK  HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/163241
+#EXTINF:-1 tvg-id="ext" tvg-name="LA LIGA SMARTBANK HD" tvg-logo="https://i.picasion.com/pic92/ff07a1c0218f5564c5088dbd3f7f06b0.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",LA LIGA SMARTBANK HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/163242
+#EXTINF:-1 tvg-id="ext" tvg-name="Espn Deportes" tvg-logo="http://playhispano.org:25461/images/d5152b85d3095d7ffe90d1d317076d26.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",Espn Deportes
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/196197
+#EXTINF:-1 tvg-id="ext" tvg-name="ESP| COCINA FHD" tvg-logo="https://images.squarespace-cdn.com/content/5a0a105da803bb1549f43b85/1546991442664-7CN5I0HWPBIEJLIPDIWN/Full+Color.png?content-type=image%2Fpng" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ESP| COCINA FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/118537
+#EXTINF:-1 tvg-id="ext" tvg-name="MasterChef" tvg-logo="http://iptvglobal.site:25461/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",MasterChef
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111329
+#EXTINF:-1 tvg-id="ext" tvg-name="MasterChef" tvg-logo="http://iptvglobal.site:25461/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",MasterChef
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/111723
+#EXTINF:-1 tvg-id="ext" tvg-name="ES | Crimen + Investigacion" tvg-logo="http://51.222.43.170:36995/images/440cc486980b67cbd0630383f8a6c43e.JPG" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ES | Crimen + Investigacion
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/129546
+#EXTINF:-1 tvg-id="ext" tvg-name="KIDS| PANDA HD" tvg-logo="https://i.picasion.com/pic92/3f89bd55a4782e095e6d3f255ea7f13b.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",KIDS| PANDA HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86389
+#EXTINF:-1 tvg-id="ext" tvg-name="KIDS| NICKELODEON FHD" tvg-logo="https://i.picasion.com/pic92/1f41d42e044c4d719980ac69a67cd6a5.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",KIDS| NICKELODEON FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86390
+#EXTINF:-1 tvg-id="ext" tvg-name="KIDS| NICK HD" tvg-logo="https://i.picasion.com/pic92/0080bdd4d74f6b0347af71d6e887b73b.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",KIDS| NICK HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86392
+#EXTINF:-1 tvg-id="ext" tvg-name="KIDS| NICK 2 HD" tvg-logo="https://i.picasion.com/pic92/6aad2f3cb290aceee26a7e0cfedc87ce.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",KIDS| NICK 2 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86393
+#EXTINF:-1 tvg-id="ext" tvg-name="KIDS| NICK JR" tvg-logo="https://i.picasion.com/pic92/e9849a5c986060e9bbb5feebc4c84c7c.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",KIDS| NICK JR
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86394
+#EXTINF:-1 tvg-id="ext" tvg-name="KIDS| NICKTOON HD" tvg-logo="https://i.picasion.com/pic92/e97183af8daaa012b02156e14d1ddecf.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",KIDS| NICKTOON HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86395
+#EXTINF:-1 tvg-id="ext" tvg-name="KIDS| DISNEY CHANNEL FHD" tvg-logo="https://i.picasion.com/pic92/009881f71fe3a89fc0046b2cbdfaf437.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",KIDS| DISNEY CHANNEL FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86396
+#EXTINF:-1 tvg-id="ext" tvg-name="KIDS| DISNEY JR HD" tvg-logo="https://i.picasion.com/pic92/df1812f643a003097a536093de37b04f.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",KIDS| DISNEY JR HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86397
+#EXTINF:-1 tvg-id="ext" tvg-name="KIDS| DISNEY XD FHD" tvg-logo="https://i.picasion.com/pic92/7d548d0fa725645601e1396d3865bc49.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",KIDS| DISNEY XD FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86398
+#EXTINF:-1 tvg-id="ext" tvg-name="KIDS| DISCOVERY KIDS FHD" tvg-logo="https://i.picasion.com/pic92/a4b9d73aa8e92a6026851181611fbe31.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",KIDS| DISCOVERY KIDS FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86399
+#EXTINF:-1 tvg-id="ext" tvg-name="KIDS| BOOMERAN FHD" tvg-logo="http://iptvglobal.site:25461/images/bf146b1d1d7281749d2715c20bbb9c46.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",KIDS| BOOMERAN FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86400
+#EXTINF:-1 tvg-id="ext" tvg-name="KIDS| BOIN KIDS HD" tvg-logo="http://iptvglobal.site:25461/images/c36d748b11694d23ae7ccce14f4286dc.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",KIDS| BOIN KIDS HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86401
+#EXTINF:-1 tvg-id="ext" tvg-name="KIDS| BABY TV FHD" tvg-logo="https://i.picasion.com/pic92/285258ac0eafdfb930dfef47cbcd8860.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",KIDS| BABY TV FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86402
+#EXTINF:-1 tvg-id="ext" tvg-name="KIDS| CARTOON NETWORKS FHD" tvg-logo="https://i.picasion.com/pic92/b1f38c6755faad12fdf555290c877050.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",KIDS| CARTOON NETWORKS FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86404
+#EXTINF:-1 tvg-id="ext" tvg-name="KIDS| NICK MUSIC HD" tvg-logo="https://i.picasion.com/pic92/f02c97a34e5d17e42ad6091390609163.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",KIDS| NICK MUSIC HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/86405
+#EXTINF:-1 tvg-id="ext" tvg-name="|ES| AXN 4K+" tvg-logo="https://i.picasion.com/pic92/ff7e04f714e191ff795392fa777c7f34.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",|ES| AXN 4K+
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/70712
+#EXTINF:-1 tvg-id="ext" tvg-name="|ES| AXN White 4K+" tvg-logo="https://i.picasion.com/pic92/ff7e04f714e191ff795392fa777c7f34.gif" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",|ES| AXN White 4K+
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/70713
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ESP| DAZN 1 HD" tvg-logo="http://miarea.vip:8080/images/e915a072eefc6ef5f1fcb5635011f02c.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ESP| DAZN 1 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/188150
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="ESP| DAZN 2 HD" tvg-logo="http://playhispano.org:8080/images/6d4646aff685efbad0c6b1947974f4f7.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ESP| DAZN 2 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/188151
+#EXTINF:-1 tvg-id="dazn3.es" tvg-name="ESP| DAZN3 HD" tvg-logo="http://playhispano.org:8080/images/6d4646aff685efbad0c6b1947974f4f7.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ESP| DAZN3 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/188152
+#EXTINF:-1 tvg-id="dazn4.es" tvg-name="ESP| DAZN 4 HD" tvg-logo="http://playhispano.org:8080/images/6d4646aff685efbad0c6b1947974f4f7.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",ESP| DAZN 4 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/188153
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="DAZN 01 SD" tvg-logo="http://144.217.80.14/faltantes/dazn1.jpg" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",DAZN 01 SD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/213714
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="DAZN 02 SD" tvg-logo="http://playhispano.org:8080/images/64837201c87da04f89419ce68bddd367.jpg" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",DAZN 02 SD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/213715
+#EXTINF:-1 tvg-id="dazn3.es" tvg-name="DAZN 03 SD" tvg-logo="http://playhispano.org:8080/images/5aaa82e27d6bb090baf3663ae97cb026.jpg" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",DAZN 03 SD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/213716
+#EXTINF:-1 tvg-id="dazn4.es" tvg-name="DAZN 04 SD" tvg-logo="http://playhispano.org:8080/images/f18de70929a5eaba704e11f26a770b03.jpg" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",DAZN 04 SD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/213717
+#EXTINF:-1 tvg-id="ext" tvg-name="DZN | DAZN LA LIGA HD" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPUAAAB+CAMAAADLGKdMAAAAe1BMVEUAAAD///9VVVVmZma7u7tOTk5/f386Ojpra2vMzMyZmZkzMzMRERFxcXGIiIhEREQrKyvc3Nzz8/P5+fm/v78LCwsjIyPh4eHq6uqfn58eHh42NjbOzs7s7OxdXV2pqal6enqRkZGysrKnp6dAQEAXFxeMjIxQUFBZWVmSrC9HAAAK4ElEQVR4nO2d6WKjKhSAMWapiYlGxWxm3/r+T3hF2YWARju3jefHtOMA8cMDnM0MyAafJ1MwBJ8nbk/9MdJTf4701J8jjHoy/EmZ/0+oR85Pyqan7qn/NPW0p+6pe+qeuqfuqXvqv0w9u30atX+4RM76B6iPPt8epqOxp4eJAtzufnlNfW5ys7NjXHS+v0OMxEw9qnYKNzoYZl5vW6feDUnnfGphGIyCXeqbuzWjnqi6TVbGKUrapYZn1vkEvsiv68upwTJvSA22S1XbPWQtvlQNGlML03wFT+FTp+p7bJ8apJGiLe8/3tukdmO+8xKE0nCJYh12QQ0OirbCZ79U8XrUZ6k3BLE8oDfrhBr6ufBdq1s5r+AGFa9FLUM7O5BVRowf0DxSbep5MXTGwnzVDmKA5KWK16FeVHq74KgYM9t2RJ3LhfZdy03xYR3if3+l4jWoFUtpCsaqQfe2u1p9aueb9JUNEaLgZMRXKv6whp5VlnC+iMG3atDY9hBrQE0ftqx52MrcOWn5yysVt6euruDcBAQz1aAH2zEbUFMzeC61DMhkkLX/QsWtqU+KznEGoeLyyXbMJtQO2StdseEeX86cRDMtNal36I9hpWvyjW6gaiXVcGiaUBPjX1q3+FORAe6zX5tTh87ymf8YiMZvhu+n4t3kC2/01SE1OSAk6oC1IwtMr+IW1MjF8fL9CY4jRT95U8kgCGLHMn3WHjVRcER6rPSpT70t9+5hbnNtr6Qb26/S524WuFOi6Ks7mKDJcX+YGiu4j242wktfr+IL453RzzvmR8KkNAQVTJNC1aMQ7AqNiK2O7PaosYKXNgUxyLUBCDM16xpP853ksNbtV7elEwdgti8br2xCDq1REwUvTcVppVNdakFNorw5XGQaQxtuvkFIDcXrT1ITznLKyZmuVXEjtWiHrgytU26jDwxt26TGnxXgv+5wG52KG6mnQnPD3rzlT7flz1GTh3taljKv9KpJLRiiMbdYZ4PiB/xm1+6iyTLohBpWrugNI52KG6n3fOuEXoZTZ5Vdw3myXEfEJoGSneZ1QR0D+UouWm9Ho+ImatHOpqe7Xw43joWplkO2O82g71BT7+PBGukD8xoVN1GnQmtqaeJFhY3ziByQkrE+7oCaqhsXz9Bb/hoVN92YSE1XKqYmJiqJX/higCPRDPoONTWQuI3zhTuvVnETtThZlLrc2SPXLblpgEMMMsSmCFp96oQMyT2OV5knlYNspvaF1nSii8G8/BGHaDIjNtli7MEUL7WndtGBlB0PdB45r4co+GDBhDgKqXJUEzVUtr4fN0u8JcBF7E3ZwhKtY5MP0jweDrmzhcw5f4TQ568KAZk3HMGrJkEr5HtRI2TJ44lza4pFMupUOCHN1FyUkgCmyo5KFTc6woJrjn24W3FgYfUtImcZ1WVhlo7KIVXU1Guxow650CWZWvGUIoeTSsVNtyVH/ssT2OPHLRcYPcmFALnJTuErpdXYFtk9ouBi6ISqYlXFzdBgwFqvxjjoeuXHLR8uVfEHP77JFBfqw5XYSuoZD00cIl/qSU7TiopbQNOwcnxlPhT2w4oHPyl/p+kOIS1gpo45z0yFrXDc/IUQmSc7qZykOJFRG0BjxfG+/PzjyCVYPN/VHp0m67U4lLvi7t1M7cRcJlKBfUl9XtLb10XKRuATHMr2yCosu0hGqR10fhatz7m2+PMlY3ge1s4QL5jryvHcVOgC/TScBIODa0oH5NQmbLPEeySKzIxKLKGB/8wnM5xKIUD4JBoV36iNMnFHk7BOsQaiduLnm9g1xBYayQh7FWue6I5tbs7YxrHx9TK5bBY2+fuC2ok5R7xbbHtoOGc7pvBGTlqo+JGztYWz2qbevqR24m92KXC6k6VtZj09CxUgfAgQHoZZduE2WTGLaLT6GLWQD3xdPfSW2AXpATmamVxeLFu39kdQam6ZyJ/YolgXzVQytSt9V/Ep2dSnEOqEUz1lUVU7YqN+pVRrE5OnuuVEaBXZDI6peWhl8UNLEqX6WxElVByEajdeNBOsXkUsqXnoF0nnFmRlXTFTrcFRR4ak+7XaOQrqn4POsW2fthzvdST3FJbzF4g6EVsZK4jaAH2ZKuUq3JWHXr70+DvYJ+hS9datscNK9SKnJ9BdrRBgIDW6aIeTqA3Q2mwZ72Lhp8Clm0i6ororWWPL0Z0MbEs3Dt4eyEDbKMqc7KqQXLA0qLd+21WEkFhVK3E/FUNaY0tO3BhsnH02TJZEpZ6VAixjTJhQc5ueck2ftH25IDR1wunZSRwlVdGZNfa3sGhnQKrPzu1zKe1hkc+UqdUbWT1qeni+orbHvnGfsapUCuerWNzzbHLXErVm965HTdfxS2p77C07jR+KOxwIpYeR7asRjPqmhn6RkeLWNaMmpuRransjDY4J1k1Re7a/81NhTuFWqHXx8ETnJvH6xgXXru1S5wdDqT5rABXm2oU7JeyrNC3ebNpnHifMCeCNfo46jVumzvUHgW3Ud3igYQa7o9qWWhB2NAiRTz6QOm2dOl/ecy8AZ9VA+y0OCFzsi+LrUu+peSQWMPPU96h96kLUvuC0NNnrQNelpiEXyUoWguaPbqiVacL4jOxSz6J+rTk1i0mJJUIitb/vhFo10rE0Ubf1XvGpR82MV7mxmCAZd0JdseijaWju9T41Ne3v8isfIjVcd0E9FvJl++OgzkoWpQ41u9OKuYCpuZqsDnYzACeHE3JyH6dD06dcSg1qlh6tWoaYOsTWf77XdUHdmthTR3R6FSEtQk1mxv0r1DQgBRUlF4TaIXHM5d+gZvbeWfGvlJrADv4E9Zo6ccqEEKWmORTi6nZFPVt8mxvpxJaamgGVQ0uiJmc62QU6okY+TvNvhrOkZqVM6u9LYNSO9HZRQ+o0CALFeTwLgtJoQCG1Gk6WJHbUzCjTQHDUa/FmG1Ij805xJg9JSgedI9apwopYUce09Fj5hr1ILSleR9RgsrCOnFTFivpEm+teaOCp90L6oQXq76N3GW0Xi8WWUfun0wl5vXAwHgdgMhjsiotDb5qOFgvTirehZpEERe6pSi0SvU3tlzEbNN8zTsOdIgwcFg5vkhTu4KQI5EVZnXozLXVEIwm6gKJELYQq36bmbP4Ktc8C5Bt+9bVATasYfM2XpMjUQtjuXWpUYxhfH4mSOm8VfYWHMv2DaipX0/OqFWpWP7MNBOFflhWpYy4N9y71BY8+VVFn5Z6DDKcNiqCi99zQs3mfWp9E4VwvkZp/IeJd6hVOxKcq6hiXV+Y/NyjrUpxlpzao9a97PiuNCHXMUhvvUq+xtvka6gD/2wZtOsVh5nZLPao0ookBlnB6lzrDds9BRb0sDTSk/Rt0pYjrXf4ZNbMw3qCeDwaDGSK6pP5hT6hj9N8ZbEtqdJImi2Kn2xQJqLm/PTv/SsM5G/kNaiRnvgRrRo+xQ0nNuUIbvorofWpNvRMQqttwI84LJZugpqLJmprsmZGKGsyKc2QTob0cJrTl+9ReMFPLjTNPswPSuwN3Zf81QY0GmjPeRP2F02q5bTlKYmf1uOV/CcGZZNvS/I8d8P3t12K8g+WuBk9LJ84Oc88zeWP/6nsL6/nXuhgwerrjFCX/8ItrlsHi30Gtk1HD8X43NZjjcG3Nr7z85dQgXVyWXgff4Pf/pm4mPXVP3VP31D11T91T/ybqrfuTUuf7cbuk/iTpqT9HeurPkZ76c8T9DxwUr+yNtjDfAAAAAElFTkSuQmCC" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",DZN | DAZN LA LIGA HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/222318
+#EXTINF:-1 tvg-id="ext" tvg-name="DZN | DAZN LA LIGA 1 SD" tvg-logo="http://playhispano.org:8080/images/7019dfd737ba1dcc91e78e0c5962925b.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",DZN | DAZN LA LIGA 1 SD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/222319
+#EXTINF:-1 tvg-id="ext" tvg-name="DZN | M. DAZN LA LIGA 1 HD" tvg-logo="http://playhispano.org:8080/images/7019dfd737ba1dcc91e78e0c5962925b.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",DZN | M. DAZN LA LIGA 1 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/222320
+#EXTINF:-1 tvg-id="ext" tvg-name="DZN | M. DAZN LA LIGA 1 FHD" tvg-logo="http://playhispano.org:8080/images/7019dfd737ba1dcc91e78e0c5962925b.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",DZN | M. DAZN LA LIGA 1 FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/222321
+#EXTINF:-1 tvg-id="ext" tvg-name="DZN | M. DAZN LA LIGA 2 HD" tvg-logo="http://playhispano.org:8080/images/5151af04036e072fe4e97668a0f44cc8.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",DZN | M. DAZN LA LIGA 2 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/222322
+#EXTINF:-1 tvg-id="ext" tvg-name="DZN | M. DAZN LA LIGA 2 FHD" tvg-logo="http://playhispano.org:8080/images/5151af04036e072fe4e97668a0f44cc8.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",DZN | M. DAZN LA LIGA 2 FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/222323
+#EXTINF:-1 tvg-id="ext" tvg-name="DZN | DAZN F1 FHD" tvg-logo="http://playhispano.org:8080/images/ee066fe4511987f9347ca589f1c90dcb.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",DZN | DAZN F1 FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/222324
+#EXTINF:-1 tvg-id="ext" tvg-name="DZN | DAZN F1 HD" tvg-logo="http://playhispano.org:8080/images/ee066fe4511987f9347ca589f1c90dcb.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",DZN | DAZN F1 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/222325
+#EXTINF:-1 tvg-id="ext" tvg-name="DZN | DAZN F1 FHD" tvg-logo="http://playhispano.org:8080/images/ee066fe4511987f9347ca589f1c90dcb.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",DZN | DAZN F1 FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/222326
+#EXTINF:-1 tvg-id="ext" tvg-name="DZN | DAZN 2 FHD" tvg-logo="http://playhispano.org:8080/images/1a0196331c9a2d920a1ae3e39b48b123.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",DZN | DAZN 2 FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/222327
+#EXTINF:-1 tvg-id="ext" tvg-name="DZN | DAZN F1 FHD" tvg-logo="http://playhispano.org:8080/images/a2b5f5e1379678531a0b267bea5fd18c.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",DZN | DAZN F1 FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/222328
+#EXTINF:-1 tvg-id="ext" tvg-name="DZN | DAZN F1 FHD" tvg-logo="http://playhispano.org:8080/images/a2b5f5e1379678531a0b267bea5fd18c.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",DZN | DAZN F1 FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/222329
+#EXTINF:-1 tvg-id="ext" tvg-name="DZN | DAZN MOVISTAR 1 SD" tvg-logo="http://playhispano.org:8080/images/c50d118e1fa88ac01d06342e36579d41.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",DZN | DAZN MOVISTAR 1 SD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/222330
+#EXTINF:-1 tvg-id="ext" tvg-name="DZN | DAZN MOVISTAR 1 FHD" tvg-logo="http://playhispano.org:8080/images/c50d118e1fa88ac01d06342e36579d41.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",DZN | DAZN MOVISTAR 1 FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/222331
+#EXTINF:-1 tvg-id="ext" tvg-name="DZN | DAZN MOVISTAR 2 HD" tvg-logo="http://playhispano.org:8080/images/5383ed912ed499703d6de204bda353a8.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",DZN | DAZN MOVISTAR 2 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/222332
+#EXTINF:-1 tvg-id="ext" tvg-name="DZN | DAZN MOVISTAR 3 FHD" tvg-logo="http://playhispano.org:8080/images/d145e39c4cbe1afe0c16e771e70ba5e5.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",DZN | DAZN MOVISTAR 3 FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/222333
+#EXTINF:-1 tvg-id="ext" tvg-name="DZN | DAZN MOVISTAR 4 HD" tvg-logo="http://playhispano.org:8080/images/a722253c112ff03df5e1a88cad422397.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",DZN | DAZN MOVISTAR 4 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/222334
+#EXTINF:-1 tvg-id="ext" tvg-name="DZN | DAZN 1 L" tvg-logo="http://playhispano.org:8080/images/e915a072eefc6ef5f1fcb5635011f02c.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",DZN | DAZN 1 L
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/222335
+#EXTINF:-1 tvg-id="ext" tvg-name="DZN | DAZN MOVISTAR 1 HD" tvg-logo="http://playhispano.org:8080/images/c50d118e1fa88ac01d06342e36579d41.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",DZN | DAZN MOVISTAR 1 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/222336
+#EXTINF:-1 tvg-id="ext" tvg-name="DZN | DAZN MOVISTAR 2 SD" tvg-logo="http://playhispano.org:8080/images/5383ed912ed499703d6de204bda353a8.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",DZN | DAZN MOVISTAR 2 SD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/222337
+#EXTINF:-1 tvg-id="ext" tvg-name="DZN | DAZN MOVISTAR 3 HD" tvg-logo="http://playhispano.org:8080/images/d145e39c4cbe1afe0c16e771e70ba5e5.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",DZN | DAZN MOVISTAR 3 HD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/222338
+#EXTINF:-1 tvg-id="ext" tvg-name="DZN | DAZN MOVISTAR 4 FHD" tvg-logo="http://playhispano.org:8080/images/a722253c112ff03df5e1a88cad422397.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",DZN | DAZN MOVISTAR 4 FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/222339
+#EXTINF:-1 tvg-id="ext" tvg-name="DZN | DAZN F1 SD" tvg-logo="http://playhispano.org:8080/images/ee066fe4511987f9347ca589f1c90dcb.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",DZN | DAZN F1 SD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/222340
+#EXTINF:-1 tvg-id="ext" tvg-name="DZN | DAZN MOVISTAR 2 FHD" tvg-logo="http://playhispano.org:8080/images/5383ed912ed499703d6de204bda353a8.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",DZN | DAZN MOVISTAR 2 FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/222341
+#EXTINF:-1 tvg-id="ext" tvg-name="LA LIGA (DAZN LA LIGA)" tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png'" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",LA LIGA (DAZN LA LIGA)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/222344
+#EXTINF:-1 tvg-id="ext" tvg-name="LA LIGA (DAZN LA LIGA 2)" tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png'" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",LA LIGA (DAZN LA LIGA 2)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/222345
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL VIX LO MEJOR LIGA MX (HD)" tvg-logo="https://play-lh.googleusercontent.com/s2G05IFOkSB2E6w_lBAgVOJT8rYVSIX7cT5dRR7HjWhUM0smh606nQ3uqWM8sLPk7BI" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",CANAL VIX LO MEJOR LIGA MX (HD)
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/222346
+#EXTINF:-1 tvg-id="ext" tvg-name="DZN | DAZN F1 FHD" tvg-logo="http://playhispano.org:8080/images/ee066fe4511987f9347ca589f1c90dcb.png" group-title="Server 1⭐️     46.166.171.183:8080/skytvperu",DZN | DAZN F1 FHD
+http://46.166.171.183:8080/skytvperu/61DS56165DW1/222347
 
 
 

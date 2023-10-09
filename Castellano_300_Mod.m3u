@@ -2770,6 +2770,8 @@ http://magott.net:80/abdsamad/112233/2748
 http://magott.net:80/abdsamad/112233/2752
 #EXTINF:-1 tvg-id="0" tvg-name="|ES| MEZZO  HD" tvg-logo="" group-title="Server 2⭐️",|ES| MEZZO  HD
 http://magott.net:80/abdsamad/112233/2754
+#EXTINF:-1 tvg-id="0" tvg-name="|ES| MEZZO LIVE" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/MTV.png" group-title="Server 2⭐️",|ES| MEZZO LIVE
+http://magott.net:80/abdsamad/112233/2757
 
 
 
@@ -3297,3 +3299,159 @@ https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8
 https://app.viloud.tv/hls/channel/c0d91440f0b445407e7b7a4e414f64ca.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Diez TV (1080p)" tvg-logo="" group-title="Autonomicas",Diez TV (1080p)
 https://streaming.cloud.innovasur.es/mmj/index.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="0" tvg-name="beIN SPORTS GLOBAL HD" tvg-logo="http://magott.net:80/images/643a97af82fb334f27205245937cf865.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS GLOBAL HD
+http://magott.net:80/abdsamad/112233/3
+#EXTINF:-1 tvg-id="0" tvg-name="beIN SPORTS NEWS HD" tvg-logo="http://magott.net:80/images/3d7634c3635a6633539674ea72ed4ac6.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS NEWS HD
+http://magott.net:80/abdsamad/112233/5
+#EXTINF:-1 tvg-id="0" tvg-name="beIN SPORTS 1 SD s1" tvg-logo="http://magott.net:80/images/d4c9a82eabcea9ef8c626da20887aa40.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS 1 SD s1
+http://magott.net:80/abdsamad/112233/24
+#EXTINF:-1 tvg-id="0" tvg-name="beIN SPORTS 1 SD s2" tvg-logo="http://magott.net:80/images/37fb247fd923976c563d60dae9112c3b.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS 1 SD s2
+http://magott.net:80/abdsamad/112233/45
+#EXTINF:-1 tvg-id="0" tvg-name="beIN SPORTS 1 HD s1" tvg-logo="http://magott.net:80/images/d4c9a82eabcea9ef8c626da20887aa40.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS 1 HD s1
+http://magott.net:80/abdsamad/112233/23
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN SPORTS 1 HD s2" tvg-logo="http://magott.net:80/images/d4c9a82eabcea9ef8c626da20887aa40.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS 1 HD s2
+http://magott.net:80/abdsamad/112233/26533
+#EXTINF:-1 tvg-id="0" tvg-name="beIN SPORTS 2 SD s1" tvg-logo="http://magott.net:80/images/c843d8b8effaf68a539ebe0ba25e8d8e.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS 2 SD s1
+http://magott.net:80/abdsamad/112233/27
+#EXTINF:-1 tvg-id="0" tvg-name="beIN SPORTS 2 HD s1" tvg-logo="http://magott.net:80/images/c843d8b8effaf68a539ebe0ba25e8d8e.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS 2 HD s1
+http://magott.net:80/abdsamad/112233/26
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN SPORTS 2 HD s2" tvg-logo="http://magott.net:80/images/c843d8b8effaf68a539ebe0ba25e8d8e.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS 2 HD s2
+http://magott.net:80/abdsamad/112233/26534
+#EXTINF:-1 tvg-id="0" tvg-name="beIN SPORTS 3 SD s1" tvg-logo="http://magott.net:80/images/16e477b068241cc66b0034bbffa682e8.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS 3 SD s1
+http://magott.net:80/abdsamad/112233/30
+#EXTINF:-1 tvg-id="0" tvg-name="beIN SPORTS 3 HD s1" tvg-logo="http://magott.net:80/images/16e477b068241cc66b0034bbffa682e8.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS 3 HD s1
+http://magott.net:80/abdsamad/112233/29
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN SPORTS 3 HD s2" tvg-logo="http://magott.net:80/images/16e477b068241cc66b0034bbffa682e8.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS 3 HD s2
+http://magott.net:80/abdsamad/112233/26535
+#EXTINF:-1 tvg-id="0" tvg-name="beIN SPORTS 4 SD s1" tvg-logo="http://magott.net:80/images/11a736e3ce515928d57c8eda23b5c1a1.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS 4 SD s1
+http://magott.net:80/abdsamad/112233/33
+#EXTINF:-1 tvg-id="0" tvg-name="beIN SPORTS 4 HD s1" tvg-logo="http://magott.net:80/images/11a736e3ce515928d57c8eda23b5c1a1.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS 4 HD s1
+http://magott.net:80/abdsamad/112233/32
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN SPORTS 4 HD s2" tvg-logo="http://magott.net:80/images/11a736e3ce515928d57c8eda23b5c1a1.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS 4 HD s2
+http://magott.net:80/abdsamad/112233/26536
+#EXTINF:-1 tvg-id="0" tvg-name="beIN SPORTS 5 SD s1" tvg-logo="http://magott.net:80/images/85d51d7b19570162c6547dee3ee792fd.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS 5 SD s1
+http://magott.net:80/abdsamad/112233/36
+#EXTINF:-1 tvg-id="0" tvg-name="beIN SPORTS 5 HD s1" tvg-logo="http://magott.net:80/images/85d51d7b19570162c6547dee3ee792fd.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS 5 HD s1
+http://magott.net:80/abdsamad/112233/35
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN SPORTS 5 HD s2" tvg-logo="http://magott.net:80/images/85d51d7b19570162c6547dee3ee792fd.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS 5 HD s2
+http://magott.net:80/abdsamad/112233/26537
+#EXTINF:-1 tvg-id="0" tvg-name="beIN SPORTS 6 SD s1" tvg-logo="http://magott.net:80/images/463fb9476be3ce96f22a732e7e8ed6cb.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS 6 SD s1
+http://magott.net:80/abdsamad/112233/39
+#EXTINF:-1 tvg-id="0" tvg-name="beIN SPORTS 6 HD s1" tvg-logo="http://magott.net:80/images/463fb9476be3ce96f22a732e7e8ed6cb.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS 6 HD s1
+http://magott.net:80/abdsamad/112233/38
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN SPORTS 6 HD s2" tvg-logo="http://magott.net:80/images/463fb9476be3ce96f22a732e7e8ed6cb.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS 6 HD s2
+http://magott.net:80/abdsamad/112233/26538
+#EXTINF:-1 tvg-id="0" tvg-name="beIN SPORTS 7 SD s1" tvg-logo="http://magott.net:80/images/3fe05b7b5fa9e0c4f4e647e0dd514177.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS 7 SD s1
+http://magott.net:80/abdsamad/112233/42
+#EXTINF:-1 tvg-id="0" tvg-name="beIN SPORTS 7 HD s1" tvg-logo="http://magott.net:80/images/3fe05b7b5fa9e0c4f4e647e0dd514177.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS 7 HD s1
+http://magott.net:80/abdsamad/112233/41
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN SPORTS 7 HD s2" tvg-logo="http://magott.net:80/images/3fe05b7b5fa9e0c4f4e647e0dd514177.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS 7 HD s2
+http://magott.net:80/abdsamad/112233/26539
+#EXTINF:-1 tvg-id="0" tvg-name="beIN SPORTS 8 SD s1" tvg-logo="http://magott.net:80/images/6394bd5aa98278791dc02cf4f426a942.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS 8 SD s1
+http://magott.net:80/abdsamad/112233/48
+#EXTINF:-1 tvg-id="0" tvg-name="beIN SPORTS 8 HD s1" tvg-logo="http://magott.net:80/images/6394bd5aa98278791dc02cf4f426a942.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS 8 HD s1
+http://magott.net:80/abdsamad/112233/47
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN SPORTS 8 HD s2 " tvg-logo="http://magott.net:80/images/6394bd5aa98278791dc02cf4f426a942.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS 8 HD s2 
+http://magott.net:80/abdsamad/112233/25739
+#EXTINF:-1 tvg-id="0" tvg-name="beIN SPORTS 9 SD s1" tvg-logo="http://magott.net:80/images/b9e870a58ac11fa5224a2fa1463e6010.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS 9 SD s1
+http://magott.net:80/abdsamad/112233/51
+#EXTINF:-1 tvg-id="0" tvg-name="beIN SPORTS 9 HD s1" tvg-logo="http://magott.net:80/images/b9e870a58ac11fa5224a2fa1463e6010.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS 9 HD s1
+http://magott.net:80/abdsamad/112233/50
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN SPORTS 9 HD s2" tvg-logo="http://magott.net:80/images/b9e870a58ac11fa5224a2fa1463e6010.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS 9 HD s2
+http://magott.net:80/abdsamad/112233/25740
+#EXTINF:-1 tvg-id="0" tvg-name="BeINSport FRENCH 1 HD" tvg-logo="http://magott.net:80/images/91fee2f3adee5c6887032093f5216560.png" group-title="beIN SPORTS |FHD_HD_SD|",BeINSport FRENCH 1 HD
+http://magott.net:80/abdsamad/112233/59
+#EXTINF:-1 tvg-id="0" tvg-name="BeINSport FRENCH 2 HD" tvg-logo="http://magott.net:80/images/eb106688e865cd89283a075021c69292.png" group-title="beIN SPORTS |FHD_HD_SD|",BeINSport FRENCH 2 HD
+http://magott.net:80/abdsamad/112233/61
+#EXTINF:-1 tvg-id="0" tvg-name="BeINSport FRENCH 3 HD" tvg-logo="http://magott.net:80/images/40a0592195823a4b39c095751efde887.png" group-title="beIN SPORTS |FHD_HD_SD|",BeINSport FRENCH 3 HD
+http://magott.net:80/abdsamad/112233/63
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN SPORTS XTRA 1 HD" tvg-logo="http://magott.net:80/images/46e05d07c053612c9f2afca326c48745.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS XTRA 1 HD
+http://magott.net:80/abdsamad/112233/25734
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN SPORTS XTRA 2 HD" tvg-logo="http://magott.net:80/images/65c0418bdb8bab39f5287fdd40d211f7.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS XTRA 2 HD
+http://magott.net:80/abdsamad/112233/25735
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN SPORTS XTRA 3 HD" tvg-logo="http://magott.net:80/images/37fb247fd923976c563d60dae9112c3b.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS XTRA 3 HD
+http://magott.net:80/abdsamad/112233/25738
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN SPORTS XTRA 3 FHD" tvg-logo="http://magott.net:80/images/b9e870a58ac11fa5224a2fa1463e6010.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS XTRA 3 FHD
+http://magott.net:80/abdsamad/112233/61461
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN SPORTS AFC SD" tvg-logo="" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS AFC SD
+http://magott.net:80/abdsamad/112233/65427
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN SPORTS AFC HD" tvg-logo="http://magott.net:80/images/d4c9a82eabcea9ef8c626da20887aa40.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS AFC HD
+http://magott.net:80/abdsamad/112233/50461
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN SPORTS AFC 1 HD" tvg-logo="http://magott.net:80/images/d4c9a82eabcea9ef8c626da20887aa40.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS AFC 1 HD
+http://magott.net:80/abdsamad/112233/50462
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN SPORTS AFC 2 HD" tvg-logo="http://magott.net:80/images/c843d8b8effaf68a539ebe0ba25e8d8e.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS AFC 2 HD
+http://magott.net:80/abdsamad/112233/50463
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN SPORTS AFC 3 HD" tvg-logo="http://magott.net:80/images/16e477b068241cc66b0034bbffa682e8.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS AFC 3 HD
+http://magott.net:80/abdsamad/112233/50464
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN SPORTS MAX 1 SD" tvg-logo="http://magott.net:80/images/7171543a96849e8a754f3deebd15ba48.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS MAX 1 SD
+http://magott.net:80/abdsamad/112233/38353
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN SPORTS MAX 1 HD" tvg-logo="http://magott.net:80/images/7171543a96849e8a754f3deebd15ba48.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS MAX 1 HD
+http://magott.net:80/abdsamad/112233/38354
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN SPORTS MAX 1 HD+ (MatchOnly)" tvg-logo="http://magott.net:80/images/7171543a96849e8a754f3deebd15ba48.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS MAX 1 HD+ (MatchOnly)
+http://magott.net:80/abdsamad/112233/38431
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN SPORTS MAX 2 SD" tvg-logo="http://magott.net:80/images/255b7043dcedff89dc098baa522183a8.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS MAX 2 SD
+http://magott.net:80/abdsamad/112233/38355
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN SPORTS MAX 2 HD" tvg-logo="http://magott.net:80/images/255b7043dcedff89dc098baa522183a8.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS MAX 2 HD
+http://magott.net:80/abdsamad/112233/38356
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN SPORTS MAX 2 HD+ (MatchOnly)" tvg-logo="http://magott.net:80/images/255b7043dcedff89dc098baa522183a8.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS MAX 2 HD+ (MatchOnly)
+http://magott.net:80/abdsamad/112233/38432
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN SPORTS MAX 3 SD" tvg-logo="http://magott.net:80/images/63f2b476303c5b5a8a92cf6e1947ee4a.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS MAX 3 SD
+http://magott.net:80/abdsamad/112233/38357
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN SPORTS MAX 3 HD" tvg-logo="http://magott.net:80/images/63f2b476303c5b5a8a92cf6e1947ee4a.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS MAX 3 HD
+http://magott.net:80/abdsamad/112233/38358
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN SPORTS MAX 4 SD" tvg-logo="http://magott.net:80/images/455473fe447cbdf6292849e0acd04bf0.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS MAX 4 SD
+http://magott.net:80/abdsamad/112233/38359
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN SPORTS MAX 4 HD" tvg-logo="http://magott.net:80/images/455473fe447cbdf6292849e0acd04bf0.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS MAX 4 HD
+http://magott.net:80/abdsamad/112233/38360
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN SPORTS MAX 5 SD  " tvg-logo="" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS MAX 5 SD  
+http://magott.net:80/abdsamad/112233/63514
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN SPORTS MAX 5 HD" tvg-logo="http://magott.net:80/images/bf582e59022e51c43e8b21db3b4035e4.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS MAX 5 HD
+http://magott.net:80/abdsamad/112233/38361
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN SPORTS MAX 6 SD" tvg-logo="" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS MAX 6 SD
+http://magott.net:80/abdsamad/112233/63506
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN SPORTS MAX 6 HD" tvg-logo="http://magott.net:80/images/829edfdba382ff898d553f1f2968a892.png" group-title="beIN SPORTS |FHD_HD_SD|",beIN SPORTS MAX 6 HD
+http://magott.net:80/abdsamad/112233/38362
+#EXTINF:-1 tvg-id="0" tvg-name="beIN SPORTS 1 UHD" tvg-logo="http://magott.net:80/images/d4c9a82eabcea9ef8c626da20887aa40.png" group-title="beIN SPORTS |4K_UHD|",beIN SPORTS 1 UHD
+http://magott.net:80/abdsamad/112233/71
+#EXTINF:-1 tvg-id="0" tvg-name="beIN SPORTS  1 UHD s2" tvg-logo="http://magott.net:80/images/37fb247fd923976c563d60dae9112c3b.png" group-title="beIN SPORTS |4K_UHD|",beIN SPORTS  1 UHD s2
+http://magott.net:80/abdsamad/112233/78
+#EXTINF:-1 tvg-id="0" tvg-name="beIN SPORTS 2 UHD" tvg-logo="http://magott.net:80/images/c843d8b8effaf68a539ebe0ba25e8d8e.png" group-title="beIN SPORTS |4K_UHD|",beIN SPORTS 2 UHD
+http://magott.net:80/abdsamad/112233/72
+#EXTINF:-1 tvg-id="0" tvg-name="beIN SPORTS 3 UHD" tvg-logo="http://magott.net:80/images/16e477b068241cc66b0034bbffa682e8.png" group-title="beIN SPORTS |4K_UHD|",beIN SPORTS 3 UHD
+http://magott.net:80/abdsamad/112233/73
+#EXTINF:-1 tvg-id="0" tvg-name="beIN SPORTS 4 UHD" tvg-logo="http://magott.net:80/images/11a736e3ce515928d57c8eda23b5c1a1.png" group-title="beIN SPORTS |4K_UHD|",beIN SPORTS 4 UHD
+http://magott.net:80/abdsamad/112233/74
+#EXTINF:-1 tvg-id="0" tvg-name="beIN SPORTS 5 UHD" tvg-logo="http://magott.net:80/images/85d51d7b19570162c6547dee3ee792fd.png" group-title="beIN SPORTS |4K_UHD|",beIN SPORTS 5 UHD
+http://magott.net:80/abdsamad/112233/75
+#EXTINF:-1 tvg-id="0" tvg-name="beIN SPORTS 6 UHD" tvg-logo="http://magott.net:80/images/463fb9476be3ce96f22a732e7e8ed6cb.png" group-title="beIN SPORTS |4K_UHD|",beIN SPORTS 6 UHD
+http://magott.net:80/abdsamad/112233/76
+#EXTINF:-1 tvg-id="0" tvg-name="beIN SPORTS 7 UHD" tvg-logo="http://magott.net:80/images/3fe05b7b5fa9e0c4f4e647e0dd514177.png" group-title="beIN SPORTS |4K_UHD|",beIN SPORTS 7 UHD
+http://magott.net:80/abdsamad/112233/77
+#EXTINF:-1 tvg-id="0" tvg-name="beIN SPORTS 8 UHD" tvg-logo="http://magott.net:80/images/6394bd5aa98278791dc02cf4f426a942.png" group-title="beIN SPORTS |4K_UHD|",beIN SPORTS 8 UHD
+http://magott.net:80/abdsamad/112233/79
+#EXTINF:-1 tvg-id="0" tvg-name="beIN SPORTS 9 UHD" tvg-logo="http://magott.net:80/images/b9e870a58ac11fa5224a2fa1463e6010.png" group-title="beIN SPORTS |4K_UHD|",beIN SPORTS 9 UHD
+http://magott.net:80/abdsamad/112233/80
+#EXTINF:-1 tvg-id="ext" tvg-name="BeINSport FRENCH 1 UHD" tvg-logo="http://magott.net:80/images/91fee2f3adee5c6887032093f5216560.png" group-title="beIN SPORTS |4K_UHD|",BeINSport FRENCH 1 UHD
+http://magott.net:80/abdsamad/112233/16368
+#EXTINF:-1 tvg-id="ext" tvg-name="BeINSport FRENCH 2 UHD" tvg-logo="http://magott.net:80/images/eb106688e865cd89283a075021c69292.png" group-title="beIN SPORTS |4K_UHD|",BeINSport FRENCH 2 UHD
+http://magott.net:80/abdsamad/112233/16369
+#EXTINF:-1 tvg-id="ext" tvg-name="BeINSport FRENCH 3 UHD" tvg-logo="http://magott.net:80/images/40a0592195823a4b39c095751efde887.png" group-title="beIN SPORTS |4K_UHD|",BeINSport FRENCH 3 UHD
+http://magott.net:80/abdsamad/112233/16370
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN SPORTS MAX 1 |UHD HEVC|" tvg-logo="http://magott.net:80/images/7171543a96849e8a754f3deebd15ba48.png" group-title="beIN SPORTS |4K_UHD|",beIN SPORTS MAX 1 |UHD HEVC|
+http://magott.net:80/abdsamad/112233/38369
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN SPORTS MAX 2 |UHD HEVC|" tvg-logo="http://magott.net:80/images/255b7043dcedff89dc098baa522183a8.png" group-title="beIN SPORTS |4K_UHD|",beIN SPORTS MAX 2 |UHD HEVC|
+http://magott.net:80/abdsamad/112233/38370
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN SPORTS MAX 3 |UHD HEVC|" tvg-logo="http://magott.net:80/images/63f2b476303c5b5a8a92cf6e1947ee4a.png" group-title="beIN SPORTS |4K_UHD|",beIN SPORTS MAX 3 |UHD HEVC|
+http://magott.net:80/abdsamad/112233/38371
+#EXTINF:-1 tvg-id="ext" tvg-name="beIN SPORTS MAX 4 |UHD HEVC|" tvg-logo="http://magott.net:80/images/455473fe447cbdf6292849e0acd04bf0.png" group-title="beIN SPORTS |4K_UHD|",beIN SPORTS MAX 4 |UHD HEVC|
+http://magott.net:80/abdsamad/112233/38372

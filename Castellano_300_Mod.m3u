@@ -1,936 +1,700 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD LA 1" tvg-logo="" group-title="Server 0⭐️",ES | SD LA 1
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86114
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD LA 1" tvg-logo="" group-title="Server 0⭐️",ES | HD LA 1
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86115
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K LA 1" tvg-logo="" group-title="Server 0⭐️",ES | 4K LA 1
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86116
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD LA 2" tvg-logo="" group-title="Server 0⭐️",ES | SD LA 2
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86117
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD LA 2" tvg-logo="" group-title="Server 0⭐️",ES | HD LA 2
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86118
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD ANTENA 3" tvg-logo="" group-title="Server 0⭐️",ES | SD ANTENA 3
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86119
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD ANTENA 3" tvg-logo="" group-title="Server 0⭐️",ES | HD ANTENA 3
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86120
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K ANTENA 3" tvg-logo="" group-title="Server 0⭐️",ES | 4K ANTENA 3
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86121
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD CUATRO" tvg-logo="" group-title="Server 0⭐️",ES | SD CUATRO
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86122
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD CUATRO" tvg-logo="" group-title="Server 0⭐️",ES | HD CUATRO
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86123
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K CUATRO" tvg-logo="" group-title="Server 0⭐️",ES | 4K CUATRO
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86124
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD TELECINCO" tvg-logo="" group-title="Server 0⭐️",ES | SD TELECINCO
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86125
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD TELECINCO" tvg-logo="" group-title="Server 0⭐️",ES | HD TELECINCO
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86126
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K TELECINCO" tvg-logo="" group-title="Server 0⭐️",ES | 4K TELECINCO
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86127
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD LA SEXTA" tvg-logo="" group-title="Server 0⭐️",ES | SD LA SEXTA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86128
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD LA SEXTA" tvg-logo="" group-title="Server 0⭐️",ES | HD LA SEXTA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86129
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K LA SEXTA" tvg-logo="" group-title="Server 0⭐️",ES | 4K LA SEXTA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86130
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD 24 HORAS" tvg-logo="" group-title="Server 0⭐️",ES | SD 24 HORAS
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86131
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD 24 HORAS" tvg-logo="" group-title="Server 0⭐️",ES | HD 24 HORAS
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86132
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD TELEMADRID" tvg-logo="" group-title="Server 0⭐️",ES | SD TELEMADRID
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86133
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD TELEMADRID" tvg-logo="" group-title="Server 0⭐️",ES | HD TELEMADRID
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86134
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K TELEMADRID" tvg-logo="" group-title="Server 0⭐️",ES | 4K TELEMADRID
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86135
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K TVG" tvg-logo="" group-title="Server 0⭐️",ES | 4K TVG
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86136
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K TVG 2" tvg-logo="" group-title="Server 0⭐️",ES | 4K TVG 2
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86137
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K TVG MOMENTO" tvg-logo="" group-title="Server 0⭐️",ES | 4K TVG MOMENTO
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86138
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K TVG EUROPA" tvg-logo="" group-title="Server 0⭐️",ES | 4K TVG EUROPA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86139
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K TVG AMERICA" tvg-logo="" group-title="Server 0⭐️",ES | 4K TVG AMERICA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86140
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K TVG EVENTO 1" tvg-logo="" group-title="Server 0⭐️",ES | 4K TVG EVENTO 1
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86141
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K TVG MUSIGAL" tvg-logo="" group-title="Server 0⭐️",ES | 4K TVG MUSIGAL
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86142
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K ETB 1" tvg-logo="" group-title="Server 0⭐️",ES | 4K ETB 1
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86143
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K ETB 2" tvg-logo="" group-title="Server 0⭐️",ES | 4K ETB 2
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86144
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K TV3 CAT" tvg-logo="" group-title="Server 0⭐️",ES | 4K TV3 CAT
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86145
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K TV3 CATALUNYA" tvg-logo="" group-title="Server 0⭐️",ES | 4K TV3 CATALUNYA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86146
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K SOPHIA TV" tvg-logo="" group-title="Server 0⭐️",ES | 4K SOPHIA TV
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86147
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K EITB BASQUE" tvg-logo="" group-title="Server 0⭐️",ES | 4K EITB BASQUE
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86148
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K TV GIRONA" tvg-logo="" group-title="Server 0⭐️",ES | 4K TV GIRONA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86149
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K 101 TV MALAGA" tvg-logo="" group-title="Server 0⭐️",ES | 4K 101 TV MALAGA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86150
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K CANAL PARLAMENTO" tvg-logo="" group-title="Server 0⭐️",ES | 4K CANAL PARLAMENTO
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86151
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD 7 TELEVISION RG MURCIA" tvg-logo="" group-title="Server 0⭐️",ES | HD 7 TELEVISION RG MURCIA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86152
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K ANTENA MOTOR" tvg-logo="" group-title="Server 0⭐️",ES | 4K ANTENA MOTOR
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86153
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD CANAL MALAGA" tvg-logo="" group-title="Server 0⭐️",ES | HD CANAL MALAGA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86154
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD ONDA CONIL" tvg-logo="" group-title="Server 0⭐️",ES | HD ONDA CONIL
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86155
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD RIBERA TV" tvg-logo="" group-title="Server 0⭐️",ES | HD RIBERA TV
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86156
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD BON DIA TV" tvg-logo="" group-title="Server 0⭐️",ES | HD BON DIA TV
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86157
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD TELEVISION DE GALICIA AMERICA" tvg-logo="" group-title="Server 0⭐️",ES | HD TELEVISION DE GALICIA AMERICA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86158
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD TELEVISION DE GALICIA EUROPA 2" tvg-logo="" group-title="Server 0⭐️",ES | HD TELEVISION DE GALICIA EUROPA 2
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86159
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD CANAL MALAGA RTV" tvg-logo="" group-title="Server 0⭐️",ES | HD CANAL MALAGA RTV
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86160
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD MOLA TV HITS" tvg-logo="" group-title="Server 0⭐️",ES | HD MOLA TV HITS
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86161
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD SOLIDARIA TV" tvg-logo="" group-title="Server 0⭐️",ES | HD SOLIDARIA TV
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86162
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD CANAL EXTREMADURA" tvg-logo="" group-title="Server 0⭐️",ES | HD CANAL EXTREMADURA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86163
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ NEGOCIOS" tvg-logo="" group-title="Server 0⭐️",ES | SD M+ NEGOCIOS
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86164
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ NEGOCIOS" tvg-logo="" group-title="Server 0⭐️",ES | HD M+ NEGOCIOS
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86165
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD LOGOS TV" tvg-logo="" group-title="Server 0⭐️",ES | HD LOGOS TV
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86166
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD COSTA DEL SOL TV" tvg-logo="" group-title="Server 0⭐️",ES | HD COSTA DEL SOL TV
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86167
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ NEGOCIOS" tvg-logo="" group-title="Server 0⭐️",ES | 4K M+ NEGOCIOS
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86168
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD POPULAR TV CANTABRIA" tvg-logo="" group-title="Server 0⭐️",ES | HD POPULAR TV CANTABRIA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86169
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD ONDA ALGECIRAS TELEVISION" tvg-logo="" group-title="Server 0⭐️",ES | HD ONDA ALGECIRAS TELEVISION
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86170
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD PEQUE RADIO" tvg-logo="" group-title="Server 0⭐️",ES | HD PEQUE RADIO
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86171
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K TV MELILLA" tvg-logo="" group-title="Server 0⭐️",ES | 4K TV MELILLA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86172
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD CANAL MALAGA" tvg-logo="" group-title="Server 0⭐️",ES | HD CANAL MALAGA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86173
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD CANAL SUR ANDALUCIA" tvg-logo="" group-title="Server 0⭐️",ES | HD CANAL SUR ANDALUCIA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86174
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD TELE ONUBA" tvg-logo="" group-title="Server 0⭐️",ES | HD TELE ONUBA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86175
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD PLUTO TV JUNIOR" tvg-logo="" group-title="Server 0⭐️",ES | HD PLUTO TV JUNIOR
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86176
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD PLUTO TV KIDS" tvg-logo="" group-title="Server 0⭐️",ES | HD PLUTO TV KIDS
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86177
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD PLUTO TV ANIMAKIDS" tvg-logo="" group-title="Server 0⭐️",ES | HD PLUTO TV ANIMAKIDS
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86178
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD PLUTO TV CINE ESTELAR" tvg-logo="" group-title="Server 0⭐️",ES | HD PLUTO TV CINE ESTELAR
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86179
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD PLUTO TV CINE ACTION" tvg-logo="" group-title="Server 0⭐️",ES | HD PLUTO TV CINE ACTION
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86180
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD PLUTO TV CINE COMEDIA" tvg-logo="" group-title="Server 0⭐️",ES | HD PLUTO TV CINE COMEDIA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86181
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD PLUTO TV DEPORTES" tvg-logo="" group-title="Server 0⭐️",ES | HD PLUTO TV DEPORTES
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86182
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD PLUTO TV THRILLERS" tvg-logo="" group-title="Server 0⭐️",ES | HD PLUTO TV THRILLERS
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86183
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD PLUTO TV SERIES" tvg-logo="" group-title="Server 0⭐️",ES | HD PLUTO TV SERIES
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86184
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD PLUTO TV CINE DRAMA" tvg-logo="" group-title="Server 0⭐️",ES | HD PLUTO TV CINE DRAMA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86185
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD PLUTO TV CINE ROMANCE" tvg-logo="" group-title="Server 0⭐️",ES | HD PLUTO TV CINE ROMANCE
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86186
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD PLUTO TV COCINA" tvg-logo="" group-title="Server 0⭐️",ES | HD PLUTO TV COCINA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86187
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD PLUTO TV MUNDO REAL" tvg-logo="" group-title="Server 0⭐️",ES | HD PLUTO TV MUNDO REAL
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86188
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD PLUTO TV SCI-FI" tvg-logo="" group-title="Server 0⭐️",ES | HD PLUTO TV SCI-FI
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86189
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD PLUTO TV SERIES COMEDIA" tvg-logo="" group-title="Server 0⭐️",ES | HD PLUTO TV SERIES COMEDIA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86190
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD PLUTO TV TEEN STARS" tvg-logo="" group-title="Server 0⭐️",ES | HD PLUTO TV TEEN STARS
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86191
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD PLUTO TV ANIMALES" tvg-logo="" group-title="Server 0⭐️",ES | HD PLUTO TV ANIMALES
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86192
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD PLUTO TV INVESTIGA" tvg-logo="" group-title="Server 0⭐️",ES | HD PLUTO TV INVESTIGA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86193
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD PLUTO TV MOTOR" tvg-logo="" group-title="Server 0⭐️",ES | HD PLUTO TV MOTOR
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86194
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD PLUTO TV ANIME" tvg-logo="" group-title="Server 0⭐️",ES | HD PLUTO TV ANIME
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86195
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD PLUTO TV TOONS CLASICO" tvg-logo="" group-title="Server 0⭐️",ES | HD PLUTO TV TOONS CLASICO
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86196
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD PLUTO TV TELENOVELAS" tvg-logo="" group-title="Server 0⭐️",ES | HD PLUTO TV TELENOVELAS
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86197
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD PLUTO TV VIAJES" tvg-logo="" group-title="Server 0⭐️",ES | HD PLUTO TV VIAJES
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86198
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD PLUTO TV K POP" tvg-logo="" group-title="Server 0⭐️",ES | HD PLUTO TV K POP
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86199
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD PLUTO TV INDIES" tvg-logo="" group-title="Server 0⭐️",ES | HD PLUTO TV INDIES
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86200
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD MTV ORIGINALS" tvg-logo="" group-title="Server 0⭐️",ES | HD MTV ORIGINALS
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86201
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD MTV PRANK" tvg-logo="" group-title="Server 0⭐️",ES | HD MTV PRANK
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86202
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD MTV CATFISH TV SHOW" tvg-logo="" group-title="Server 0⭐️",ES | HD MTV CATFISH TV SHOW
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86203
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD MTV CRIBS" tvg-logo="" group-title="Server 0⭐️",ES | HD MTV CRIBS
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86204
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD MTV EMBARAZADA A LOS 16" tvg-logo="" group-title="Server 0⭐️",ES | HD MTV EMBARAZADA A LOS 16
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86205
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD MTV DATING" tvg-logo="" group-title="Server 0⭐️",ES | HD MTV DATING
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86206
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD MTV TEEN MOM" tvg-logo="" group-title="Server 0⭐️",ES | HD MTV TEEN MOM
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86207
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD MTV MUSIC MADE IN SPAIN" tvg-logo="" group-title="Server 0⭐️",ES | HD MTV MUSIC MADE IN SPAIN
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86208
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD BIG TIME RUSH" tvg-logo="" group-title="Server 0⭐️",ES | HD BIG TIME RUSH
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86209
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD PISTAS DE BLUE" tvg-logo="" group-title="Server 0⭐️",ES | HD PISTAS DE BLUE
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86210
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD GO DIEGO GO!" tvg-logo="" group-title="Server 0⭐️",ES | HD GO DIEGO GO!
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86211
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD COMEDIA MADE IN SPAIN" tvg-logo="" group-title="Server 0⭐️",ES | HD COMEDIA MADE IN SPAIN
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86212
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD LA CHICA INVISIBLE" tvg-logo="" group-title="Server 0⭐️",ES | HD LA CHICA INVISIBLE
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86213
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD THE PET COLLECTIVE" tvg-logo="" group-title="Server 0⭐️",ES | HD THE PET COLLECTIVE
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86214
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD FAILARMY" tvg-logo="" group-title="Server 0⭐️",ES | HD FAILARMY
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86215
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD IGM" tvg-logo="" group-title="Server 0⭐️",ES | HD IGM
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86216
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD PEOPLE ARE AWESOME" tvg-logo="" group-title="Server 0⭐️",ES | HD PEOPLE ARE AWESOME
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86217
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD BOB ESPONJA" tvg-logo="" group-title="Server 0⭐️",ES | HD BOB ESPONJA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86218
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD ASESINATOS DE MIDSOMER" tvg-logo="" group-title="Server 0⭐️",ES | HD ASESINATOS DE MIDSOMER
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86219
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD LAS REGLAS DEL JUEGO" tvg-logo="" group-title="Server 0⭐️",ES | HD LAS REGLAS DEL JUEGO
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86220
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD LOS NUEVOS DETECTIVES" tvg-logo="" group-title="Server 0⭐️",ES | HD LOS NUEVOS DETECTIVES
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86221
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD LOS ARCHIVOS DEL FBI" tvg-logo="" group-title="Server 0⭐️",ES | HD LOS ARCHIVOS DEL FBI
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86222
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD ANDROMEDA" tvg-logo="" group-title="Server 0⭐️",ES | HD ANDROMEDA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86223
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD MUTANTE X" tvg-logo="" group-title="Server 0⭐️",ES | HD MUTANTE X
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86224
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD ANA Y LOS 7" tvg-logo="" group-title="Server 0⭐️",ES | HD ANA Y LOS 7
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86225
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD CURRO JIMENEZ" tvg-logo="" group-title="Server 0⭐️",ES | HD CURRO JIMENEZ
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86226
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD VAYA SEMANITA" tvg-logo="" group-title="Server 0⭐️",ES | HD VAYA SEMANITA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86227
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD EL CONQUISTADOR DEL FIN" tvg-logo="" group-title="Server 0⭐️",ES | HD EL CONQUISTADOR DEL FIN
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86228
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD CINE LATINO" tvg-logo="" group-title="Server 0⭐️",ES | HD CINE LATINO
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86229
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD ARCHIVOS FORENSES" tvg-logo="" group-title="Server 0⭐️",ES | HD ARCHIVOS FORENSES
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86230
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD CLUBBING TV" tvg-logo="" group-title="Server 0⭐️",ES | HD CLUBBING TV
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86231
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD TIERRA DE LOBOS" tvg-logo="" group-title="Server 0⭐️",ES | HD TIERRA DE LOBOS
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86232
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD EMPENOS A LO BESTIA" tvg-logo="" group-title="Server 0⭐️",ES | HD EMPENOS A LO BESTIA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86233
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD WIPEOUT" tvg-logo="" group-title="Server 0⭐️",ES | HD WIPEOUT
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86234
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD GARFIELD" tvg-logo="" group-title="Server 0⭐️",ES | HD GARFIELD
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86235
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD ANIME CLASICO" tvg-logo="" group-title="Server 0⭐️",ES | HD ANIME CLASICO
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86236
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD TUNING" tvg-logo="" group-title="Server 0⭐️",ES | HD TUNING
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86237
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD VH1 CLASSICS" tvg-logo="" group-title="Server 0⭐️",ES | HD VH1 CLASSICS
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86238
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD WORLD POKER TOUR" tvg-logo="" group-title="Server 0⭐️",ES | HD WORLD POKER TOUR
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86239
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD RUNTIME" tvg-logo="" group-title="Server 0⭐️",ES | HD RUNTIME
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86240
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD PLANETA JUNIOR TV" tvg-logo="" group-title="Server 0⭐️",ES | HD PLANETA JUNIOR TV
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86241
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD JUST FOR LAUGHS" tvg-logo="" group-title="Server 0⭐️",ES | HD JUST FOR LAUGHS
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86242
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD EL COMISARIO" tvg-logo="" group-title="Server 0⭐️",ES | HD EL COMISARIO
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86243
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD FASHION" tvg-logo="" group-title="Server 0⭐️",ES | HD FASHION
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86244
-#EXTINF:-1 tvg-id="" tvg-name="ES | RAKUTEN VIKI" tvg-logo="" group-title="Server 0⭐️",ES | RAKUTEN VIKI
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86245
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD TOP GEAR" tvg-logo="" group-title="Server 0⭐️",ES | HD TOP GEAR
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86246
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD DOCTOR WHO" tvg-logo="" group-title="Server 0⭐️",ES | HD DOCTOR WHO
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86247
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD EURONEWS" tvg-logo="" group-title="Server 0⭐️",ES | HD EURONEWS
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86248
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD BBC DRAMA" tvg-logo="" group-title="Server 0⭐️",ES | HD BBC DRAMA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86249
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD QWEST JAZZ & BEYOND" tvg-logo="" group-title="Server 0⭐️",ES | HD QWEST JAZZ & BEYOND
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86250
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD NATURE TIME" tvg-logo="" group-title="Server 0⭐️",ES | HD NATURE TIME
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86251
-#EXTINF:-1 tvg-id="" tvg-name="ES | AR EL ENCANTADOR DE PERROS" tvg-logo="" group-title="Server 0⭐️",ES | AR EL ENCANTADOR DE PERROS
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86252
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD MI EXTRANA OBSESION" tvg-logo="" group-title="Server 0⭐️",ES | HD MI EXTRANA OBSESION
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86253
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD BOM CINE" tvg-logo="" group-title="Server 0⭐️",ES | SD BOM CINE
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86254
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD BOM CINE" tvg-logo="" group-title="Server 0⭐️",ES | HD BOM CINE
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86255
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K BOM CINE" tvg-logo="" group-title="Server 0⭐️",ES | 4K BOM CINE
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86256
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD HOLLYWOOD" tvg-logo="" group-title="Server 0⭐️",ES | SD HOLLYWOOD
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86257
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD HOLLYWOOD" tvg-logo="" group-title="Server 0⭐️",ES | HD HOLLYWOOD
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86258
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K HOLLYWOOD" tvg-logo="" group-title="Server 0⭐️",ES | 4K HOLLYWOOD
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86259
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ ESTRENOS" tvg-logo="" group-title="Server 0⭐️",ES | SD M+ ESTRENOS
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86260
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M.ESTRENOS" tvg-logo="" group-title="Server 0⭐️",ES | HD M.ESTRENOS
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86261
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ ESTRENOS" tvg-logo="" group-title="Server 0⭐️",ES | 4K M+ ESTRENOS
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86262
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ ESTRENOS 2" tvg-logo="" group-title="Server 0⭐️",ES | SD M+ ESTRENOS 2
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86263
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M.ESTRENOS 2" tvg-logo="" group-title="Server 0⭐️",ES | HD M.ESTRENOS 2
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86264
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ ESTRENOS 2" tvg-logo="" group-title="Server 0⭐️",ES | 4K M+ ESTRENOS 2
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86265
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ COMEDIA" tvg-logo="" group-title="Server 0⭐️",ES | SD M+ COMEDIA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86266
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ COMEDIA" tvg-logo="" group-title="Server 0⭐️",ES | HD M+ COMEDIA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86267
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ COMEDIA" tvg-logo="" group-title="Server 0⭐️",ES | 4K M+ COMEDIA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86268
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD COMEDY CENTRAL" tvg-logo="" group-title="Server 0⭐️",ES | SD COMEDY CENTRAL
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86269
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD COMEDY CENTRAL" tvg-logo="" group-title="Server 0⭐️",ES | HD COMEDY CENTRAL
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86270
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K COMEDY CENTRAL" tvg-logo="" group-title="Server 0⭐️",ES | 4K COMEDY CENTRAL
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86271
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ DRAMA" tvg-logo="" group-title="Server 0⭐️",ES | SD M+ DRAMA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86272
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ DRAMA" tvg-logo="" group-title="Server 0⭐️",ES | HD M+ DRAMA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86273
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ DRAMA" tvg-logo="" group-title="Server 0⭐️",ES | 4K M+ DRAMA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86274
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ ACCION" tvg-logo="" group-title="Server 0⭐️",ES | SD M+ ACCION
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86275
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ ACCION" tvg-logo="" group-title="Server 0⭐️",ES | HD M+ ACCION
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86276
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ ACCION" tvg-logo="" group-title="Server 0⭐️",ES | 4K M+ ACCION
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86277
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD CINE ESPANOL" tvg-logo="" group-title="Server 0⭐️",ES | SD CINE ESPANOL
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86278
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ CINE ESPANOL" tvg-logo="" group-title="Server 0⭐️",ES | HD M+ CINE ESPANOL
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86279
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ CINE ESPANOL" tvg-logo="" group-title="Server 0⭐️",ES | 4K M+ CINE ESPANOL
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86280
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD A3 SERIES" tvg-logo="" group-title="Server 0⭐️",ES | SD A3 SERIES
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86281
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD A3 SERIES" tvg-logo="" group-title="Server 0⭐️",ES | HD A3 SERIES
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86282
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ SERIES" tvg-logo="" group-title="Server 0⭐️",ES | SD M+ SERIES
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86283
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ SERIES" tvg-logo="" group-title="Server 0⭐️",ES | HD M+ SERIES
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86284
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ SERIES" tvg-logo="" group-title="Server 0⭐️",ES | 4K M+ SERIES
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86285
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ SERIES 2" tvg-logo="" group-title="Server 0⭐️",ES | SD M+ SERIES 2
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86286
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ SERIES 2" tvg-logo="" group-title="Server 0⭐️",ES | HD M+ SERIES 2
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86287
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ SERIES 2" tvg-logo="" group-title="Server 0⭐️",ES | 4K M+ SERIES 2
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86288
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD DARK" tvg-logo="" group-title="Server 0⭐️",ES | HD DARK
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86289
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K DARK" tvg-logo="" group-title="Server 0⭐️",ES | 4K DARK
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86290
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD AMC" tvg-logo="" group-title="Server 0⭐️",ES | SD AMC
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86291
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD AMC" tvg-logo="" group-title="Server 0⭐️",ES | HD AMC
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86292
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K AMC" tvg-logo="" group-title="Server 0⭐️",ES | 4K AMC
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86293
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD FOX" tvg-logo="" group-title="Server 0⭐️",ES | SD FOX
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86294
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD FOX" tvg-logo="" group-title="Server 0⭐️",ES | HD FOX
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86295
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K FOX" tvg-logo="" group-title="Server 0⭐️",ES | 4K FOX
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86296
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD CALLE 13" tvg-logo="" group-title="Server 0⭐️",ES | SD CALLE 13
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86297
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD CALLE 13" tvg-logo="" group-title="Server 0⭐️",ES | HD CALLE 13
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86298
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K CALLE 13" tvg-logo="" group-title="Server 0⭐️",ES | 4K CALLE 13
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86299
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD SUNDANCE" tvg-logo="" group-title="Server 0⭐️",ES | SD SUNDANCE
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86300
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD SUNDANCE" tvg-logo="" group-title="Server 0⭐️",ES | HD SUNDANCE
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86301
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K SUNDANCE" tvg-logo="" group-title="Server 0⭐️",ES | 4K SUNDANCE
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86302
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD AXN" tvg-logo="" group-title="Server 0⭐️",ES | SD AXN
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86303
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD AXN" tvg-logo="" group-title="Server 0⭐️",ES | HD AXN
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86304
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K AXN" tvg-logo="" group-title="Server 0⭐️",ES | 4K AXN
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86305
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD MEDITERRANIO" tvg-logo="" group-title="Server 0⭐️",ES | SD MEDITERRANIO
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86306
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD MEDITERRANIO" tvg-logo="" group-title="Server 0⭐️",ES | HD MEDITERRANIO
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86307
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K MEDITERRANIO" tvg-logo="" group-title="Server 0⭐️",ES | 4K MEDITERRANIO
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86308
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD XTRM" tvg-logo="" group-title="Server 0⭐️",ES | SD XTRM
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86309
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD XTRM" tvg-logo="" group-title="Server 0⭐️",ES | HD XTRM
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86310
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4k XTRM" tvg-logo="" group-title="Server 0⭐️",ES | 4k XTRM
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86311
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD COSMOPOLITAN" tvg-logo="" group-title="Server 0⭐️",ES | SD COSMOPOLITAN
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86312
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD COSMOPOLITAN" tvg-logo="" group-title="Server 0⭐️",ES | HD COSMOPOLITAN
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86313
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K COSMOPOLITAN" tvg-logo="" group-title="Server 0⭐️",ES | 4K COSMOPOLITAN
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86314
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD SYFY" tvg-logo="" group-title="Server 0⭐️",ES | SD SYFY
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86315
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD SYFY" tvg-logo="" group-title="Server 0⭐️",ES | HD SYFY
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86316
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K SYFY" tvg-logo="" group-title="Server 0⭐️",ES | 4K SYFY
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86317
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD TCM" tvg-logo="" group-title="Server 0⭐️",ES | SD TCM
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86318
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD TCM" tvg-logo="" group-title="Server 0⭐️",ES | HD TCM
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86319
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K TCM" tvg-logo="" group-title="Server 0⭐️",ES | 4K TCM
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86320
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD ENERGY" tvg-logo="" group-title="Server 0⭐️",ES | SD ENERGY
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86321
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD ENERGY" tvg-logo="" group-title="Server 0⭐️",ES | HD ENERGY
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86322
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD FDF" tvg-logo="" group-title="Server 0⭐️",ES | SD FDF
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86323
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD FDF" tvg-logo="" group-title="Server 0⭐️",ES | HD FDF
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86324
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD 7" tvg-logo="" group-title="Server 0⭐️",ES | SD 7
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86325
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD 7" tvg-logo="" group-title="Server 0⭐️",ES | HD 7
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86326
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K 7" tvg-logo="" group-title="Server 0⭐️",ES | 4K 7
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86327
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD PARAMOUNT" tvg-logo="" group-title="Server 0⭐️",ES | SD PARAMOUNT
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86328
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD PARAMOUNT" tvg-logo="" group-title="Server 0⭐️",ES | HD PARAMOUNT
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86329
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD NEOX" tvg-logo="" group-title="Server 0⭐️",ES | SD NEOX
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86330
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD NEOX" tvg-logo="" group-title="Server 0⭐️",ES | HD NEOX
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86331
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD DIVINITY" tvg-logo="" group-title="Server 0⭐️",ES | SD DIVINITY
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86332
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD DIVINITY" tvg-logo="" group-title="Server 0⭐️",ES | HD DIVINITY
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86333
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD NOVA" tvg-logo="" group-title="Server 0⭐️",ES | SD NOVA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86334
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD NOVA" tvg-logo="" group-title="Server 0⭐️",ES | HD NOVA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86335
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ #0" tvg-logo="" group-title="Server 0⭐️",ES | SD M+ #0
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86336
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ #0" tvg-logo="" group-title="Server 0⭐️",ES | HD M+ #0
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86337
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ #0" tvg-logo="" group-title="Server 0⭐️",ES | 4K M+ #0
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86338
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD ARAGON TV" tvg-logo="" group-title="Server 0⭐️",ES | HD ARAGON TV
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86339
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD LOGO" tvg-logo="" group-title="Server 0⭐️",ES | SD LOGO
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86340
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD LA RESISTENCIA" tvg-logo="" group-title="Server 0⭐️",ES | SD LA RESISTENCIA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86341
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+LA RESISTENCIA" tvg-logo="" group-title="Server 0⭐️",ES | HD M+LA RESISTENCIA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86342
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ LA RESISTENCIA" tvg-logo="" group-title="Server 0⭐️",ES | 4K M+ LA RESISTENCIA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86343
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ TRECE" tvg-logo="" group-title="Server 0⭐️",ES | SD M+ TRECE
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86344
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ TRECE" tvg-logo="" group-title="Server 0⭐️",ES | HD M+ TRECE
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86345
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K CLASSICOS" tvg-logo="" group-title="Server 0⭐️",ES | 4K CLASSICOS
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86346
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD DAZN LA LIGA" tvg-logo="" group-title="Server 0⭐️",ES | SD DAZN LA LIGA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86347
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD DAZN LA LIGA" tvg-logo="" group-title="Server 0⭐️",ES | HD DAZN LA LIGA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86348
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K DAZN LA LIGA" tvg-logo="" group-title="Server 0⭐️",ES | 4K DAZN LA LIGA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86349
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD DAZN LA LIGA 2" tvg-logo="" group-title="Server 0⭐️",ES | SD DAZN LA LIGA 2
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86350
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD DAZN LA LIGA 2" tvg-logo="" group-title="Server 0⭐️",ES | HD DAZN LA LIGA 2
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86351
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K DAZN LA LIGA 2" tvg-logo="" group-title="Server 0⭐️",ES | 4K DAZN LA LIGA 2
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86352
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD LA LIGA SMARTBANK TV" tvg-logo="" group-title="Server 0⭐️",ES | SD LA LIGA SMARTBANK TV
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86353
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD LA LIGA SMARTBANK TV" tvg-logo="" group-title="Server 0⭐️",ES | HD LA LIGA SMARTBANK TV
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86354
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K LA LIGA SMARTBANK TV" tvg-logo="" group-title="Server 0⭐️",ES | 4K LA LIGA SMARTBANK TV
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86355
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD LA LIGA SMARTBANK M2" tvg-logo="" group-title="Server 0⭐️",ES | SD LA LIGA SMARTBANK M2
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86356
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD LA LIGA SMARTBANK M2" tvg-logo="" group-title="Server 0⭐️",ES | HD LA LIGA SMARTBANK M2
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86357
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K LA LIGA SMARTBANK M2" tvg-logo="" group-title="Server 0⭐️",ES | 4K LA LIGA SMARTBANK M2
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86358
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD LA LIGA SMARTBANK M3" tvg-logo="" group-title="Server 0⭐️",ES | SD LA LIGA SMARTBANK M3
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86359
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD LA LIGA SMARTBANK M3" tvg-logo="" group-title="Server 0⭐️",ES | HD LA LIGA SMARTBANK M3
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86360
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K LA LIGA SMARTBANK M3" tvg-logo="" group-title="Server 0⭐️",ES | 4K LA LIGA SMARTBANK M3
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86361
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD FC BETIS" tvg-logo="" group-title="Server 0⭐️",ES | HD FC BETIS
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86362
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD ESPORT" tvg-logo="" group-title="Server 0⭐️",ES | HD ESPORT
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86363
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K ESPORT" tvg-logo="" group-title="Server 0⭐️",ES | 4K ESPORT
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86364
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ LA LIGA" tvg-logo="" group-title="Server 0⭐️",ES | SD M+ LA LIGA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86365
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ LA LIGA" tvg-logo="" group-title="Server 0⭐️",ES | HD M+ LA LIGA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86366
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ LA LIGA" tvg-logo="" group-title="Server 0⭐️",ES | 4K M+ LA LIGA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86367
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ LA LIGA 2" tvg-logo="" group-title="Server 0⭐️",ES | SD M+ LA LIGA 2
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86368
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ LA LIGA 2" tvg-logo="" group-title="Server 0⭐️",ES | HD M+ LA LIGA 2
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86369
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ LA LIGA 2" tvg-logo="" group-title="Server 0⭐️",ES | 4K M+ LA LIGA 2
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86370
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ LA LIGA 3" tvg-logo="" group-title="Server 0⭐️",ES | SD M+ LA LIGA 3
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86371
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ LA LIGA 3" tvg-logo="" group-title="Server 0⭐️",ES | HD M+ LA LIGA 3
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86372
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ LA LIGA 3" tvg-logo="" group-title="Server 0⭐️",ES | 4K M+ LA LIGA 3
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86373
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K LA LIGA TV BAR" tvg-logo="" group-title="Server 0⭐️",ES | 4K LA LIGA TV BAR
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86374
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ LIGA DE CAMPEONES 1" tvg-logo="" group-title="Server 0⭐️",ES | SD M+ LIGA DE CAMPEONES 1
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86375
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ LIGA DE CAMPEONES 1" tvg-logo="" group-title="Server 0⭐️",ES | HD M+ LIGA DE CAMPEONES 1
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86376
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ LIGA DE CAMPEONES 1" tvg-logo="" group-title="Server 0⭐️",ES | 4K M+ LIGA DE CAMPEONES 1
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86377
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ LIGA DE CAMPEONES 2" tvg-logo="" group-title="Server 0⭐️",ES | SD M+ LIGA DE CAMPEONES 2
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86378
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ LIGA DE CAMPEONES 2" tvg-logo="" group-title="Server 0⭐️",ES | HD M+ LIGA DE CAMPEONES 2
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86379
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ LIGA DE CAMPEONES 2" tvg-logo="" group-title="Server 0⭐️",ES | 4K M+ LIGA DE CAMPEONES 2
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86380
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ LIGA DE CAMPEONES 3" tvg-logo="" group-title="Server 0⭐️",ES | SD M+ LIGA DE CAMPEONES 3
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86381
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ LIGA DE CAMPEONES 3" tvg-logo="" group-title="Server 0⭐️",ES | HD M+ LIGA DE CAMPEONES 3
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86382
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ LIGA DE CAMPEONES 3" tvg-logo="" group-title="Server 0⭐️",ES | 4K M+ LIGA DE CAMPEONES 3
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86383
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ LIGA DE CAMPEONES 4" tvg-logo="" group-title="Server 0⭐️",ES | SD M+ LIGA DE CAMPEONES 4
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86384
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ LIGA DE CAMPEONES 4" tvg-logo="" group-title="Server 0⭐️",ES | HD M+ LIGA DE CAMPEONES 4
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86385
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ LIGA DE CAMPEONES 4" tvg-logo="" group-title="Server 0⭐️",ES | 4K M+ LIGA DE CAMPEONES 4
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86386
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ LIGA DE CAMPEONES 5" tvg-logo="" group-title="Server 0⭐️",ES | SD M+ LIGA DE CAMPEONES 5
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86387
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ LIGA DE CAMPEONES 5" tvg-logo="" group-title="Server 0⭐️",ES | HD M+ LIGA DE CAMPEONES 5
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86388
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ LIGA DE CAMPEONES 5" tvg-logo="" group-title="Server 0⭐️",ES | 4K M+ LIGA DE CAMPEONES 5
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86389
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ LIGA DE CAMPEONES 6" tvg-logo="" group-title="Server 0⭐️",ES | SD M+ LIGA DE CAMPEONES 6
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86390
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ LIGA DE CAMPEONES 6" tvg-logo="" group-title="Server 0⭐️",ES | HD M+ LIGA DE CAMPEONES 6
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86391
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ LIGA DE CAMPEONES 6" tvg-logo="" group-title="Server 0⭐️",ES | 4K M+ LIGA DE CAMPEONES 6
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86392
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ LIGA DE CAMPEONES 7" tvg-logo="" group-title="Server 0⭐️",ES | SD M+ LIGA DE CAMPEONES 7
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86393
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ LIGA DE CAMPEONES 7" tvg-logo="" group-title="Server 0⭐️",ES | HD M+ LIGA DE CAMPEONES 7
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86394
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ LIGA DE CAMPEONES 7" tvg-logo="" group-title="Server 0⭐️",ES | 4K M+ LIGA DE CAMPEONES 7
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86395
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ LIGA DE CAMPEONES 8" tvg-logo="" group-title="Server 0⭐️",ES | SD M+ LIGA DE CAMPEONES 8
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86396
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ LIGA DE CAMPEONES 8" tvg-logo="" group-title="Server 0⭐️",ES | HD M+ LIGA DE CAMPEONES 8
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86397
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ LIGA DE CAMPEONES 8" tvg-logo="" group-title="Server 0⭐️",ES | 4K M+ LIGA DE CAMPEONES 8
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86398
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ LIGA DE CAMPEONES 9" tvg-logo="" group-title="Server 0⭐️",ES | SD M+ LIGA DE CAMPEONES 9
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86399
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ LIGA DE CAMPEONES 9" tvg-logo="" group-title="Server 0⭐️",ES | HD M+ LIGA DE CAMPEONES 9
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86400
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ LIGA DE CAMPEONES 9" tvg-logo="" group-title="Server 0⭐️",ES | 4K M+ LIGA DE CAMPEONES 9
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86401
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ LIGA DE CAMPEONES 10" tvg-logo="" group-title="Server 0⭐️",ES | SD M+ LIGA DE CAMPEONES 10
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86402
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ LIGA DE CAMPEONES 10" tvg-logo="" group-title="Server 0⭐️",ES | HD M+ LIGA DE CAMPEONES 10
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86403
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ LIGA DE CAMPEONES 10" tvg-logo="" group-title="Server 0⭐️",ES | 4K M+ LIGA DE CAMPEONES 10
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86404
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ LIGA DE CAMPEONES 11" tvg-logo="" group-title="Server 0⭐️",ES | SD M+ LIGA DE CAMPEONES 11
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86405
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ LIGA DE CAMPEONES 11" tvg-logo="" group-title="Server 0⭐️",ES | HD M+ LIGA DE CAMPEONES 11
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86406
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ LIGA DE CAMPEONES 11" tvg-logo="" group-title="Server 0⭐️",ES | 4K M+ LIGA DE CAMPEONES 11
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86407
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ LIGA DE CAMPEONES 12" tvg-logo="" group-title="Server 0⭐️",ES | SD M+ LIGA DE CAMPEONES 12
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86408
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ LIGA DE CAMPEONES 12" tvg-logo="" group-title="Server 0⭐️",ES | HD M+ LIGA DE CAMPEONES 12
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86409
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ LIGA DE CAMPEONES 12" tvg-logo="" group-title="Server 0⭐️",ES | 4K M+ LIGA DE CAMPEONES 12
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86410
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ LIGA DE CAMPEONES 13" tvg-logo="" group-title="Server 0⭐️",ES | SD M+ LIGA DE CAMPEONES 13
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86411
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ LIGA DE CAMPEONES 13" tvg-logo="" group-title="Server 0⭐️",ES | HD M+ LIGA DE CAMPEONES 13
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86412
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ LIGA DE CAMPEONES 13" tvg-logo="" group-title="Server 0⭐️",ES | 4K M+ LIGA DE CAMPEONES 13
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86413
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD DAZN 1" tvg-logo="" group-title="Server 0⭐️",ES | SD DAZN 1
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86414
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD DAZN 1" tvg-logo="" group-title="Server 0⭐️",ES | HD DAZN 1
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86415
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K DAZN 1" tvg-logo="" group-title="Server 0⭐️",ES | 4K DAZN 1
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86416
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD DAZN 2" tvg-logo="" group-title="Server 0⭐️",ES | SD DAZN 2
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86417
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD DAZN 2" tvg-logo="" group-title="Server 0⭐️",ES | HD DAZN 2
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86418
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K DAZN 2" tvg-logo="" group-title="Server 0⭐️",ES | 4K DAZN 2
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86419
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD DAZN 3" tvg-logo="" group-title="Server 0⭐️",ES | SD DAZN 3
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86420
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD  DAZN 3" tvg-logo="" group-title="Server 0⭐️",ES | HD  DAZN 3
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86421
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K DAZN 3" tvg-logo="" group-title="Server 0⭐️",ES | 4K DAZN 3
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86422
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD DAZN 4" tvg-logo="" group-title="Server 0⭐️",ES | SD DAZN 4
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86423
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD DAZN 4" tvg-logo="" group-title="Server 0⭐️",ES | HD DAZN 4
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86424
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K DAZN 4" tvg-logo="" group-title="Server 0⭐️",ES | 4K DAZN 4
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86425
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD DAZN F1" tvg-logo="" group-title="Server 0⭐️",ES | SD DAZN F1
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86426
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD DAZN F1" tvg-logo="" group-title="Server 0⭐️",ES | HD DAZN F1
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86427
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K DAZN F1" tvg-logo="" group-title="Server 0⭐️",ES | 4K DAZN F1
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86428
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ VAMOS" tvg-logo="" group-title="Server 0⭐️",ES | SD M+ VAMOS
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86429
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ VAMOS" tvg-logo="" group-title="Server 0⭐️",ES | HD M+ VAMOS
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86430
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ VAMOS" tvg-logo="" group-title="Server 0⭐️",ES | 4K M+ VAMOS
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86431
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD BARCA TV" tvg-logo="" group-title="Server 0⭐️",ES | HD BARCA TV
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86432
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K  BARCA TV" tvg-logo="" group-title="Server 0⭐️",ES | 4K  BARCA TV
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86433
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD REAL MADRID" tvg-logo="" group-title="Server 0⭐️",ES | SD REAL MADRID
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86434
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K REAL MADRID" tvg-logo="" group-title="Server 0⭐️",ES | 4K REAL MADRID
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86435
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD EUROSPORT 1" tvg-logo="" group-title="Server 0⭐️",ES | SD EUROSPORT 1
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86436
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD EUROSPORT 1" tvg-logo="" group-title="Server 0⭐️",ES | HD EUROSPORT 1
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86437
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K EUROSPORT 1" tvg-logo="" group-title="Server 0⭐️",ES | 4K EUROSPORT 1
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86438
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD EUROSPORT 2" tvg-logo="" group-title="Server 0⭐️",ES | SD EUROSPORT 2
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86439
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD EUROSPORT 2" tvg-logo="" group-title="Server 0⭐️",ES | HD EUROSPORT 2
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86440
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K EUROSPORT 2" tvg-logo="" group-title="Server 0⭐️",ES | 4K EUROSPORT 2
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86441
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ DEPORTES" tvg-logo="" group-title="Server 0⭐️",ES | SD M+ DEPORTES
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86442
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ DEPORTES" tvg-logo="" group-title="Server 0⭐️",ES | HD M+ DEPORTES
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86443
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ DEPORTES" tvg-logo="" group-title="Server 0⭐️",ES | 4K M+ DEPORTES
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86444
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ DEPORTES 2" tvg-logo="" group-title="Server 0⭐️",ES | SD M+ DEPORTES 2
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86445
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ DEPORTES 2" tvg-logo="" group-title="Server 0⭐️",ES | HD M+ DEPORTES 2
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86446
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ DEPORTES 2" tvg-logo="" group-title="Server 0⭐️",ES | 4K M+ DEPORTES 2
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86447
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ DEPORTES 3" tvg-logo="" group-title="Server 0⭐️",ES | SD M+ DEPORTES 3
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86448
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD  M+ DEPORTES 3" tvg-logo="" group-title="Server 0⭐️",ES | HD  M+ DEPORTES 3
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86449
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ DEPORTES 3" tvg-logo="" group-title="Server 0⭐️",ES | 4K M+ DEPORTES 3
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86450
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ DEPORTES 4" tvg-logo="" group-title="Server 0⭐️",ES | SD M+ DEPORTES 4
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86451
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ DEPORTES 4" tvg-logo="" group-title="Server 0⭐️",ES | HD M+ DEPORTES 4
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86452
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ DEPORTES 4" tvg-logo="" group-title="Server 0⭐️",ES | 4K M+ DEPORTES 4
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86453
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ DEPORTES 5" tvg-logo="" group-title="Server 0⭐️",ES | SD M+ DEPORTES 5
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86454
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ DEPORTES 5" tvg-logo="" group-title="Server 0⭐️",ES | HD M+ DEPORTES 5
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86455
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ DEPORTES 5" tvg-logo="" group-title="Server 0⭐️",ES | 4K M+ DEPORTES 5
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86456
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ DEPORTES 6" tvg-logo="" group-title="Server 0⭐️",ES | SD M+ DEPORTES 6
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86457
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ DEPORTES 6" tvg-logo="" group-title="Server 0⭐️",ES | HD M+ DEPORTES 6
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86458
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ DEPORTES 6" tvg-logo="" group-title="Server 0⭐️",ES | 4K M+ DEPORTES 6
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86459
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ DEPORTES 7" tvg-logo="" group-title="Server 0⭐️",ES | SD M+ DEPORTES 7
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86460
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ DEPORTES 7" tvg-logo="" group-title="Server 0⭐️",ES | HD M+ DEPORTES 7
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86461
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ DEPORTES 7" tvg-logo="" group-title="Server 0⭐️",ES | 4K M+ DEPORTES 7
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86462
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ GOLF" tvg-logo="" group-title="Server 0⭐️",ES | SD M+ GOLF
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86463
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ GOLF" tvg-logo="" group-title="Server 0⭐️",ES | HD M+ GOLF
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86464
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ GOLF" tvg-logo="" group-title="Server 0⭐️",ES | 4K M+ GOLF
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86465
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD TELEDEPORTE" tvg-logo="" group-title="Server 0⭐️",ES | SD TELEDEPORTE
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86466
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD TELEDEPORTE" tvg-logo="" group-title="Server 0⭐️",ES | HD TELEDEPORTE
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86467
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K TELEDEPORTE" tvg-logo="" group-title="Server 0⭐️",ES | 4K TELEDEPORTE
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86468
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD GOL" tvg-logo="" group-title="Server 0⭐️",ES | SD GOL
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86469
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD GOL" tvg-logo="" group-title="Server 0⭐️",ES | HD GOL
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86470
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K GOL" tvg-logo="" group-title="Server 0⭐️",ES | 4K GOL
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86471
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ DEPORTES 1" tvg-logo="" group-title="Server 0⭐️",ES | HD M+ DEPORTES 1
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86472
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ LIGA DE CAMPEONES" tvg-logo="" group-title="Server 0⭐️",ES | SD M+ LIGA DE CAMPEONES
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86473
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ LIGA DE CAMPEONES" tvg-logo="" group-title="Server 0⭐️",ES | HD M+ LIGA DE CAMPEONES
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86474
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ LIGA DE CAMPEONES" tvg-logo="" group-title="Server 0⭐️",ES | 4K M+ LIGA DE CAMPEONES
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86475
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ LA LIGA" tvg-logo="" group-title="Server 0⭐️",ES | 4K M+ LA LIGA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86476
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ LA LIGA" tvg-logo="" group-title="Server 0⭐️",ES | HD M+ LA LIGA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86477
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ LA LIGA" tvg-logo="" group-title="Server 0⭐️",ES | SD M+ LA LIGA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86478
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ NAUTICAL" tvg-logo="" group-title="Server 0⭐️",ES | SD M+ NAUTICAL
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86479
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ NAUTICAL" tvg-logo="" group-title="Server 0⭐️",ES | HD M+ NAUTICAL
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86480
-#EXTINF:-1 tvg-id="" tvg-name="ES : 4K M+ NAUTICAL" tvg-logo="" group-title="Server 0⭐️",ES : 4K M+ NAUTICAL
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86481
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD NAT GEO" tvg-logo="" group-title="Server 0⭐️",ES | SD NAT GEO
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86482
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD NAT GEO" tvg-logo="" group-title="Server 0⭐️",ES | HD NAT GEO
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86483
-#EXTINF:-1 tvg-id="" tvg-name="ES : 4K NAT GEO" tvg-logo="" group-title="Server 0⭐️",ES : 4K NAT GEO
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86484
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD CRIMEN+ INVESTIGACION" tvg-logo="" group-title="Server 0⭐️",ES | SD CRIMEN+ INVESTIGACION
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86485
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD CRIMEN+ INVESTIGACION" tvg-logo="" group-title="Server 0⭐️",ES | HD CRIMEN+ INVESTIGACION
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86486
-#EXTINF:-1 tvg-id="" tvg-name="ES : 4K CRIMEN+ INVESTIGACION" tvg-logo="" group-title="Server 0⭐️",ES : 4K CRIMEN+ INVESTIGACION
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86487
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD SOMOS" tvg-logo="" group-title="Server 0⭐️",ES | SD SOMOS
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86488
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD SOMOS" tvg-logo="" group-title="Server 0⭐️",ES | HD SOMOS
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86489
-#EXTINF:-1 tvg-id="" tvg-name="ES : 4K SOMOS" tvg-logo="" group-title="Server 0⭐️",ES : 4K SOMOS
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86490
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD TOROS" tvg-logo="" group-title="Server 0⭐️",ES | SD TOROS
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86491
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD TOROS" tvg-logo="" group-title="Server 0⭐️",ES | HD TOROS
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86492
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K TOROS" tvg-logo="" group-title="Server 0⭐️",ES | 4K TOROS
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86493
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD CANAL DE CASA" tvg-logo="" group-title="Server 0⭐️",ES | SD CANAL DE CASA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86494
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD CANAL DE CASA" tvg-logo="" group-title="Server 0⭐️",ES | HD CANAL DE CASA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86495
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K CANAL DE CASA" tvg-logo="" group-title="Server 0⭐️",ES | 4K CANAL DE CASA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86496
-#EXTINF:-1 tvg-id="" tvg-name="ES : SD MUNDO TORO" tvg-logo="" group-title="Server 0⭐️",ES : SD MUNDO TORO
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86497
-#EXTINF:-1 tvg-id="" tvg-name="ES : HD MUNDO TORO" tvg-logo="" group-title="Server 0⭐️",ES : HD MUNDO TORO
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86498
-#EXTINF:-1 tvg-id="" tvg-name="ES : 4K MUNDO TORO" tvg-logo="" group-title="Server 0⭐️",ES : 4K MUNDO TORO
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86499
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD DISCOVERY" tvg-logo="" group-title="Server 0⭐️",ES | SD DISCOVERY
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86500
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD DISCOVERY" tvg-logo="" group-title="Server 0⭐️",ES | HD DISCOVERY
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86501
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K DISCOVERY" tvg-logo="" group-title="Server 0⭐️",ES | 4K DISCOVERY
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86502
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD NAT GEO WILD" tvg-logo="" group-title="Server 0⭐️",ES | SD NAT GEO WILD
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86503
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD NAT GEO WILD" tvg-logo="" group-title="Server 0⭐️",ES | HD NAT GEO WILD
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86504
-#EXTINF:-1 tvg-id="" tvg-name="ES : 4K NAT GEO WILD" tvg-logo="" group-title="Server 0⭐️",ES : 4K NAT GEO WILD
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86505
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD BE MAD" tvg-logo="" group-title="Server 0⭐️",ES | SD BE MAD
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86506
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD BE MAD" tvg-logo="" group-title="Server 0⭐️",ES | HD BE MAD
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86507
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K BE MAD" tvg-logo="" group-title="Server 0⭐️",ES | 4K BE MAD
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86508
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD MEGA" tvg-logo="" group-title="Server 0⭐️",ES | SD MEGA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86509
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD MEGA" tvg-logo="" group-title="Server 0⭐️",ES | HD MEGA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86510
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K MEGA" tvg-logo="" group-title="Server 0⭐️",ES | 4K MEGA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86511
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD  ODISEA" tvg-logo="" group-title="Server 0⭐️",ES | SD  ODISEA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86512
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD ODISEA" tvg-logo="" group-title="Server 0⭐️",ES | HD ODISEA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86513
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K ODISEA" tvg-logo="" group-title="Server 0⭐️",ES | 4K ODISEA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86514
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD HISTORIA" tvg-logo="" group-title="Server 0⭐️",ES | SD HISTORIA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86515
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD HISTORIA" tvg-logo="" group-title="Server 0⭐️",ES | HD HISTORIA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86516
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K HISTORIA" tvg-logo="" group-title="Server 0⭐️",ES | 4K HISTORIA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86517
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD CANAL COCINA" tvg-logo="" group-title="Server 0⭐️",ES | SD CANAL COCINA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86518
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD CANAL COCINA" tvg-logo="" group-title="Server 0⭐️",ES | HD CANAL COCINA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86519
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K CANAL COCINA" tvg-logo="" group-title="Server 0⭐️",ES | 4K CANAL COCINA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86520
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD CAZA Y PESCA" tvg-logo="" group-title="Server 0⭐️",ES | SD CAZA Y PESCA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86521
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD CAZA Y PESCA" tvg-logo="" group-title="Server 0⭐️",ES | HD CAZA Y PESCA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86522
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD IBERALIA" tvg-logo="" group-title="Server 0⭐️",ES | HD IBERALIA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86523
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD HORSE TV" tvg-logo="" group-title="Server 0⭐️",ES | SD HORSE TV
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86524
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD HORSE TV" tvg-logo="" group-title="Server 0⭐️",ES | HD HORSE TV
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86525
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K HORSE TV" tvg-logo="" group-title="Server 0⭐️",ES | 4K HORSE TV
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86526
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD TEN" tvg-logo="" group-title="Server 0⭐️",ES | HD TEN
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86527
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD EN FAMILIA" tvg-logo="" group-title="Server 0⭐️",ES | HD EN FAMILIA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86528
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K EN FAMILIA" tvg-logo="" group-title="Server 0⭐️",ES | 4K EN FAMILIA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86529
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD DKISS" tvg-logo="" group-title="Server 0⭐️",ES | SD DKISS
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86530
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD FEST" tvg-logo="" group-title="Server 0⭐️",ES | SD FEST
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86531
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD FEST" tvg-logo="" group-title="Server 0⭐️",ES | HD FEST
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86532
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K FEST" tvg-logo="" group-title="Server 0⭐️",ES | 4K FEST
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86533
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD MTV 00" tvg-logo="" group-title="Server 0⭐️",ES | SD MTV 00
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86534
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD MTV 00" tvg-logo="" group-title="Server 0⭐️",ES | HD MTV 00
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86535
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD MTV" tvg-logo="" group-title="Server 0⭐️",ES | SD MTV
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86536
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD MTV" tvg-logo="" group-title="Server 0⭐️",ES | HD MTV
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86537
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD TVG MUSIGAL" tvg-logo="" group-title="Server 0⭐️",ES | SD TVG MUSIGAL
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86538
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD TVG MUSIGAL" tvg-logo="" group-title="Server 0⭐️",ES | HD TVG MUSIGAL
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86539
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K TVG MUSIGAL" tvg-logo="" group-title="Server 0⭐️",ES | 4K TVG MUSIGAL
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86540
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ NEGOCIOS" tvg-logo="" group-title="Server 0⭐️",ES | SD M+ NEGOCIOS
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86541
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ NEGOCIOS" tvg-logo="" group-title="Server 0⭐️",ES | HD M+ NEGOCIOS
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86542
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD MEZZO LIVE" tvg-logo="" group-title="Server 0⭐️",ES | HD MEZZO LIVE
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86543
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD M+ DREAMWORKS" tvg-logo="" group-title="Server 0⭐️",ES | SD M+ DREAMWORKS
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86544
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD M+ DREAMWORKS" tvg-logo="" group-title="Server 0⭐️",ES | HD M+ DREAMWORKS
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86545
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K M+ DREAMWORKS" tvg-logo="" group-title="Server 0⭐️",ES | 4K M+ DREAMWORKS
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86546
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD CANAL PANDA" tvg-logo="" group-title="Server 0⭐️",ES | SD CANAL PANDA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86547
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD CANAL PANDA" tvg-logo="" group-title="Server 0⭐️",ES | HD CANAL PANDA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86548
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K CANAL PANDA" tvg-logo="" group-title="Server 0⭐️",ES | 4K CANAL PANDA
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86549
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD DISNEY JUNIOR" tvg-logo="" group-title="Server 0⭐️",ES | SD DISNEY JUNIOR
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86550
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD DISNEY JUNIOR" tvg-logo="" group-title="Server 0⭐️",ES | HD DISNEY JUNIOR
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86551
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K DISNEY JUNIOR" tvg-logo="" group-title="Server 0⭐️",ES | 4K DISNEY JUNIOR
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86552
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD DISNEY CHANNEL" tvg-logo="" group-title="Server 0⭐️",ES | SD DISNEY CHANNEL
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86553
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD DISNEY CHANNEL" tvg-logo="" group-title="Server 0⭐️",ES | HD DISNEY CHANNEL
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86554
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K DISNEY CHANNEL" tvg-logo="" group-title="Server 0⭐️",ES | 4K DISNEY CHANNEL
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86555
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD NICKELODEON" tvg-logo="" group-title="Server 0⭐️",ES | SD NICKELODEON
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86556
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD NICKELODEON" tvg-logo="" group-title="Server 0⭐️",ES | HD NICKELODEON
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86557
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K NICKELODEON" tvg-logo="" group-title="Server 0⭐️",ES | 4K NICKELODEON
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86558
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD NICK JR" tvg-logo="" group-title="Server 0⭐️",ES | SD NICK JR
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86559
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD NICK JR" tvg-logo="" group-title="Server 0⭐️",ES | HD NICK JR
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86560
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K NICK JR" tvg-logo="" group-title="Server 0⭐️",ES | 4K NICK JR
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86561
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD CLAN TV" tvg-logo="" group-title="Server 0⭐️",ES | SD CLAN TV
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86562
-#EXTINF:-1 tvg-id="" tvg-name="ES| HD CLAN TV" tvg-logo="" group-title="Server 0⭐️",ES| HD CLAN TV
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86563
-#EXTINF:-1 tvg-id="" tvg-name="ES | 4K CLAN TV" tvg-logo="" group-title="Server 0⭐️",ES | 4K CLAN TV
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86564
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD BOING" tvg-logo="" group-title="Server 0⭐️",ES | SD BOING
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86565
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD BOING" tvg-logo="" group-title="Server 0⭐️",ES | HD BOING
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86566
-#EXTINF:-1 tvg-id="" tvg-name="ES | SD BABY TV" tvg-logo="" group-title="Server 0⭐️",ES | SD BABY TV
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86567
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD BABY TV" tvg-logo="" group-title="Server 0⭐️",ES | HD BABY TV
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86568
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD MOVISTAR+ ALQUILER 1" tvg-logo="" group-title="Server 0⭐️",ES | HD MOVISTAR+ ALQUILER 1
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86569
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD MOVISTAR+ ALQUILER 2" tvg-logo="" group-title="Server 0⭐️",ES | HD MOVISTAR+ ALQUILER 2
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86570
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD MOVISTAR+ ALQUILER 3" tvg-logo="" group-title="Server 0⭐️",ES | HD MOVISTAR+ ALQUILER 3
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86571
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD MOVISTAR+ ALQUILER 4" tvg-logo="" group-title="Server 0⭐️",ES | HD MOVISTAR+ ALQUILER 4
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86572
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD MOVISTAR+ ALQUILER 5" tvg-logo="" group-title="Server 0⭐️",ES | HD MOVISTAR+ ALQUILER 5
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86573
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD MOVISTAR+ ALQUILER 6" tvg-logo="" group-title="Server 0⭐️",ES | HD MOVISTAR+ ALQUILER 6
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86574
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD MOVISTAR+ ALQUILER 7" tvg-logo="" group-title="Server 0⭐️",ES | HD MOVISTAR+ ALQUILER 7
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86575
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD MOVISTAR+ ALQUILER 8" tvg-logo="" group-title="Server 0⭐️",ES | HD MOVISTAR+ ALQUILER 8
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86576
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD MOVISTAR+ ALQUILER 9" tvg-logo="" group-title="Server 0⭐️",ES | HD MOVISTAR+ ALQUILER 9
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86577
-#EXTINF:-1 tvg-id="" tvg-name="ES | HD MOVISTAR+ ALQUILER 10" tvg-logo="" group-title="Server 0⭐️",ES | HD MOVISTAR+ ALQUILER 10
-http://world-ott.com:8080/000666724978/UOpscAqLxZ/86578
+
+#EXTINF:-1 tvg-id="LA 1" tvg-name="LA 1 HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/1.png" group-title="Server 0⭐️",LA 1 HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/42593
+#EXTINF:-1 tvg-id="LA 1" tvg-name="LA 1 FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/1.png" group-title="Server 0⭐️",LA 1 FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/42592
+#EXTINF:-1 tvg-id="LA 2" tvg-name="LA 2 FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/2.png" group-title="Server 0⭐️",LA 2 FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/9
+#EXTINF:-1 tvg-id="Antena 3" tvg-name="Antena 3 HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/3hd.png" group-title="Server 0⭐️",Antena 3 HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/11
+#EXTINF:-1 tvg-id="Antena 3" tvg-name="Antena 3 FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/3hd.png" group-title="Server 0⭐️",Antena 3 FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/12
+#EXTINF:-1 tvg-id="Cuatro" tvg-name="Cuatro HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/4hd.png" group-title="Server 0⭐️",Cuatro HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/14
+#EXTINF:-1 tvg-id="Cuatro" tvg-name="Cuatro FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/4hd.png" group-title="Server 0⭐️",Cuatro FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/15
+#EXTINF:-1 tvg-id="Telecinco" tvg-name="Telecinco HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/5hd.png" group-title="Server 0⭐️",Telecinco HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/17
+#EXTINF:-1 tvg-id="Telecinco" tvg-name="Telecinco FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/5hd.png" group-title="Server 0⭐️",Telecinco FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/18
+#EXTINF:-1 tvg-id="La Sexta" tvg-name="La Sexta HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/6hd.png" group-title="Server 0⭐️",La Sexta HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/20
+#EXTINF:-1 tvg-id="La Sexta" tvg-name="La Sexta FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/6hd.png" group-title="Server 0⭐️",La Sexta FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/21
+#EXTINF:-1 tvg-id="Canal Sur HD" tvg-name="Canal Sur HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/csura.png" group-title="Server 0⭐️",Canal Sur HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/23
+#EXTINF:-1 tvg-id="Canal Sur HD" tvg-name="Canal Sur FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/csura.png" group-title="Server 0⭐️",Canal Sur FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/24
+#EXTINF:-1 tvg-id="ETB 2" tvg-name="GRAN HERMANO VIP" tvg-logo="" group-title="Server 0⭐️",GRAN HERMANO VIP
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/740
+#EXTINF:-1 tvg-id="Onda Cádiz" tvg-name="ONDA CADIZ" tvg-logo="https://ondacadiz.es/sites/default/files/programas-tv/imagenes/logo_onda_cadiz_1240x580_1.png" group-title="Server 0⭐️",ONDA CADIZ
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/29399
+#EXTINF:-1 tvg-id="Andalucía TV" tvg-name="PTV Sevilla" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/ptv.png" group-title="Server 0⭐️",PTV Sevilla
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/22
+#EXTINF:-1 tvg-id="7TV Andalucia" tvg-name="7 TV" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/7tv.png" group-title="Server 0⭐️",7 TV
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/45962
+#EXTINF:-1 tvg-id="13 TV" tvg-name="13TV" tvg-logo="http://kedice.org:16004/images/bb35d6546f0f2305796d396a53b73f72.png" group-title="Server 0⭐️",13TV
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/11883
+#EXTINF:-1 tvg-id="TVG -TV Galicia" tvg-name="TVG" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/tvg.png" group-title="Server 0⭐️",TVG
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/28
+#EXTINF:-1 tvg-id="Telemadrid" tvg-name="Telemadrid" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/tmad.png" group-title="Server 0⭐️",Telemadrid
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/27
+#EXTINF:-1 tvg-id="Esport3 CAT" tvg-name="Esport3 CAT" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/es3.png" group-title="Server 0⭐️",Esport3 CAT
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/43120
+#EXTINF:-1 tvg-id="ETB 1" tvg-name="ETB 1" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/etb1.png" group-title="Server 0⭐️",ETB 1
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/739
+#EXTINF:-1 tvg-id="ETB 2" tvg-name="ETB2" tvg-logo="https://iptvboss.xyz/logos/Spain/ETB2.es.png" group-title="Server 0⭐️",ETB2
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76673
+#EXTINF:-1 tvg-id="LA 1" tvg-name="CMM TV" tvg-logo="https://iptvboss.xyz/logos/Spain/CastillalaManchaTV.es.png" group-title="Server 0⭐️",CMM TV
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76674
+#EXTINF:-1 tvg-id="TV Canaria" tvg-name="CANARIAS TV" tvg-logo="https://iptvboss.xyz/logos/Spain/TV%20Canaria.png" group-title="Server 0⭐️",CANARIAS TV
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76675
+#EXTINF:-1 tvg-id="Canal Extremadura Sat" tvg-name="CANAL EXTREMADURA" tvg-logo="https://iptvboss.xyz/logos/Spain/CanalExtremadura.es.png" group-title="Server 0⭐️",CANAL EXTREMADURA
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76676
+#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/tv3.png" group-title="Server 0⭐️",TV3
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/737
+#EXTINF:-1 tvg-id="Ten" tvg-name="TEN" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/ten.png" group-title="Server 0⭐️",TEN
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/135
+#EXTINF:-1 tvg-id="BuenViaje" tvg-name="BUEN VIAJE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BUENV.png" group-title="Server 0⭐️",BUEN VIAJE
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/70467
+#EXTINF:-1 tvg-id="Odisea" tvg-name="Odisea FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/odi.png" group-title="Server 0⭐️",Odisea FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/150
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/nge.png" group-title="Server 0⭐️",National Geographic HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/137
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/nge.png" group-title="Server 0⭐️",National Geographic FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/138
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/ngew.png" group-title="Server 0⭐️",Nat Geo Wild HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/140
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/ngew.png" group-title="Server 0⭐️",Nat Geo Wild FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/141
+#EXTINF:-1 tvg-id="DKISS" tvg-name="DKISS" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/dki.png" group-title="Server 0⭐️",DKISS
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/134
+#EXTINF:-1 tvg-id="Mega" tvg-name="Mega FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mega.png" group-title="Server 0⭐️",Mega FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/132
+#EXTINF:-1 tvg-id="Historia" tvg-name="Historia FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/his.png" group-title="Server 0⭐️",Historia FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/146
+#EXTINF:-1 tvg-id="Historia" tvg-name="CANAL HISTORIA " tvg-logo="" group-title="Server 0⭐️",CANAL HISTORIA 
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82696
+#EXTINF:-1 tvg-id="LA 1" tvg-name="DMAX" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/dmax.png" group-title="Server 0⭐️",DMAX
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/144
+#EXTINF:-1 tvg-id="Discovery" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCR.png" group-title="Server 0⭐️",DISCOVERY CHANNEL
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76302
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery channel #" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/disc.png" group-title="Server 0⭐️",Discovery channel #
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/143
+#EXTINF:-1 tvg-id="Canal Decasa" tvg-name="DeCasa FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/dec.png" group-title="Server 0⭐️",DeCasa FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/157
+#EXTINF:-1 tvg-id="ext" tvg-name="Pluto TV Cocina" tvg-logo="http://kedice.org:16004/images/0bed492bbb1b14e3ace65ed81894f467.png" group-title="Server 0⭐️",Pluto TV Cocina
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/41243
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="Canal Cocina FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/coc.png" group-title="Server 0⭐️",Canal Cocina FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/12360
+#EXTINF:-1 tvg-id="LA 1" tvg-name="AMC Break FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/amcb.png" group-title="Server 0⭐️",AMC Break FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/148
+#EXTINF:-1 tvg-id="BE MAD" tvg-name="BEMAD HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/bmhd.png" group-title="Server 0⭐️",BEMAD HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/130
+#EXTINF:-1 tvg-id="BE MAD" tvg-name="BEMAD FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/bmhd.png" group-title="Server 0⭐️",BEMAD FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/131
+#EXTINF:-1 tvg-id="Odisea" tvg-name="ODISEA 4K" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/odi.png" group-title="Server 0⭐️",ODISEA 4K
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/54106
+#EXTINF:-1 tvg-id="SELEKT" tvg-name="SELEKT" tvg-logo="" group-title="Server 0⭐️",SELEKT
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76303
+#EXTINF:-1 tvg-id="M+ Documentales" tvg-name="M+ Documentales" tvg-logo="" group-title="Server 0⭐️",M+ Documentales
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77069
+#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="M+ FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mplus.png" group-title="Server 0⭐️",M+ FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/42304
+#EXTINF:-1 tvg-id="M+ Cine" tvg-name="M+ Cine" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mcine.png" group-title="Server 0⭐️",M+ Cine
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/38
+#EXTINF:-1 tvg-id="M+ Cine" tvg-name="M+ Cine" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mcine.png" group-title="Server 0⭐️",M+ Cine
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/48464
+#EXTINF:-1 tvg-id="M+ Cine" tvg-name="M+ Cine FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mcine.png" group-title="Server 0⭐️",M+ Cine FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/39
+#EXTINF:-1 tvg-id="M+ Series" tvg-name="MovistarSeries HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mser.png" group-title="Server 0⭐️",MovistarSeries HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/53
+#EXTINF:-1 tvg-id="M+ Series" tvg-name="MovistarSeries FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mser.png" group-title="Server 0⭐️",MovistarSeries FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/54
+#EXTINF:-1 tvg-id="M+ Originales" tvg-name="M+ Originales" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mori.png" group-title="Server 0⭐️",M+ Originales
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/34
+#EXTINF:-1 tvg-id="M+ Originales" tvg-name="M+ Originales FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mori.png" group-title="Server 0⭐️",M+ Originales FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/36
+#EXTINF:-1 tvg-id="M+ Originales" tvg-name="M+ Originales Low Bitrate" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mori.png" group-title="Server 0⭐️",M+ Originales Low Bitrate
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/35
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ TERROR" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mpopup.png" group-title="Server 0⭐️",M+ TERROR
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/70554
+#EXTINF:-1 tvg-id="M+ Clásicos" tvg-name="M Clasicos" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mclas.png" group-title="Server 0⭐️",M Clasicos
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/70552
+#EXTINF:-1 tvg-id="M+ Clásicos HD" tvg-name="Movistar Clasicos FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mclas.png" group-title="Server 0⭐️",Movistar Clasicos FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/43096
+#EXTINF:-1 tvg-id="Bajo demanda" tvg-name="Movistar Clasicos HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mclas.png" group-title="Server 0⭐️",Movistar Clasicos HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/43097
+#EXTINF:-1 tvg-id="M+ Acción" tvg-name="Movistar Accion HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/macc.png" group-title="Server 0⭐️",Movistar Accion HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/41
+#EXTINF:-1 tvg-id="M+ Acción" tvg-name="Movistar Accion FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/macc.png" group-title="Server 0⭐️",Movistar Accion FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/1
+#EXTINF:-1 tvg-id="M+ Comedia" tvg-name="Movistar Comedia HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mcom.png" group-title="Server 0⭐️",Movistar Comedia HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/45
+#EXTINF:-1 tvg-id="M+ Comedia" tvg-name="Movistar Comedia FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mcom.png" group-title="Server 0⭐️",Movistar Comedia FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/46
+#EXTINF:-1 tvg-id="M+ Drama" tvg-name="Movistar Drama HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mdra.png" group-title="Server 0⭐️",Movistar Drama HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/43
+#EXTINF:-1 tvg-id="M+ Drama" tvg-name="Movistar Drama FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mdra.png" group-title="Server 0⭐️",Movistar Drama FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/2
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="M+ Cine Español" tvg-logo="http://51.68.199.32/logos/mespa.png" group-title="Server 0⭐️",M+ Cine Español
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/61879
+#EXTINF:-1 tvg-id="M+ Suspense" tvg-name="M+ Suspense HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mser2.png" group-title="Server 0⭐️",M+ Suspense HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/50
+#EXTINF:-1 tvg-id="M+ Suspense" tvg-name="M+ Suspense FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/msus.png" group-title="Server 0⭐️",M+ Suspense FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/51
+#EXTINF:-1 tvg-id="M+ Indie" tvg-name="Indie por M+" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mindie.png" group-title="Server 0⭐️",Indie por M+
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77071
+#EXTINF:-1 tvg-id="ext" tvg-name="CINE FRIKI" tvg-logo="" group-title="Server 0⭐️",CINE FRIKI
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82091
+#EXTINF:-1 tvg-id="ext" tvg-name="DE PELICULAS" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/De-Pelicula-Plus-Logo-2012.png" group-title="Server 0⭐️",DE PELICULAS
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76760
+#EXTINF:-1 tvg-id="La Resistencia 24H" tvg-name="La Resistencia 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Logo_La_Resistencia.png" group-title="Server 0⭐️",La Resistencia 24H
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/70555
+#EXTINF:-1 tvg-id="Dreamworks" tvg-name="DreamWorks FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/dream.png" group-title="Server 0⭐️",DreamWorks FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/29680
+#EXTINF:-1 tvg-id="M+ Series HD" tvg-name="Movistar Series 2 FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mser2.png" group-title="Server 0⭐️",Movistar Series 2 FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/42305
+#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/xtrm.png" group-title="Server 0⭐️",XTRM FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/75
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/tnt.png" group-title="Server 0⭐️",TNT HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/68
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/tnt.png" group-title="Server 0⭐️",TNT FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/69
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/tcm.png" group-title="Server 0⭐️",TCM FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/71
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/syfy.png" group-title="Server 0⭐️",SYFY HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/syfy.png" group-title="Server 0⭐️",SYFY FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/78
+#EXTINF:-1 tvg-id="Sundance" tvg-name="Sundance FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/sund.png" group-title="Server 0⭐️",Sundance FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/89
+#EXTINF:-1 tvg-id="Somos" tvg-name="Somos" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/somos.png" group-title="Server 0⭐️",Somos
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/57
+#EXTINF:-1 tvg-id="Hollywood" tvg-name="Hollywood HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/hwd.png" group-title="Server 0⭐️",Hollywood HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/80
+#EXTINF:-1 tvg-id="Hollywood" tvg-name="Hollywood FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/hwd.png" group-title="Server 0⭐️",Hollywood FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/81
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/fox.png" group-title="Server 0⭐️",Fox HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/65
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/fox.png" group-title="Server 0⭐️",Fox FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/66
+#EXTINF:-1 tvg-id="DARK" tvg-name="Dark FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/dark.png" group-title="Server 0⭐️",Dark FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/73
+#EXTINF:-1 tvg-id="COSMO" tvg-name="Cosmo HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/cos.png" group-title="Server 0⭐️",Cosmo HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/94
+#EXTINF:-1 tvg-id="COSMO" tvg-name="Cosmo FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/cos.png" group-title="Server 0⭐️",Cosmo FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/95
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy central HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/comce.png" group-title="Server 0⭐️",Comedy central HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/59
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/comce.png" group-title="Server 0⭐️",Comedy Central FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/60
+#EXTINF:-1 tvg-id="Calle 13" tvg-name="Calle13 FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/c13.png" group-title="Server 0⭐️",Calle13 FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/98
+#EXTINF:-1 tvg-id="Calle 13" tvg-name="Calle 13 HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/c13.png" group-title="Server 0⭐️",Calle 13 HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/97
+#EXTINF:-1 tvg-id="AXN White" tvg-name="AXN White HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/axnw.png" group-title="Server 0⭐️",AXN White HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/83
+#EXTINF:-1 tvg-id="AXN White" tvg-name="AXN White FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/axnw.png" group-title="Server 0⭐️",AXN White FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/84
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/axn.png" group-title="Server 0⭐️",AXN HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/86
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/axn.png" group-title="Server 0⭐️",AXN FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/87
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/amc.png" group-title="Server 0⭐️",AMC HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/91
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/amc.png" group-title="Server 0⭐️",AMC FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/92
+#EXTINF:-1 tvg-id="BOM Cine" tvg-name="BOM CINE" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/bom.png" group-title="Server 0⭐️",BOM CINE
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/12036
+#EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC Crime" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/amcc.png" group-title="Server 0⭐️",AMC Crime
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/99
+#EXTINF:-1 tvg-id="Factoría de Ficción" tvg-name="FDF" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/fdf.png" group-title="Server 0⭐️",FDF
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/101
+#EXTINF:-1 tvg-id="Energy" tvg-name="Energy" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/ener.png" group-title="Server 0⭐️",Energy
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/109
+#EXTINF:-1 tvg-id="Divinity" tvg-name="Divinity" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/div.png" group-title="Server 0⭐️",Divinity
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/110
+#EXTINF:-1 tvg-id="Paramount Network" tvg-name="Paramount Network" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/para.png" group-title="Server 0⭐️",Paramount Network
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/100
+#EXTINF:-1 tvg-id="Nova" tvg-name="Nova" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/nova.png" group-title="Server 0⭐️",Nova
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/105
+#EXTINF:-1 tvg-id="LA 1" tvg-name="Nova FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/nova.png" group-title="Server 0⭐️",Nova FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/106
+#EXTINF:-1 tvg-id="Neox" tvg-name="Neox" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/neox.png" group-title="Server 0⭐️",Neox
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/107
+#EXTINF:-1 tvg-id="Neox" tvg-name="Neox FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/neox.png" group-title="Server 0⭐️",Neox FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/108
+#EXTINF:-1 tvg-id="I643.37232.schedulesdirect.org" tvg-name="TLNovelas" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/tln.png" group-title="Server 0⭐️",TLNovelas
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/113
+#EXTINF:-1 tvg-id="MTV ESPAÑA" tvg-name="TEST-OWL" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mtv.png" group-title="Server 0⭐️",TEST-OWL
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/103
+#EXTINF:-1 tvg-id="MTV España" tvg-name="MTV ESP" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mtv.png" group-title="Server 0⭐️",MTV ESP
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76287
+#EXTINF:-1 tvg-id="M+ Suspense" tvg-name="M+ Suspense" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/msus.png" group-title="Server 0⭐️",M+ Suspense
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77070
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney JR" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/disjr.png" group-title="Server 0⭐️",Disney JR
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/118
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/discha.png" group-title="Server 0⭐️",Disney Channel
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/12068
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby Tv" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/babytv.png" group-title="Server 0⭐️",Baby Tv
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/124
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="Nick Jr" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/nickjr.png" group-title="Server 0⭐️",Nick Jr
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/121
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/nick.png" group-title="Server 0⭐️",Nickelodeon FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/123
+#EXTINF:-1 tvg-id="Clan TVE" tvg-name="Clan TVE FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/clanhd.png" group-title="Server 0⭐️",Clan TVE FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/128
+#EXTINF:-1 tvg-id="Enfamilia" tvg-name="ENFAMILIA" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/panda.png" group-title="Server 0⭐️",ENFAMILIA
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/125
+#EXTINF:-1 tvg-id="Boing" tvg-name="Boing" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/boi.png" group-title="Server 0⭐️",Boing
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/126
+#EXTINF:-1 tvg-id="ext" tvg-name="Animakids" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/akids.png" group-title="Server 0⭐️",Animakids
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/41240
+#EXTINF:-1 tvg-id="ext" tvg-name="TV Junior" tvg-logo="" group-title="Server 0⭐️",TV Junior
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/41241
+#EXTINF:-1 tvg-id="ext" tvg-name="Bob Esponja" tvg-logo="" group-title="Server 0⭐️",Bob Esponja
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/41242
+#EXTINF:-1 tvg-id="LA 1" tvg-name="Ubeat" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/Ubeat.png" group-title="Server 0⭐️",Ubeat
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/169
+#EXTINF:-1 tvg-id="LA 1" tvg-name="cazavision" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/caz.png" group-title="Server 0⭐️",cazavision
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/61321
+#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="Iberalia TV" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/iber.png" group-title="Server 0⭐️",Iberalia TV
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/161
+#EXTINF:-1 tvg-id="ext" tvg-name="IBERALIA CAZA" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/iber.png" group-title="Server 0⭐️",IBERALIA CAZA
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/43212
+#EXTINF:-1 tvg-id="ext" tvg-name="IBERALIA PESCA" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/iber.png" group-title="Server 0⭐️",IBERALIA PESCA
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/689
+#EXTINF:-1 tvg-id="Caza y Pesca" tvg-name="Caza y Pesca HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/cape.png" group-title="Server 0⭐️",Caza y Pesca HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/159
+#EXTINF:-1 tvg-id="Caza y Pesca" tvg-name="Caza y Pesca FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/cape.png" group-title="Server 0⭐️",Caza y Pesca FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/160
+#EXTINF:-1 tvg-id="ext" tvg-name="DBIKE" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/dbi.png" group-title="Server 0⭐️",DBIKE
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/61122
+#EXTINF:-1 tvg-id="Fight Box HD" tvg-name="fight box" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/fbox.png" group-title="Server 0⭐️",fight box
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/61869
+#EXTINF:-1 tvg-id="Surf Channel" tvg-name="Surf Channel" tvg-logo="https://media.licdn.com/dms/image/C4E0BAQGOpgARyy7Mxg/company-logo_200_200/0/1519872238622?e=2147483647&v=beta&t=U2E76w8Uam56NWSpdJm_6DcamOVE4Xxyu13UbTlyLcY" group-title="Server 0⭐️",Surf Channel
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76304
+#EXTINF:-1 tvg-id="ext" tvg-name="REK TV ( videojuegos )" tvg-logo="" group-title="Server 0⭐️",REK TV ( videojuegos )
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76761
+#EXTINF:-1 tvg-id="ext" tvg-name="cofrade" tvg-logo="" group-title="Server 0⭐️",cofrade
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76781
+#EXTINF:-1 tvg-id="MMA TV" tvg-name="MMA TV" tvg-logo="" group-title="Server 0⭐️",MMA TV
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82885
+#EXTINF:-1 tvg-id="MTV España" tvg-name="MTV Music Made in Spain" tvg-logo="https://app.allflamenco.net/preview/img/logotipo_allflamenco_blanco_small1.jpg" group-title="Server 0⭐️",MTV Music Made in Spain
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76305
+#EXTINF:-1 tvg-id="M+ Música" tvg-name="M+ MUSICA" tvg-logo="" group-title="Server 0⭐️",M+ MUSICA
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77139
+#EXTINF:-1 tvg-id="MTV 80s" tvg-name="trace-latina" tvg-logo="http://toloko.owltv.eu:16004/images/e698c5e95ba1263bb6951d01897d9b64.png" group-title="Server 0⭐️",trace-latina
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/13204
+#EXTINF:-1 tvg-id="MTV 00s" tvg-name="MTV 00" tvg-logo="http://kedice.org:16004/images/8053fa1b365053eeae7a4cdccabecaa7.png" group-title="Server 0⭐️",MTV 00
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/13940
+#EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="4Fun Dance" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Mezzo_Live_HD_logo.png" group-title="Server 0⭐️",4Fun Dance
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/41239
+#EXTINF:-1 tvg-id="MTV 80s" tvg-name="MTV 80s" tvg-logo="" group-title="Server 0⭐️",MTV 80s
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/70537
+#EXTINF:-1 tvg-id="ext" tvg-name="Trace Urban HD" tvg-logo="" group-title="Server 0⭐️",Trace Urban HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/70548
+#EXTINF:-1 tvg-id="ext" tvg-name="NRJ Hits HD" tvg-logo="" group-title="Server 0⭐️",NRJ Hits HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/70549
+#EXTINF:-1 tvg-id="ext" tvg-name="PLUTO B#" tvg-logo="" group-title="Server 0⭐️",PLUTO B#
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/41236
+#EXTINF:-1 tvg-id="ext" tvg-name="PLUTO B 3" tvg-logo="" group-title="Server 0⭐️",PLUTO B 3
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/41238
+#EXTINF:-1 tvg-id="ext" tvg-name="PLUTO B 2" tvg-logo="" group-title="Server 0⭐️",PLUTO B 2
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76385
+#EXTINF:-1 tvg-id="ext" tvg-name="PLUTO B" tvg-logo="" group-title="Server 0⭐️",PLUTO B
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76386
+#EXTINF:-1 tvg-id="ext" tvg-name="ONES TV" tvg-logo="" group-title="Server 0⭐️",ONES TV
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/125203
+
+
+#EXTINF:-1 tvg-id="Movistar Plus+ 2 HD" tvg-name="M+ 2" tvg-logo="" group-title="Server 0⭐️",M+ 2
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/9230
+#EXTINF:-1 tvg-id="M+ Ellas Vamos HD" tvg-name="M+ Ellas #v" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mellas.png" group-title="Server 0⭐️",M+ Ellas #v
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/61878
+#EXTINF:-1 tvg-id="Esport 3" tvg-name="Esport3" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/es3.png" group-title="Server 0⭐️",Esport3
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/247
+#EXTINF:-1 tvg-id="Teledeporte" tvg-name="Teledeporte FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/tdphd.png" group-title="Server 0⭐️",Teledeporte FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/262
+#EXTINF:-1 tvg-id="ext" tvg-name="Tennis Channel" tvg-logo="https://1.bp.blogspot.com/-UHbphuMzTLI/Xjb-ajdIv1I/AAAAAAAABA0/W2Dhehq7thsNNu92yKs9orPOD9LLYaddACLcBGAsYHQ/s200/34.png" group-title="Server 0⭐️",Tennis Channel
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/74495
+#EXTINF:-1 tvg-id="MyPadel TV" tvg-name="My Padel TV" tvg-logo="https://images.samsung.com/is/image/samsung/assets/es/tvs/smart-tv/samsung-tv-plus/MyPadelTV_1000x1000_Circle.png?$296_164_PNG" group-title="Server 0⭐️",My Padel TV
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76285
+#EXTINF:-1 tvg-id="M+ Golf" tvg-name="M Golf FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/golf.png" group-title="Server 0⭐️",M Golf FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/253
+#EXTINF:-1 tvg-id="ext" tvg-name="Golf Channel" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/gchan.png" group-title="Server 0⭐️",Golf Channel
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/46973
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1 HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/euros1.png" group-title="Server 0⭐️",Eurosport 1 HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/255
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1 FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/euros1.png" group-title="Server 0⭐️",Eurosport 1 FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/257
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1 FHD Low Bitrate" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/euros1.png" group-title="Server 0⭐️",Eurosport 1 FHD Low Bitrate
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/256
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2 HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/euros2.png" group-title="Server 0⭐️",Eurosport 2 HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/258
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2 FHD Low Bitrate" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/euros2.png" group-title="Server 0⭐️",Eurosport 2 FHD Low Bitrate
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/259
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2 FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/euros2.png" group-title="Server 0⭐️",Eurosport 2 FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/40615
+#EXTINF:-1 tvg-id="M+ Deportes" tvg-name="M Deportes HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mdep.png" group-title="Server 0⭐️",M Deportes HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/249
+#EXTINF:-1 tvg-id="M+ Deportes" tvg-name="M Deportes FHD Low Bitrate" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mdep.png" group-title="Server 0⭐️",M Deportes FHD Low Bitrate
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/250
+#EXTINF:-1 tvg-id="M+ Deportes" tvg-name="M Deportes FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mdep.png" group-title="Server 0⭐️",M Deportes FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/251
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="M Deportes 2 HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mdep1.png" group-title="Server 0⭐️",M Deportes 2 HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/266
+#EXTINF:-1 tvg-id="M+ Deportes" tvg-name="M Deportes FHD#" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mdep1.png" group-title="Server 0⭐️",M Deportes FHD#
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/265
+#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-name="M Deportes 3" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mdep3.png" group-title="Server 0⭐️",M Deportes 3
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/268
+#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-name="M Deportes 4" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mdep4.png" group-title="Server 0⭐️",M Deportes 4
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/269
+#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="M Deportes 5" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mdep5.png" group-title="Server 0⭐️",M Deportes 5
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/270
+#EXTINF:-1 tvg-id="M+ Deportes 6" tvg-name="M Deportes 6" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mdep6.png" group-title="Server 0⭐️",M Deportes 6
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/271
+#EXTINF:-1 tvg-id="M+ Deportes 7" tvg-name="M Deportes 7" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mdep7.png" group-title="Server 0⭐️",M Deportes 7
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/272
+#EXTINF:-1 tvg-id="Betis TV" tvg-name="BETIS TV" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/betv.png" group-title="Server 0⭐️",BETIS TV
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/176
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="Real Madrid TV" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/rmtv.png" group-title="Server 0⭐️",Real Madrid TV
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/177
+#EXTINF:-1 tvg-id="Sevilla FC Televisión" tvg-name="SFC TV" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/sfctv.png" group-title="Server 0⭐️",SFC TV
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/180
+#EXTINF:-1 tvg-id="M+ Vamos" tvg-name="#VAMOS" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/vamos.png" group-title="Server 0⭐️",#VAMOS
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/171
+#EXTINF:-1 tvg-id="LA 1" tvg-name="#VAMOS HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/vamos.png" group-title="Server 0⭐️",#VAMOS HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/172
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="#VAMOS FHD Low Bitrate" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/vamos.png" group-title="Server 0⭐️",#VAMOS FHD Low Bitrate
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/173
+#EXTINF:-1 tvg-id="LA 1" tvg-name="#VAMOS FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/vamos.png" group-title="Server 0⭐️",#VAMOS FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/175
+#EXTINF:-1 tvg-id="M+ Vamos" tvg-name="#VAMOS FHD#" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/vamos.png" group-title="Server 0⭐️",#VAMOS FHD#
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/29389
+#EXTINF:-1 tvg-id="LA 1" tvg-name="GOL" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/golp.png" group-title="Server 0⭐️",GOL
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/181
+#EXTINF:-1 tvg-id="GOL PLAY" tvg-name="GOL HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/golp.png" group-title="Server 0⭐️",GOL HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/182
+#EXTINF:-1 tvg-id="GOL PLAY" tvg-name="GOL FHD Low Bitrate" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/golp.png" group-title="Server 0⭐️",GOL FHD Low Bitrate
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/183
+#EXTINF:-1 tvg-id="LA 1" tvg-name="GOL FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/golp.png" group-title="Server 0⭐️",GOL FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/184
+#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-name="DAZN LaLiga 1 " tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/daznl1.png" group-title="Server 0⭐️",DAZN LaLiga 1 
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/61791
+#EXTINF:-1 tvg-id="DAZN LaLiga" tvg-name="DAZN LaLiga 1  Low Bitrate" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/daznl1.png" group-title="Server 0⭐️",DAZN LaLiga 1  Low Bitrate
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/70493
+#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-name="DAZN LaLiga 1 HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/daznl1.png" group-title="Server 0⭐️",DAZN LaLiga 1 HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/61707
+#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-name="DAZN LaLiga 1 FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/daznl1.png" group-title="Server 0⭐️",DAZN LaLiga 1 FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/61511
+#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-name="DAZN LaLiga 1 FHD#" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/daznl1.png" group-title="Server 0⭐️",DAZN LaLiga 1 FHD#
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/61793
+#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-name="DAZN LaLiga1 FHD " tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/daznl1.png" group-title="Server 0⭐️",DAZN LaLiga1 FHD 
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/62550
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LaLiga 2 HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/daznl2.png" group-title="Server 0⭐️",DAZN LaLiga 2 HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/61708
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LaLiga 2 FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/daznl2.png" group-title="Server 0⭐️",DAZN LaLiga 2 FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/61512
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LaLiga 2 FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/daznl2.png" group-title="Server 0⭐️",DAZN LaLiga 2 FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/61796
+#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LaLiga TV FHD Low Bitrate" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlig1.png" group-title="Server 0⭐️",LaLiga TV FHD Low Bitrate
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/192
+#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LaLiga TV HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlig1.png" group-title="Server 0⭐️",LaLiga TV HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/191
+#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LaLiga TV HD# OG" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlig1.png" group-title="Server 0⭐️",LaLiga TV HD# OG
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/49979
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="LaLiga TV FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlig1.png" group-title="Server 0⭐️",LaLiga TV FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/194
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="Laliga TV FHD (FIBRA)" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlig1.png" group-title="Server 0⭐️",Laliga TV FHD (FIBRA)
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/8611
+#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LaLiga TV" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlig1.png" group-title="Server 0⭐️",LaLiga TV
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76295
+#EXTINF:-1 tvg-id="LA 1" tvg-name="LaLiga TV OG" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlig1.png" group-title="Server 0⭐️",LaLiga TV OG
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/27333
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="LaLiga TV" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlig1.png" group-title="Server 0⭐️",LaLiga TV
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/62531
+#EXTINF:-1 tvg-id="M+ LALIGA TV 2" tvg-name="LaLiga TV 2 HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlig2.png" group-title="Server 0⭐️",LaLiga TV 2 HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/12038
+#EXTINF:-1 tvg-id="M+ LALIGA TV 2" tvg-name="LaLiga TV 2 FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlig2.png" group-title="Server 0⭐️",LaLiga TV 2 FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/199
+#EXTINF:-1 tvg-id="M+ LALIGA TV 2" tvg-name="LaLiga TV 2 FHD#" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlig2.png" group-title="Server 0⭐️",LaLiga TV 2 FHD#
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/200
+#EXTINF:-1 tvg-id="M+ LALIGA TV 3" tvg-name="LaLiga TV 3 HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlig3.png" group-title="Server 0⭐️",LaLiga TV 3 HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/12039
+#EXTINF:-1 tvg-id="M+ LALIGA TV 3" tvg-name="LaLiga TV 3 FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlig3.png" group-title="Server 0⭐️",LaLiga TV 3 FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/202
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="LaLiga Hypermotion " tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/smart.png" group-title="Server 0⭐️",LaLiga Hypermotion 
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/30989
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="LaLiga Hypermotion #" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/smart1.png" group-title="Server 0⭐️",LaLiga Hypermotion #
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/30988
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-name="LaLiga Hypermotion 2" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/smart2.png" group-title="Server 0⭐️",LaLiga Hypermotion 2
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/61832
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" tvg-name="LaLiga Hypermotion 3" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/smart3.png" group-title="Server 0⭐️",LaLiga Hypermotion 3
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76279
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M. Liga de Campeones FHD Low Bitrate" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlc.png" group-title="Server 0⭐️",M. Liga de Campeones FHD Low Bitrate
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/218
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M Liga de Campeones HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlc.png" group-title="Server 0⭐️",M Liga de Campeones HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/44025
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M. Liga de Campeones FHD#OG" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlc.png" group-title="Server 0⭐️",M. Liga de Campeones FHD#OG
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/217
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M. Liga de Campeones OG" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlc.png" group-title="Server 0⭐️",M. Liga de Campeones OG
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/215
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M. Liga de Campeones FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlc.png" group-title="Server 0⭐️",M. Liga de Campeones FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/3
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M+ Liga De Campeones  (FIBRA)" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlc.png" group-title="Server 0⭐️",M+ Liga De Campeones  (FIBRA)
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/27331
+#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M Liga de Campeones (Alternativa)" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlc.png" group-title="Server 0⭐️",M Liga de Campeones (Alternativa)
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/27334
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="M. Liga de Campeones 2 HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlc1.png" group-title="Server 0⭐️",M. Liga de Campeones 2 HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/221
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2" tvg-name="M. Liga de Campeones 2 FHD#" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlc1.png" group-title="Server 0⭐️",M. Liga de Campeones 2 FHD#
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/222
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2" tvg-name="M Liga de Campeones 2 FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlc1.png" group-title="Server 0⭐️",M Liga de Campeones 2 FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/580
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3" tvg-name="M Liga de Campeones 3 HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlc2.png" group-title="Server 0⭐️",M Liga de Campeones 3 HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/581
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3" tvg-name="M Liga de Campeones 3 FHD ( FIBRA )" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlc2.png" group-title="Server 0⭐️",M Liga de Campeones 3 FHD ( FIBRA )
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/43192
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-name="M+ Liga De Campeones 3 FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlc3.png" group-title="Server 0⭐️",M+ Liga De Campeones 3 FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/62168
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-name="M+ Liga de Campeones 4" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlc4.png" group-title="Server 0⭐️",M+ Liga de Campeones 4
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/228
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-name="M+ Liga De Campeones 5 FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlc5.png" group-title="Server 0⭐️",M+ Liga De Campeones 5 FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/62166
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 6" tvg-name="M Liga de Campeones 6" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlc6.png" group-title="Server 0⭐️",M Liga de Campeones 6
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/231
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-name="M Liga de Campeones 7" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlc7.png" group-title="Server 0⭐️",M Liga de Campeones 7
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/232
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 8" tvg-name="M Liga de Campeones 8" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlc8.png" group-title="Server 0⭐️",M Liga de Campeones 8
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/233
+#EXTINF:-1 tvg-id="ext" tvg-name="CAMPEONES 9" tvg-logo="" group-title="Server 0⭐️",CAMPEONES 9
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82136
+#EXTINF:-1 tvg-id="ext" tvg-name="CAMPEONES 10" tvg-logo="" group-title="Server 0⭐️",CAMPEONES 10
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82137
+#EXTINF:-1 tvg-id="ext" tvg-name="CAMPEONES 11" tvg-logo="" group-title="Server 0⭐️",CAMPEONES 11
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82138
+#EXTINF:-1 tvg-id="ext" tvg-name="CAMPEONES 12" tvg-logo="" group-title="Server 0⭐️",CAMPEONES 12
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82139
+#EXTINF:-1 tvg-id="ext" tvg-name="CAMPEONES 13" tvg-logo="" group-title="Server 0⭐️",CAMPEONES 13
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82140
+#EXTINF:-1 tvg-id="ext" tvg-name="CAMPEONES 14" tvg-logo="" group-title="Server 0⭐️",CAMPEONES 14
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82141
+#EXTINF:-1 tvg-id="ext" tvg-name="CAMPEONES 15" tvg-logo="" group-title="Server 0⭐️",CAMPEONES 15
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82142
+#EXTINF:-1 tvg-id="ext" tvg-name="CAMPEONES 16" tvg-logo="" group-title="Server 0⭐️",CAMPEONES 16
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82143
+#EXTINF:-1 tvg-id="ext" tvg-name="CAMPEONES 17" tvg-logo="" group-title="Server 0⭐️",CAMPEONES 17
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82144
+#EXTINF:-1 tvg-id="ext" tvg-name="LaLiga TV ( ingles )" tvg-logo="" group-title="Server 0⭐️",LaLiga TV ( ingles )
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/81404
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="DAZN F1 #" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/daznf1.png" group-title="Server 0⭐️",DAZN F1 #
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/74094
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="DAZN F1 HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/daznf1.png" group-title="Server 0⭐️",DAZN F1 HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/275
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="DAZN F1 FHD Low Bitrate" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/daznf1.png" group-title="Server 0⭐️",DAZN F1 FHD Low Bitrate
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/276
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="DAZN F1" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/daznf1.png" group-title="Server 0⭐️",DAZN F1
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/274
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="DAZN F1 FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/daznf1.png" group-title="Server 0⭐️",DAZN F1 FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/277
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/dazn1.png" group-title="Server 0⭐️",DAZN 1 HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/29304
+#EXTINF:-1 tvg-id="LA 1" tvg-name="DAZN 1 FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/dazn1.png" group-title="Server 0⭐️",DAZN 1 FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/29302
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 FHD#" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/dazn2.png" group-title="Server 0⭐️",DAZN 1 FHD#
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/29397
+#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/dazn2.png" group-title="Server 0⭐️",DAZN 2
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/29305
+#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2 HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/dazn2.png" group-title="Server 0⭐️",DAZN 2 HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/29307
+#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2 FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/dazn2.png" group-title="Server 0⭐️",DAZN 2 FHD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/29398
+#EXTINF:-1 tvg-id="DAZN 3" tvg-name="DAZN 3" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/dazn3.png" group-title="Server 0⭐️",DAZN 3
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/61830
+#EXTINF:-1 tvg-id="DAZN 4" tvg-name="DAZN 4" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/dazn4.png" group-title="Server 0⭐️",DAZN 4
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/61831
+#EXTINF:-1 tvg-id="DAZN LaLiga Femenina 1" tvg-name="Dazn LaLiga Femenina 1" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_LaLiga_Fem_1N.png" group-title="Server 0⭐️",Dazn LaLiga Femenina 1
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/75241
+#EXTINF:-1 tvg-id="DAZN LaLiga Femenina 2" tvg-name="Dazn LaLiga Femenina 2" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_LaLiga_Fem_2N.png" group-title="Server 0⭐️",Dazn LaLiga Femenina 2
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/75242
+#EXTINF:-1 tvg-id="DAZN LaLiga Femenina 3" tvg-name="Dazn LaLiga Femenina 3" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_LaLiga_Fem_3N.png" group-title="Server 0⭐️",Dazn LaLiga Femenina 3
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/75243
+#EXTINF:-1 tvg-id="DAZN LaLiga Femenina 4" tvg-name="Dazn LaLiga Femenina 4" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_LaLiga_Fem_4N.png" group-title="Server 0⭐️",Dazn LaLiga Femenina 4
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/75244
+#EXTINF:-1 tvg-id="DAZN LaLiga Femenina 5" tvg-name="Dazn LaLiga Femenina 5" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_LaLiga_Fem_5N.png" group-title="Server 0⭐️",Dazn LaLiga Femenina 5
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/75245
+#EXTINF:-1 tvg-id="ext" tvg-name="Dazn Eventos 1" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_Eventos_1.png" group-title="Server 0⭐️",Dazn Eventos 1
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76005
+#EXTINF:-1 tvg-id="ext" tvg-name="Dazn Eventos 2" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_Eventos_2.png" group-title="Server 0⭐️",Dazn Eventos 2
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76006
+#EXTINF:-1 tvg-id="ext" tvg-name="Dazn Eventos 3" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_Eventos_3.png" group-title="Server 0⭐️",Dazn Eventos 3
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76007
+#EXTINF:-1 tvg-id="ext" tvg-name="Dazn Eventos 4" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_Eventos_4.png" group-title="Server 0⭐️",Dazn Eventos 4
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76008
+#EXTINF:-1 tvg-id="ext" tvg-name="Dazn Eventos 5" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_Eventos_5.png" group-title="Server 0⭐️",Dazn Eventos 5
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76009
+#EXTINF:-1 tvg-id="ext" tvg-name="Dazn Eventos 6" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_Eventos_6.png" group-title="Server 0⭐️",Dazn Eventos 6
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76010
+#EXTINF:-1 tvg-id="ext" tvg-name="Dazn Eventos 7" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_Eventos_7.png" group-title="Server 0⭐️",Dazn Eventos 7
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76011
+#EXTINF:-1 tvg-id="ext" tvg-name="Dazn Eventos 8" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_Eventos_8.png" group-title="Server 0⭐️",Dazn Eventos 8
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76012
+#EXTINF:-1 tvg-id="ext" tvg-name="Dazn Eventos 9" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_Eventos_9.png" group-title="Server 0⭐️",Dazn Eventos 9
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76013
+#EXTINF:-1 tvg-id="ext" tvg-name="Dazn Eventos 10" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_Eventos_10.png" group-title="Server 0⭐️",Dazn Eventos 10
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76014
+#EXTINF:-1 tvg-id="ext" tvg-name="LaLigaSportsTV 1" tvg-logo="http://psxbyzpicons.dedyn.io/picons/LaLigaSportsTVa1.png" group-title="Server 0⭐️",LaLigaSportsTV 1
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76015
+#EXTINF:-1 tvg-id="ext" tvg-name="LaLigaSportsTV 2" tvg-logo="http://psxbyzpicons.dedyn.io/picons/LaLigaSportsTVa2.png" group-title="Server 0⭐️",LaLigaSportsTV 2
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76016
+#EXTINF:-1 tvg-id="ext" tvg-name="LaLigaSportsTV 3" tvg-logo="http://psxbyzpicons.dedyn.io/picons/LaLigaSportsTVa3.png" group-title="Server 0⭐️",LaLigaSportsTV 3
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76017
+#EXTINF:-1 tvg-id="ext" tvg-name="LaLigaSportsTV 4" tvg-logo="http://psxbyzpicons.dedyn.io/picons/LaLigaSportsTVa4.png" group-title="Server 0⭐️",LaLigaSportsTV 4
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76018
+#EXTINF:-1 tvg-id="ext" tvg-name="LaLigaSportsTV 5" tvg-logo="http://psxbyzpicons.dedyn.io/picons/LaLigaSportsTVa5.png" group-title="Server 0⭐️",LaLigaSportsTV 5
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76019
+#EXTINF:-1 tvg-id="ext" tvg-name="LaLigaSportsTV 6" tvg-logo="http://psxbyzpicons.dedyn.io/picons/LaLigaSportsTVa6.png" group-title="Server 0⭐️",LaLigaSportsTV 6
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76020
+#EXTINF:-1 tvg-id="ext" tvg-name="LaLigaSportsTV 7" tvg-logo="http://psxbyzpicons.dedyn.io/picons/LaLigaSportsTVa7.png" group-title="Server 0⭐️",LaLigaSportsTV 7
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76021
+#EXTINF:-1 tvg-id="ext" tvg-name="LaLigaSportsTV 8" tvg-logo="http://psxbyzpicons.dedyn.io/picons/LaLigaSportsTVa8.png" group-title="Server 0⭐️",LaLigaSportsTV 8
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76022
+#EXTINF:-1 tvg-id="ext" tvg-name="LaLigaSportsTV 9" tvg-logo="http://psxbyzpicons.dedyn.io/picons/LaLigaSportsTVa9.png" group-title="Server 0⭐️",LaLigaSportsTV 9
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76023
+#EXTINF:-1 tvg-id="ext" tvg-name="LaLigaSportsTV 10" tvg-logo="http://psxbyzpicons.dedyn.io/picons/LaLigaSportsTVa10.png" group-title="Server 0⭐️",LaLigaSportsTV 10
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76024
+#EXTINF:-1 tvg-id="ext" tvg-name="LaLigaSportsTV 11" tvg-logo="http://psxbyzpicons.dedyn.io/picons/LaLigaSportsTVa11.png" group-title="Server 0⭐️",LaLigaSportsTV 11
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76025
+#EXTINF:-1 tvg-id="ext" tvg-name="LaLigaSportsTV 12" tvg-logo="http://psxbyzpicons.dedyn.io/picons/LaLigaSportsTVa12.png" group-title="Server 0⭐️",LaLigaSportsTV 12
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76026
+#EXTINF:-1 tvg-id="ext" tvg-name="LaLigaSportsTV 13" tvg-logo="http://psxbyzpicons.dedyn.io/picons/LaLigaSportsTVa13.png" group-title="Server 0⭐️",LaLigaSportsTV 13
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76027
+#EXTINF:-1 tvg-id="ext" tvg-name="LaLigaSportsTV 14" tvg-logo="http://psxbyzpicons.dedyn.io/picons/LaLigaSportsTVa14.png" group-title="Server 0⭐️",LaLigaSportsTV 14
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76028
+#EXTINF:-1 tvg-id="ext" tvg-name="LaLigaSportsTV 15" tvg-logo="http://psxbyzpicons.dedyn.io/picons/LaLigaSportsTVa15.png" group-title="Server 0⭐️",LaLigaSportsTV 15
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76029
+#EXTINF:-1 tvg-id="ext" tvg-name="LaLigaSportsTV 16" tvg-logo="http://psxbyzpicons.dedyn.io/picons/LaLigaSportsTVa16.png" group-title="Server 0⭐️",LaLigaSportsTV 16
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76030
+#EXTINF:-1 tvg-id="ext" tvg-name="LaLigaSportsTV 17" tvg-logo="http://psxbyzpicons.dedyn.io/picons/LaLigaSportsTVa17.png" group-title="Server 0⭐️",LaLigaSportsTV 17
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76031
+#EXTINF:-1 tvg-id="ext" tvg-name="LaLigaSportsTV 18" tvg-logo="http://psxbyzpicons.dedyn.io/picons/LaLigaSportsTVa18.png" group-title="Server 0⭐️",LaLigaSportsTV 18
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76032
+#EXTINF:-1 tvg-id="ext" tvg-name="LaLigaSportsTV 19" tvg-logo="http://psxbyzpicons.dedyn.io/picons/LaLigaSportsTVa19.png" group-title="Server 0⭐️",LaLigaSportsTV 19
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76033
+#EXTINF:-1 tvg-id="ext" tvg-name="LaLigaSportsTV 20" tvg-logo="http://psxbyzpicons.dedyn.io/picons/LaLigaSportsTVa20.png" group-title="Server 0⭐️",LaLigaSportsTV 20
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76034
+#EXTINF:-1 tvg-id="DAZN F1 UHD" tvg-name="DAZN F1 4K  ( PRUEBAS )" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-f1-uk-es.png" group-title="Server 0⭐️",DAZN F1 4K  ( PRUEBAS )
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76378
+#EXTINF:-1 tvg-id="ext" tvg-name="BEIN SPORT 1" tvg-logo="" group-title="Server 0⭐️",BEIN SPORT 1
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77101
+#EXTINF:-1 tvg-id="ext" tvg-name="BEIN SPORT 3" tvg-logo="" group-title="Server 0⭐️",BEIN SPORT 3
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77108
+#EXTINF:-1 tvg-id="ext" tvg-name="BEIN SPORT 2" tvg-logo="" group-title="Server 0⭐️",BEIN SPORT 2
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77109
+#EXTINF:-1 tvg-id="ext" tvg-name="Eleven Sports 1 HD" tvg-logo="" group-title="Server 0⭐️",Eleven Sports 1 HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77110
+#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA LATINO" tvg-logo="" group-title="Server 0⭐️",LALIGA LATINO
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77111
+#EXTINF:-1 tvg-id="Eleven Sports 2 POR" tvg-name="Eleven Sports 2 HD" tvg-logo="" group-title="Server 0⭐️",Eleven Sports 2 HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77112
+#EXTINF:-1 tvg-id="Eleven Sports 3 POR" tvg-name="Eleven Sports 3 HD" tvg-logo="" group-title="Server 0⭐️",Eleven Sports 3 HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77113
+#EXTINF:-1 tvg-id="Eleven Sports 4 POR" tvg-name="Eleven Sports 4 HD" tvg-logo="" group-title="Server 0⭐️",Eleven Sports 4 HD
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77114
+#EXTINF:-1 tvg-id="Sport TV1 POR HD" tvg-name="Sport TV 1" tvg-logo="" group-title="Server 0⭐️",Sport TV 1
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77115
+#EXTINF:-1 tvg-id="Sport TV3 POR HD" tvg-name="Sport TV 2" tvg-logo="" group-title="Server 0⭐️",Sport TV 2
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77116
+#EXTINF:-1 tvg-id="Sport TV3 POR HD" tvg-name="Sport TV 3" tvg-logo="" group-title="Server 0⭐️",Sport TV 3
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77117
+#EXTINF:-1 tvg-id="Sport TV4 POR HD" tvg-name="Sport TV 4" tvg-logo="" group-title="Server 0⭐️",Sport TV 4
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77118
+#EXTINF:-1 tvg-id="Sport TV5 POR HD" tvg-name="Sport TV 5" tvg-logo="" group-title="Server 0⭐️",Sport TV 5
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77119
+#EXTINF:-1 tvg-id="ext" tvg-name="Arena Sport 1" tvg-logo="" group-title="Server 0⭐️",Arena Sport 1
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77122
+#EXTINF:-1 tvg-id="ext" tvg-name="Arena Sport 2" tvg-logo="" group-title="Server 0⭐️",Arena Sport 2
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77123
+#EXTINF:-1 tvg-id="ext" tvg-name="Arena Sport 3" tvg-logo="" group-title="Server 0⭐️",Arena Sport 3
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77124
+#EXTINF:-1 tvg-id="ext" tvg-name="Arena Sport 4" tvg-logo="" group-title="Server 0⭐️",Arena Sport 4
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77125
+#EXTINF:-1 tvg-id="ext" tvg-name="Infinity+ 1" tvg-logo="" group-title="Server 0⭐️",Infinity+ 1
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82152
+#EXTINF:-1 tvg-id="ext" tvg-name="Infinity+ 2" tvg-logo="" group-title="Server 0⭐️",Infinity+ 2
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82153
+#EXTINF:-1 tvg-id="ext" tvg-name="SPORT CALCIO" tvg-logo="" group-title="Server 0⭐️",SPORT CALCIO
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82884
+#EXTINF:-1 tvg-id="ext" tvg-name="NFL" tvg-logo="" group-title="Server 0⭐️",NFL
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/126243
+#EXTINF:-1 tvg-id="Futsal TV 1 Masculino" tvg-name="Futsal TV 1" tvg-logo="http://psxbyzpicons.dedyn.io/picons/FUTSAL_TV_1.png" group-title="Server 0⭐️",Futsal TV 1
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82092
+#EXTINF:-1 tvg-id="Futsal TV 2 Masculino" tvg-name="Futsal TV 2" tvg-logo="http://psxbyzpicons.dedyn.io/picons/FUTSAL_TV_2.png" group-title="Server 0⭐️",Futsal TV 2
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82093
+#EXTINF:-1 tvg-id="Futsal TV 3 Masculino" tvg-name="Futsal TV 3" tvg-logo="http://psxbyzpicons.dedyn.io/picons/FUTSAL_TV_3.png" group-title="Server 0⭐️",Futsal TV 3
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82094
+#EXTINF:-1 tvg-id="Futsal TV 4 Masculino" tvg-name="Futsal TV 4" tvg-logo="http://psxbyzpicons.dedyn.io/picons/FUTSAL_TV_4.png" group-title="Server 0⭐️",Futsal TV 4
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82095
+#EXTINF:-1 tvg-id="Futsal TV 5 Masculino" tvg-name="Futsal TV 5" tvg-logo="http://psxbyzpicons.dedyn.io/picons/FUTSAL_TV_5.png" group-title="Server 0⭐️",Futsal TV 5
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82096
+#EXTINF:-1 tvg-id="Futsal TV 6 Masculino" tvg-name="Futsal TV 6" tvg-logo="http://psxbyzpicons.dedyn.io/picons/FUTSAL_TV_6.png" group-title="Server 0⭐️",Futsal TV 6
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82097
+#EXTINF:-1 tvg-id="Futsal TV 7 Masculino" tvg-name="Futsal TV 7" tvg-logo="http://psxbyzpicons.dedyn.io/picons/FUTSAL_TV_7.png" group-title="Server 0⭐️",Futsal TV 7
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82098
+#EXTINF:-1 tvg-id="Futsal TV 8 Masculino" tvg-name="Futsal TV 8" tvg-logo="http://psxbyzpicons.dedyn.io/picons/FUTSAL_TV_8.png" group-title="Server 0⭐️",Futsal TV 8
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82099
+#EXTINF:-1 tvg-id="Futsal TV 9 Masculino" tvg-name="Futsal TV 9" tvg-logo="http://psxbyzpicons.dedyn.io/picons/FUTSAL_TV_9.png" group-title="Server 0⭐️",Futsal TV 9
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82100
+#EXTINF:-1 tvg-id="Futsal TV 10 Masculino" tvg-name="Futsal TV 10" tvg-logo="http://psxbyzpicons.dedyn.io/picons/FUTSAL_TV_10.png" group-title="Server 0⭐️",Futsal TV 10
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82101
+#EXTINF:-1 tvg-id="ext" tvg-name="Futsal TV 11" tvg-logo="http://psxbyzpicons.dedyn.io/picons/FUTSAL_TV_11.png" group-title="Server 0⭐️",Futsal TV 11
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82102
+#EXTINF:-1 tvg-id="ext" tvg-name="Futsal TV 12" tvg-logo="http://psxbyzpicons.dedyn.io/picons/FUTSAL_TV_12.png" group-title="Server 0⭐️",Futsal TV 12
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82103
+#EXTINF:-1 tvg-id="ext" tvg-name="Futsal TV 13" tvg-logo="http://psxbyzpicons.dedyn.io/picons/FUTSAL_TV_13.png" group-title="Server 0⭐️",Futsal TV 13
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82104
+#EXTINF:-1 tvg-id="ext" tvg-name="Futsal TV 14" tvg-logo="http://psxbyzpicons.dedyn.io/picons/FUTSAL_TV_14.png" group-title="Server 0⭐️",Futsal TV 14
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82105
+#EXTINF:-1 tvg-id="ext" tvg-name="Futsal TV 15" tvg-logo="http://psxbyzpicons.dedyn.io/picons/FUTSAL_TV_15.png" group-title="Server 0⭐️",Futsal TV 15
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82106
+#EXTINF:-1 tvg-id="ext" tvg-name="Futsal TV 16" tvg-logo="http://psxbyzpicons.dedyn.io/picons/FUTSAL_TV_16.png" group-title="Server 0⭐️",Futsal TV 16
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82107
+#EXTINF:-1 tvg-id="ext" tvg-name="Futsal TV 17" tvg-logo="http://psxbyzpicons.dedyn.io/picons/FUTSAL_TV_17.png" group-title="Server 0⭐️",Futsal TV 17
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82108
+#EXTINF:-1 tvg-id="ext" tvg-name="Futsal TV 18" tvg-logo="http://psxbyzpicons.dedyn.io/picons/FUTSAL_TV_18.png" group-title="Server 0⭐️",Futsal TV 18
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82109
+#EXTINF:-1 tvg-id="ext" tvg-name="Futsal TV 19" tvg-logo="http://psxbyzpicons.dedyn.io/picons/FUTSAL_TV_19.png" group-title="Server 0⭐️",Futsal TV 19
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82110
+#EXTINF:-1 tvg-id="ext" tvg-name="Futsal TV 20" tvg-logo="http://psxbyzpicons.dedyn.io/picons/FUTSAL_TV_20.png" group-title="Server 0⭐️",Futsal TV 20
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82111
+#EXTINF:-1 tvg-id="ext" tvg-name="NFL Pass 1" tvg-logo="http://psxbyzpicons.dedyn.io/picons/NFL_game_pass.png" group-title="Server 0⭐️",NFL Pass 1
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82112
+#EXTINF:-1 tvg-id="ext" tvg-name="NFL Pass 2" tvg-logo="http://psxbyzpicons.dedyn.io/picons/NFL_game_pass.png" group-title="Server 0⭐️",NFL Pass 2
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82113
+#EXTINF:-1 tvg-id="ext" tvg-name="NFL Pass 3" tvg-logo="http://psxbyzpicons.dedyn.io/picons/NFL_game_pass.png" group-title="Server 0⭐️",NFL Pass 3
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82114
+#EXTINF:-1 tvg-id="ext" tvg-name="NFL Pass 4" tvg-logo="http://psxbyzpicons.dedyn.io/picons/NFL_game_pass.png" group-title="Server 0⭐️",NFL Pass 4
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82115
+#EXTINF:-1 tvg-id="ext" tvg-name="NFL Pass 5" tvg-logo="http://psxbyzpicons.dedyn.io/picons/NFL_game_pass.png" group-title="Server 0⭐️",NFL Pass 5
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82116
+#EXTINF:-1 tvg-id="ext" tvg-name="NFL Pass 6" tvg-logo="http://psxbyzpicons.dedyn.io/picons/NFL_game_pass.png" group-title="Server 0⭐️",NFL Pass 6
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82117
+#EXTINF:-1 tvg-id="ext" tvg-name="Dazn Eventos 11" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_Eventos_11.png" group-title="Server 0⭐️",Dazn Eventos 11
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82118
+#EXTINF:-1 tvg-id="ext" tvg-name="Dazn Eventos 12" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_Eventos_12.png" group-title="Server 0⭐️",Dazn Eventos 12
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82119
+#EXTINF:-1 tvg-id="ext" tvg-name="Dazn Eventos 13" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_Eventos_13.png" group-title="Server 0⭐️",Dazn Eventos 13
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82120
+#EXTINF:-1 tvg-id="ext" tvg-name="Dazn Eventos 14" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_Eventos_14.png" group-title="Server 0⭐️",Dazn Eventos 14
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82121
+#EXTINF:-1 tvg-id="ext" tvg-name="Dazn Eventos 15" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_Eventos_15.png" group-title="Server 0⭐️",Dazn Eventos 15
+http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82122
+
 
 
 

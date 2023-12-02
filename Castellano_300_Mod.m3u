@@ -230,9 +230,9 @@ http://ftp.look-tv.eu:8880/primocazallas/primocazallas/107
 http://ftp.look-tv.eu:8880/primocazallas/primocazallas/108
 #EXTINF:-1 tvg-id="I643.37232.schedulesdirect.org" tvg-name="TLNovelas" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/tln.png" group-title="Server 0⭐️",TLNovelas
 http://ftp.look-tv.eu:8880/primocazallas/primocazallas/113
-#EXTINF:-1 tvg-id="MTV ESPAÑA" tvg-name="TEST-OWL" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mtv.png" group-title="Server 0⭐️",TEST-OWL
+#EXTINF:-1 tvg-id="MTV " tvg-name="TEST-OWL" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mtv.png" group-title="Server 0⭐️",TEST-OWL
 http://ftp.look-tv.eu:8880/primocazallas/primocazallas/103
-#EXTINF:-1 tvg-id="MTV España" tvg-name="MTV ESP" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mtv.png" group-title="Server 0⭐️",MTV ESP
+#EXTINF:-1 tvg-id="MTV " tvg-name="MTV ESP" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mtv.png" group-title="Server 0⭐️",MTV ESP
 http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76287
 #EXTINF:-1 tvg-id="M+ Suspense" tvg-name="M+ Suspense" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/msus.png" group-title="Server 0⭐️",M+ Suspense
 http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77070
@@ -284,7 +284,7 @@ http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76761
 http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76781
 #EXTINF:-1 tvg-id="MMA TV" tvg-name="MMA TV" tvg-logo="" group-title="Server 0⭐️",MMA TV
 http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82885
-#EXTINF:-1 tvg-id="MTV España" tvg-name="MTV Music Made in Spain" tvg-logo="https://app.allflamenco.net/preview/img/logotipo_allflamenco_blanco_small1.jpg" group-title="Server 0⭐️",MTV Music Made in Spain
+#EXTINF:-1 tvg-id="MTV " tvg-name="MTV Music Made in Spain" tvg-logo="https://app.allflamenco.net/preview/img/logotipo_allflamenco_blanco_small1.jpg" group-title="Server 0⭐️",MTV Music Made in Spain
 http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76305
 #EXTINF:-1 tvg-id="M+ Música" tvg-name="M+ MUSICA" tvg-logo="" group-title="Server 0⭐️",M+ MUSICA
 http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77139
@@ -6736,12 +6736,10 @@ http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/1914
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/2841
 #EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://graffica.info/wp-content/uploads/2017/04/MTV_Logo_2010.svg_-1024x623.png" group-title="Server 6⭐️ VPN",MTV
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/47934
-#EXTINF:-1 tvg-id="" tvg-name="TV3 ESPAÑA FHD" tvg-logo="http://fanc.tmsimg.com/assets/s87126_ll_h3_aa.png" group-title="Server 6⭐️ VPN",TV3 ESPAÑA FHD
-http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/19118
-#EXTINF:-1 tvg-id="" tvg-name="La 2 Catalunya" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Server 6⭐️ VPN",La 2 Catalunya
-http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/5063
+
 #EXTINF:-1 tvg-id="" tvg-name="324" tvg-logo="https://graph.facebook.com/324cat/picture?width=200&height=200" group-title="Server 6⭐️ VPN",324
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/25742
+
 #EXTINF:-1 tvg-id="" tvg-name="DKISS  ᶠᴴᴰ" tvg-logo="https://logo.iptveditor.com/dkiss.png" group-title="Server 6⭐️ VPN",DKISS  ᶠᴴᴰ
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/975
 #EXTINF:-1 tvg-id="" tvg-name="DIVINITY ᶠᴴᴰ" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/divinity.png" group-title="Server 6⭐️ VPN",DIVINITY ᶠᴴᴰ
@@ -6760,17 +6758,17 @@ http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/1000
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/1003
 #EXTINF:-1 tvg-id="" tvg-name="ES: UBEAT FHD" tvg-logo="https://satcesc.com/wp-content/uploads/2018/11/U-Beat.png" group-title="Server 6⭐️ VPN",UBEAT FHD
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/1009
-#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA ESPAÑA FHD" tvg-logo="https://logo.iptveditor.com/canalcocina.png" group-title="Server 6⭐️ VPN",CANAL COCINA ESPAÑA FHD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA  FHD" tvg-logo="https://logo.iptveditor.com/canalcocina.png" group-title="Server 6⭐️ VPN",CANAL COCINA  FHD
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/1213
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ESPAÑA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCR.png" group-title="Server 6⭐️ VPN",DISCOVERY ESPAÑA FHD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY  FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCR.png" group-title="Server 6⭐️ VPN",DISCOVERY  FHD
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/1215
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA ESPAÑA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HIST.png" group-title="Server 6⭐️ VPN",HISTORIA ESPAÑA FHD
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA  FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HIST.png" group-title="Server 6⭐️ VPN",HISTORIA  FHD
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/1216
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD ESPAÑA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGW.png" group-title="Server 6⭐️ VPN",NAT GEO WILD ESPAÑA FHD
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD  FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGW.png" group-title="Server 6⭐️ VPN",NAT GEO WILD  FHD
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/1218
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAFIC ESPAÑA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGEO.png" group-title="Server 6⭐️ VPN",NATIONAL GEOGRAFIC ESPAÑA FHD
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAFIC  FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGEO.png" group-title="Server 6⭐️ VPN",NATIONAL GEOGRAFIC  FHD
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/1219
-#EXTINF:-1 tvg-id="" tvg-name="ODISEA ESPAÑA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ODISEA.png" group-title="Server 6⭐️ VPN",ODISEA ESPAÑA FHD
+#EXTINF:-1 tvg-id="" tvg-name="ODISEA  FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ODISEA.png" group-title="Server 6⭐️ VPN",ODISEA  FHD
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/1220
 #EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV" tvg-logo="https://www.iberaliago.com/static/images/logo/logo-vertical.png" group-title="Server 6⭐️ VPN",IBERALIA TV
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/1223
@@ -9201,7 +9199,7 @@ https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8
 http://149.12.64.81:8080/hls/tarotvision.m3u8
 #EXTINF:-1 tvg-id="TarotVision.es" tvg-name="TarotVision (576p)" tvg-logo="" group-title="Autonomicas",TarotVision (576p)
 https://stream.andalhost.com/hls/tarotvision.m3u8
-#EXTINF:-1 tvg-id="TBNEspana.es" tvg-name="TBN España" tvg-logo="" group-title="Autonomicas",TBN España
+#EXTINF:-1 tvg-id="TBNEspana.es" tvg-name="TBN " tvg-logo="" group-title="Autonomicas",TBN 
 https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
 #EXTINF:-1 tvg-id="TEF.es" tvg-name="TEF (540p)" tvg-logo="" group-title="Autonomicas",TEF (540p)
 https://5940924978228.streamlock.net/EIVISSA_1/EIVISSA_1/playlist.m3u8

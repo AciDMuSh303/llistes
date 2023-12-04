@@ -3236,7 +3236,7 @@ http://iptvstream.xyz:8080/Dooby/66754f23/174751
 http://iptvstream.xyz:8080/Dooby/66754f23/285786
 #EXTINF:-1 tvg-id="" tvg-name="Molahits TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/9469cfef933b9572c60924f446ae6104.png" group-title="Server 2⭐️",Molahits TV
 http://iptvstream.xyz:8080/Dooby/66754f23/281793
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR La Resistencia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/0f3011bf3bef15d3ab6682250a2ec21f.png" group-title="Server 2⭐️",MOVISTAR La Resistencia
+#EXTINF:-1 tvg-id="" tvg-name="M+ La Resistencia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/0f3011bf3bef15d3ab6682250a2ec21f.png" group-title="Server 2⭐️",M+ La Resistencia
 http://iptvstream.xyz:8080/Dooby/66754f23/286800
 #EXTINF:-1 tvg-id="" tvg-name="Navarra TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/4db037f1b4667ae311f6736f4294448e.png" group-title="Server 2⭐️",Navarra TV
 http://iptvstream.xyz:8080/Dooby/66754f23/146410
@@ -3318,23 +3318,23 @@ http://iptvstream.xyz:8080/Dooby/66754f23/295164
 http://iptvstream.xyz:8080/Dooby/66754f23/285191
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/85e0cf48a4bbd14f52259279b78d8eb3.jpg" group-title="Server 2⭐️",HBO Signature
 http://iptvstream.xyz:8080/Dooby/66754f23/91989
-#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="MOVISTAR Accion" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a3f49074be2fa2a463d5ee69a1bd9407.png" group-title="Server 2⭐️",MOVISTAR Accion
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M+ Accion" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a3f49074be2fa2a463d5ee69a1bd9407.png" group-title="Server 2⭐️",M+ Accion
 http://iptvstream.xyz:8080/Dooby/66754f23/1148
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR Cine Espanol" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/af80011ddf4907c81029f3e2763899e4.png" group-title="Server 2⭐️",MOVISTAR Cine Espanol
+#EXTINF:-1 tvg-id="" tvg-name="M+ Cine Espanol" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/af80011ddf4907c81029f3e2763899e4.png" group-title="Server 2⭐️",M+ Cine Espanol
 http://iptvstream.xyz:8080/Dooby/66754f23/64788
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR Clasicos" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/6706f3336be6e8d27241cade06bedf5b.png" group-title="Server 2⭐️",MOVISTAR Clasicos
+#EXTINF:-1 tvg-id="" tvg-name="M+ Clasicos" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/6706f3336be6e8d27241cade06bedf5b.png" group-title="Server 2⭐️",M+ Clasicos
 http://iptvstream.xyz:8080/Dooby/66754f23/281773
-#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="MOVISTAR Comedia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d016c40c3fd7ebe0a22e96e1a9fb3825.png" group-title="Server 2⭐️",MOVISTAR Comedia
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="M+ Comedia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d016c40c3fd7ebe0a22e96e1a9fb3825.png" group-title="Server 2⭐️",M+ Comedia
 http://iptvstream.xyz:8080/Dooby/66754f23/1146
-#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="MOVISTAR Drama" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/cf0b506006f12487ce7053315e6ea049.png" group-title="Server 2⭐️",MOVISTAR Drama
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="M+ Drama" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/cf0b506006f12487ce7053315e6ea049.png" group-title="Server 2⭐️",M+ Drama
 http://iptvstream.xyz:8080/Dooby/66754f23/1144
-#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="MOVISTAR Estrenos" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/50a1f5aeede4140f8b19d307c64024af.png" group-title="Server 2⭐️",MOVISTAR Estrenos
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="M+ Estrenos" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/50a1f5aeede4140f8b19d307c64024af.png" group-title="Server 2⭐️",M+ Estrenos
 http://iptvstream.xyz:8080/Dooby/66754f23/1143
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR Estrenos 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/edea034a4bb268a8f68c40f9584371ac.png" group-title="Server 2⭐️",MOVISTAR Estrenos 2
+#EXTINF:-1 tvg-id="" tvg-name="M+ Estrenos 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/edea034a4bb268a8f68c40f9584371ac.png" group-title="Server 2⭐️",M+ Estrenos 2
 http://iptvstream.xyz:8080/Dooby/66754f23/295135
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR Indie" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Server 2⭐️",MOVISTAR Indie
+#EXTINF:-1 tvg-id="" tvg-name="M+ Indie" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Server 2⭐️",M+ Indie
 http://iptvstream.xyz:8080/Dooby/66754f23/300840
-#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="MOVISTAR Series" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e18469bf107fe1dec514244c50b2c2ed.png" group-title="Server 2⭐️",MOVISTAR Series
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="M+ Series" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e18469bf107fe1dec514244c50b2c2ed.png" group-title="Server 2⭐️",M+ Series
 http://iptvstream.xyz:8080/Dooby/66754f23/1140
 #EXTINF:-1 tvg-id="nova.es" tvg-name="Nova" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5b3a6fb4467acc43181b4e9edaa4c577.png" group-title="Server 2⭐️",Nova
 http://iptvstream.xyz:8080/Dooby/66754f23/2189
@@ -3376,7 +3376,7 @@ http://iptvstream.xyz:8080/Dooby/66754f23/165970
 http://iptvstream.xyz:8080/Dooby/66754f23/1160
 #EXTINF:-1 tvg-id="eurosport2.es" tvg-name="EUROSPORT 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b27f3e7b8c3029acde8ce80899fef30f.png" group-title="Server 2⭐️",EUROSPORT 2
 http://iptvstream.xyz:8080/Dooby/66754f23/1159
-#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="MOVISTAR Golf" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/bce4e1371881d88c660da7804e154dd6.png" group-title="Server 2⭐️",MOVISTAR Golf
+#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="M+ Golf" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/bce4e1371881d88c660da7804e154dd6.png" group-title="Server 2⭐️",M+ Golf
 http://iptvstream.xyz:8080/Dooby/66754f23/1142
 #EXTINF:-1 tvg-id="" tvg-name="Olympic Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5ae6212575293e1f29b9c5301bb6204c.png" group-title="Server 2⭐️",Olympic Channel
 http://iptvstream.xyz:8080/Dooby/66754f23/11138
@@ -3516,13 +3516,13 @@ http://iptvstream.xyz:8080/Dooby/66754f23/298807
 http://iptvstream.xyz:8080/Dooby/66754f23/298808
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Liga De Campeones 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/1042a38d0d5855f487924b7da9f8cd03.png" group-title="Server 2⭐️",Movistar Liga De Campeones 7
 http://iptvstream.xyz:8080/Dooby/66754f23/146661
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR Originales" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Server 2⭐️",MOVISTAR Originales
+#EXTINF:-1 tvg-id="" tvg-name="M+ Originales" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Server 2⭐️",M+ Originales
 http://iptvstream.xyz:8080/Dooby/66754f23/300824
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR Suspense" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Server 2⭐️",MOVISTAR Suspense
+#EXTINF:-1 tvg-id="" tvg-name="M+ Suspense" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Server 2⭐️",M+ Suspense
 http://iptvstream.xyz:8080/Dooby/66754f23/300841
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR Vamos" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Server 2⭐️",MOVISTAR Vamos
+#EXTINF:-1 tvg-id="" tvg-name="M+ Vamos" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Server 2⭐️",M+ Vamos
 http://iptvstream.xyz:8080/Dooby/66754f23/300836
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR+" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/2ace2fa23006e75b610ebb68ea59491b.svg" group-title="Server 2⭐️",MOVISTAR+
+#EXTINF:-1 tvg-id="" tvg-name="M++" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/2ace2fa23006e75b610ebb68ea59491b.svg" group-title="Server 2⭐️",M++
 http://iptvstream.xyz:8080/Dooby/66754f23/8994
 #EXTINF:-1 tvg-id="" tvg-name="MTV 90s" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Server 2⭐️",MTV 90s
 http://iptvstream.xyz:8080/Dooby/66754f23/281795
@@ -3636,19 +3636,19 @@ http://iptvstream.xyz:8080/Dooby/66754f23/297790
 http://iptvstream.xyz:8080/Dooby/66754f23/297789
 #EXTINF:-1 tvg-id="" tvg-name="LaLiga TV Bar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/faa723dac3eece2c865473edd83d65c9.png" group-title="Server 2⭐️",LaLiga TV Bar
 http://iptvstream.xyz:8080/Dooby/66754f23/197711
-#EXTINF:-1 tvg-id="la1.es" tvg-name="MOVISTAR LaLiga" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/83c20e93f805d1c0de43abcaf10f42de.png" group-title="Server 2⭐️",MOVISTAR LaLiga
+#EXTINF:-1 tvg-id="la1.es" tvg-name="M+ LaLiga" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/83c20e93f805d1c0de43abcaf10f42de.png" group-title="Server 2⭐️",M+ LaLiga
 http://iptvstream.xyz:8080/Dooby/66754f23/1141
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LaLiga 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/2f992ea3f06a9d0385df6e3e39e2c00b.png" group-title="Server 2⭐️",MOVISTAR LaLiga 2
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/2f992ea3f06a9d0385df6e3e39e2c00b.png" group-title="Server 2⭐️",M+ LaLiga 2
 http://iptvstream.xyz:8080/Dooby/66754f23/5311
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LaLiga 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/22ba20bcd4a9505d1ad7435f1dceaa93.png" group-title="Server 2⭐️",MOVISTAR LaLiga 3
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/22ba20bcd4a9505d1ad7435f1dceaa93.png" group-title="Server 2⭐️",M+ LaLiga 3
 http://iptvstream.xyz:8080/Dooby/66754f23/281772
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LaLiga 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/158d3d24cbf3ba9dc16e939750ab0ad9.png" group-title="Server 2⭐️",MOVISTAR LaLiga 4
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/158d3d24cbf3ba9dc16e939750ab0ad9.png" group-title="Server 2⭐️",M+ LaLiga 4
 http://iptvstream.xyz:8080/Dooby/66754f23/269466
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LaLiga 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/8547f7041c05f04ce7aad56c67b64481.png" group-title="Server 2⭐️",MOVISTAR LaLiga 5
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/8547f7041c05f04ce7aad56c67b64481.png" group-title="Server 2⭐️",M+ LaLiga 5
 http://iptvstream.xyz:8080/Dooby/66754f23/281792
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/98c3b45e9801cd9fe5e72bc8d42b859d.png" group-title="Server 2⭐️",MOVISTAR LIGA DE CAMPEONES
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/98c3b45e9801cd9fe5e72bc8d42b859d.png" group-title="Server 2⭐️",M+ LIGA DE CAMPEONES
 http://iptvstream.xyz:8080/Dooby/66754f23/2800
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/8d75f42f9380554385d706be8d276912.png" group-title="Server 2⭐️",MOVISTAR LIGA DE CAMPEONES 2
+#EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/8d75f42f9380554385d706be8d276912.png" group-title="Server 2⭐️",M+ LIGA DE CAMPEONES 2
 http://iptvstream.xyz:8080/Dooby/66754f23/81096
 #EXTINF:-1 tvg-id="" tvg-name="Multideporte" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/308b6b52210eb1295948261672554da2.png" group-title="Server 2⭐️",Multideporte
 http://iptvstream.xyz:8080/Dooby/66754f23/8110
@@ -3969,9 +3969,9 @@ http://world-ott.com:8080/omar/omar/86563
 http://world-ott.com:8080/omar/omar/86565
 #EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="" group-title="Server 3⭐️",BABY TV
 http://world-ott.com:8080/omar/omar/86567
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR+ ALQUILER 1" tvg-logo="" group-title="Server 3⭐️",MOVISTAR+ ALQUILER 1
+#EXTINF:-1 tvg-id="" tvg-name="M++ ALQUILER 1" tvg-logo="" group-title="Server 3⭐️",M++ ALQUILER 1
 http://world-ott.com:8080/omar/omar/86569
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR+ ALQUILER 2" tvg-logo="" group-title="Server 3⭐️",MOVISTAR+ ALQUILER 2
+#EXTINF:-1 tvg-id="" tvg-name="M++ ALQUILER 2" tvg-logo="" group-title="Server 3⭐️",M++ ALQUILER 2
 http://world-ott.com:8080/omar/omar/86570
 
 

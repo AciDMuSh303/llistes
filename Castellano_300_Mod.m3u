@@ -1,6 +1,4 @@
-EXTM3U
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xmlhttps://www.tdtchannels.com/epg/TV.xml, https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml, https://raw.githubusercontent.com/dracohe/EA4GNQ/master/guide.xml.gz, https://raw.githubusercontent.com/dracohe/COLOR/master/guide_IPTV_COLOR.xml.gz, https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml.gz, https://github.com/MPAndrew/EpgGratis/blob/master/guide.xml.gz?raw=true, https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
-
 
 #EXTINF:-1 tvg-id="LA 1" tvg-name="LA 1 HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/1.png" group-title="Server 0⭐️",LA 1 HD
 http://ftp.look-tv.eu:8880/primocazallas/primocazallas/42593

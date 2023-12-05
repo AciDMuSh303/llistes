@@ -3,698 +3,658 @@
 
 
 
-#EXTINF:-1 tvg-id="LA 1" tvg-name="LA 1 HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/1.png" group-title="Server 0⭐️",LA 1 HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/42593
-#EXTINF:-1 tvg-id="LA 1" tvg-name="LA 1 FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/1.png" group-title="Server 0⭐️",LA 1 FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/42592
-#EXTINF:-1 tvg-id="LA 2" tvg-name="LA 2 FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/2.png" group-title="Server 0⭐️",LA 2 FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/9
-#EXTINF:-1 tvg-id="Antena 3" tvg-name="Antena 3 HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/3hd.png" group-title="Server 0⭐️",Antena 3 HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/11
-#EXTINF:-1 tvg-id="Antena 3" tvg-name="Antena 3 FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/3hd.png" group-title="Server 0⭐️",Antena 3 FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/12
-#EXTINF:-1 tvg-id="Cuatro" tvg-name="Cuatro HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/4hd.png" group-title="Server 0⭐️",Cuatro HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/14
-#EXTINF:-1 tvg-id="Cuatro" tvg-name="Cuatro FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/4hd.png" group-title="Server 0⭐️",Cuatro FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/15
-#EXTINF:-1 tvg-id="Telecinco" tvg-name="Telecinco HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/5hd.png" group-title="Server 0⭐️",Telecinco HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/17
-#EXTINF:-1 tvg-id="Telecinco" tvg-name="Telecinco FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/5hd.png" group-title="Server 0⭐️",Telecinco FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/18
-#EXTINF:-1 tvg-id="La Sexta" tvg-name="La Sexta HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/6hd.png" group-title="Server 0⭐️",La Sexta HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/20
-#EXTINF:-1 tvg-id="La Sexta" tvg-name="La Sexta FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/6hd.png" group-title="Server 0⭐️",La Sexta FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/21
-#EXTINF:-1 tvg-id="Canal Sur HD" tvg-name="Canal Sur HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/csura.png" group-title="Server 0⭐️",Canal Sur HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/23
-#EXTINF:-1 tvg-id="Canal Sur HD" tvg-name="Canal Sur FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/csura.png" group-title="Server 0⭐️",Canal Sur FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/24
-#EXTINF:-1 tvg-id="ETB 2" tvg-name="GRAN HERMANO VIP" tvg-logo="" group-title="Server 0⭐️",GRAN HERMANO VIP
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/740
-#EXTINF:-1 tvg-id="Onda Cádiz" tvg-name="ONDA CADIZ" tvg-logo="https://ondacadiz.es/sites/default/files/programas-tv/imagenes/logo_onda_cadiz_1240x580_1.png" group-title="Server 0⭐️",ONDA CADIZ
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/29399
-#EXTINF:-1 tvg-id="Andalucía TV" tvg-name="PTV Sevilla" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/ptv.png" group-title="Server 0⭐️",PTV Sevilla
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/22
-#EXTINF:-1 tvg-id="7TV Andalucia" tvg-name="7 TV" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/7tv.png" group-title="Server 0⭐️",7 TV
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/45962
-#EXTINF:-1 tvg-id="13 TV" tvg-name="13TV" tvg-logo="http://kedice.org:16004/images/bb35d6546f0f2305796d396a53b73f72.png" group-title="Server 0⭐️",13TV
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/11883
-#EXTINF:-1 tvg-id="TVG -TV Galicia" tvg-name="TVG" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/tvg.png" group-title="Server 0⭐️",TVG
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/28
-#EXTINF:-1 tvg-id="Telemadrid" tvg-name="Telemadrid" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/tmad.png" group-title="Server 0⭐️",Telemadrid
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/27
-#EXTINF:-1 tvg-id="Esport3 CAT" tvg-name="Esport3 CAT" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/es3.png" group-title="Server 0⭐️",Esport3 CAT
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/43120
-#EXTINF:-1 tvg-id="ETB 1" tvg-name="ETB 1" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/etb1.png" group-title="Server 0⭐️",ETB 1
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/739
-#EXTINF:-1 tvg-id="ETB 2" tvg-name="ETB2" tvg-logo="https://iptvboss.xyz/logos/Spain/ETB2.es.png" group-title="Server 0⭐️",ETB2
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76673
-#EXTINF:-1 tvg-id="LA 1" tvg-name="CMM TV" tvg-logo="https://iptvboss.xyz/logos/Spain/CastillalaManchaTV.es.png" group-title="Server 0⭐️",CMM TV
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76674
-#EXTINF:-1 tvg-id="TV Canaria" tvg-name="CANARIAS TV" tvg-logo="https://iptvboss.xyz/logos/Spain/TV%20Canaria.png" group-title="Server 0⭐️",CANARIAS TV
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76675
-#EXTINF:-1 tvg-id="Canal Extremadura Sat" tvg-name="CANAL EXTREMADURA" tvg-logo="https://iptvboss.xyz/logos/Spain/CanalExtremadura.es.png" group-title="Server 0⭐️",CANAL EXTREMADURA
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76676
-#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/tv3.png" group-title="Server 0⭐️",TV3
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/737
-#EXTINF:-1 tvg-id="Ten" tvg-name="TEN" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/ten.png" group-title="Server 0⭐️",TEN
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/135
-#EXTINF:-1 tvg-id="BuenViaje" tvg-name="BUEN VIAJE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BUENV.png" group-title="Server 0⭐️",BUEN VIAJE
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/70467
-#EXTINF:-1 tvg-id="Odisea" tvg-name="Odisea FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/odi.png" group-title="Server 0⭐️",Odisea FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/150
-#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/nge.png" group-title="Server 0⭐️",National Geographic HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/137
-#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/nge.png" group-title="Server 0⭐️",National Geographic FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/138
-#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/ngew.png" group-title="Server 0⭐️",Nat Geo Wild HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/140
-#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/ngew.png" group-title="Server 0⭐️",Nat Geo Wild FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/141
-#EXTINF:-1 tvg-id="DKISS" tvg-name="DKISS" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/dki.png" group-title="Server 0⭐️",DKISS
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/134
-#EXTINF:-1 tvg-id="Mega" tvg-name="Mega FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mega.png" group-title="Server 0⭐️",Mega FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/132
-#EXTINF:-1 tvg-id="Historia" tvg-name="Historia FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/his.png" group-title="Server 0⭐️",Historia FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/146
-#EXTINF:-1 tvg-id="Historia" tvg-name="CANAL HISTORIA " tvg-logo="" group-title="Server 0⭐️",CANAL HISTORIA 
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82696
-#EXTINF:-1 tvg-id="LA 1" tvg-name="DMAX" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/dmax.png" group-title="Server 0⭐️",DMAX
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/144
-#EXTINF:-1 tvg-id="Discovery" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCR.png" group-title="Server 0⭐️",DISCOVERY CHANNEL
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76302
-#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery channel #" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/disc.png" group-title="Server 0⭐️",Discovery channel #
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/143
-#EXTINF:-1 tvg-id="Canal Decasa" tvg-name="DeCasa FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/dec.png" group-title="Server 0⭐️",DeCasa FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/157
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cocina" tvg-logo="http://kedice.org:16004/images/0bed492bbb1b14e3ace65ed81894f467.png" group-title="Server 0⭐️",Pluto TV Cocina
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/41243
-#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="Canal Cocina FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/coc.png" group-title="Server 0⭐️",Canal Cocina FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/12360
-#EXTINF:-1 tvg-id="LA 1" tvg-name="AMC Break FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/amcb.png" group-title="Server 0⭐️",AMC Break FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/148
-#EXTINF:-1 tvg-id="BE MAD" tvg-name="BEMAD HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/bmhd.png" group-title="Server 0⭐️",BEMAD HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/130
-#EXTINF:-1 tvg-id="BE MAD" tvg-name="BEMAD FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/bmhd.png" group-title="Server 0⭐️",BEMAD FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/131
-#EXTINF:-1 tvg-id="Odisea" tvg-name="ODISEA 4K" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/odi.png" group-title="Server 0⭐️",ODISEA 4K
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/54106
-#EXTINF:-1 tvg-id="SELEKT" tvg-name="SELEKT" tvg-logo="" group-title="Server 0⭐️",SELEKT
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76303
-#EXTINF:-1 tvg-id="M+ Documentales" tvg-name="M+ Documentales" tvg-logo="" group-title="Server 0⭐️",M+ Documentales
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77069
-#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="M+ FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mplus.png" group-title="Server 0⭐️",M+ FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/42304
-#EXTINF:-1 tvg-id="M+ Cine" tvg-name="M+ Cine" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mcine.png" group-title="Server 0⭐️",M+ Cine
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/38
-#EXTINF:-1 tvg-id="M+ Cine" tvg-name="M+ Cine" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mcine.png" group-title="Server 0⭐️",M+ Cine
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/48464
-#EXTINF:-1 tvg-id="M+ Cine" tvg-name="M+ Cine FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mcine.png" group-title="Server 0⭐️",M+ Cine FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/39
-#EXTINF:-1 tvg-id="M+ Series" tvg-name="MovistarSeries HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mser.png" group-title="Server 0⭐️",MovistarSeries HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/53
-#EXTINF:-1 tvg-id="M+ Series" tvg-name="MovistarSeries FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mser.png" group-title="Server 0⭐️",MovistarSeries FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/54
-#EXTINF:-1 tvg-id="M+ Originales" tvg-name="M+ Originales" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mori.png" group-title="Server 0⭐️",M+ Originales
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/34
-#EXTINF:-1 tvg-id="M+ Originales" tvg-name="M+ Originales FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mori.png" group-title="Server 0⭐️",M+ Originales FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/36
-#EXTINF:-1 tvg-id="M+ Originales" tvg-name="M+ Originales Low Bitrate" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mori.png" group-title="Server 0⭐️",M+ Originales Low Bitrate
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/35
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ TERROR" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mpopup.png" group-title="Server 0⭐️",M+ TERROR
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/70554
-#EXTINF:-1 tvg-id="M+ Clásicos" tvg-name="M Clasicos" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mclas.png" group-title="Server 0⭐️",M Clasicos
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/70552
-#EXTINF:-1 tvg-id="M+ Clásicos HD" tvg-name="Movistar Clasicos FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mclas.png" group-title="Server 0⭐️",Movistar Clasicos FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/43096
-#EXTINF:-1 tvg-id="Bajo demanda" tvg-name="Movistar Clasicos HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mclas.png" group-title="Server 0⭐️",Movistar Clasicos HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/43097
-#EXTINF:-1 tvg-id="M+ Acción" tvg-name="Movistar Accion HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/macc.png" group-title="Server 0⭐️",Movistar Accion HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/41
-#EXTINF:-1 tvg-id="M+ Acción" tvg-name="Movistar Accion FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/macc.png" group-title="Server 0⭐️",Movistar Accion FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/1
-#EXTINF:-1 tvg-id="M+ Comedia" tvg-name="Movistar Comedia HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mcom.png" group-title="Server 0⭐️",Movistar Comedia HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/45
-#EXTINF:-1 tvg-id="M+ Comedia" tvg-name="Movistar Comedia FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mcom.png" group-title="Server 0⭐️",Movistar Comedia FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/46
-#EXTINF:-1 tvg-id="M+ Drama" tvg-name="Movistar Drama HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mdra.png" group-title="Server 0⭐️",Movistar Drama HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/43
-#EXTINF:-1 tvg-id="M+ Drama" tvg-name="Movistar Drama FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mdra.png" group-title="Server 0⭐️",Movistar Drama FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/2
-#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="M+ Cine Español" tvg-logo="http://51.68.199.32/logos/mespa.png" group-title="Server 0⭐️",M+ Cine Español
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/61879
-#EXTINF:-1 tvg-id="M+ Suspense" tvg-name="M+ Suspense HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mser2.png" group-title="Server 0⭐️",M+ Suspense HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/50
-#EXTINF:-1 tvg-id="M+ Suspense" tvg-name="M+ Suspense FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/msus.png" group-title="Server 0⭐️",M+ Suspense FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/51
-#EXTINF:-1 tvg-id="M+ Indie" tvg-name="Indie por M+" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mindie.png" group-title="Server 0⭐️",Indie por M+
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77071
-#EXTINF:-1 tvg-id="" tvg-name="CINE FRIKI" tvg-logo="" group-title="Server 0⭐️",CINE FRIKI
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82091
-#EXTINF:-1 tvg-id="" tvg-name="DE PELICULAS" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/De-Pelicula-Plus-Logo-2012.png" group-title="Server 0⭐️",DE PELICULAS
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76760
-#EXTINF:-1 tvg-id="La Resistencia 24H" tvg-name="La Resistencia 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Logo_La_Resistencia.png" group-title="Server 0⭐️",La Resistencia 24H
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/70555
-#EXTINF:-1 tvg-id="Dreamworks" tvg-name="DreamWorks FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/dream.png" group-title="Server 0⭐️",DreamWorks FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/29680
-#EXTINF:-1 tvg-id="M+ Series HD" tvg-name="Movistar Series 2 FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mser2.png" group-title="Server 0⭐️",Movistar Series 2 FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/42305
-#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/xtrm.png" group-title="Server 0⭐️",XTRM FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/75
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/tnt.png" group-title="Server 0⭐️",TNT HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/68
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/tnt.png" group-title="Server 0⭐️",TNT FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/69
-#EXTINF:-1 tvg-id="TCM" tvg-name="TCM FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/tcm.png" group-title="Server 0⭐️",TCM FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/71
-#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/syfy.png" group-title="Server 0⭐️",SYFY HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77
-#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/syfy.png" group-title="Server 0⭐️",SYFY FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/78
-#EXTINF:-1 tvg-id="Sundance" tvg-name="Sundance FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/sund.png" group-title="Server 0⭐️",Sundance FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/89
-#EXTINF:-1 tvg-id="Somos" tvg-name="Somos" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/somos.png" group-title="Server 0⭐️",Somos
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/57
-#EXTINF:-1 tvg-id="Hollywood" tvg-name="Hollywood HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/hwd.png" group-title="Server 0⭐️",Hollywood HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/80
-#EXTINF:-1 tvg-id="Hollywood" tvg-name="Hollywood FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/hwd.png" group-title="Server 0⭐️",Hollywood FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/81
-#EXTINF:-1 tvg-id="Fox" tvg-name="Fox HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/fox.png" group-title="Server 0⭐️",Fox HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/65
-#EXTINF:-1 tvg-id="Fox" tvg-name="Fox FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/fox.png" group-title="Server 0⭐️",Fox FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/66
-#EXTINF:-1 tvg-id="DARK" tvg-name="Dark FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/dark.png" group-title="Server 0⭐️",Dark FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/73
-#EXTINF:-1 tvg-id="COSMO" tvg-name="Cosmo HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/cos.png" group-title="Server 0⭐️",Cosmo HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/94
-#EXTINF:-1 tvg-id="COSMO" tvg-name="Cosmo FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/cos.png" group-title="Server 0⭐️",Cosmo FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/95
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy central HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/comce.png" group-title="Server 0⭐️",Comedy central HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/59
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/comce.png" group-title="Server 0⭐️",Comedy Central FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/60
-#EXTINF:-1 tvg-id="Calle 13" tvg-name="Calle13 FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/c13.png" group-title="Server 0⭐️",Calle13 FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/98
-#EXTINF:-1 tvg-id="Calle 13" tvg-name="Calle 13 HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/c13.png" group-title="Server 0⭐️",Calle 13 HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/97
-#EXTINF:-1 tvg-id="AXN White" tvg-name="AXN White HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/axnw.png" group-title="Server 0⭐️",AXN White HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/83
-#EXTINF:-1 tvg-id="AXN White" tvg-name="AXN White FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/axnw.png" group-title="Server 0⭐️",AXN White FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/84
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/axn.png" group-title="Server 0⭐️",AXN HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/86
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/axn.png" group-title="Server 0⭐️",AXN FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/87
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/amc.png" group-title="Server 0⭐️",AMC HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/91
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/amc.png" group-title="Server 0⭐️",AMC FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/92
-#EXTINF:-1 tvg-id="BOM Cine" tvg-name="BOM CINE" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/bom.png" group-title="Server 0⭐️",BOM CINE
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/12036
-#EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC Crime" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/amcc.png" group-title="Server 0⭐️",AMC Crime
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/99
-#EXTINF:-1 tvg-id="Factoría de Ficción" tvg-name="FDF" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/fdf.png" group-title="Server 0⭐️",FDF
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/101
-#EXTINF:-1 tvg-id="Energy" tvg-name="Energy" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/ener.png" group-title="Server 0⭐️",Energy
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/109
-#EXTINF:-1 tvg-id="Divinity" tvg-name="Divinity" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/div.png" group-title="Server 0⭐️",Divinity
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/110
-#EXTINF:-1 tvg-id="Paramount Network" tvg-name="Paramount Network" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/para.png" group-title="Server 0⭐️",Paramount Network
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/100
-#EXTINF:-1 tvg-id="Nova" tvg-name="Nova" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/nova.png" group-title="Server 0⭐️",Nova
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/105
-#EXTINF:-1 tvg-id="LA 1" tvg-name="Nova FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/nova.png" group-title="Server 0⭐️",Nova FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/106
-#EXTINF:-1 tvg-id="Neox" tvg-name="Neox" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/neox.png" group-title="Server 0⭐️",Neox
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/107
-#EXTINF:-1 tvg-id="Neox" tvg-name="Neox FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/neox.png" group-title="Server 0⭐️",Neox FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/108
-#EXTINF:-1 tvg-id="I643.37232.schedulesdirect.org" tvg-name="TLNovelas" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/tln.png" group-title="Server 0⭐️",TLNovelas
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/113
-#EXTINF:-1 tvg-id="MTV " tvg-name="TEST-OWL" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mtv.png" group-title="Server 0⭐️",TEST-OWL
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/103
-#EXTINF:-1 tvg-id="MTV " tvg-name="MTV ESP" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mtv.png" group-title="Server 0⭐️",MTV ESP
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76287
-#EXTINF:-1 tvg-id="M+ Suspense" tvg-name="M+ Suspense" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/msus.png" group-title="Server 0⭐️",M+ Suspense
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77070
-#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney JR" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/disjr.png" group-title="Server 0⭐️",Disney JR
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/118
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/discha.png" group-title="Server 0⭐️",Disney Channel
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/12068
-#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby Tv" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/babytv.png" group-title="Server 0⭐️",Baby Tv
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/124
-#EXTINF:-1 tvg-id="NICK JR" tvg-name="Nick Jr" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/nickjr.png" group-title="Server 0⭐️",Nick Jr
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/121
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/nick.png" group-title="Server 0⭐️",Nickelodeon FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/123
-#EXTINF:-1 tvg-id="Clan TVE" tvg-name="Clan TVE FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/clanhd.png" group-title="Server 0⭐️",Clan TVE FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/128
-#EXTINF:-1 tvg-id="Enfamilia" tvg-name="ENFAMILIA" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/panda.png" group-title="Server 0⭐️",ENFAMILIA
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/125
-#EXTINF:-1 tvg-id="Boing" tvg-name="Boing" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/boi.png" group-title="Server 0⭐️",Boing
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/126
-#EXTINF:-1 tvg-id="" tvg-name="Animakids" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/akids.png" group-title="Server 0⭐️",Animakids
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/41240
-#EXTINF:-1 tvg-id="" tvg-name="TV Junior" tvg-logo="" group-title="Server 0⭐️",TV Junior
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/41241
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja" tvg-logo="" group-title="Server 0⭐️",Bob Esponja
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/41242
-#EXTINF:-1 tvg-id="LA 1" tvg-name="Ubeat" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/Ubeat.png" group-title="Server 0⭐️",Ubeat
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/169
-#EXTINF:-1 tvg-id="LA 1" tvg-name="cazavision" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/caz.png" group-title="Server 0⭐️",cazavision
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/61321
-#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="Iberalia TV" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/iber.png" group-title="Server 0⭐️",Iberalia TV
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/161
-#EXTINF:-1 tvg-id="" tvg-name="IBERALIA CAZA" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/iber.png" group-title="Server 0⭐️",IBERALIA CAZA
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/43212
-#EXTINF:-1 tvg-id="" tvg-name="IBERALIA PESCA" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/iber.png" group-title="Server 0⭐️",IBERALIA PESCA
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/689
-#EXTINF:-1 tvg-id="Caza y Pesca" tvg-name="Caza y Pesca HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/cape.png" group-title="Server 0⭐️",Caza y Pesca HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/159
-#EXTINF:-1 tvg-id="Caza y Pesca" tvg-name="Caza y Pesca FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/cape.png" group-title="Server 0⭐️",Caza y Pesca FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/160
-#EXTINF:-1 tvg-id="" tvg-name="DBIKE" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/dbi.png" group-title="Server 0⭐️",DBIKE
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/61122
-#EXTINF:-1 tvg-id="Fight Box HD" tvg-name="fight box" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/fbox.png" group-title="Server 0⭐️",fight box
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/61869
-#EXTINF:-1 tvg-id="Surf Channel" tvg-name="Surf Channel" tvg-logo="https://media.licdn.com/dms/image/C4E0BAQGOpgARyy7Mxg/company-logo_200_200/0/1519872238622?e=2147483647&v=beta&t=U2E76w8Uam56NWSpdJm_6DcamOVE4Xxyu13UbTlyLcY" group-title="Server 0⭐️",Surf Channel
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76304
-#EXTINF:-1 tvg-id="" tvg-name="REK TV ( videojuegos )" tvg-logo="" group-title="Server 0⭐️",REK TV ( videojuegos )
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76761
-#EXTINF:-1 tvg-id="" tvg-name="cofrade" tvg-logo="" group-title="Server 0⭐️",cofrade
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76781
-#EXTINF:-1 tvg-id="MMA TV" tvg-name="MMA TV" tvg-logo="" group-title="Server 0⭐️",MMA TV
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82885
-#EXTINF:-1 tvg-id="MTV " tvg-name="MTV Music Made in Spain" tvg-logo="https://app.allflamenco.net/preview/img/logotipo_allflamenco_blanco_small1.jpg" group-title="Server 0⭐️",MTV Music Made in Spain
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76305
-#EXTINF:-1 tvg-id="M+ Música" tvg-name="M+ MUSICA" tvg-logo="" group-title="Server 0⭐️",M+ MUSICA
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77139
-#EXTINF:-1 tvg-id="MTV 80s" tvg-name="trace-latina" tvg-logo="http://toloko.owltv.eu:16004/images/e698c5e95ba1263bb6951d01897d9b64.png" group-title="Server 0⭐️",trace-latina
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/13204
-#EXTINF:-1 tvg-id="MTV 00s" tvg-name="MTV 00" tvg-logo="http://kedice.org:16004/images/8053fa1b365053eeae7a4cdccabecaa7.png" group-title="Server 0⭐️",MTV 00
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/13940
-#EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="4Fun Dance" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Mezzo_Live_HD_logo.png" group-title="Server 0⭐️",4Fun Dance
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/41239
-#EXTINF:-1 tvg-id="MTV 80s" tvg-name="MTV 80s" tvg-logo="" group-title="Server 0⭐️",MTV 80s
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/70537
-#EXTINF:-1 tvg-id="" tvg-name="Trace Urban HD" tvg-logo="" group-title="Server 0⭐️",Trace Urban HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/70548
-#EXTINF:-1 tvg-id="" tvg-name="NRJ Hits HD" tvg-logo="" group-title="Server 0⭐️",NRJ Hits HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/70549
-#EXTINF:-1 tvg-id="" tvg-name="PLUTO B#" tvg-logo="" group-title="Server 0⭐️",PLUTO B#
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/41236
-#EXTINF:-1 tvg-id="" tvg-name="PLUTO B 3" tvg-logo="" group-title="Server 0⭐️",PLUTO B 3
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/41238
-#EXTINF:-1 tvg-id="" tvg-name="PLUTO B 2" tvg-logo="" group-title="Server 0⭐️",PLUTO B 2
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76385
-#EXTINF:-1 tvg-id="" tvg-name="PLUTO B" tvg-logo="" group-title="Server 0⭐️",PLUTO B
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76386
-#EXTINF:-1 tvg-id="" tvg-name="ONES TV" tvg-logo="" group-title="Server 0⭐️",ONES TV
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/125203
-
-
-#EXTINF:-1 tvg-id="Movistar Plus+ 2 HD" tvg-name="M+ 2" tvg-logo="" group-title="Server 0⭐️",M+ 2
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/9230
-#EXTINF:-1 tvg-id="M+ Ellas Vamos HD" tvg-name="M+ Ellas #v" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mellas.png" group-title="Server 0⭐️",M+ Ellas #v
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/61878
-#EXTINF:-1 tvg-id="Esport 3" tvg-name="Esport3" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/es3.png" group-title="Server 0⭐️",Esport3
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/247
-#EXTINF:-1 tvg-id="Teledeporte" tvg-name="Teledeporte FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/tdphd.png" group-title="Server 0⭐️",Teledeporte FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/262
-#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel" tvg-logo="https://1.bp.blogspot.com/-UHbphuMzTLI/Xjb-ajdIv1I/AAAAAAAABA0/W2Dhehq7thsNNu92yKs9orPOD9LLYaddACLcBGAsYHQ/s200/34.png" group-title="Server 0⭐️",Tennis Channel
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/74495
-#EXTINF:-1 tvg-id="MyPadel TV" tvg-name="My Padel TV" tvg-logo="https://images.samsung.com/is/image/samsung/assets/es/tvs/smart-tv/samsung-tv-plus/MyPadelTV_1000x1000_Circle.png?$296_164_PNG" group-title="Server 0⭐️",My Padel TV
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76285
-#EXTINF:-1 tvg-id="M+ Golf" tvg-name="M Golf FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/golf.png" group-title="Server 0⭐️",M Golf FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/253
-#EXTINF:-1 tvg-id="" tvg-name="Golf Channel" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/gchan.png" group-title="Server 0⭐️",Golf Channel
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/46973
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1 HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/euros1.png" group-title="Server 0⭐️",Eurosport 1 HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/255
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1 FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/euros1.png" group-title="Server 0⭐️",Eurosport 1 FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/257
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1 FLow Bitrate" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/euros1.png" group-title="Server 0⭐️",Eurosport 1 FLow Bitrate
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/256
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2 HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/euros2.png" group-title="Server 0⭐️",Eurosport 2 HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/258
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2 FLow Bitrate" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/euros2.png" group-title="Server 0⭐️",Eurosport 2 FLow Bitrate
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/259
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2 FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/euros2.png" group-title="Server 0⭐️",Eurosport 2 FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/40615
-#EXTINF:-1 tvg-id="M+ Deportes" tvg-name="M Deportes HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mdep.png" group-title="Server 0⭐️",M Deportes HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/249
-#EXTINF:-1 tvg-id="M+ Deportes" tvg-name="M Deportes FLow Bitrate" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mdep.png" group-title="Server 0⭐️",M Deportes FLow Bitrate
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/250
-#EXTINF:-1 tvg-id="M+ Deportes" tvg-name="M Deportes FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mdep.png" group-title="Server 0⭐️",M Deportes FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/251
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="M Deportes 2 HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mdep1.png" group-title="Server 0⭐️",M Deportes 2 HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/266
-#EXTINF:-1 tvg-id="M+ Deportes" tvg-name="M Deportes FHD#" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mdep1.png" group-title="Server 0⭐️",M Deportes FHD#
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/265
-#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-name="M Deportes 3" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mdep3.png" group-title="Server 0⭐️",M Deportes 3
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/268
-#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-name="M Deportes 4" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mdep4.png" group-title="Server 0⭐️",M Deportes 4
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/269
-#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="M Deportes 5" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mdep5.png" group-title="Server 0⭐️",M Deportes 5
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/270
-#EXTINF:-1 tvg-id="M+ Deportes 6" tvg-name="M Deportes 6" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mdep6.png" group-title="Server 0⭐️",M Deportes 6
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/271
-#EXTINF:-1 tvg-id="M+ Deportes 7" tvg-name="M Deportes 7" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mdep7.png" group-title="Server 0⭐️",M Deportes 7
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/272
-#EXTINF:-1 tvg-id="Betis TV" tvg-name="BETIS TV" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/betv.png" group-title="Server 0⭐️",BETIS TV
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/176
-#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="Real Madrid TV" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/rmtv.png" group-title="Server 0⭐️",Real Madrid TV
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/177
-#EXTINF:-1 tvg-id="Sevilla FC Televisión" tvg-name="SFC TV" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/sfctv.png" group-title="Server 0⭐️",SFC TV
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/180
-#EXTINF:-1 tvg-id="M+ Vamos" tvg-name="#VAMOS" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/vamos.png" group-title="Server 0⭐️",#VAMOS
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/171
-#EXTINF:-1 tvg-id="LA 1" tvg-name="#VAMOS HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/vamos.png" group-title="Server 0⭐️",#VAMOS HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/172
-#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="#VAMOS FLow Bitrate" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/vamos.png" group-title="Server 0⭐️",#VAMOS FLow Bitrate
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/173
-#EXTINF:-1 tvg-id="LA 1" tvg-name="#VAMOS FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/vamos.png" group-title="Server 0⭐️",#VAMOS FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/175
-#EXTINF:-1 tvg-id="M+ Vamos" tvg-name="#VAMOS FHD#" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/vamos.png" group-title="Server 0⭐️",#VAMOS FHD#
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/29389
-#EXTINF:-1 tvg-id="LA 1" tvg-name="GOL" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/golp.png" group-title="Server 0⭐️",GOL
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/181
-#EXTINF:-1 tvg-id="GOL PLAY" tvg-name="GOL HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/golp.png" group-title="Server 0⭐️",GOL HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/182
-#EXTINF:-1 tvg-id="GOL PLAY" tvg-name="GOL FLow Bitrate" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/golp.png" group-title="Server 0⭐️",GOL FLow Bitrate
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/183
-#EXTINF:-1 tvg-id="LA 1" tvg-name="GOL FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/golp.png" group-title="Server 0⭐️",GOL FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/184
-#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-name="DAZN LaLiga 1 " tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/daznl1.png" group-title="Server 0⭐️",DAZN LaLiga 1 
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/61791
-#EXTINF:-1 tvg-id="DAZN LaLiga" tvg-name="DAZN LaLiga 1  Low Bitrate" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/daznl1.png" group-title="Server 0⭐️",DAZN LaLiga 1  Low Bitrate
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/70493
-#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-name="DAZN LaLiga 1 HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/daznl1.png" group-title="Server 0⭐️",DAZN LaLiga 1 HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/61707
-#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-name="DAZN LaLiga 1 FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/daznl1.png" group-title="Server 0⭐️",DAZN LaLiga 1 FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/61511
-#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-name="DAZN LaLiga 1 FHD#" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/daznl1.png" group-title="Server 0⭐️",DAZN LaLiga 1 FHD#
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/61793
-#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-name="DAZN LaLiga1 F" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/daznl1.png" group-title="Server 0⭐️",DAZN LaLiga1 F
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/62550
-#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LaLiga 2 HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/daznl2.png" group-title="Server 0⭐️",DAZN LaLiga 2 HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/61708
-#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LaLiga 2 FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/daznl2.png" group-title="Server 0⭐️",DAZN LaLiga 2 FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/61512
-#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LaLiga 2 FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/daznl2.png" group-title="Server 0⭐️",DAZN LaLiga 2 FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/61796
-#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LaLiga TV FLow Bitrate" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlig1.png" group-title="Server 0⭐️",LaLiga TV FLow Bitrate
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/192
-#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LaLiga TV HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlig1.png" group-title="Server 0⭐️",LaLiga TV HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/191
-#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LaLiga TV HD# OG" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlig1.png" group-title="Server 0⭐️",LaLiga TV HD# OG
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/49979
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="LaLiga TV FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlig1.png" group-title="Server 0⭐️",LaLiga TV FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/194
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="Laliga TV F(FIBRA)" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlig1.png" group-title="Server 0⭐️",Laliga TV F(FIBRA)
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/8611
-#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="LaLiga TV" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlig1.png" group-title="Server 0⭐️",LaLiga TV
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76295
-#EXTINF:-1 tvg-id="LA 1" tvg-name="LaLiga TV OG" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlig1.png" group-title="Server 0⭐️",LaLiga TV OG
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/27333
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="LaLiga TV" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlig1.png" group-title="Server 0⭐️",LaLiga TV
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/62531
-#EXTINF:-1 tvg-id="M+ LALIGA TV 2" tvg-name="LaLiga TV 2 HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlig2.png" group-title="Server 0⭐️",LaLiga TV 2 HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/12038
-#EXTINF:-1 tvg-id="M+ LALIGA TV 2" tvg-name="LaLiga TV 2 FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlig2.png" group-title="Server 0⭐️",LaLiga TV 2 FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/199
-#EXTINF:-1 tvg-id="M+ LALIGA TV 2" tvg-name="LaLiga TV 2 FHD#" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlig2.png" group-title="Server 0⭐️",LaLiga TV 2 FHD#
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/200
-#EXTINF:-1 tvg-id="M+ LALIGA TV 3" tvg-name="LaLiga TV 3 HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlig3.png" group-title="Server 0⭐️",LaLiga TV 3 HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/12039
-#EXTINF:-1 tvg-id="M+ LALIGA TV 3" tvg-name="LaLiga TV 3 FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlig3.png" group-title="Server 0⭐️",LaLiga TV 3 FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/202
-#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="LaLiga Hypermotion " tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/smart.png" group-title="Server 0⭐️",LaLiga Hypermotion 
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/30989
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="LaLiga Hypermotion #" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/smart1.png" group-title="Server 0⭐️",LaLiga Hypermotion #
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/30988
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-name="LaLiga Hypermotion 2" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/smart2.png" group-title="Server 0⭐️",LaLiga Hypermotion 2
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/61832
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" tvg-name="LaLiga Hypermotion 3" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/smart3.png" group-title="Server 0⭐️",LaLiga Hypermotion 3
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76279
-#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M. Liga de Campeones FLow Bitrate" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlc.png" group-title="Server 0⭐️",M. Liga de Campeones FLow Bitrate
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/218
-#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M Liga de Campeones HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlc.png" group-title="Server 0⭐️",M Liga de Campeones HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/44025
-#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M. Liga de Campeones FHD#OG" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlc.png" group-title="Server 0⭐️",M. Liga de Campeones FHD#OG
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/217
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M. Liga de Campeones OG" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlc.png" group-title="Server 0⭐️",M. Liga de Campeones OG
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/215
-#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M. Liga de Campeones FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlc.png" group-title="Server 0⭐️",M. Liga de Campeones FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/3
-#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M+ Liga De Campeones  (FIBRA)" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlc.png" group-title="Server 0⭐️",M+ Liga De Campeones  (FIBRA)
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/27331
-#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="M Liga de Campeones (Alternativa)" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlc.png" group-title="Server 0⭐️",M Liga de Campeones (Alternativa)
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/27334
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="M. Liga de Campeones 2 HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlc1.png" group-title="Server 0⭐️",M. Liga de Campeones 2 HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/221
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2" tvg-name="M. Liga de Campeones 2 FHD#" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlc1.png" group-title="Server 0⭐️",M. Liga de Campeones 2 FHD#
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/222
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2" tvg-name="M Liga de Campeones 2 FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlc1.png" group-title="Server 0⭐️",M Liga de Campeones 2 FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/580
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 3" tvg-name="M Liga de Campeones 3 HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlc2.png" group-title="Server 0⭐️",M Liga de Campeones 3 HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/581
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 3" tvg-name="M Liga de Campeones 3 F( FIBRA )" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlc2.png" group-title="Server 0⭐️",M Liga de Campeones 3 F( FIBRA )
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/43192
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-name="M+ Liga De Campeones 3 FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlc3.png" group-title="Server 0⭐️",M+ Liga De Campeones 3 FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/62168
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-name="M+ Liga de Campeones 4" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlc4.png" group-title="Server 0⭐️",M+ Liga de Campeones 4
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/228
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-name="M+ Liga De Campeones 5 FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlc5.png" group-title="Server 0⭐️",M+ Liga De Campeones 5 FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/62166
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 6" tvg-name="M Liga de Campeones 6" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlc6.png" group-title="Server 0⭐️",M Liga de Campeones 6
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/231
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-name="M Liga de Campeones 7" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlc7.png" group-title="Server 0⭐️",M Liga de Campeones 7
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/232
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 8" tvg-name="M Liga de Campeones 8" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/mlc8.png" group-title="Server 0⭐️",M Liga de Campeones 8
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/233
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONES 9" tvg-logo="" group-title="Server 0⭐️",CAMPEONES 9
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82136
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONES 10" tvg-logo="" group-title="Server 0⭐️",CAMPEONES 10
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82137
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONES 11" tvg-logo="" group-title="Server 0⭐️",CAMPEONES 11
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82138
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONES 12" tvg-logo="" group-title="Server 0⭐️",CAMPEONES 12
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82139
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONES 13" tvg-logo="" group-title="Server 0⭐️",CAMPEONES 13
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82140
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONES 14" tvg-logo="" group-title="Server 0⭐️",CAMPEONES 14
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82141
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONES 15" tvg-logo="" group-title="Server 0⭐️",CAMPEONES 15
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82142
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONES 16" tvg-logo="" group-title="Server 0⭐️",CAMPEONES 16
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82143
-#EXTINF:-1 tvg-id="" tvg-name="CAMPEONES 17" tvg-logo="" group-title="Server 0⭐️",CAMPEONES 17
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82144
-#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV ( ingles )" tvg-logo="" group-title="Server 0⭐️",LaLiga TV ( ingles )
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/81404
-#EXTINF:-1 tvg-id="DAZN F1" tvg-name="DAZN F1 #" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/daznf1.png" group-title="Server 0⭐️",DAZN F1 #
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/74094
-#EXTINF:-1 tvg-id="DAZN F1" tvg-name="DAZN F1 HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/daznf1.png" group-title="Server 0⭐️",DAZN F1 HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/275
-#EXTINF:-1 tvg-id="DAZN F1" tvg-name="DAZN F1 FLow Bitrate" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/daznf1.png" group-title="Server 0⭐️",DAZN F1 FLow Bitrate
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/276
-#EXTINF:-1 tvg-id="DAZN F1" tvg-name="DAZN F1" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/daznf1.png" group-title="Server 0⭐️",DAZN F1
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/274
-#EXTINF:-1 tvg-id="DAZN F1" tvg-name="DAZN F1 FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/daznf1.png" group-title="Server 0⭐️",DAZN F1 FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/277
-#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/dazn1.png" group-title="Server 0⭐️",DAZN 1 HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/29304
-#EXTINF:-1 tvg-id="LA 1" tvg-name="DAZN 1 FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/dazn1.png" group-title="Server 0⭐️",DAZN 1 FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/29302
-#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 FHD#" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/dazn2.png" group-title="Server 0⭐️",DAZN 1 FHD#
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/29397
-#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/dazn2.png" group-title="Server 0⭐️",DAZN 2
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/29305
-#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2 HD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/dazn2.png" group-title="Server 0⭐️",DAZN 2 HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/29307
-#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2 FHD" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/dazn2.png" group-title="Server 0⭐️",DAZN 2 FHD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/29398
-#EXTINF:-1 tvg-id="DAZN 3" tvg-name="DAZN 3" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/dazn3.png" group-title="Server 0⭐️",DAZN 3
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/61830
-#EXTINF:-1 tvg-id="DAZN 4" tvg-name="DAZN 4" tvg-logo="http://crypto-rslcm-epg.ddns.me/logos/dazn4.png" group-title="Server 0⭐️",DAZN 4
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/61831
-#EXTINF:-1 tvg-id="DAZN LaLiga Femenina 1" tvg-name="Dazn LaLiga Femenina 1" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_LaLiga_Fem_1N.png" group-title="Server 0⭐️",Dazn LaLiga Femenina 1
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/75241
-#EXTINF:-1 tvg-id="DAZN LaLiga Femenina 2" tvg-name="Dazn LaLiga Femenina 2" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_LaLiga_Fem_2N.png" group-title="Server 0⭐️",Dazn LaLiga Femenina 2
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/75242
-#EXTINF:-1 tvg-id="DAZN LaLiga Femenina 3" tvg-name="Dazn LaLiga Femenina 3" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_LaLiga_Fem_3N.png" group-title="Server 0⭐️",Dazn LaLiga Femenina 3
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/75243
-#EXTINF:-1 tvg-id="DAZN LaLiga Femenina 4" tvg-name="Dazn LaLiga Femenina 4" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_LaLiga_Fem_4N.png" group-title="Server 0⭐️",Dazn LaLiga Femenina 4
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/75244
-#EXTINF:-1 tvg-id="DAZN LaLiga Femenina 5" tvg-name="Dazn LaLiga Femenina 5" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_LaLiga_Fem_5N.png" group-title="Server 0⭐️",Dazn LaLiga Femenina 5
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/75245
-#EXTINF:-1 tvg-id="" tvg-name="Dazn Eventos 1" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_Eventos_1.png" group-title="Server 0⭐️",Dazn Eventos 1
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76005
-#EXTINF:-1 tvg-id="" tvg-name="Dazn Eventos 2" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_Eventos_2.png" group-title="Server 0⭐️",Dazn Eventos 2
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76006
-#EXTINF:-1 tvg-id="" tvg-name="Dazn Eventos 3" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_Eventos_3.png" group-title="Server 0⭐️",Dazn Eventos 3
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76007
-#EXTINF:-1 tvg-id="" tvg-name="Dazn Eventos 4" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_Eventos_4.png" group-title="Server 0⭐️",Dazn Eventos 4
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76008
-#EXTINF:-1 tvg-id="" tvg-name="Dazn Eventos 5" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_Eventos_5.png" group-title="Server 0⭐️",Dazn Eventos 5
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76009
-#EXTINF:-1 tvg-id="" tvg-name="Dazn Eventos 6" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_Eventos_6.png" group-title="Server 0⭐️",Dazn Eventos 6
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76010
-#EXTINF:-1 tvg-id="" tvg-name="Dazn Eventos 7" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_Eventos_7.png" group-title="Server 0⭐️",Dazn Eventos 7
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76011
-#EXTINF:-1 tvg-id="" tvg-name="Dazn Eventos 8" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_Eventos_8.png" group-title="Server 0⭐️",Dazn Eventos 8
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76012
-#EXTINF:-1 tvg-id="" tvg-name="Dazn Eventos 9" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_Eventos_9.png" group-title="Server 0⭐️",Dazn Eventos 9
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76013
-#EXTINF:-1 tvg-id="" tvg-name="Dazn Eventos 10" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_Eventos_10.png" group-title="Server 0⭐️",Dazn Eventos 10
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76014
-#EXTINF:-1 tvg-id="" tvg-name="LaLigaSportsTV 1" tvg-logo="http://psxbyzpicons.dedyn.io/picons/LaLigaSportsTVa1.png" group-title="Server 0⭐️",LaLigaSportsTV 1
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76015
-#EXTINF:-1 tvg-id="" tvg-name="LaLigaSportsTV 2" tvg-logo="http://psxbyzpicons.dedyn.io/picons/LaLigaSportsTVa2.png" group-title="Server 0⭐️",LaLigaSportsTV 2
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76016
-#EXTINF:-1 tvg-id="" tvg-name="LaLigaSportsTV 3" tvg-logo="http://psxbyzpicons.dedyn.io/picons/LaLigaSportsTVa3.png" group-title="Server 0⭐️",LaLigaSportsTV 3
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76017
-#EXTINF:-1 tvg-id="" tvg-name="LaLigaSportsTV 4" tvg-logo="http://psxbyzpicons.dedyn.io/picons/LaLigaSportsTVa4.png" group-title="Server 0⭐️",LaLigaSportsTV 4
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76018
-#EXTINF:-1 tvg-id="" tvg-name="LaLigaSportsTV 5" tvg-logo="http://psxbyzpicons.dedyn.io/picons/LaLigaSportsTVa5.png" group-title="Server 0⭐️",LaLigaSportsTV 5
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76019
-#EXTINF:-1 tvg-id="" tvg-name="LaLigaSportsTV 6" tvg-logo="http://psxbyzpicons.dedyn.io/picons/LaLigaSportsTVa6.png" group-title="Server 0⭐️",LaLigaSportsTV 6
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76020
-#EXTINF:-1 tvg-id="" tvg-name="LaLigaSportsTV 7" tvg-logo="http://psxbyzpicons.dedyn.io/picons/LaLigaSportsTVa7.png" group-title="Server 0⭐️",LaLigaSportsTV 7
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76021
-#EXTINF:-1 tvg-id="" tvg-name="LaLigaSportsTV 8" tvg-logo="http://psxbyzpicons.dedyn.io/picons/LaLigaSportsTVa8.png" group-title="Server 0⭐️",LaLigaSportsTV 8
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76022
-#EXTINF:-1 tvg-id="" tvg-name="LaLigaSportsTV 9" tvg-logo="http://psxbyzpicons.dedyn.io/picons/LaLigaSportsTVa9.png" group-title="Server 0⭐️",LaLigaSportsTV 9
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76023
-#EXTINF:-1 tvg-id="" tvg-name="LaLigaSportsTV 10" tvg-logo="http://psxbyzpicons.dedyn.io/picons/LaLigaSportsTVa10.png" group-title="Server 0⭐️",LaLigaSportsTV 10
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76024
-#EXTINF:-1 tvg-id="" tvg-name="LaLigaSportsTV 11" tvg-logo="http://psxbyzpicons.dedyn.io/picons/LaLigaSportsTVa11.png" group-title="Server 0⭐️",LaLigaSportsTV 11
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76025
-#EXTINF:-1 tvg-id="" tvg-name="LaLigaSportsTV 12" tvg-logo="http://psxbyzpicons.dedyn.io/picons/LaLigaSportsTVa12.png" group-title="Server 0⭐️",LaLigaSportsTV 12
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76026
-#EXTINF:-1 tvg-id="" tvg-name="LaLigaSportsTV 13" tvg-logo="http://psxbyzpicons.dedyn.io/picons/LaLigaSportsTVa13.png" group-title="Server 0⭐️",LaLigaSportsTV 13
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76027
-#EXTINF:-1 tvg-id="" tvg-name="LaLigaSportsTV 14" tvg-logo="http://psxbyzpicons.dedyn.io/picons/LaLigaSportsTVa14.png" group-title="Server 0⭐️",LaLigaSportsTV 14
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76028
-#EXTINF:-1 tvg-id="" tvg-name="LaLigaSportsTV 15" tvg-logo="http://psxbyzpicons.dedyn.io/picons/LaLigaSportsTVa15.png" group-title="Server 0⭐️",LaLigaSportsTV 15
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76029
-#EXTINF:-1 tvg-id="" tvg-name="LaLigaSportsTV 16" tvg-logo="http://psxbyzpicons.dedyn.io/picons/LaLigaSportsTVa16.png" group-title="Server 0⭐️",LaLigaSportsTV 16
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76030
-#EXTINF:-1 tvg-id="" tvg-name="LaLigaSportsTV 17" tvg-logo="http://psxbyzpicons.dedyn.io/picons/LaLigaSportsTVa17.png" group-title="Server 0⭐️",LaLigaSportsTV 17
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76031
-#EXTINF:-1 tvg-id="" tvg-name="LaLigaSportsTV 18" tvg-logo="http://psxbyzpicons.dedyn.io/picons/LaLigaSportsTVa18.png" group-title="Server 0⭐️",LaLigaSportsTV 18
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76032
-#EXTINF:-1 tvg-id="" tvg-name="LaLigaSportsTV 19" tvg-logo="http://psxbyzpicons.dedyn.io/picons/LaLigaSportsTVa19.png" group-title="Server 0⭐️",LaLigaSportsTV 19
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76033
-#EXTINF:-1 tvg-id="" tvg-name="LaLigaSportsTV 20" tvg-logo="http://psxbyzpicons.dedyn.io/picons/LaLigaSportsTVa20.png" group-title="Server 0⭐️",LaLigaSportsTV 20
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76034
-#EXTINF:-1 tvg-id="DAZN F1 UHD" tvg-name="DAZN F1  ( PRUEBAS )" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-f1-uk-es.png" group-title="Server 0⭐️",DAZN F1  ( PRUEBAS )
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/76378
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 1" tvg-logo="" group-title="Server 0⭐️",BEIN SPORT 1
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77101
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 3" tvg-logo="" group-title="Server 0⭐️",BEIN SPORT 3
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77108
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 2" tvg-logo="" group-title="Server 0⭐️",BEIN SPORT 2
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77109
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1 HD" tvg-logo="" group-title="Server 0⭐️",Eleven Sports 1 HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77110
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA LATINO" tvg-logo="" group-title="Server 0⭐️",LALIGA LATINO
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77111
-#EXTINF:-1 tvg-id="Eleven Sports 2 POR" tvg-name="Eleven Sports 2 HD" tvg-logo="" group-title="Server 0⭐️",Eleven Sports 2 HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77112
-#EXTINF:-1 tvg-id="Eleven Sports 3 POR" tvg-name="Eleven Sports 3 HD" tvg-logo="" group-title="Server 0⭐️",Eleven Sports 3 HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77113
-#EXTINF:-1 tvg-id="Eleven Sports 4 POR" tvg-name="Eleven Sports 4 HD" tvg-logo="" group-title="Server 0⭐️",Eleven Sports 4 HD
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77114
-#EXTINF:-1 tvg-id="Sport TV1 POR HD" tvg-name="Sport TV 1" tvg-logo="" group-title="Server 0⭐️",Sport TV 1
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77115
-#EXTINF:-1 tvg-id="Sport TV3 POR HD" tvg-name="Sport TV 2" tvg-logo="" group-title="Server 0⭐️",Sport TV 2
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77116
-#EXTINF:-1 tvg-id="Sport TV3 POR HD" tvg-name="Sport TV 3" tvg-logo="" group-title="Server 0⭐️",Sport TV 3
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77117
-#EXTINF:-1 tvg-id="Sport TV4 POR HD" tvg-name="Sport TV 4" tvg-logo="" group-title="Server 0⭐️",Sport TV 4
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77118
-#EXTINF:-1 tvg-id="Sport TV5 POR HD" tvg-name="Sport TV 5" tvg-logo="" group-title="Server 0⭐️",Sport TV 5
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77119
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1" tvg-logo="" group-title="Server 0⭐️",Arena Sport 1
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77122
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2" tvg-logo="" group-title="Server 0⭐️",Arena Sport 2
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77123
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3" tvg-logo="" group-title="Server 0⭐️",Arena Sport 3
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77124
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4" tvg-logo="" group-title="Server 0⭐️",Arena Sport 4
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/77125
-#EXTINF:-1 tvg-id="" tvg-name="Infinity+ 1" tvg-logo="" group-title="Server 0⭐️",Infinity+ 1
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82152
-#EXTINF:-1 tvg-id="" tvg-name="Infinity+ 2" tvg-logo="" group-title="Server 0⭐️",Infinity+ 2
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82153
-#EXTINF:-1 tvg-id="" tvg-name="SPORT CALCIO" tvg-logo="" group-title="Server 0⭐️",SPORT CALCIO
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82884
-#EXTINF:-1 tvg-id="" tvg-name="NFL" tvg-logo="" group-title="Server 0⭐️",NFL
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/126243
-#EXTINF:-1 tvg-id="Futsal TV 1 Masculino" tvg-name="Futsal TV 1" tvg-logo="http://psxbyzpicons.dedyn.io/picons/FUTSAL_TV_1.png" group-title="Server 0⭐️",Futsal TV 1
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82092
-#EXTINF:-1 tvg-id="Futsal TV 2 Masculino" tvg-name="Futsal TV 2" tvg-logo="http://psxbyzpicons.dedyn.io/picons/FUTSAL_TV_2.png" group-title="Server 0⭐️",Futsal TV 2
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82093
-#EXTINF:-1 tvg-id="Futsal TV 3 Masculino" tvg-name="Futsal TV 3" tvg-logo="http://psxbyzpicons.dedyn.io/picons/FUTSAL_TV_3.png" group-title="Server 0⭐️",Futsal TV 3
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82094
-#EXTINF:-1 tvg-id="Futsal TV 4 Masculino" tvg-name="Futsal TV 4" tvg-logo="http://psxbyzpicons.dedyn.io/picons/FUTSAL_TV_4.png" group-title="Server 0⭐️",Futsal TV 4
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82095
-#EXTINF:-1 tvg-id="Futsal TV 5 Masculino" tvg-name="Futsal TV 5" tvg-logo="http://psxbyzpicons.dedyn.io/picons/FUTSAL_TV_5.png" group-title="Server 0⭐️",Futsal TV 5
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82096
-#EXTINF:-1 tvg-id="Futsal TV 6 Masculino" tvg-name="Futsal TV 6" tvg-logo="http://psxbyzpicons.dedyn.io/picons/FUTSAL_TV_6.png" group-title="Server 0⭐️",Futsal TV 6
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82097
-#EXTINF:-1 tvg-id="Futsal TV 7 Masculino" tvg-name="Futsal TV 7" tvg-logo="http://psxbyzpicons.dedyn.io/picons/FUTSAL_TV_7.png" group-title="Server 0⭐️",Futsal TV 7
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82098
-#EXTINF:-1 tvg-id="Futsal TV 8 Masculino" tvg-name="Futsal TV 8" tvg-logo="http://psxbyzpicons.dedyn.io/picons/FUTSAL_TV_8.png" group-title="Server 0⭐️",Futsal TV 8
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82099
-#EXTINF:-1 tvg-id="Futsal TV 9 Masculino" tvg-name="Futsal TV 9" tvg-logo="http://psxbyzpicons.dedyn.io/picons/FUTSAL_TV_9.png" group-title="Server 0⭐️",Futsal TV 9
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82100
-#EXTINF:-1 tvg-id="Futsal TV 10 Masculino" tvg-name="Futsal TV 10" tvg-logo="http://psxbyzpicons.dedyn.io/picons/FUTSAL_TV_10.png" group-title="Server 0⭐️",Futsal TV 10
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82101
-#EXTINF:-1 tvg-id="" tvg-name="Futsal TV 11" tvg-logo="http://psxbyzpicons.dedyn.io/picons/FUTSAL_TV_11.png" group-title="Server 0⭐️",Futsal TV 11
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82102
-#EXTINF:-1 tvg-id="" tvg-name="Futsal TV 12" tvg-logo="http://psxbyzpicons.dedyn.io/picons/FUTSAL_TV_12.png" group-title="Server 0⭐️",Futsal TV 12
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82103
-#EXTINF:-1 tvg-id="" tvg-name="Futsal TV 13" tvg-logo="http://psxbyzpicons.dedyn.io/picons/FUTSAL_TV_13.png" group-title="Server 0⭐️",Futsal TV 13
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82104
-#EXTINF:-1 tvg-id="" tvg-name="Futsal TV 14" tvg-logo="http://psxbyzpicons.dedyn.io/picons/FUTSAL_TV_14.png" group-title="Server 0⭐️",Futsal TV 14
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82105
-#EXTINF:-1 tvg-id="" tvg-name="Futsal TV 15" tvg-logo="http://psxbyzpicons.dedyn.io/picons/FUTSAL_TV_15.png" group-title="Server 0⭐️",Futsal TV 15
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82106
-#EXTINF:-1 tvg-id="" tvg-name="Futsal TV 16" tvg-logo="http://psxbyzpicons.dedyn.io/picons/FUTSAL_TV_16.png" group-title="Server 0⭐️",Futsal TV 16
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82107
-#EXTINF:-1 tvg-id="" tvg-name="Futsal TV 17" tvg-logo="http://psxbyzpicons.dedyn.io/picons/FUTSAL_TV_17.png" group-title="Server 0⭐️",Futsal TV 17
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82108
-#EXTINF:-1 tvg-id="" tvg-name="Futsal TV 18" tvg-logo="http://psxbyzpicons.dedyn.io/picons/FUTSAL_TV_18.png" group-title="Server 0⭐️",Futsal TV 18
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82109
-#EXTINF:-1 tvg-id="" tvg-name="Futsal TV 19" tvg-logo="http://psxbyzpicons.dedyn.io/picons/FUTSAL_TV_19.png" group-title="Server 0⭐️",Futsal TV 19
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82110
-#EXTINF:-1 tvg-id="" tvg-name="Futsal TV 20" tvg-logo="http://psxbyzpicons.dedyn.io/picons/FUTSAL_TV_20.png" group-title="Server 0⭐️",Futsal TV 20
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82111
-#EXTINF:-1 tvg-id="" tvg-name="NFL Pass 1" tvg-logo="http://psxbyzpicons.dedyn.io/picons/NFL_game_pass.png" group-title="Server 0⭐️",NFL Pass 1
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82112
-#EXTINF:-1 tvg-id="" tvg-name="NFL Pass 2" tvg-logo="http://psxbyzpicons.dedyn.io/picons/NFL_game_pass.png" group-title="Server 0⭐️",NFL Pass 2
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82113
-#EXTINF:-1 tvg-id="" tvg-name="NFL Pass 3" tvg-logo="http://psxbyzpicons.dedyn.io/picons/NFL_game_pass.png" group-title="Server 0⭐️",NFL Pass 3
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82114
-#EXTINF:-1 tvg-id="" tvg-name="NFL Pass 4" tvg-logo="http://psxbyzpicons.dedyn.io/picons/NFL_game_pass.png" group-title="Server 0⭐️",NFL Pass 4
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82115
-#EXTINF:-1 tvg-id="" tvg-name="NFL Pass 5" tvg-logo="http://psxbyzpicons.dedyn.io/picons/NFL_game_pass.png" group-title="Server 0⭐️",NFL Pass 5
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82116
-#EXTINF:-1 tvg-id="" tvg-name="NFL Pass 6" tvg-logo="http://psxbyzpicons.dedyn.io/picons/NFL_game_pass.png" group-title="Server 0⭐️",NFL Pass 6
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82117
-#EXTINF:-1 tvg-id="" tvg-name="Dazn Eventos 11" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_Eventos_11.png" group-title="Server 0⭐️",Dazn Eventos 11
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82118
-#EXTINF:-1 tvg-id="" tvg-name="Dazn Eventos 12" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_Eventos_12.png" group-title="Server 0⭐️",Dazn Eventos 12
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82119
-#EXTINF:-1 tvg-id="" tvg-name="Dazn Eventos 13" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_Eventos_13.png" group-title="Server 0⭐️",Dazn Eventos 13
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82120
-#EXTINF:-1 tvg-id="" tvg-name="Dazn Eventos 14" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_Eventos_14.png" group-title="Server 0⭐️",Dazn Eventos 14
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82121
-#EXTINF:-1 tvg-id="" tvg-name="Dazn Eventos 15" tvg-logo="http://psxbyzpicons.dedyn.io/picons/Dazn_Eventos_15.png" group-title="Server 0⭐️",Dazn Eventos 15
-http://ftp.look-tv.eu:8880/primocazallas/primocazallas/82122
+#EXTINF:-1 tvg-id="tveinteu.es" tvg-name="TVE INTERNACIONAL" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TVE_INTERNACIONAL.png" group-title="Server 0⭐️",TVE INTERNACIONAL
+http://sansat.net:88/02000650970977/02000650970977/127660
+#EXTINF:-1 tvg-id="tveinteu.es" tvg-name="TVE INTERNACIONAL" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TVE_INTERNACIONAL.png" group-title="Server 0⭐️",TVE INTERNACIONAL
+http://sansat.net:88/02000650970977/02000650970977/127636
+#EXTINF:-1 tvg-id="la1.es" tvg-name="LA 1" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/LA_1_HD.png" group-title="Server 0⭐️",LA 1
+http://sansat.net:88/02000650970977/02000650970977/127661
+#EXTINF:-1 tvg-id="la1.es" tvg-name="LA 1" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/LA_1_HD.png" group-title="Server 0⭐️",LA 1
+http://sansat.net:88/02000650970977/02000650970977/127637
+#EXTINF:-1 tvg-id="la2.es" tvg-name="LA 2" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/LA2.png" group-title="Server 0⭐️",LA 2
+http://sansat.net:88/02000650970977/02000650970977/127662
+#EXTINF:-1 tvg-id="la2.es" tvg-name="LA 2" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/LA2.png" group-title="Server 0⭐️",LA 2
+http://sansat.net:88/02000650970977/02000650970977/127638
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="24 HORAS" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/24_HORAS.png" group-title="Server 0⭐️",24 HORAS
+http://sansat.net:88/02000650970977/02000650970977/127663
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="24 HORAS" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/24H.png" group-title="Server 0⭐️",24 HORAS
+http://sansat.net:88/02000650970977/02000650970977/127639
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="ANTENA 3" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ANTENA_3_HD.png" group-title="Server 0⭐️",ANTENA 3
+http://sansat.net:88/02000650970977/02000650970977/127664
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="ANTENA 3" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ANTENA_3_HD.png" group-title="Server 0⭐️",ANTENA 3
+http://sansat.net:88/02000650970977/02000650970977/127640
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="CUATRO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CUATRO_HD.png" group-title="Server 0⭐️",CUATRO
+http://sansat.net:88/02000650970977/02000650970977/127665
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="CUATRO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CUATRO_HD.png" group-title="Server 0⭐️",CUATRO
+http://sansat.net:88/02000650970977/02000650970977/127641
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="TELECINCO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TELECINCO_HD.png" group-title="Server 0⭐️",TELECINCO
+http://sansat.net:88/02000650970977/02000650970977/127666
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="TELECINCO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TELECINCO_HD.png" group-title="Server 0⭐️",TELECINCO
+http://sansat.net:88/02000650970977/02000650970977/127642
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="LA SEXTA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/LA_SEXTA_HD.png" group-title="Server 0⭐️",LA SEXTA
+http://sansat.net:88/02000650970977/02000650970977/127667
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="LA SEXTA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/LA_SEXTA_HD.png" group-title="Server 0⭐️",LA SEXTA
+http://sansat.net:88/02000650970977/02000650970977/127643
+#EXTINF:-1 tvg-id="mega.es" tvg-name="MEGA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/MEGA.png" group-title="Server 0⭐️",MEGA
+http://sansat.net:88/02000650970977/02000650970977/127668
+#EXTINF:-1 tvg-id="mega.es" tvg-name="MEGA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/MEGA.png" group-title="Server 0⭐️",MEGA
+http://sansat.net:88/02000650970977/02000650970977/127644
+#EXTINF:-1 tvg-id="tvgalicia.es" tvg-name="TV GALICIA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TVGA HD.png" group-title="Server 0⭐️",TV GALICIA
+http://sansat.net:88/02000650970977/02000650970977/127645
+#EXTINF:-1 tvg-id="clantve.es" tvg-name="CLAN TVE" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CLAN_TVE.png" group-title="Server 0⭐️",CLAN TVE
+http://sansat.net:88/02000650970977/02000650970977/127670
+#EXTINF:-1 tvg-id="clantve.es" tvg-name="CLAN TVE" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CLAN_TVE.png" group-title="Server 0⭐️",CLAN TVE
+http://sansat.net:88/02000650970977/02000650970977/127646
+#EXTINF:-1 tvg-id="nova.es" tvg-name="NOVA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/NOVA.png" group-title="Server 0⭐️",NOVA
+http://sansat.net:88/02000650970977/02000650970977/127671
+#EXTINF:-1 tvg-id="nova.es" tvg-name="NOVA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/NOVA.png" group-title="Server 0⭐️",NOVA
+http://sansat.net:88/02000650970977/02000650970977/127647
+#EXTINF:-1 tvg-id="neox.es" tvg-name="NEOX" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/NEOX.png" group-title="Server 0⭐️",NEOX
+http://sansat.net:88/02000650970977/02000650970977/127672
+#EXTINF:-1 tvg-id="neox.es" tvg-name="NEOX" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/NEOX.png" group-title="Server 0⭐️",NEOX
+http://sansat.net:88/02000650970977/02000650970977/127648
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="#VAMOS HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/.VAMOSHD.png" group-title="Server 0⭐️",#VAMOS HD
+http://sansat.net:88/02000650970977/02000650970977/144174
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="#VAMOS HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/.VAMOSHD.png" group-title="Server 0⭐️",#VAMOS HD
+http://sansat.net:88/02000650970977/02000650970977/144173
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="CANAL 24 HORAS" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/24H.png" group-title="Server 0⭐️",CANAL 24 HORAS
+http://sansat.net:88/02000650970977/02000650970977/127651
+#EXTINF:-1 tvg-id="canalsur.es" tvg-name="CANAL SUR A." tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CANAL_SUR_A..png" group-title="Server 0⭐️",CANAL SUR A.
+http://sansat.net:88/02000650970977/02000650970977/127673
+#EXTINF:-1 tvg-id="canalsurandalucia.es" tvg-name="CANAL SUR A." tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CANAL_SUR_A..png" group-title="Server 0⭐️",CANAL SUR A.
+http://sansat.net:88/02000650970977/02000650970977/127653
+#EXTINF:-1 tvg-id="xtrm.es" tvg-name="EXTRAMADURA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" group-title="Server 0⭐️",EXTRAMADURA
+http://sansat.net:88/02000650970977/02000650970977/127654
+#EXTINF:-1 tvg-id="aragontvint.es" tvg-name="ARAGON TV INT" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ARAGON " group-title="Server 0⭐️",ARAGON TV INT
+http://sansat.net:88/02000650970977/02000650970977/127657
+#EXTINF:-1 tvg-id="13tv.es" tvg-name="TRECE" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TRECE.png" group-title="Server 0⭐️",TRECE
+http://sansat.net:88/02000650970977/02000650970977/127658
+#EXTINF:-1 tvg-id="ext" tvg-name="DARK" tvg-logo="" group-title="Server 0⭐️",DARK
+http://sansat.net:88/02000650970977/02000650970977/194252
+#EXTINF:-1 tvg-id="ext" tvg-name="DARK" tvg-logo="" group-title="Server 0⭐️",DARK
+http://sansat.net:88/02000650970977/02000650970977/194246
+#EXTINF:-1 tvg-id="ext" tvg-name="UBEAT" tvg-logo="" group-title="Server 0⭐️",UBEAT
+http://sansat.net:88/02000650970977/02000650970977/194247
+#EXTINF:-1 tvg-id="ext" tvg-name="TV GALICIA" tvg-logo="" group-title="Server 0⭐️",TV GALICIA
+http://sansat.net:88/02000650970977/02000650970977/194253
+#EXTINF:-1 tvg-id="ext" tvg-name="TV GALICIA" tvg-logo="" group-title="Server 0⭐️",TV GALICIA
+http://sansat.net:88/02000650970977/02000650970977/194248
+#EXTINF:-1 tvg-id="ext" tvg-name="TELEMADRID" tvg-logo="" group-title="Server 0⭐️",TELEMADRID
+http://sansat.net:88/02000650970977/02000650970977/194249
+#EXTINF:-1 tvg-id="ext" tvg-name="TELEMADRID FHD" tvg-logo="" group-title="Server 0⭐️",TELEMADRID FHD
+http://sansat.net:88/02000650970977/02000650970977/194254
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL EXTREMADURA SAT" tvg-logo="" group-title="Server 0⭐️",CANAL EXTREMADURA SAT
+http://sansat.net:88/02000650970977/02000650970977/194250
+#EXTINF:-1 tvg-id="ext" tvg-name="TV3" tvg-logo="" group-title="Server 0⭐️",TV3
+http://sansat.net:88/02000650970977/02000650970977/194251
+#EXTINF:-1 tvg-id="blaze.es" tvg-name="BLAZE" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/BLAZE.png" group-title="Server 0⭐️",BLAZE
+http://sansat.net:88/02000650970977/02000650970977/181634
+#EXTINF:-1 tvg-id="blaze.es" tvg-name="BLAZE" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/BLAZE.png" group-title="Server 0⭐️",BLAZE
+http://sansat.net:88/02000650970977/02000650970977/181633
+#EXTINF:-1 tvg-id="toros.es" tvg-name="TOROS" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TOROS_HD.png" group-title="Server 0⭐️",TOROS
+http://sansat.net:88/02000650970977/02000650970977/127766
+#EXTINF:-1 tvg-id="toros.es" tvg-name="TOROS" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TOROS_HD.png" group-title="Server 0⭐️",TOROS
+http://sansat.net:88/02000650970977/02000650970977/127752
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="CANAL ODISEA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CANAL_ODISEA.png" group-title="Server 0⭐️",CANAL ODISEA
+http://sansat.net:88/02000650970977/02000650970977/127767
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="CANAL ODISEA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CANAL_ODISEA.png" group-title="Server 0⭐️",CANAL ODISEA
+http://sansat.net:88/02000650970977/02000650970977/127753
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DISCOVERY.png" group-title="Server 0⭐️",DISCOVERY CHANNEL
+http://sansat.net:88/02000650970977/02000650970977/127768
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DISCOVERY.png" group-title="Server 0⭐️",DISCOVERY CHANNEL
+http://sansat.net:88/02000650970977/02000650970977/127754
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY CRIME INVESTIGATION" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CRIMEN+INVES.png" group-title="Server 0⭐️",DISCOVERY CRIME INVESTIGATION
+http://sansat.net:88/02000650970977/02000650970977/127769
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY CRIME INVESTIGATION" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CRIMEN+INVES.png" group-title="Server 0⭐️",DISCOVERY CRIME INVESTIGATION
+http://sansat.net:88/02000650970977/02000650970977/127755
+#EXTINF:-1 tvg-id="dmax.es" tvg-name="DMAX" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DMAX.png" group-title="Server 0⭐️",DMAX
+http://sansat.net:88/02000650970977/02000650970977/127770
+#EXTINF:-1 tvg-id="dmax.es" tvg-name="DMAX" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DMAX.png" group-title="Server 0⭐️",DMAX
+http://sansat.net:88/02000650970977/02000650970977/127756
+#EXTINF:-1 tvg-id="dkiss.es" tvg-name="DKISS" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DKISS.png" group-title="Server 0⭐️",DKISS
+http://sansat.net:88/02000650970977/02000650970977/127757
+#EXTINF:-1 tvg-id="historia.es" tvg-name="HISTORIA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/HISTORIA.png" group-title="Server 0⭐️",HISTORIA
+http://sansat.net:88/02000650970977/02000650970977/127772
+#EXTINF:-1 tvg-id="historia.es" tvg-name="HISTORIA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/HISTORIA.png" group-title="Server 0⭐️",HISTORIA
+http://sansat.net:88/02000650970977/02000650970977/127758
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="NAT GEOGRAPHIC" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/NAT_GEO_HD.png" group-title="Server 0⭐️",NAT GEOGRAPHIC
+http://sansat.net:88/02000650970977/02000650970977/127773
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="NAT GEOGRAPHIC" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/NAT_GEO_HD.png" group-title="Server 0⭐️",NAT GEOGRAPHIC
+http://sansat.net:88/02000650970977/02000650970977/127759
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="NAT GEO WILD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/NG_WILD_HD.png" group-title="Server 0⭐️",NAT GEO WILD
+http://sansat.net:88/02000650970977/02000650970977/127774
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="NAT GEO WILD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/NG_WILD_HD.png" group-title="Server 0⭐️",NAT GEO WILD
+http://sansat.net:88/02000650970977/02000650970977/127760
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="CAZA Y PESCA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CAZAyPESCA_HD.png" group-title="Server 0⭐️",CAZA Y PESCA
+http://sansat.net:88/02000650970977/02000650970977/127775
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="CAZA & PESCA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CAZAyPESCA_HD.png" group-title="Server 0⭐️",CAZA & PESCA
+http://sansat.net:88/02000650970977/02000650970977/127761
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="CANAL COCINA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CANAL_COCINA.png" group-title="Server 0⭐️",CANAL COCINA
+http://sansat.net:88/02000650970977/02000650970977/127777
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="CANAL COCINA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CANAL_COCINA.png" group-title="Server 0⭐️",CANAL COCINA
+http://sansat.net:88/02000650970977/02000650970977/127763
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="M. SERIES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.SERIES_HD.png" group-title="Server 0⭐️",M. SERIES
+http://sansat.net:88/02000650970977/02000650970977/127719
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="M. SERIES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.SERIES_HD.png" group-title="Server 0⭐️",M. SERIES
+http://sansat.net:88/02000650970977/02000650970977/127699
+#EXTINF:-1 tvg-id="ext" tvg-name="M. SERIESMANIA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.Seriesmania_HD.png" group-title="Server 0⭐️",M. SERIESMANIA
+http://sansat.net:88/02000650970977/02000650970977/127720
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/COMEDY_CENTRAL.png" group-title="Server 0⭐️",COMEDY CENTRAL HD
+http://sansat.net:88/02000650970977/02000650970977/127700
+#EXTINF:-1 tvg-id="fox.es" tvg-name="FOX" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/FOX_HD.png" group-title="Server 0⭐️",FOX
+http://sansat.net:88/02000650970977/02000650970977/127721
+#EXTINF:-1 tvg-id="fox.es" tvg-name="FOX" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/FOX_HD.png" group-title="Server 0⭐️",FOX
+http://sansat.net:88/02000650970977/02000650970977/127701
+#EXTINF:-1 tvg-id="axn.es" tvg-name="AXN" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/AXN_HD.png" group-title="Server 0⭐️",AXN
+http://sansat.net:88/02000650970977/02000650970977/127723
+#EXTINF:-1 tvg-id="axn.es" tvg-name="AXN" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/AXN_HD.png" group-title="Server 0⭐️",AXN
+http://sansat.net:88/02000650970977/02000650970977/127703
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="AXN WHITE" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/AXN_WHITE_HD.png" group-title="Server 0⭐️",AXN WHITE
+http://sansat.net:88/02000650970977/02000650970977/127724
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="AXN WHITE" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/AXN_WHITE_HD.png" group-title="Server 0⭐️",AXN WHITE
+http://sansat.net:88/02000650970977/02000650970977/127704
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="SYFY" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/SYFY_HD.png" group-title="Server 0⭐️",SYFY
+http://sansat.net:88/02000650970977/02000650970977/127725
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="SYFY" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/SYFY_HD.png" group-title="Server 0⭐️",SYFY
+http://sansat.net:88/02000650970977/02000650970977/127705
+#EXTINF:-1 tvg-id="sundance.es" tvg-name="SUNDANCE" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/SUNDANCE_TV.png" group-title="Server 0⭐️",SUNDANCE
+http://sansat.net:88/02000650970977/02000650970977/127726
+#EXTINF:-1 tvg-id="sundance.es" tvg-name="SUNDANCE" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/SUNDANCE_TV.png" group-title="Server 0⭐️",SUNDANCE
+http://sansat.net:88/02000650970977/02000650970977/127706
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="CALLE 13" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CALLE_13_HD.png" group-title="Server 0⭐️",CALLE 13
+http://sansat.net:88/02000650970977/02000650970977/127727
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="CALLE 13" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CALLE_13_HD.png" group-title="Server 0⭐️",CALLE 13
+http://sansat.net:88/02000650970977/02000650970977/127707
+#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="IBERALIA TV" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/IBERALIA_TV.png" group-title="Server 0⭐️",IBERALIA TV
+http://sansat.net:88/02000650970977/02000650970977/127728
+#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="IBERALIA TV" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/IBERALIA_TV.png" group-title="Server 0⭐️",IBERALIA TV
+http://sansat.net:88/02000650970977/02000650970977/127708
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="CANAL DE CASA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CANAL_DECASA.png" group-title="Server 0⭐️",CANAL DE CASA
+http://sansat.net:88/02000650970977/02000650970977/127729
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="CANAL DE CASA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CANAL_DECASA.png" group-title="Server 0⭐️",CANAL DE CASA
+http://sansat.net:88/02000650970977/02000650970977/127709
+#EXTINF:-1 tvg-id="amc.es" tvg-name="AMC" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/AMC_HD.png" group-title="Server 0⭐️",AMC
+http://sansat.net:88/02000650970977/02000650970977/127730
+#EXTINF:-1 tvg-id="amc.es" tvg-name="AMC" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/AMC_HD.png" group-title="Server 0⭐️",AMC
+http://sansat.net:88/02000650970977/02000650970977/127710
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name="COSMO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/COSMO_HD.png" group-title="Server 0⭐️",COSMO
+http://sansat.net:88/02000650970977/02000650970977/127731
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name="COSMO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/COSMO_HD.png" group-title="Server 0⭐️",COSMO
+http://sansat.net:88/02000650970977/02000650970977/127711
+#EXTINF:-1 tvg-id="energy.es" tvg-name="ENERGY" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ENERGY.png" group-title="Server 0⭐️",ENERGY
+http://sansat.net:88/02000650970977/02000650970977/127732
+#EXTINF:-1 tvg-id="energy.es" tvg-name="ENERGY" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ENERGY.png" group-title="Server 0⭐️",ENERGY
+http://sansat.net:88/02000650970977/02000650970977/127712
+#EXTINF:-1 tvg-id="ext" tvg-name="FDF" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/FDF.png" group-title="Server 0⭐️",FDF
+http://sansat.net:88/02000650970977/02000650970977/127733
+#EXTINF:-1 tvg-id="ext" tvg-name="FDF" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/FDF.png" group-title="Server 0⭐️",FDF
+http://sansat.net:88/02000650970977/02000650970977/127713
+#EXTINF:-1 tvg-id="bemad.es" tvg-name="BE MAD TV" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/BE_MAD.png" group-title="Server 0⭐️",BE MAD TV
+http://sansat.net:88/02000650970977/02000650970977/127734
+#EXTINF:-1 tvg-id="bemad.es" tvg-name="BE MAD TV" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/BE_MAD.png" group-title="Server 0⭐️",BE MAD TV
+http://sansat.net:88/02000650970977/02000650970977/127714
+#EXTINF:-1 tvg-id="divinity.es" tvg-name="DIVINITY" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DIVINITY.png" group-title="Server 0⭐️",DIVINITY
+http://sansat.net:88/02000650970977/02000650970977/127735
+#EXTINF:-1 tvg-id="divinity.es" tvg-name="DIVINITY" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DIVINITY.png" group-title="Server 0⭐️",DIVINITY
+http://sansat.net:88/02000650970977/02000650970977/127715
+#EXTINF:-1 tvg-id="xtrm.es" tvg-name="XTRM" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" group-title="Server 0⭐️",XTRM
+http://sansat.net:88/02000650970977/02000650970977/127736
+#EXTINF:-1 tvg-id="xtrm.es" tvg-name="XTRM" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" group-title="Server 0⭐️",XTRM
+http://sansat.net:88/02000650970977/02000650970977/127716
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="M. Cine" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" group-title="Server 0⭐️",M. Cine
+http://sansat.net:88/02000650970977/02000650970977/127687
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="M. Cine" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" group-title="Server 0⭐️",M. Cine
+http://sansat.net:88/02000650970977/02000650970977/127676
+#EXTINF:-1 tvg-id="movistarestrenos2.es" tvg-name="M.ESTRENOS 2 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/M+_ESTRENOS_2_HD.png" group-title="Server 0⭐️",M.ESTRENOS 2 HD
+http://sansat.net:88/02000650970977/02000650970977/164749
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M. ACCION" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M._ACCION_HD.png" group-title="Server 0⭐️",M. ACCION
+http://sansat.net:88/02000650970977/02000650970977/127688
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M. ACCION" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M._ACCION_HD.png" group-title="Server 0⭐️",M. ACCION
+http://sansat.net:88/02000650970977/02000650970977/127677
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="M. COMEDIA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.COMEDIA_HD.png" group-title="Server 0⭐️",M. COMEDIA
+http://sansat.net:88/02000650970977/02000650970977/127689
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="M. COMEDIA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.COMEDIA_HD.png" group-title="Server 0⭐️",M. COMEDIA
+http://sansat.net:88/02000650970977/02000650970977/127678
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="M. DRAMA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.DRAMA_HD.png" group-title="Server 0⭐️",M. DRAMA
+http://sansat.net:88/02000650970977/02000650970977/127690
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="M. DRAMA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.DRAMA_HD.png" group-title="Server 0⭐️",M. DRAMA
+http://sansat.net:88/02000650970977/02000650970977/127679
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M. CINE ESPANOL" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.Cine_Espanol.png" group-title="Server 0⭐️",M. CINE ESPANOL
+http://sansat.net:88/02000650970977/02000650970977/127691
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M. CINE ESPANOL" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.Cine_Espanol.png" group-title="Server 0⭐️",M. CINE ESPANOL
+http://sansat.net:88/02000650970977/02000650970977/127680
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="HOLLYWOOD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/HOLLYWOODHD.png" group-title="Server 0⭐️",HOLLYWOOD
+http://sansat.net:88/02000650970977/02000650970977/127693
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="HOLLYWOOD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/HOLLYWOODHD.png" group-title="Server 0⭐️",HOLLYWOOD
+http://sansat.net:88/02000650970977/02000650970977/127682
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="TCM" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TCM_HD.png" group-title="Server 0⭐️",TCM
+http://sansat.net:88/02000650970977/02000650970977/127694
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="TCM" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TCM_HD.png" group-title="Server 0⭐️",TCM
+http://sansat.net:88/02000650970977/02000650970977/127683
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="TNT" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TNT_HD.png" group-title="Server 0⭐️",TNT
+http://sansat.net:88/02000650970977/02000650970977/127695
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="TNT" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TNT_HD.png" group-title="Server 0⭐️",TNT
+http://sansat.net:88/02000650970977/02000650970977/127684
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/PARAMOUNT.png" group-title="Server 0⭐️",PARAMOUNT CHANNEL
+http://sansat.net:88/02000650970977/02000650970977/127696
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/PARAMOUNT.png" group-title="Server 0⭐️",PARAMOUNT CHANNEL
+http://sansat.net:88/02000650970977/02000650970977/127685
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="M.SERIES 2 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/M+_SERIES_2_HD.png" group-title="Server 0⭐️",M.SERIES 2 HD
+http://sansat.net:88/02000650970977/02000650970977/164751
+#EXTINF:-1 tvg-id="ext" tvg-name="M.RESISTENCIA HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/M+_La_Resistencia.png" group-title="Server 0⭐️",M.RESISTENCIA HD
+http://sansat.net:88/02000650970977/02000650970977/164752
+#EXTINF:-1 tvg-id="ext" tvg-name="MOVISTAR BOM CINE" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/M+Cine_Español.png" group-title="Server 0⭐️",MOVISTAR BOM CINE
+http://sansat.net:88/02000650970977/02000650970977/182510
+#EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="MOVISTAR CRIMEN" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/M+_CRIMEN.png" group-title="Server 0⭐️",MOVISTAR CRIMEN
+http://sansat.net:88/02000650970977/02000650970977/182511
+#EXTINF:-1 tvg-id="somos.es" tvg-name="SOMOS HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/" group-title="Server 0⭐️",SOMOS HD
+http://sansat.net:88/02000650970977/02000650970977/164750
+#EXTINF:-1 tvg-id="somos.es" tvg-name="SOMOS HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/" group-title="Server 0⭐️",SOMOS HD
+http://sansat.net:88/02000650970977/02000650970977/164753
+#EXTINF:-1 tvg-id="ext" tvg-name="CINE 1 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/" group-title="Server 0⭐️",CINE 1 HD
+http://sansat.net:88/02000650970977/02000650970977/393741
+#EXTINF:-1 tvg-id="ext" tvg-name="CINE 2 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/" group-title="Server 0⭐️",CINE 2 HD
+http://sansat.net:88/02000650970977/02000650970977/393742
+#EXTINF:-1 tvg-id="ext" tvg-name="CINE 3 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/" group-title="Server 0⭐️",CINE 3 HD
+http://sansat.net:88/02000650970977/02000650970977/393743
+#EXTINF:-1 tvg-id="ext" tvg-name="CINE 4 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/" group-title="Server 0⭐️",CINE 4 HD
+http://sansat.net:88/02000650970977/02000650970977/393744
+#EXTINF:-1 tvg-id="ext" tvg-name="CINE 5 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/" group-title="Server 0⭐️",CINE 5 HD
+http://sansat.net:88/02000650970977/02000650970977/393745
+#EXTINF:-1 tvg-id="ext" tvg-name="CINE 6 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/" group-title="Server 0⭐️",CINE 6 HD
+http://sansat.net:88/02000650970977/02000650970977/393746
+#EXTINF:-1 tvg-id="ext" tvg-name="CINE 7 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/" group-title="Server 0⭐️",CINE 7 HD
+http://sansat.net:88/02000650970977/02000650970977/393747
+#EXTINF:-1 tvg-id="ext" tvg-name="CINE 8 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/" group-title="Server 0⭐️",CINE 8 HD
+http://sansat.net:88/02000650970977/02000650970977/393748
+#EXTINF:-1 tvg-id="ext" tvg-name="CINE 9 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/" group-title="Server 0⭐️",CINE 9 HD
+http://sansat.net:88/02000650970977/02000650970977/393749
+#EXTINF:-1 tvg-id="ext" tvg-name="CINE 10 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/" group-title="Server 0⭐️",CINE 10 HD
+http://sansat.net:88/02000650970977/02000650970977/393750
+#EXTINF:-1 tvg-id="ext" tvg-name="CINE 11 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/" group-title="Server 0⭐️",CINE 11 HD
+http://sansat.net:88/02000650970977/02000650970977/393751
+#EXTINF:-1 tvg-id="ext" tvg-name="CINE 12 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/" group-title="Server 0⭐️",CINE 12 HD
+http://sansat.net:88/02000650970977/02000650970977/393752
+#EXTINF:-1 tvg-id="ext" tvg-name="CINE 13 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/" group-title="Server 0⭐️",CINE 13 HD
+http://sansat.net:88/02000650970977/02000650970977/393753
+#EXTINF:-1 tvg-id="ext" tvg-name="CINE 14 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/" group-title="Server 0⭐️",CINE 14 HD
+http://sansat.net:88/02000650970977/02000650970977/393754
+#EXTINF:-1 tvg-id="ext" tvg-name="CINE 15 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/" group-title="Server 0⭐️",CINE 15 HD
+http://sansat.net:88/02000650970977/02000650970977/393755
+#EXTINF:-1 tvg-id="ext" tvg-name="CINE 16 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/" group-title="Server 0⭐️",CINE 16 HD
+http://sansat.net:88/02000650970977/02000650970977/393756
+#EXTINF:-1 tvg-id="ext" tvg-name="CINE 17 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/" group-title="Server 0⭐️",CINE 17 HD
+http://sansat.net:88/02000650970977/02000650970977/393757
+#EXTINF:-1 tvg-id="ext" tvg-name="CINE 18 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/" group-title="Server 0⭐️",CINE 18 HD
+http://sansat.net:88/02000650970977/02000650970977/393758
+#EXTINF:-1 tvg-id="ext" tvg-name="NETFLIX CINE HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/" group-title="Server 0⭐️",NETFLIX CINE HD
+http://sansat.net:88/02000650970977/02000650970977/393759
+#EXTINF:-1 tvg-id="ext" tvg-name="NETFLIX CINE + HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/" group-title="Server 0⭐️",NETFLIX CINE + HD
+http://sansat.net:88/02000650970977/02000650970977/393760
+#EXTINF:-1 tvg-id="ext" tvg-name="NETFLIX Películas HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/" group-title="Server 0⭐️",NETFLIX Películas HD
+http://sansat.net:88/02000650970977/02000650970977/393761
+#EXTINF:-1 tvg-id="ext" tvg-name="NETFLIX Español HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/" group-title="Server 0⭐️",NETFLIX Español HD
+http://sansat.net:88/02000650970977/02000650970977/393762
+#EXTINF:-1 tvg-id="ext" tvg-name="NETFLIX Television HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/" group-title="Server 0⭐️",NETFLIX Television HD
+http://sansat.net:88/02000650970977/02000650970977/393763
+#EXTINF:-1 tvg-id="ext" tvg-name="NETFLIX Historia HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/" group-title="Server 0⭐️",NETFLIX Historia HD
+http://sansat.net:88/02000650970977/02000650970977/393764
+#EXTINF:-1 tvg-id="ext" tvg-name="NETFLIX Sci-Fi HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/" group-title="Server 0⭐️",NETFLIX Sci-Fi HD
+http://sansat.net:88/02000650970977/02000650970977/393765
+#EXTINF:-1 tvg-id="ext" tvg-name="NETFLIX DRAMA HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/" group-title="Server 0⭐️",NETFLIX DRAMA HD
+http://sansat.net:88/02000650970977/02000650970977/393766
+#EXTINF:-1 tvg-id="ext" tvg-name="NETFLIX Ninos HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/" group-title="Server 0⭐️",NETFLIX Ninos HD
+http://sansat.net:88/02000650970977/02000650970977/393767
+#EXTINF:-1 tvg-id="Movistar Disney ES" tvg-name="M. DISNEY" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DISNEY_CH..png" group-title="Server 0⭐️",M. DISNEY
+http://sansat.net:88/02000650970977/02000650970977/127780
+#EXTINF:-1 tvg-id="boing.es" tvg-name="BOING " tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/BOING.png" group-title="Server 0⭐️",BOING 
+http://sansat.net:88/02000650970977/02000650970977/127793
+#EXTINF:-1 tvg-id="boing.es" tvg-name="BOING" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/BOING.png" group-title="Server 0⭐️",BOING
+http://sansat.net:88/02000650970977/02000650970977/127781
+#EXTINF:-1 tvg-id="canalpanda.es" tvg-name="CANAL PANDA " tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CANAL_PANDA.png" group-title="Server 0⭐️",CANAL PANDA 
+http://sansat.net:88/02000650970977/02000650970977/127794
+#EXTINF:-1 tvg-id="canalpanda.es" tvg-name="CANAL PANDA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CANAL_PANDA.png" group-title="Server 0⭐️",CANAL PANDA
+http://sansat.net:88/02000650970977/02000650970977/127782
+#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="DISNEY CH " tvg-logo="http://vodkom.com:25461/Logo/NEW/Disney_Channel.png" group-title="Server 0⭐️",DISNEY CH 
+http://sansat.net:88/02000650970977/02000650970977/127795
+#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="DISNEY CHANNEL" tvg-logo="http://vodkom.com:25461/Logo/NEW/Disney_Channel.png" group-title="Server 0⭐️",DISNEY CHANNEL
+http://sansat.net:88/02000650970977/02000650970977/127783
+#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="DISNEY JR " tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DISNEY_JR.png" group-title="Server 0⭐️",DISNEY JR 
+http://sansat.net:88/02000650970977/02000650970977/127796
+#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="DISNEY JR" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DISNEY_JR.png" group-title="Server 0⭐️",DISNEY JR
+http://sansat.net:88/02000650970977/02000650970977/127784
+#EXTINF:-1 tvg-id="babytv.es" tvg-name="BABY TV " tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/BabyTV.png" group-title="Server 0⭐️",BABY TV 
+http://sansat.net:88/02000650970977/02000650970977/127792
+#EXTINF:-1 tvg-id="babytv.es" tvg-name="BABY TV " tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/BabyTV.png" group-title="Server 0⭐️",BABY TV 
+http://sansat.net:88/02000650970977/02000650970977/127786
+#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="NICKELODEON" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/NICKELODEONHD.png" group-title="Server 0⭐️",NICKELODEON
+http://sansat.net:88/02000650970977/02000650970977/127800
+#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="NICKELODEON" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/NICKELODEONHD.png" group-title="Server 0⭐️",NICKELODEON
+http://sansat.net:88/02000650970977/02000650970977/127787
+#EXTINF:-1 tvg-id="nickjr.es" tvg-name="NICK JR " tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/NICK_JR.png" group-title="Server 0⭐️",NICK JR 
+http://sansat.net:88/02000650970977/02000650970977/127798
+#EXTINF:-1 tvg-id="nickjr.es" tvg-name="NICK JR" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/NICK_JR.png" group-title="Server 0⭐️",NICK JR
+http://sansat.net:88/02000650970977/02000650970977/127788
+#EXTINF:-1 tvg-id="dreamworks.es" tvg-name="DREAMWORKS" tvg-logo="http://vodkom.com:25461/Logo/NEW/DreamWorks_HD.png" group-title="Server 0⭐️",DREAMWORKS
+http://sansat.net:88/02000650970977/02000650970977/127797
+#EXTINF:-1 tvg-id="dreamworks.es" tvg-name="DREAMWORKS" tvg-logo="http://vodkom.com:25461/Logo/NEW/DreamWorks.png" group-title="Server 0⭐️",DREAMWORKS
+http://sansat.net:88/02000650970977/02000650970977/127790
+#EXTINF:-1 tvg-id="alquiler1.es" tvg-name="DAZN 1" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DAZN_1_HD.png" group-title="Server 0⭐️",DAZN 1
+http://sansat.net:88/02000650970977/02000650970977/127832
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="DAZN 1" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DAZN_1_HD.png" group-title="Server 0⭐️",DAZN 1
+http://sansat.net:88/02000650970977/02000650970977/127815
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 1 HD Backup" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DAZN_1_HD.png" group-title="Server 0⭐️",DAZN 1 HD Backup
+http://sansat.net:88/02000650970977/02000650970977/393078
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="DAZN 2" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DAZN_2_HD.png" group-title="Server 0⭐️",DAZN 2
+http://sansat.net:88/02000650970977/02000650970977/127833
+#EXTINF:-1 tvg-id="dazn3.es" tvg-name="DAZN 3" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DAZN_3_HD.png" group-title="Server 0⭐️",DAZN 3
+http://sansat.net:88/02000650970977/02000650970977/127834
+#EXTINF:-1 tvg-id="dazn4.es" tvg-name="DAZN 4" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DAZN_4_HD.png" group-title="Server 0⭐️",DAZN 4
+http://sansat.net:88/02000650970977/02000650970977/127835
+#EXTINF:-1 tvg-id="daznf14k.es" tvg-name="DAZN F1" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DAZN_F1_HD.png" group-title="Server 0⭐️",DAZN F1
+http://sansat.net:88/02000650970977/02000650970977/127836
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN F1 ESPAÑA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DAZN_F1_HD.png" group-title="Server 0⭐️",DAZN F1 ESPAÑA
+http://sansat.net:88/02000650970977/02000650970977/194262
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN F1 ESPAÑA HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DAZN_F1_HD.png" group-title="Server 0⭐️",DAZN F1 ESPAÑA HD
+http://sansat.net:88/02000650970977/02000650970977/260109
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN F1 ESPAÑA 4K" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DAZN_F1_HD.png" group-title="Server 0⭐️",DAZN F1 ESPAÑA 4K
+http://sansat.net:88/02000650970977/02000650970977/260110
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA" tvg-logo="http://vodkom.com:25461/Logo//ESPANOL/DAZN_LALIGA.png" group-title="Server 0⭐️",DAZN LALIGA
+http://sansat.net:88/02000650970977/02000650970977/195455
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA" tvg-logo="http://vodkom.com:25461/Logo//ESPANOL/DAZN_LALIGA.png" group-title="Server 0⭐️",DAZN LALIGA
+http://sansat.net:88/02000650970977/02000650970977/194257
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA (buckup)" tvg-logo="http://vodkom.com:25461/Logo//ESPANOL/DAZN_LALIGA.png" group-title="Server 0⭐️",DAZN LALIGA (buckup)
+http://sansat.net:88/02000650970977/02000650970977/441745
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA 2" tvg-logo="http://vodkom.com:25461/Logo//ESPANOL/DAZN_LALIGA2_HD.png" group-title="Server 0⭐️",DAZN LALIGA 2
+http://sansat.net:88/02000650970977/02000650970977/195456
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA 2" tvg-logo="http://vodkom.com:25461/Logo//ESPANOL/DAZN_LALIGA2_HD.png" group-title="Server 0⭐️",DAZN LALIGA 2
+http://sansat.net:88/02000650970977/02000650970977/195454
+#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA HYPERMOTION HD" tvg-logo="http://www.vodkom.com:25461/Logo//ESPANOL/" group-title="Server 0⭐️",LALIGA HYPERMOTION HD
+http://sansat.net:88/02000650970977/02000650970977/195485
+#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA HYPERMOTION 2 HD" tvg-logo="http://www.vodkom.com:25461/Logo//ESPANOL/" group-title="Server 0⭐️",LALIGA HYPERMOTION 2 HD
+http://sansat.net:88/02000650970977/02000650970977/195484
+#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA HYPERMOTION 3 HD" tvg-logo="http://www.vodkom.com:25461/Logo//ESPANOL/" group-title="Server 0⭐️",LALIGA HYPERMOTION 3 HD
+http://sansat.net:88/02000650970977/02000650970977/375949
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="M. LCAMPEONES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LCAMPEONES.png" group-title="Server 0⭐️",M. LCAMPEONES
+http://sansat.net:88/02000650970977/02000650970977/127837
+#EXTINF:-1 tvg-id="ext" tvg-name="M.LCAMPEONES backup" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LCAMPEONES.png" group-title="Server 0⭐️",M.LCAMPEONES backup
+http://sansat.net:88/02000650970977/02000650970977/202584
+#EXTINF:-1 tvg-id="ext" tvg-name="M.LCAMPEONES backup" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LCAMPEONES.png" group-title="Server 0⭐️",M.LCAMPEONES backup
+http://sansat.net:88/02000650970977/02000650970977/202582
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="M. LCAMPEON 2" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LCAMPEON2.png" group-title="Server 0⭐️",M. LCAMPEON 2
+http://sansat.net:88/02000650970977/02000650970977/127838
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="EUROSPORT 1" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/EUROSPORT1HD.png" group-title="Server 0⭐️",EUROSPORT 1
+http://sansat.net:88/02000650970977/02000650970977/127843
+#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="EUROSPORT 2" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/EUROSPORT2.png" group-title="Server 0⭐️",EUROSPORT 2
+http://sansat.net:88/02000650970977/02000650970977/127844
+#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="EUROSPORT 2" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/EUROSPORT2.png" group-title="Server 0⭐️",EUROSPORT 2
+http://sansat.net:88/02000650970977/02000650970977/127827
+#EXTINF:-1 tvg-id="mdeportes1.es" tvg-name="M. DEPORTES" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.DEPORTESHD.png" group-title="Server 0⭐️",M. DEPORTES
+http://sansat.net:88/02000650970977/02000650970977/127839
+#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="M. GOLF" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.GOLF_HD.png" group-title="Server 0⭐️",M. GOLF
+http://sansat.net:88/02000650970977/02000650970977/127829
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ GOLF  HD" tvg-logo="http://www.vodkom.com:25461/Logo//ESPANOL/" group-title="Server 0⭐️",M+ GOLF  HD
+http://sansat.net:88/02000650970977/02000650970977/388930
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ GOLF 2 HD" tvg-logo="http://www.vodkom.com:25461/Logo//ESPANOL/" group-title="Server 0⭐️",M+ GOLF 2 HD
+http://sansat.net:88/02000650970977/02000650970977/388931
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ CRACKS 4K" tvg-logo="http://www.vodkom.com:25461/Logo//ESPANOL/" group-title="Server 0⭐️",M+ CRACKS 4K
+http://sansat.net:88/02000650970977/02000650970977/388937
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ CRACKS HD" tvg-logo="http://www.vodkom.com:25461/Logo//ESPANOL/" group-title="Server 0⭐️",M+ CRACKS HD
+http://sansat.net:88/02000650970977/02000650970977/388932
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ INDIE 4K" tvg-logo="http://www.vodkom.com:25461/Logo//ESPANOL/" group-title="Server 0⭐️",M+ INDIE 4K
+http://sansat.net:88/02000650970977/02000650970977/388938
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ INDIE HD" tvg-logo="http://www.vodkom.com:25461/Logo//ESPANOL/" group-title="Server 0⭐️",M+ INDIE HD
+http://sansat.net:88/02000650970977/02000650970977/388933
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ SUSPENSE 4K" tvg-logo="http://www.vodkom.com:25461/Logo//ESPANOL/" group-title="Server 0⭐️",M+ SUSPENSE 4K
+http://sansat.net:88/02000650970977/02000650970977/388939
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ SUSPENSE HD" tvg-logo="http://www.vodkom.com:25461/Logo//ESPANOL/" group-title="Server 0⭐️",M+ SUSPENSE HD
+http://sansat.net:88/02000650970977/02000650970977/388934
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ ORIGINALES 4K" tvg-logo="http://www.vodkom.com:25461/Logo//ESPANOL/" group-title="Server 0⭐️",M+ ORIGINALES 4K
+http://sansat.net:88/02000650970977/02000650970977/388940
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ ORIGINALES HD" tvg-logo="http://www.vodkom.com:25461/Logo//ESPANOL/" group-title="Server 0⭐️",M+ ORIGINALES HD
+http://sansat.net:88/02000650970977/02000650970977/388935
+#EXTINF:-1 tvg-id="ext" tvg-name="MUNDOTORO TV" tvg-logo="http://www.vodkom.com:25461/Logo//ESPANOL/" group-title="Server 0⭐️",MUNDOTORO TV
+http://sansat.net:88/02000650970977/02000650970977/272894
+#EXTINF:-1 tvg-id="ext" tvg-name="EL TORO TV HD" tvg-logo="http://www.vodkom.com:25461/Logo//ESPANOL/" group-title="Server 0⭐️",EL TORO TV HD
+http://sansat.net:88/02000650970977/02000650970977/272895
+#EXTINF:-1 tvg-id="ext" tvg-name="HORSE TV" tvg-logo="http://www.vodkom.com:25461/Logo//ESPANOL/" group-title="Server 0⭐️",HORSE TV
+http://sansat.net:88/02000650970977/02000650970977/272896
+#EXTINF:-1 tvg-id="ext" tvg-name="REAL BETIS TV " tvg-logo="http://www.vodkom.com:25461/Logo//ESPANOL/" group-title="Server 0⭐️",REAL BETIS TV 
+http://sansat.net:88/02000650970977/02000650970977/272897
+#EXTINF:-1 tvg-id="ext" tvg-name="SEVILLA FC TV" tvg-logo="http://www.vodkom.com:25461/Logo//ESPANOL/" group-title="Server 0⭐️",SEVILLA FC TV
+http://sansat.net:88/02000650970977/02000650970977/272898
+#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="M. GOLF" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.GOLF_HD.png" group-title="Server 0⭐️",M. GOLF
+http://sansat.net:88/02000650970977/02000650970977/127846
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ GOLF 4K" tvg-logo="http://www.vodkom.com:25461/Logo//ESPANOL/" group-title="Server 0⭐️",M+ GOLF 4K
+http://sansat.net:88/02000650970977/02000650970977/388936
+#EXTINF:-1 tvg-id="gol.es" tvg-name="GOL TV" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/GOL.png" group-title="Server 0⭐️",GOL TV
+http://sansat.net:88/02000650970977/02000650970977/127847
+#EXTINF:-1 tvg-id="gol.es" tvg-name="GOL TV" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/GOL.png" group-title="Server 0⭐️",GOL TV
+http://sansat.net:88/02000650970977/02000650970977/127830
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ ELLAS HD" tvg-logo="http://vodkom.com:25461/Logo//ESPANOL/M+ELLAS.png" group-title="Server 0⭐️",M+ ELLAS HD
+http://sansat.net:88/02000650970977/02000650970977/194255
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ CLÁSICOS" tvg-logo="http://vodkom.com:25461/Logo//ESPANOL/M+CLASICOS.png" group-title="Server 0⭐️",M+ CLÁSICOS
+http://sansat.net:88/02000650970977/02000650970977/194256
+#EXTINF:-1 tvg-id="ext" tvg-name="M.FEST HD" tvg-logo="http://www.vodkom.com:25461/Logo//ESPANOL/" group-title="Server 0⭐️",M.FEST HD
+http://sansat.net:88/02000650970977/02000650970977/194258
+#EXTINF:-1 tvg-id="ext" tvg-name="Sevilla FC TV" tvg-logo="http://www.vodkom.com:25461/Logo//ESPANOL/" group-title="Server 0⭐️",Sevilla FC TV
+http://sansat.net:88/02000650970977/02000650970977/194259
+#EXTINF:-1 tvg-id="ext" tvg-name="HORSE TV" tvg-logo="http://www.vodkom.com:25461/Logo//ESPANOL/" group-title="Server 0⭐️",HORSE TV
+http://sansat.net:88/02000650970977/02000650970977/194261
+#EXTINF:-1 tvg-id="ext" tvg-name="HORSE TV" tvg-logo="http://www.vodkom.com:25461/Logo//ESPANOL/" group-title="Server 0⭐️",HORSE TV
+http://sansat.net:88/02000650970977/02000650970977/194260
+#EXTINF:-1 tvg-id="ext" tvg-name="MUNDOTORO TV" tvg-logo="http://www.vodkom.com:25461/Logo//ESPANOL/" group-title="Server 0⭐️",MUNDOTORO TV
+http://sansat.net:88/02000650970977/02000650970977/267382
+#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA HYPERMOTION FHD" tvg-logo="http://www.vodkom.com:25461/Logo//ESPANOL/" group-title="Server 0⭐️",LALIGA HYPERMOTION FHD
+http://sansat.net:88/02000650970977/02000650970977/195486
+#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA HYPERMOTION 2 FHD" tvg-logo="http://www.vodkom.com:25461/Logo//ESPANOL/" group-title="Server 0⭐️",LALIGA HYPERMOTION 2 FHD
+http://sansat.net:88/02000650970977/02000650970977/195487
+#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA HYPERMOTION 3 FHD" tvg-logo="http://www.vodkom.com:25461/Logo//ESPANOL/" group-title="Server 0⭐️",LALIGA HYPERMOTION 3 FHD
+http://sansat.net:88/02000650970977/02000650970977/375950
+#EXTINF:-1 tvg-id="ext" tvg-name="GOL MUNDIAL 1" tvg-logo="" group-title="Server 0⭐️",GOL MUNDIAL 1
+http://sansat.net:88/02000650970977/02000650970977/391719
+#EXTINF:-1 tvg-id="ext" tvg-name="GOL MUNDIAL 2" tvg-logo="" group-title="Server 0⭐️",GOL MUNDIAL 2
+http://sansat.net:88/02000650970977/02000650970977/391720
+#EXTINF:-1 tvg-id="ext" tvg-name="GOL MUNDIAL 3" tvg-logo="" group-title="Server 0⭐️",GOL MUNDIAL 3
+http://sansat.net:88/02000650970977/02000650970977/391721
+#EXTINF:-1 tvg-id="ext" tvg-name="GOL MUNDIAL 4" tvg-logo="" group-title="Server 0⭐️",GOL MUNDIAL 4
+http://sansat.net:88/02000650970977/02000650970977/391722
+#EXTINF:-1 tvg-id="ext" tvg-name="GOL MUNDIAL 5" tvg-logo="" group-title="Server 0⭐️",GOL MUNDIAL 5
+http://sansat.net:88/02000650970977/02000650970977/391723
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV INFO" tvg-logo="" group-title="Server 0⭐️",FEF TV INFO
+http://sansat.net:88/02000650970977/02000650970977/391724
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 1" tvg-logo="" group-title="Server 0⭐️",FEF TV 1
+http://sansat.net:88/02000650970977/02000650970977/391725
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 2" tvg-logo="" group-title="Server 0⭐️",FEF TV 2
+http://sansat.net:88/02000650970977/02000650970977/391726
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 3" tvg-logo="" group-title="Server 0⭐️",FEF TV 3
+http://sansat.net:88/02000650970977/02000650970977/391727
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 4" tvg-logo="" group-title="Server 0⭐️",FEF TV 4
+http://sansat.net:88/02000650970977/02000650970977/391728
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 5" tvg-logo="" group-title="Server 0⭐️",FEF TV 5
+http://sansat.net:88/02000650970977/02000650970977/391729
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 6" tvg-logo="" group-title="Server 0⭐️",FEF TV 6
+http://sansat.net:88/02000650970977/02000650970977/391730
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 7" tvg-logo="" group-title="Server 0⭐️",FEF TV 7
+http://sansat.net:88/02000650970977/02000650970977/391731
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 8" tvg-logo="" group-title="Server 0⭐️",FEF TV 8
+http://sansat.net:88/02000650970977/02000650970977/391732
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 9" tvg-logo="" group-title="Server 0⭐️",FEF TV 9
+http://sansat.net:88/02000650970977/02000650970977/391733
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 10" tvg-logo="" group-title="Server 0⭐️",FEF TV 10
+http://sansat.net:88/02000650970977/02000650970977/391734
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 11" tvg-logo="" group-title="Server 0⭐️",FEF TV 11
+http://sansat.net:88/02000650970977/02000650970977/391735
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 12" tvg-logo="" group-title="Server 0⭐️",FEF TV 12
+http://sansat.net:88/02000650970977/02000650970977/391736
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 13" tvg-logo="" group-title="Server 0⭐️",FEF TV 13
+http://sansat.net:88/02000650970977/02000650970977/391737
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 14" tvg-logo="" group-title="Server 0⭐️",FEF TV 14
+http://sansat.net:88/02000650970977/02000650970977/391738
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 15" tvg-logo="" group-title="Server 0⭐️",FEF TV 15
+http://sansat.net:88/02000650970977/02000650970977/391739
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 16" tvg-logo="" group-title="Server 0⭐️",FEF TV 16
+http://sansat.net:88/02000650970977/02000650970977/391740
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 17" tvg-logo="" group-title="Server 0⭐️",FEF TV 17
+http://sansat.net:88/02000650970977/02000650970977/391741
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 18" tvg-logo="" group-title="Server 0⭐️",FEF TV 18
+http://sansat.net:88/02000650970977/02000650970977/391742
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 19" tvg-logo="" group-title="Server 0⭐️",FEF TV 19
+http://sansat.net:88/02000650970977/02000650970977/391743
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 20" tvg-logo="" group-title="Server 0⭐️",FEF TV 20
+http://sansat.net:88/02000650970977/02000650970977/391744
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="TELEDEPORTE" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TELEDEPORTE.png" group-title="Server 0⭐️",TELEDEPORTE
+http://sansat.net:88/02000650970977/02000650970977/127840
+#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="REAL MADRID TV" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/R.MADRID_TV.png" group-title="Server 0⭐️",REAL MADRID TV
+http://sansat.net:88/02000650970977/02000650970977/127841
+#EXTINF:-1 tvg-id="barcatv.es" tvg-name="BARCA TV" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/BARCA_TV.png" group-title="Server 0⭐️",BARCA TV
+http://sansat.net:88/02000650970977/02000650970977/127842
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="M. LALIGA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_HD.png" group-title="Server 0⭐️",M. LALIGA
+http://sansat.net:88/02000650970977/02000650970977/127876
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="M. LALIGA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_HD.png" group-title="Server 0⭐️",M. LALIGA
+http://sansat.net:88/02000650970977/02000650970977/127849
+#EXTINF:-1 tvg-id="laligatvbar.es" tvg-name="LALIGA TV BAR" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LALIGATV_BAR.png" group-title="Server 0⭐️",LALIGA TV BAR
+http://sansat.net:88/02000650970977/02000650970977/169503
+#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="M. LALIGA 1" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_1_HD.png" group-title="Server 0⭐️",M. LALIGA 1
+http://sansat.net:88/02000650970977/02000650970977/127877
+#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="M. LALIGA 1" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_1_HD.png" group-title="Server 0⭐️",M. LALIGA 1
+http://sansat.net:88/02000650970977/02000650970977/127850
+#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="M. LALIGA 2" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_2_HD.png" group-title="Server 0⭐️",M. LALIGA 2
+http://sansat.net:88/02000650970977/02000650970977/127878
+#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="M. LALIGA 2" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_2_HD.png" group-title="Server 0⭐️",M. LALIGA 2
+http://sansat.net:88/02000650970977/02000650970977/127851
+#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="M. LALIGA 3" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_3_HD.png" group-title="Server 0⭐️",M. LALIGA 3
+http://sansat.net:88/02000650970977/02000650970977/127879
+#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="M. LALIGA 3" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_3_HD.png" group-title="Server 0⭐️",M. LALIGA 3
+http://sansat.net:88/02000650970977/02000650970977/127852
+#EXTINF:-1 tvg-id="mlaliga4.es" tvg-name="M. LALIGA 4" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_4.png" group-title="Server 0⭐️",M. LALIGA 4
+http://sansat.net:88/02000650970977/02000650970977/127880
+#EXTINF:-1 tvg-id="mlaliga4.es" tvg-name="M. LALIGA 4" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_4.png" group-title="Server 0⭐️",M. LALIGA 4
+http://sansat.net:88/02000650970977/02000650970977/127853
+#EXTINF:-1 tvg-id="mlaliga6.es" tvg-name="M. LALIGA 6" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_6.png" group-title="Server 0⭐️",M. LALIGA 6
+http://sansat.net:88/02000650970977/02000650970977/127881
+#EXTINF:-1 tvg-id="mlaliga6.es" tvg-name="M. LALIGA 6" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_6.png" group-title="Server 0⭐️",M. LALIGA 6
+http://sansat.net:88/02000650970977/02000650970977/127854
+#EXTINF:-1 tvg-id="mlaliga7.es" tvg-name="M. LALIGA 7" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_7.png" group-title="Server 0⭐️",M. LALIGA 7
+http://sansat.net:88/02000650970977/02000650970977/127882
+#EXTINF:-1 tvg-id="mlaliga7.es" tvg-name="M. LALIGA 7" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_7.png" group-title="Server 0⭐️",M. LALIGA 7
+http://sansat.net:88/02000650970977/02000650970977/127855
+#EXTINF:-1 tvg-id="mlaliga8.es" tvg-name="M. LALIGA 8" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_8.png" group-title="Server 0⭐️",M. LALIGA 8
+http://sansat.net:88/02000650970977/02000650970977/127883
+#EXTINF:-1 tvg-id="mlaliga8.es" tvg-name="M. LALIGA 8" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_8.png" group-title="Server 0⭐️",M. LALIGA 8
+http://sansat.net:88/02000650970977/02000650970977/127856
+#EXTINF:-1 tvg-id="mlaliga9.es" tvg-name="M. LALIGA 9" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_9.png" group-title="Server 0⭐️",M. LALIGA 9
+http://sansat.net:88/02000650970977/02000650970977/127884
+#EXTINF:-1 tvg-id="mlaliga9.es" tvg-name="M. LALIGA 9" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_9.png" group-title="Server 0⭐️",M. LALIGA 9
+http://sansat.net:88/02000650970977/02000650970977/127857
+#EXTINF:-1 tvg-id="ext" tvg-name="M. LALIGA 10" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_10.png" group-title="Server 0⭐️",M. LALIGA 10
+http://sansat.net:88/02000650970977/02000650970977/127885
+#EXTINF:-1 tvg-id="ext" tvg-name="M. LALIGA 10" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_10.png" group-title="Server 0⭐️",M. LALIGA 10
+http://sansat.net:88/02000650970977/02000650970977/127858
+#EXTINF:-1 tvg-id="mdeportes1.es" tvg-name="M. DEPORTES1" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.DEPORTES1HD.png" group-title="Server 0⭐️",M. DEPORTES1
+http://sansat.net:88/02000650970977/02000650970977/127886
+#EXTINF:-1 tvg-id="mdeportes1.es" tvg-name="M. DEPORTES 1 " tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.DEPORTES1HD.png" group-title="Server 0⭐️",M. DEPORTES 1 
+http://sansat.net:88/02000650970977/02000650970977/127859
+#EXTINF:-1 tvg-id="mdeportes2.es" tvg-name="M. DEPORTES2" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.DEPORTES2.png" group-title="Server 0⭐️",M. DEPORTES2
+http://sansat.net:88/02000650970977/02000650970977/127887
+#EXTINF:-1 tvg-id="mdeportes2.es" tvg-name="M. DEPORTES 2" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.DEPORTES2.png" group-title="Server 0⭐️",M. DEPORTES 2
+http://sansat.net:88/02000650970977/02000650970977/127860
+#EXTINF:-1 tvg-id="mdeportes3.es" tvg-name="M. DEPORTES3" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.DEPORTES3.png" group-title="Server 0⭐️",M. DEPORTES3
+http://sansat.net:88/02000650970977/02000650970977/127888
+#EXTINF:-1 tvg-id="mdeportes3.es" tvg-name="M. DEPORTES 3" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.DEPORTES3.png" group-title="Server 0⭐️",M. DEPORTES 3
+http://sansat.net:88/02000650970977/02000650970977/127861
+#EXTINF:-1 tvg-id="mdeportes4.es" tvg-name="M. DEPORTES4" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.DEPORTES4.png" group-title="Server 0⭐️",M. DEPORTES4
+http://sansat.net:88/02000650970977/02000650970977/127889
+#EXTINF:-1 tvg-id="mdeportes4.es" tvg-name="M. DEPORTES 4" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.DEPORTES4.png" group-title="Server 0⭐️",M. DEPORTES 4
+http://sansat.net:88/02000650970977/02000650970977/127862
+#EXTINF:-1 tvg-id="mdeportes5.es" tvg-name="M. DEPORTES 5" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.DEPORTES5.png" group-title="Server 0⭐️",M. DEPORTES 5
+http://sansat.net:88/02000650970977/02000650970977/127890
+#EXTINF:-1 tvg-id="mdeportes5.es" tvg-name="M. DEPORTES 5" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.DEPORTES5.png" group-title="Server 0⭐️",M. DEPORTES 5
+http://sansat.net:88/02000650970977/02000650970977/127863
+#EXTINF:-1 tvg-id="mdeportes6.es" tvg-name="M. DEPORTES 6" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.DEPORTES6.png" group-title="Server 0⭐️",M. DEPORTES 6
+http://sansat.net:88/02000650970977/02000650970977/127891
+#EXTINF:-1 tvg-id="mdeportes6.es" tvg-name="M. DEPORTES 6" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.DEPORTES6.png" group-title="Server 0⭐️",M. DEPORTES 6
+http://sansat.net:88/02000650970977/02000650970977/127864
+#EXTINF:-1 tvg-id="mdeportes7.es" tvg-name="M. DEPORTES 7" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.DEPORTES7.png" group-title="Server 0⭐️",M. DEPORTES 7
+http://sansat.net:88/02000650970977/02000650970977/127892
+#EXTINF:-1 tvg-id="mdeportes7.es" tvg-name="M. DEPORTES 7" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.DEPORTES7.png" group-title="Server 0⭐️",M. DEPORTES 7
+http://sansat.net:88/02000650970977/02000650970977/127865
+#EXTINF:-1 tvg-id="mligadecampeones1.es" tvg-name="M. LCAMPEON 1 " tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LCAMPEON1.png" group-title="Server 0⭐️",M. LCAMPEON 1 
+http://sansat.net:88/02000650970977/02000650970977/127866
+#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="M. LCAMPEON 2 " tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LCAMPEON2.png" group-title="Server 0⭐️",M. LCAMPEON 2 
+http://sansat.net:88/02000650970977/02000650970977/127867
+#EXTINF:-1 tvg-id="mligadecampeones3.es" tvg-name="M. LCAMPEON 3 " tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LCAMPEON3.png" group-title="Server 0⭐️",M. LCAMPEON 3 
+http://sansat.net:88/02000650970977/02000650970977/127868
+#EXTINF:-1 tvg-id="mligadecampeones4.es" tvg-name="M. LCAMPEON 4" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LCAMPEON4.png" group-title="Server 0⭐️",M. LCAMPEON 4
+http://sansat.net:88/02000650970977/02000650970977/127869
+#EXTINF:-1 tvg-id="mligadecampeones5.es" tvg-name="M. LCAMPEON 5" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LCAMPEON5.png" group-title="Server 0⭐️",M. LCAMPEON 5
+http://sansat.net:88/02000650970977/02000650970977/127870
+#EXTINF:-1 tvg-id="mligadecampeones6.es" tvg-name="M. LCAMPEON 6" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LCAMPEON6.png" group-title="Server 0⭐️",M. LCAMPEON 6
+http://sansat.net:88/02000650970977/02000650970977/127871
+#EXTINF:-1 tvg-id="mligadecampeones7.es" tvg-name="M. LCAMPEON 7" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LCAMPEON7.png" group-title="Server 0⭐️",M. LCAMPEON 7
+http://sansat.net:88/02000650970977/02000650970977/127872
+#EXTINF:-1 tvg-id="mligadecampeones8.es" tvg-name="M. LCAMPEON 8" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LCAMPEON8.png" group-title="Server 0⭐️",M. LCAMPEON 8
+http://sansat.net:88/02000650970977/02000650970977/127873
+#EXTINF:-1 tvg-id="ext" tvg-name="M.LCAMPEONES 9" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/M+LCAMPEON9.png" group-title="Server 0⭐️",M.LCAMPEONES 9
+http://sansat.net:88/02000650970977/02000650970977/169499
+#EXTINF:-1 tvg-id="ext" tvg-name="M.LCAMPEONES 10" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/M+LCAMPEON10.png" group-title="Server 0⭐️",M.LCAMPEONES 10
+http://sansat.net:88/02000650970977/02000650970977/169500
+#EXTINF:-1 tvg-id="ext" tvg-name="M.LCAMPEONES 11" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/M+LCAMPEON11.png" group-title="Server 0⭐️",M.LCAMPEONES 11
+http://sansat.net:88/02000650970977/02000650970977/169501
+#EXTINF:-1 tvg-id="ext" tvg-name="M.LCAMPEONES 12" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/M+LCAMPEON12.png" group-title="Server 0⭐️",M.LCAMPEONES 12
+http://sansat.net:88/02000650970977/02000650970977/169502
+#EXTINF:-1 tvg-id="alquiler1.es" tvg-name="ALQELIER 1 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ALQUILER.png" group-title="Server 0⭐️",ALQELIER 1 HD
+http://sansat.net:88/02000650970977/02000650970977/127738
+#EXTINF:-1 tvg-id="ext" tvg-name="ALQELIER 2 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ALQUILER.png" group-title="Server 0⭐️",ALQELIER 2 HD
+http://sansat.net:88/02000650970977/02000650970977/135210
+#EXTINF:-1 tvg-id="ext" tvg-name="ALQELIER 3 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ALQUILER.png" group-title="Server 0⭐️",ALQELIER 3 HD
+http://sansat.net:88/02000650970977/02000650970977/135211
+#EXTINF:-1 tvg-id="ext" tvg-name="ALQELIER 4 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ALQUILER.png" group-title="Server 0⭐️",ALQELIER 4 HD
+http://sansat.net:88/02000650970977/02000650970977/135347
+#EXTINF:-1 tvg-id="ext" tvg-name="ALQELIER 5 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ALQUILER.png" group-title="Server 0⭐️",ALQELIER 5 HD
+http://sansat.net:88/02000650970977/02000650970977/135425
+#EXTINF:-1 tvg-id="ext" tvg-name="ALQELIER 6 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ALQUILER.png" group-title="Server 0⭐️",ALQELIER 6 HD
+http://sansat.net:88/02000650970977/02000650970977/135426
+#EXTINF:-1 tvg-id="ext" tvg-name="ALQELIER 7 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ALQUILER.png" group-title="Server 0⭐️",ALQELIER 7 HD
+http://sansat.net:88/02000650970977/02000650970977/135469
+#EXTINF:-1 tvg-id="ext" tvg-name="ALQELIER 8 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ALQUILER.png" group-title="Server 0⭐️",ALQELIER 8 HD
+http://sansat.net:88/02000650970977/02000650970977/135500
+#EXTINF:-1 tvg-id="ext" tvg-name="ALQELIER 9 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ALQUILER.png" group-title="Server 0⭐️",ALQELIER 9 HD
+http://sansat.net:88/02000650970977/02000650970977/153321
+#EXTINF:-1 tvg-id="ext" tvg-name="ALQELIER 10 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ALQUILER.png" group-title="Server 0⭐️",ALQELIER 10 HD
+http://sansat.net:88/02000650970977/02000650970977/153322
+#EXTINF:-1 tvg-id="ext" tvg-name="ALQELIER 11 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ALQUILER.png" group-title="Server 0⭐️",ALQELIER 11 HD
+http://sansat.net:88/02000650970977/02000650970977/153323
+#EXTINF:-1 tvg-id="ext" tvg-name="ALQELIER 12 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ALQUILER.png" group-title="Server 0⭐️",ALQELIER 12 HD
+http://sansat.net:88/02000650970977/02000650970977/153324
+#EXTINF:-1 tvg-id="ext" tvg-name="ALQELIER 13 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ALQUILER.png" group-title="Server 0⭐️",ALQELIER 13 HD
+http://sansat.net:88/02000650970977/02000650970977/362549
+#EXTINF:-1 tvg-id="ext" tvg-name="ALQELIER 14 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ALQUILER.png" group-title="Server 0⭐️",ALQELIER 14 HD
+http://sansat.net:88/02000650970977/02000650970977/362550
+#EXTINF:-1 tvg-id="ext" tvg-name="ALQELIER 15 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/ALQUILER.png" group-title="Server 0⭐️",ALQELIER 15 HD
+http://sansat.net:88/02000650970977/02000650970977/362551
+#EXTINF:-1 tvg-id="mtv.es" tvg-name="MTV" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" group-title="Server 0⭐️",MTV
+http://sansat.net:88/02000650970977/02000650970977/127809
+#EXTINF:-1 tvg-id="mtv.es" tvg-name="MTV" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/MTV_HD.png" group-title="Server 0⭐️",MTV
+http://sansat.net:88/02000650970977/02000650970977/127802
+#EXTINF:-1 tvg-id="mtv.es" tvg-name="MTV ESPANA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" group-title="Server 0⭐️",MTV ESPANA
+http://sansat.net:88/02000650970977/02000650970977/127810
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV ESPANA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/MTV_ESPANA.png" group-title="Server 0⭐️",MTV ESPANA
+http://sansat.net:88/02000650970977/02000650970977/127803
+#EXTINF:-1 tvg-id="mezzo.es" tvg-name="MEZZO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" group-title="Server 0⭐️",MEZZO
+http://sansat.net:88/02000650970977/02000650970977/127811
+#EXTINF:-1 tvg-id="mezzo.es" tvg-name="MEZZO" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/MEZZO.png" group-title="Server 0⭐️",MEZZO
+http://sansat.net:88/02000650970977/02000650970977/127804
+#EXTINF:-1 tvg-id="mezzolivehd.es" tvg-name="MEZZO LIVE HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" group-title="Server 0⭐️",MEZZO LIVE HD
+http://sansat.net:88/02000650970977/02000650970977/127812
+#EXTINF:-1 tvg-id="mezzolivehd.es" tvg-name="MEZZO LIVE" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/MEZZO_LIVE_HD.png" group-title="Server 0⭐️",MEZZO LIVE
+http://sansat.net:88/02000650970977/02000650970977/127805
+#EXTINF:-1 tvg-id="ext" tvg-name="LA VOZ KIDS ESPAÑA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" group-title="Server 0⭐️",LA VOZ KIDS ESPAÑA
+http://sansat.net:88/02000650970977/02000650970977/127806
+#EXTINF:-1 tvg-id="VH1 ES" tvg-name="VH1" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/" group-title="Server 0⭐️",VH1
+http://sansat.net:88/02000650970977/02000650970977/127813
+#EXTINF:-1 tvg-id="VH1 SE" tvg-name="VH1" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/VH1.png" group-title="Server 0⭐️",VH1
+http://sansat.net:88/02000650970977/02000650970977/127807
 
 
 

@@ -3097,31 +3097,6 @@ http://955079601913678861.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/678861.ts
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="LA 1" tvg-name="LA 1 FHD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="Server 5⭐️",LA 1 FHD
 http://968136665933321276.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321276.ts
 #EXTINF:-1 tvg-id="LA 1" tvg-name="LA 1 HD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="Server 5⭐️",LA 1 HD
@@ -3142,7 +3117,7 @@ http://968136665933321106.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321106.ts
 http://968136665933321107.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321107.ts
 #EXTINF:-1 tvg-id="TELECINCO FHD" tvg-name="TELECINCO FHD" tvg-logo="https://miguia.tv/channels/big_161.png" group-title="Server 5⭐️",TELECINCO FHD
 http://968136665933321429.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321429.ts
-#EXTINF:-1 tvg-id="Condavision.TV" tvg-name="TELECINCO HD" tvg-logo="https://miguia.tv/channels/big_161.png" group-title="Server 5⭐️",TELECINCO HD
+#EXTINF:-1 tvg-id="" tvg-name="TELECINCO HD" tvg-logo="https://miguia.tv/channels/big_161.png" group-title="Server 5⭐️",TELECINCO HD
 http://968136665933321430.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321430.ts
 #EXTINF:-1 tvg-id="telecinco.es" tvg-name="TELECINCO SD" tvg-logo="https://miguia.tv/channels/big_161.png" group-title="Server 5⭐️",TELECINCO SD
 http://968136665933321431.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321431.ts
@@ -3152,6 +3127,68 @@ http://968136665933321196.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321196.ts
 http://968136665933321197.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321197.ts
 #EXTINF:-1 tvg-id="cuatro.es" tvg-name="CUATRO SD" tvg-logo="https://miguia.tv/channels/big_65.png" group-title="Server 5⭐️",CUATRO SD
 http://968136665933321198.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321198.ts
+#EXTINF:-1 tvg-id="" tvg-name="DMAX FHD" tvg-logo="https://miguia.tv/channels/big_184.png" group-title="Server 5⭐️",DMAX FHD
+http://968136665933321225.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321225.ts
+#EXTINF:-1 tvg-id="" tvg-name="DMAX HD" tvg-logo="https://miguia.tv/channels/big_184.png" group-title="Server 5⭐️",DMAX HD
+http://968136665933321226.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321226.ts
+#EXTINF:-1 tvg-id="" tvg-name="DMAX SD" tvg-logo="https://miguia.tv/channels/big_184.png" group-title="Server 5⭐️",DMAX SD
+http://968136665933321227.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321227.ts
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="" group-title="Server 5⭐️",NATIONAL GEOGRAPHIC WILD FHD
+http://968136665933681803.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/681803.ts
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NATIONAL GEOGRAPHIC WILD SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NATGW" group-title="Server 5⭐️",NATIONAL GEOGRAPHIC WILD SD
+http://968136665933383264.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/383264.ts
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="NAT GEO WILD FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7889_414_1_C00000_0_0_0.png" group-title="Server 5⭐️",NAT GEO WILD FHD
+http://968136665933321364.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321364.ts
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="NAT GEO WILD HD" tvg-logo="https://miguia.tv/channels/big_123.png" group-title="Server 5⭐️",NAT GEO WILD HD
+http://968136665933321365.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321365.ts
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="NAT GEO WILD SD" tvg-logo="https://miguia.tv/channels/big_123.png" group-title="Server 5⭐️",NAT GEO WILD SD
+http://968136665933336351.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/336351.ts
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="NAT GEO SD" tvg-logo="https://miguia.tv/channels/big_124.png" group-title="Server 5⭐️",NAT GEO SD
+http://968136665933321366.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321366.ts
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="NAT GEO HD" tvg-logo="https://miguia.tv/channels/big_124.png" group-title="Server 5⭐️",NAT GEO HD
+http://968136665933339777.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/339777.ts
+#EXTINF:-1 tvg-id="NAT GEO HD" tvg-name="NAT. GEO. SD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7829_428_1_C00000_0_0_0.png" group-title="Server 5⭐️",NAT. GEO. SD
+http://968136665933677554.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/677554.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAT. GEO. FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7829_428_1_C00000_0_0_0.png" group-title="Server 5⭐️",NAT. GEO. FHD
+http://968136665933681802.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/681802.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAT. GEO. HD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7829_428_1_C00000_0_0_0.png" group-title="Server 5⭐️",NAT. GEO. HD
+http://968136665933683912.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/683912.ts
+#EXTINF:-1 tvg-id="NAT GEO FHD" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NATGEO" group-title="Server 5⭐️",NATIONAL GEOGRAPHIC FHD
+http://968136665933321371.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321371.ts
+#EXTINF:-1 tvg-id="NAT GEO HD" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NATGEO" group-title="Server 5⭐️",NATIONAL GEOGRAPHIC HD
+http://968136665933321372.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321372.ts
+#EXTINF:-1 tvg-id="NAT GEO SD" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NATGEO" group-title="Server 5⭐️",NATIONAL GEOGRAPHIC SD
+http://968136665933321373.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321373.ts
+#EXTINF:-1 tvg-id="historia.es" tvg-name="HISTORIA HD" tvg-logo="https://miguia.tv/channels/big_92.png" group-title="Server 5⭐️",HISTORIA HD
+http://968136665933321262.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321262.ts
+#EXTINF:-1 tvg-id="historia.es" tvg-name="HISTORIA HD" tvg-logo="https://miguia.tv/channels/big_92.png" group-title="Server 5⭐️",HISTORIA HD
+http://968136665933339761.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/339761.ts
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST" group-title="Server 5⭐️",HISTORIA FHD
+http://968136665933681789.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/681789.ts
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST" group-title="Server 5⭐️",HISTORIA FHD
+http://968136665933683906.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/683906.ts
+#EXTINF:-1 tvg-id="HISTORIA" tvg-name="HISTORIA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST" group-title="Server 5⭐️",HISTORIA FHD
+http://968136665933321158.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321158.ts
+#EXTINF:-1 tvg-id="HISTORIA FHD" tvg-name="HISTORIA FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/HIST" group-title="Server 5⭐️",HISTORIA FHD
+http://968136665933336326.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/336326.ts
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY HD" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_772F_416_1_C00000_0_0_0.png" group-title="Server 5⭐️",DISCOVERY HD
+http://968136665933321209.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321209.ts
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DCR" group-title="Server 5⭐️",DISCOVERY HD
+http://968136665933321212.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321212.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/discoverychannel2.png" group-title="Server 5⭐️",DISCOVERY SD
+http://968136665933326817.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/326817.ts
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="DISCOVERY FHD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/discoverychannel2.png" group-title="Server 5⭐️",DISCOVERY FHD
+http://968136665933383406.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/383406.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/discoverychannel2.png" group-title="Server 5⭐️",DISCOVERY HD
+http://968136665933384244.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/384244.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNELS FHD" tvg-logo="" group-title="Server 5⭐️",DISCOVERY CHANNELS FHD
+http://968136665933683909.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/683909.ts
+#EXTINF:-1 tvg-id="LA 1" tvg-name="CANAL COCINA FHD" tvg-logo="https://miguia.tv/channels/big_43.png" group-title="Server 5⭐️",CANAL COCINA FHD
+http://968136665933321147.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321147.ts
+#EXTINF:-1 tvg-id="LA 1" tvg-name="CANAL COCINA HD" tvg-logo="https://miguia.tv/channels/big_43.png" group-title="Server 5⭐️",CANAL COCINA HD
+http://968136665933321148.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321148.ts
+#EXTINF:-1 tvg-id="CANAL COCINA" tvg-name="CANAL COCINA SD" tvg-logo="https://miguia.tv/channels/big_43.png" group-title="Server 5⭐️",CANAL COCINA SD
+http://968136665933321149.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321149.ts
 #EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BABY.png" group-title="Server 5⭐️",BABY TV SD
 http://968136665933321122.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321122.ts
 #EXTINF:-1 tvg-id="LA 1" tvg-name="AMC FHD" tvg-logo="https://miguia.tv/channels/big_195.png" group-title="Server 5⭐️",AMC FHD
@@ -3206,20 +3243,13 @@ http://968136665933321138.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321138.ts
 http://968136665933321139.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321139.ts
 #EXTINF:-1 tvg-id="calle13.es" tvg-name="CALLE 13 SD" tvg-logo="https://miguia.tv/channels/big_21.png" group-title="Server 5⭐️",CALLE 13 SD
 http://968136665933321140.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321140.ts
-#EXTINF:-1 tvg-id="LA 1" tvg-name="CANAL COCINA FHD" tvg-logo="https://miguia.tv/channels/big_43.png" group-title="Server 5⭐️",CANAL COCINA FHD
-http://968136665933321147.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321147.ts
-#EXTINF:-1 tvg-id="LA 1" tvg-name="CANAL COCINA HD" tvg-logo="https://miguia.tv/channels/big_43.png" group-title="Server 5⭐️",CANAL COCINA HD
-http://968136665933321148.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321148.ts
-#EXTINF:-1 tvg-id="CANAL COCINA" tvg-name="CANAL COCINA SD" tvg-logo="https://miguia.tv/channels/big_43.png" group-title="Server 5⭐️",CANAL COCINA SD
-http://968136665933321149.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321149.ts
+
 #EXTINF:-1 tvg-id="dark.es" tvg-name="CANAL DARK SD" tvg-logo="https://fest.darktv.es/media/concursos/darkfest/img/darkfoot.png" group-title="Server 5⭐️",CANAL DARK SD
 http://968136665933321152.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321152.ts
 #EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="CANAL DECASA HD" tvg-logo="https://miguia.tv/channels/big_68.png" group-title="Server 5⭐️",CANAL DECASA HD
 http://968136665933321153.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321153.ts
 #EXTINF:-1 tvg-id="" tvg-name="CANAL EXTREMADURA SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/47589187e982b5e3975a59f045cc8c63.png" group-title="Server 5⭐️",CANAL EXTREMADURA SD
 http://968136665933321155.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321155.ts
-#EXTINF:-1 tvg-id="HISTORIA" tvg-name="HISTORIA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST" group-title="Server 5⭐️",HISTORIA FHD
-http://968136665933321158.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321158.ts
 #EXTINF:-1 tvg-id="canalpanda.es" tvg-name="CANAL PANDA SD" tvg-logo="http://fireott.quest:2052/images/209dba5b98500abb51bf28795e21e007.png" group-title="Server 5⭐️",CANAL PANDA SD
 http://968136665933321163.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321163.ts
 #EXTINF:-1 tvg-id="cazapesca.es" tvg-name="CAZA Y PESCA FHD" tvg-logo="https://miguia.tv/channels/big_60.png" group-title="Server 5⭐️",CAZA Y PESCA FHD
@@ -3252,10 +3282,7 @@ http://968136665933321194.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321194.ts
 http://968136665933321203.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321203.ts
 #EXTINF:-1 tvg-id="CANAL DECASA" tvg-name="DECASA TV SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DECASA" group-title="Server 5⭐️",DECASA TV SD
 http://968136665933321206.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321206.ts
-#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_772F_416_1_C00000_0_0_0.png" group-title="Server 5⭐️",DISCOVERY CHANNEL SD
-http://968136665933321209.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321209.ts
-#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY CHANNELS SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DCR" group-title="Server 5⭐️",DISCOVERY CHANNELS SD
-http://968136665933321212.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321212.ts
+
 #EXTINF:-1 tvg-id="DISNEY CH HD" tvg-name="DISNEY CHANNEL FHD" tvg-logo="https://miguia.tv/channels/big_70.png" group-title="Server 5⭐️",DISNEY CHANNEL FHD
 http://968136665933321214.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321214.ts
 #EXTINF:-1 tvg-id="DISNEY CH HD" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://miguia.tv/channels/big_70.png" group-title="Server 5⭐️",DISNEY CHANNEL HD
@@ -3270,19 +3297,14 @@ http://968136665933321218.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321218.ts
 http://968136665933321223.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321223.ts
 #EXTINF:-1 tvg-id="DKISS" tvg-name="DKISS SD" tvg-logo="https://miguia.tv/channels/big_279.png" group-title="Server 5⭐️",DKISS SD
 http://968136665933321224.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321224.ts
-#EXTINF:-1 tvg-id="LA 1" tvg-name="DMAX FHD" tvg-logo="https://miguia.tv/channels/big_184.png" group-title="Server 5⭐️",DMAX FHD
-http://968136665933321225.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321225.ts
-#EXTINF:-1 tvg-id="LA 1" tvg-name="DMAX HD" tvg-logo="https://miguia.tv/channels/big_184.png" group-title="Server 5⭐️",DMAX HD
-http://968136665933321226.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321226.ts
-#EXTINF:-1 tvg-id="LA 1" tvg-name="DMAX SD" tvg-logo="https://miguia.tv/channels/big_184.png" group-title="Server 5⭐️",DMAX SD
-http://968136665933321227.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321227.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="DREAMWORKS HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DWSP" group-title="Server 5⭐️",DREAMWORKS HD
 http://968136665933321229.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321229.ts
 #EXTINF:-1 tvg-id="" tvg-name="DREAMWORKS SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DWSP" group-title="Server 5⭐️",DREAMWORKS SD
 http://968136665933321230.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321230.ts
 #EXTINF:-1 tvg-id="ENERGY" tvg-name="ENERGY SD" tvg-logo="https://miguia.tv/channels/big_82.png" group-title="Server 5⭐️",ENERGY SD
 http://968136665933321238.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321238.ts
-#EXTINF:-1 tvg-id="" tvg-name="FACTORIA DE FICCION SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5b41469eee212c964b5360414d4c2dbf.png" group-title="Server 5⭐️",FACTORIA DE FICCION SD
+#EXTINF:-1 tvg-id="" tvg-name="FDF SD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5b41469eee212c964b5360414d4c2dbf.png" group-title="Server 5⭐️",FDF SD
 http://968136665933321246.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321246.ts
 #EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="FDF SD" tvg-logo="https://miguia.tv/channels/big_85.png" group-title="Server 5⭐️",FDF SD
 http://968136665933321249.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321249.ts
@@ -3294,8 +3316,7 @@ http://968136665933321252.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321252.ts
 http://968136665933321253.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321253.ts
 #EXTINF:-1 tvg-id="gol.es" tvg-name="GOL SD" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_74A3_41C_1_C00000_0_0_0.png" group-title="Server 5⭐️",GOL SD
 http://968136665933321261.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321261.ts
-#EXTINF:-1 tvg-id="historia.es" tvg-name="HISTORIA HD" tvg-logo="https://miguia.tv/channels/big_92.png" group-title="Server 5⭐️",HISTORIA HD
-http://968136665933321262.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321262.ts
+
 #EXTINF:-1 tvg-id="HOLLYWOOD FHD" tvg-name="HOLLYWOOD FHD" tvg-logo="https://miguia.tv/channels/big_94.png" group-title="Server 5⭐️",HOLLYWOOD FHD
 http://968136665933321265.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321265.ts
 #EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="HOLLYWOOD HD" tvg-logo="https://miguia.tv/channels/big_94.png" group-title="Server 5⭐️",HOLLYWOOD HD
@@ -3372,18 +3393,6 @@ http://968136665933321358.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321358.ts
 http://968136665933321359.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321359.ts
 #EXTINF:-1 tvg-id="" tvg-name="MTV HITS SD" tvg-logo="https://logo.nero-iptv.click//lagi/ES_ESPANE_MUSICA/MTV_HD.png" group-title="Server 5⭐️",MTV HITS SD
 http://968136665933321360.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321360.ts
-#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="NAT GEO WILD FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7889_414_1_C00000_0_0_0.png" group-title="Server 5⭐️",NAT GEO WILD FHD
-http://968136665933321364.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321364.ts
-#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="NAT GEO WILD HD" tvg-logo="https://miguia.tv/channels/big_123.png" group-title="Server 5⭐️",NAT GEO WILD HD
-http://968136665933321365.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321365.ts
-#EXTINF:-1 tvg-id="natgeo.es" tvg-name="NAT GEO SD" tvg-logo="https://miguia.tv/channels/big_124.png" group-title="Server 5⭐️",NAT GEO SD
-http://968136665933321366.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321366.ts
-#EXTINF:-1 tvg-id="NAT GEO FHD" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NATGEO" group-title="Server 5⭐️",NATIONAL GEOGRAPHIC FHD
-http://968136665933321371.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321371.ts
-#EXTINF:-1 tvg-id="NAT GEO HD" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NATGEO" group-title="Server 5⭐️",NATIONAL GEOGRAPHIC HD
-http://968136665933321372.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321372.ts
-#EXTINF:-1 tvg-id="NAT GEO SD" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NATGEO" group-title="Server 5⭐️",NATIONAL GEOGRAPHIC SD
-http://968136665933321373.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321373.ts
 #EXTINF:-1 tvg-id="NEOX" tvg-name="NEOX FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NEOX" group-title="Server 5⭐️",NEOX FHD
 http://968136665933321374.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321374.ts
 #EXTINF:-1 tvg-id="Neox.TV" tvg-name="NEOX HD" tvg-logo="https://miguia.tv/channels/big_125.png" group-title="Server 5⭐️",NEOX HD
@@ -3460,8 +3469,7 @@ http://968136665933323221.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/323221.ts
 http://968136665933323428.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/323428.ts
 #EXTINF:-1 tvg-id="" tvg-name="CLASSICA SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CLASSD" group-title="Server 5⭐️",CLASSICA SD
 http://968136665933326814.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/326814.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/discoverychannel2.png" group-title="Server 5⭐️",DISCOVERY SD
-http://968136665933326817.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/326817.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="PTV MALAGA SD" tvg-logo="https://economistasmalaga.com/wp-content/uploads/ptv-malaga.png" group-title="Server 5⭐️",PTV MALAGA SD
 http://968136665933329156.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/329156.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV GALICIA AMERICA SD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/tvg-png-5.png" group-title="Server 5⭐️",TV GALICIA AMERICA SD
@@ -3510,8 +3518,7 @@ http://968136665933336309.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/336309.ts
 http://968136665933336315.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/336315.ts
 #EXTINF:-1 tvg-id="" tvg-name="HISPAN TV SD" tvg-logo="https://www.shockya.com/news/wp-content/uploads/HispanTV-logo.png" group-title="Server 5⭐️",HISPAN TV SD
 http://968136665933336325.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/336325.ts
-#EXTINF:-1 tvg-id="HISTORIA FHD" tvg-name="HISTORIA FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/HIST" group-title="Server 5⭐️",HISTORIA FHD
-http://968136665933336326.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/336326.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="IBERALIA 100% CAZA FHD" tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/92/13/9213f37d-340f-4761-bc3a-f67922d17616/unnamed.png__400x400_q85_subsampling-2.png" group-title="Server 5⭐️",IBERALIA 100% CAZA FHD
 http://968136665933336327.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/336327.ts
 #EXTINF:-1 tvg-id="" tvg-name="IBERALIA 100% CAZA HD" tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/92/13/9213f37d-340f-4761-bc3a-f67922d17616/unnamed.png__400x400_q85_subsampling-2.png" group-title="Server 5⭐️",IBERALIA 100% CAZA HD
@@ -3532,8 +3539,6 @@ http://968136665933336334.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/336334.ts
 http://968136665933336337.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/336337.ts
 #EXTINF:-1 tvg-id="" tvg-name="LOGOS TV SD" tvg-logo="https://i.imgur.com/ZvC3Su3.png" group-title="Server 5⭐️",LOGOS TV SD
 http://968136665933336341.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/336341.ts
-#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="NAT GEO WILD SD" tvg-logo="https://miguia.tv/channels/big_123.png" group-title="Server 5⭐️",NAT GEO WILD SD
-http://968136665933336351.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/336351.ts
 #EXTINF:-1 tvg-id="" tvg-name="NEGOCIOS HD" tvg-logo="https://ocopen.org/wp-content/uploads/2021/11/OCOPEN-Negocios.png" group-title="Server 5⭐️",NEGOCIOS HD
 http://968136665933336355.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/336355.ts
 #EXTINF:-1 tvg-id="disneychannel.es" tvg-name="PEQUE TV HD" tvg-logo="https://static.wixstatic.com/media/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png/v1/fit/w_2500,h_1330,al_c/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png" group-title="Server 5⭐️",PEQUE TV HD
@@ -3552,7 +3557,7 @@ http://968136665933336367.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/336367.ts
 http://968136665933336371.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/336371.ts
 #EXTINF:-1 tvg-id="" tvg-name="TRECE SD" tvg-logo="https://miguia.tv/channels/big_1.png" group-title="Server 5⭐️",TRECE SD
 http://968136665933336375.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/336375.ts
-#EXTINF:-1 tvg-id="tv3cataluny.es" tvg-name="TV 3 CATALUNIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/1200px-TV3.svg.png" group-title="Server 5⭐️",TV 3 CATALUNIA HD
+#EXTINF:-1 tvg-id="tv3cataluny.es" tvg-name="TV3 CATALUNYA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/1200px-TV3.svg.png" group-title="Server 5⭐️",TV3 CATALUNYA HD
 http://968136665933336377.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/336377.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV GIRONA FHD" tvg-logo="http://graph.facebook.com/tvgirona/picture?width=320&height=320" group-title="Server 5⭐️",TV GIRONA FHD
 http://968136665933336378.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/336378.ts
@@ -3582,8 +3587,7 @@ http://968136665933339758.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/339758.ts
 http://968136665933339772.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/339772.ts
 #EXTINF:-1 tvg-id="" tvg-name="MELILLA TV HD" tvg-logo="https://diretele.com/wp-content/uploads/2018/09/tv-melilla-en-directo.png" group-title="Server 5⭐️",MELILLA TV HD
 http://968136665933339773.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/339773.ts
-#EXTINF:-1 tvg-id="natgeo.es" tvg-name="NAT GEO HD" tvg-logo="https://miguia.tv/channels/big_124.png" group-title="Server 5⭐️",NAT GEO HD
-http://968136665933339777.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/339777.ts
+
 #EXTINF:-1 tvg-id="nickjr.es" tvg-name="NICK JUNIOR FHD" tvg-logo="https://miguia.tv/channels/big_120.png" group-title="Server 5⭐️",NICK JUNIOR FHD
 http://968136665933339778.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/339778.ts
 #EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="NICKELODEON FHD" tvg-logo="https://miguia.tv/channels/big_126.png" group-title="Server 5⭐️",NICKELODEON FHD
@@ -3620,18 +3624,13 @@ http://968136665933383250.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/383250.ts
 http://968136665933383259.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/383259.ts
 #EXTINF:-1 tvg-id="" tvg-name="MTV SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MTV" group-title="Server 5⭐️",MTV SD
 http://968136665933383262.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/383262.ts
-#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NATIONAL GEOGRAPHIC WILD SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NATGW" group-title="Server 5⭐️",NATIONAL GEOGRAPHIC WILD SD
-http://968136665933383264.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/383264.ts
+
 #EXTINF:-1 tvg-id="NICKELODEON FHD" tvg-name="NICKELODEON SD" tvg-logo="https://miguia.tv/channels/big_126.png" group-title="Server 5⭐️",NICKELODEON SD
 http://968136665933383265.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/383265.ts
 #EXTINF:-1 tvg-id="viajar.es" tvg-name="VIAJAR HD" tvg-logo="" group-title="Server 5⭐️",VIAJAR HD
 http://968136665933383270.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/383270.ts
 #EXTINF:-1 tvg-id="" tvg-name="7TELEVALENCIA SD" tvg-logo="https://7televalencia.com/wp-content/uploads/2019/01/LOGO-7-TELEVAELNCIA-Header-blanco-300x84.png" group-title="Server 5⭐️",7TELEVALENCIA SD
 http://968136665933383405.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/383405.ts
-#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="DISCOVERY FHD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/discoverychannel2.png" group-title="Server 5⭐️",DISCOVERY FHD
-http://968136665933383406.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/383406.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/discoverychannel2.png" group-title="Server 5⭐️",DISCOVERY HD
-http://968136665933384244.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/384244.ts
 #EXTINF:-1 tvg-id="" tvg-name="MEZZO LIVE HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MEZZLI" group-title="Server 5⭐️",MEZZO LIVE HD
 http://968136665933384247.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/384247.ts
 #EXTINF:-1 tvg-id="AMC CRIME" tvg-name="AMC CRIME HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="Server 5⭐️",AMC CRIME HD
@@ -3974,8 +3973,7 @@ http://968136665933673309.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/673309.ts
 http://968136665933673310.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/673310.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ TERROR SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MSANSE" group-title="Server 5⭐️",M+ TERROR SD
 http://968136665933673311.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/673311.ts
-#EXTINF:-1 tvg-id="NAT GEO HD" tvg-name="NAT. GEO. SD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7829_428_1_C00000_0_0_0.png" group-title="Server 5⭐️",NAT. GEO. SD
-http://968136665933677554.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/677554.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="101 TV MALAGA HD" tvg-logo="https://www.101tv.es/wp-content/uploads/2022/08/logo-101tv-nuevo-logo-web.png" group-title="Server 5⭐️",101 TV MALAGA HD
 http://968136665933680002.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/680002.ts
 #EXTINF:-1 tvg-id="47.movistar" tvg-name="13 TV HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/13TV" group-title="Server 5⭐️",13 TV HD
@@ -4085,12 +4083,7 @@ http://968136665933681787.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/681787.ts
 #EXTINF:-1 tvg-id="" tvg-name="AXN WHITE HD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_78BE_3EC_1_C00000_0_0_0.png" group-title="Server 5⭐️",AXN WHITE HD
 http://968136665933681788.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/681788.ts
 
-#EXTINF:-1 tvg-id="historia.es" tvg-name="HISTORIA HD" tvg-logo="https://miguia.tv/channels/big_92.png" group-title="Server 5⭐️",HISTORIA HD
-http://968136665933339761.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/339761.ts
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST" group-title="Server 5⭐️",HISTORIA FHD
-http://968136665933681789.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/681789.ts
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST" group-title="Server 5⭐️",HISTORIA FHD
-http://968136665933683906.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/683906.ts
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL SIERRA DE CADIZ FHD" tvg-logo="https://diretele.com/wp-content/uploads/2020/09/Canal-Sierra-de-Cadiz.png" group-title="Server 5⭐️",CANAL SIERRA DE CADIZ FHD
@@ -4117,10 +4110,6 @@ http://968136665933681799.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/681799.ts
 http://968136665933681800.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/681800.ts
 #EXTINF:-1 tvg-id="movistarestrenos2.es" tvg-name="M+ PLUS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="Server 5⭐️",M+ PLUS HD
 http://968136665933681801.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/681801.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT. GEO. FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7829_428_1_C00000_0_0_0.png" group-title="Server 5⭐️",NAT. GEO. FHD
-http://968136665933681802.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/681802.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="" group-title="Server 5⭐️",NATIONAL GEOGRAPHIC WILD FHD
-http://968136665933681803.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/681803.ts
 #EXTINF:-1 tvg-id="" tvg-name="TELEONUBA SD" tvg-logo="" group-title="Server 5⭐️",TELEONUBA SD
 http://968136665933681804.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/681804.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV3 SD" tvg-logo="" group-title="Server 5⭐️",TV3 SD
@@ -4143,14 +4132,10 @@ http://968136665933683905.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/683905.ts
 http://968136665933683907.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/683907.ts
 #EXTINF:-1 tvg-id="" tvg-name="CLASSICA FHD" tvg-logo="" group-title="Server 5⭐️",CLASSICA FHD
 http://968136665933683908.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/683908.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNELS FHD" tvg-logo="" group-title="Server 5⭐️",DISCOVERY CHANNELS FHD
-http://968136665933683909.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/683909.ts
 #EXTINF:-1 tvg-id="" tvg-name="GOL PLAY SD" tvg-logo="" group-title="Server 5⭐️",GOL PLAY SD
 http://968136665933683910.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/683910.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ ESTRENOS 2 HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/movistar-estrenos-2-es.png?raw=true" group-title="Server 5⭐️",M+ ESTRENOS 2 HD
 http://968136665933683911.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/683911.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT. GEO. HD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7829_428_1_C00000_0_0_0.png" group-title="Server 5⭐️",NAT. GEO. HD
-http://968136665933683912.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/683912.ts
 #EXTINF:-1 tvg-id="" tvg-name="VISION 6 HD" tvg-logo="https://www.visionseis.tv/wp-content/uploads/2016/05/logo-visionseis.png" group-title="Server 5⭐️",VISION 6 HD
 http://968136665933683913.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/683913.ts
 #EXTINF:-1 tvg-id="" tvg-name="CANAL ODISEA HD" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_778A_424_1_C00000_0_0_0.png" group-title="Server 5⭐️",CANAL ODISEA HD

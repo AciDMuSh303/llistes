@@ -3578,8 +3578,6 @@ http://968136665933339753.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/339753.ts
 http://968136665933339754.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/339754.ts
 #EXTINF:-1 tvg-id="" tvg-name="FRANCE 24 SD" tvg-logo="https://static.france24.com/meta_og_twcards/jsonld_publisher.png" group-title="Server 5⭐️",FRANCE 24 SD
 http://968136665933339758.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/339758.ts
-#EXTINF:-1 tvg-id="historia.es" tvg-name="HISTORIA HD" tvg-logo="https://miguia.tv/channels/big_92.png" group-title="Server 5⭐️",HISTORIA HD
-http://968136665933339761.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/339761.ts
 #EXTINF:-1 tvg-id="" tvg-name="MALAGA 24 H SD" tvg-logo="https://diretele.com/wp-content/uploads/2019/03/malaga-24h-en-directo.png" group-title="Server 5⭐️",MALAGA 24 H SD
 http://968136665933339772.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/339772.ts
 #EXTINF:-1 tvg-id="" tvg-name="MELILLA TV HD" tvg-logo="https://diretele.com/wp-content/uploads/2018/09/tv-melilla-en-directo.png" group-title="Server 5⭐️",MELILLA TV HD
@@ -4086,8 +4084,15 @@ http://968136665933681786.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/681786.ts
 http://968136665933681787.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/681787.ts
 #EXTINF:-1 tvg-id="" tvg-name="AXN WHITE HD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_78BE_3EC_1_C00000_0_0_0.png" group-title="Server 5⭐️",AXN WHITE HD
 http://968136665933681788.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/681788.ts
+
+#EXTINF:-1 tvg-id="historia.es" tvg-name="HISTORIA HD" tvg-logo="https://miguia.tv/channels/big_92.png" group-title="Server 5⭐️",HISTORIA HD
+http://968136665933339761.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/339761.ts
 #EXTINF:-1 tvg-id="" tvg-name="HISTORIA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST" group-title="Server 5⭐️",HISTORIA FHD
 http://968136665933681789.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/681789.ts
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST" group-title="Server 5⭐️",HISTORIA FHD
+http://968136665933683906.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/683906.ts
+
+
 #EXTINF:-1 tvg-id="" tvg-name="CANAL SIERRA DE CADIZ FHD" tvg-logo="https://diretele.com/wp-content/uploads/2020/09/Canal-Sierra-de-Cadiz.png" group-title="Server 5⭐️",CANAL SIERRA DE CADIZ FHD
 http://968136665933681790.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/681790.ts
 #EXTINF:-1 tvg-id="canalsur.es" tvg-name="CANAL SUR A HD" tvg-logo="" group-title="Server 5⭐️",CANAL SUR A HD
@@ -4134,8 +4139,6 @@ http://968136665933683903.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/683903.ts
 http://968136665933683904.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/683904.ts
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 33 MADRID SD" tvg-logo="https://pbs.twimg.com/profile_images/1148201655726432256/1z6jtKTp_400x400.png" group-title="Server 5⭐️",CANAL 33 MADRID SD
 http://968136665933683905.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/683905.ts
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST" group-title="Server 5⭐️",HISTORIA HD
-http://968136665933683906.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/683906.ts
 #EXTINF:-1 tvg-id="" tvg-name="CANAL PANDA HD" tvg-logo="" group-title="Server 5⭐️",CANAL PANDA HD
 http://968136665933683907.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/683907.ts
 #EXTINF:-1 tvg-id="" tvg-name="CLASSICA FHD" tvg-logo="" group-title="Server 5⭐️",CLASSICA FHD

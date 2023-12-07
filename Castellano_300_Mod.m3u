@@ -235,9 +235,9 @@ http://sansat.net:88/02000650970977/02000650970977/127683
 http://sansat.net:88/02000650970977/02000650970977/127695
 #EXTINF:-1 tvg-id="tnt.es" tvg-name="TNT" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/TNT_HD.png" group-title="Server 0⭐️",TNT
 http://sansat.net:88/02000650970977/02000650970977/127684
-#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/PARAMOUNT.png" group-title="Server 0⭐️",PARAMOUNT CHANNEL
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="PARAMOUNT NETWORK HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/PARAMOUNT.png" group-title="Server 0⭐️",PARAMOUNT NETWORK HD
 http://sansat.net:88/02000650970977/02000650970977/127696
-#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/PARAMOUNT.png" group-title="Server 0⭐️",PARAMOUNT CHANNEL
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="PARAMOUNT NETWORK HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/PARAMOUNT.png" group-title="Server 0⭐️",PARAMOUNT NETWORK HD
 http://sansat.net:88/02000650970977/02000650970977/127685
 #EXTINF:-1 tvg-id="movistarseries.es" tvg-name="M.SERIES 2 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/M+_SERIES_2_HD.png" group-title="Server 0⭐️",M.SERIES 2 HD
 http://sansat.net:88/02000650970977/02000650970977/164751
@@ -5246,7 +5246,7 @@ http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/621
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/624
 #EXTINF:-1 tvg-id="" tvg-name="SUNDANCE" tvg-logo="https://i.postimg.cc/qM4pKh6y/Dise-o-sin-t-tulo-22.png" group-title="Server 6⭐️ VPN",SUNDANCE
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/627
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://i.postimg.cc/GhVzNYPs/Dise-o-sin-t-tulo-13.png" group-title="Server 6⭐️ VPN",PARAMOUNT CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT NETWORK HD" tvg-logo="https://i.postimg.cc/GhVzNYPs/Dise-o-sin-t-tulo-13.png" group-title="Server 6⭐️ VPN",PARAMOUNT NETWORK HD
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/630
 #EXTINF:-1 tvg-id="mfest.es" tvg-name="M+ Fest" tvg-logo="https://i.postimg.cc/tgwxRtTh/Dise-o-sin-t-tulo-9.png" group-title="Server 6⭐️ VPN",M+ Fest
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/632
@@ -5370,9 +5370,9 @@ http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/46894
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/46895
 #EXTINF:-1 tvg-id="" tvg-name="Dazn F1 UHD" tvg-logo="https://i.postimg.cc/c1VLTfj7/UHD.png" group-title="Server 6⭐️ VPN",Dazn F1 UHD
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/47047
-#EXTINF:-1 tvg-id="" tvg-name="#VAMOS" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/vamos.png" group-title="Server 6⭐️ VPN",#VAMOS
+#EXTINF:-1 tvg-id="" tvg-name="M+ #VAMOS HD" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/vamos.png" group-title="Server 6⭐️ VPN",M+ #VAMOS HD
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/642
-#EXTINF:-1 tvg-id="" tvg-name="#VAMOS" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/vamos.png" group-title="Server 6⭐️ VPN",#VAMOS
+#EXTINF:-1 tvg-id="" tvg-name="M+ #VAMOS HD" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/vamos.png" group-title="Server 6⭐️ VPN",M+ #VAMOS HD
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/643
 #EXTINF:-1 tvg-id="" tvg-name="M+ Golf" tvg-logo="https://logo.iptveditor.com/mgolf.png" group-title="Server 6⭐️ VPN",M+ Golf
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/653
@@ -5386,7 +5386,7 @@ http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/659
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/662
 #EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV" tvg-logo="https://i.imgur.com/xsuhBMd.png" group-title="Server 6⭐️ VPN",Real Madrid TV
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/676
-#EXTINF:-1 tvg-id="" tvg-name="ELLAS #V" tvg-logo="https://gtswiki.gt-beginners.net/decal/png/32/06/62/5116653309927620632_1.png" group-title="Server 6⭐️ VPN",ELLAS #V
+#EXTINF:-1 tvg-id="" tvg-name="M+ ELLAS #V HD" tvg-logo="https://gtswiki.gt-beginners.net/decal/png/32/06/62/5116653309927620632_1.png" group-title="Server 6⭐️ VPN",M+ ELLAS #V HD
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/700
 #EXTINF:-1 tvg-id="" tvg-name="GOL PLAY" tvg-logo="https://logo.iptveditor.com/gol.png" group-title="Server 6⭐️ VPN",GOL PLAY
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/703
@@ -5480,7 +5480,7 @@ http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/403
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/404
 #EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga HYPERMOTION M2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="Server 6⭐️ VPN",M+ LaLiga HYPERMOTION M2
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/409
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga HYPERMOTION M2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="Server 6⭐️ VPN",VLaLiga HYPERMOTION M2
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga HYPERMOTION M2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="Server 6⭐️ VPN",M+ LaLiga HYPERMOTION M2
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/411
 #EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga HYPERMOTION M2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="Server 6⭐️ VPN",M+ LaLiga HYPERMOTION M2
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/412

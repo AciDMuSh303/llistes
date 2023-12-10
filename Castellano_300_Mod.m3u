@@ -207,9 +207,9 @@ http://sansat.net:88/02000650970977/02000650970977/127687
 http://sansat.net:88/02000650970977/02000650970977/127676
 #EXTINF:-1 tvg-id="movistarestrenos2.es" tvg-name="M.ESTRENOS 2 HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/M+_ESTRENOS_2_HD.png" group-title="Server 0⭐️",M.ESTRENOS 2 HD
 http://sansat.net:88/02000650970977/02000650970977/164749
-#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M. ACCION" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M._ACCION_HD.png" group-title="Server 0⭐️",M. ACCION
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M+ ACCIÓN" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M._ACCION_HD.png" group-title="Server 0⭐️",M+ ACCIÓN
 http://sansat.net:88/02000650970977/02000650970977/127688
-#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M. ACCION" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M._ACCION_HD.png" group-title="Server 0⭐️",M. ACCION
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M+ ACCIÓN" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M._ACCION_HD.png" group-title="Server 0⭐️",M+ ACCIÓN
 http://sansat.net:88/02000650970977/02000650970977/127677
 #EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="M. COMEDIA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.COMEDIA_HD.png" group-title="Server 0⭐️",M. COMEDIA
 http://sansat.net:88/02000650970977/02000650970977/127689
@@ -3727,11 +3727,11 @@ http://970268178885321294.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/321294.ts
 http://970268178885321300.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/321300.ts
 #EXTINF:-1 tvg-id="" tvg-name="MEGA SD" tvg-logo="" group-title="Server 2⭐️",MEGA SD
 http://970268178885321301.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/321301.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ ACCION FHD" tvg-logo="" group-title="Server 2⭐️",M+ ACCION FHD
+#EXTINF:-1 tvg-id="" tvg-name="M+ ACCIÓN FHD" tvg-logo="" group-title="Server 2⭐️",M+ ACCIÓN FHD
 http://970268178885321305.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/321305.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ ACCION HD" tvg-logo="" group-title="Server 2⭐️",M+ ACCION HD
+#EXTINF:-1 tvg-id="" tvg-name="M+ ACCIÓN HD" tvg-logo="" group-title="Server 2⭐️",M+ ACCIÓN HD
 http://970268178885321306.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/321306.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ ACCION SD" tvg-logo="" group-title="Server 2⭐️",M+ ACCION SD
+#EXTINF:-1 tvg-id="" tvg-name="M+ ACCIÓN SD" tvg-logo="" group-title="Server 2⭐️",M+ ACCIÓN SD
 http://970268178885321307.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/321307.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ CLASICOS FHD" tvg-logo="" group-title="Server 2⭐️",M+ CLASICOS FHD
 http://970268178885321314.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/321314.ts
@@ -8090,9 +8090,9 @@ http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/139186.ts
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/139187.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ CLASSICA" tvg-logo="" group-title="Server 7⭐️",M+ CLASSICA
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/139188.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ ACCION FHD" tvg-logo="" group-title="Server 7⭐️",M+ ACCION FHD
+#EXTINF:-1 tvg-id="" tvg-name="M+ ACCIÓN FHD" tvg-logo="" group-title="Server 7⭐️",M+ ACCIÓN FHD
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/139189.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ ACCION" tvg-logo="" group-title="Server 7⭐️",M+ ACCION
+#EXTINF:-1 tvg-id="" tvg-name="M+ ACCIÓN" tvg-logo="" group-title="Server 7⭐️",M+ ACCIÓN
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/139190.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ COMEDIA" tvg-logo="" group-title="Server 7⭐️",M+ COMEDIA
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/139191.ts

@@ -99,9 +99,9 @@ http://sansat.net:88/02000650970977/02000650970977/127752
 http://sansat.net:88/02000650970977/02000650970977/127767
 #EXTINF:-1 tvg-id="odisea.es" tvg-name="CANAL ODISEA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CANAL_ODISEA.png" group-title="Server 0⭐️",CANAL ODISEA
 http://sansat.net:88/02000650970977/02000650970977/127753
-#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DISCOVERY.png" group-title="Server 0⭐️",DISCOVERY HD
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="DISCOVERY HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DISCOVERY.png" group-title="Server 0⭐️",DISCOVERY HD
 http://sansat.net:88/02000650970977/02000650970977/127768
-#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DISCOVERY.png" group-title="Server 0⭐️",DISCOVERY HD
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="DISCOVERY HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/DISCOVERY.png" group-title="Server 0⭐️",DISCOVERY HD
 http://sansat.net:88/02000650970977/02000650970977/127754
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CRIME INVESTIGATION" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CRIMEN+INVES.png" group-title="Server 0⭐️",DISCOVERY CRIME INVESTIGATION
 http://sansat.net:88/02000650970977/02000650970977/127769
@@ -980,7 +980,7 @@ http://955079601913640161.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/640161.ts
 http://955079601913641022.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/641022.ts
 #EXTINF:-1 tvg-id="ETB 3" tvg-name="ETB 3 SD" tvg-logo="" group-title="Server 1⭐️",ETB 3 SD
 http://955079601913644017.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/644017.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNELS HD" tvg-logo="" group-title="Server 1⭐️",DISCOVERY CHANNELS HD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERYS HD" tvg-logo="" group-title="Server 1⭐️",DISCOVERYS HD
 http://955079601913644677.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/644677.ts
 #EXTINF:-1 tvg-id="" tvg-name="MTV DANCE HD" tvg-logo="" group-title="Server 1⭐️",MTV DANCE HD
 http://955079601913648165.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/648165.ts
@@ -1816,11 +1816,11 @@ http://955079601913321204.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/321204.ts
 http://955079601913321205.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/321205.ts
 #EXTINF:-1 tvg-id="" tvg-name="DECASA SD" tvg-logo="" group-title="Server 1⭐️",DECASA SD
 http://955079601913321206.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/321206.ts
-#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="" group-title="Server 1⭐️",DISCOVERY CHANNEL SD
+#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="DISCOVERY SD" tvg-logo="" group-title="Server 1⭐️",DISCOVERY SD
 http://955079601913321209.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/321209.ts
-#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="DISCOVERY CHANNELS FHD" tvg-logo="" group-title="Server 1⭐️",DISCOVERY CHANNELS FHD
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="DISCOVERYS FHD" tvg-logo="" group-title="Server 1⭐️",DISCOVERYS FHD
 http://955079601913321210.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/321210.ts
-#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY CHANNELS SD" tvg-logo="" group-title="Server 1⭐️",DISCOVERY CHANNELS SD
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERYS SD" tvg-logo="" group-title="Server 1⭐️",DISCOVERYS SD
 http://955079601913321212.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/321212.ts
 #EXTINF:-1 tvg-id="DISNEY CH HD" tvg-name="DISNEY CHANNEL FHD" tvg-logo="" group-title="Server 1⭐️",DISNEY CHANNEL FHD
 http://955079601913321214.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/321214.ts
@@ -2748,7 +2748,7 @@ http://955079601913568193.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/568193.ts
 http://955079601913568194.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/568194.ts
 #EXTINF:-1 tvg-id="" tvg-name="ZAFRA TV FHD" tvg-logo="" group-title="Server 1⭐️",ZAFRA TV FHD
 http://955079601913568197.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/568197.ts
-#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="" group-title="Server 1⭐️",DISCOVERY CHANNEL FHD
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY FHD" tvg-logo="" group-title="Server 1⭐️",DISCOVERY FHD
 http://955079601913571900.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/571900.ts
 #EXTINF:-1 tvg-id="" tvg-name="ELCHE7 TV FHD" tvg-logo="" group-title="Server 1⭐️",ELCHE7 TV FHD
 http://955079601913571901.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/571901.ts
@@ -3655,9 +3655,9 @@ http://970268178885321194.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/321194.ts
 http://970268178885321203.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/321203.ts
 #EXTINF:-1 tvg-id="" tvg-name="DECASA SD" tvg-logo="" group-title="Server 2⭐️",DECASA SD
 http://970268178885321206.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/321206.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="" group-title="Server 2⭐️",DISCOVERY CHANNEL SD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SD" tvg-logo="" group-title="Server 2⭐️",DISCOVERY SD
 http://970268178885321209.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/321209.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNELS SD" tvg-logo="" group-title="Server 2⭐️",DISCOVERY CHANNELS SD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERYS SD" tvg-logo="" group-title="Server 2⭐️",DISCOVERYS SD
 http://970268178885321212.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/321212.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL FHD" tvg-logo="" group-title="Server 2⭐️",DISNEY CHANNEL FHD
 http://970268178885321214.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/321214.ts
@@ -4919,7 +4919,7 @@ http://970268178885683906.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/683906.ts
 http://970268178885683907.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/683907.ts
 #EXTINF:-1 tvg-id="" tvg-name="CLASSICA FHD" tvg-logo="" group-title="Server 2⭐️",CLASSICA FHD
 http://970268178885683908.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/683908.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNELS FHD" tvg-logo="" group-title="Server 2⭐️",DISCOVERY CHANNELS FHD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERYS FHD" tvg-logo="" group-title="Server 2⭐️",DISCOVERYS FHD
 http://970268178885683909.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/683909.ts
 #EXTINF:-1 tvg-id="" tvg-name="GOL PLAY SD" tvg-logo="" group-title="Server 2⭐️",GOL PLAY SD
 http://970268178885683910.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/683910.ts
@@ -4945,7 +4945,7 @@ http://970268178885684830.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/684830.ts
 http://970268178885684831.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/684831.ts
 #EXTINF:-1 tvg-id="" tvg-name="4VTELEVISION BOLLULLOS SD" tvg-logo="" group-title="Server 2⭐️",4VTELEVISION BOLLULLOS SD
 http://970268178885687030.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/687030.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="" group-title="Server 2⭐️",DISCOVERY CHANNEL FHD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FHD" tvg-logo="" group-title="Server 2⭐️",DISCOVERY FHD
 http://970268178885687031.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/687031.ts
 #EXTINF:-1 tvg-id="" tvg-name="DIVINITY HD" tvg-logo="" group-title="Server 2⭐️",DIVINITY HD
 http://970268178885687032.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/687032.ts
@@ -5095,7 +5095,7 @@ http://970268178885708129.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/708129.ts
 http://970268178885708130.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/708130.ts
 #EXTINF:-1 tvg-id="" tvg-name="VH1 CLASSICS HD" tvg-logo="" group-title="Server 2⭐️",VH1 CLASSICS HD
 http://970268178885708131.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/708131.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNELS HD" tvg-logo="" group-title="Server 2⭐️",DISCOVERY CHANNELS HD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERYS HD" tvg-logo="" group-title="Server 2⭐️",DISCOVERYS HD
 http://970268178885708582.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/708582.ts
 #EXTINF:-1 tvg-id="" tvg-name="24H CANARIAS HD" tvg-logo="" group-title="Server 2⭐️",24H CANARIAS HD
 http://970268178885709327.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/709327.ts
@@ -5686,9 +5686,9 @@ http://625258466418321194.ofip231209.xyz:80/play/Ferna1117/7766585AA2/321194.ts
 http://625258466418321203.ofip231209.xyz:80/play/Ferna1117/7766585AA2/321203.ts
 #EXTINF:-1 tvg-id="" tvg-name="DECASA SD" tvg-logo="" group-title="Server 3⭐️",DECASA SD
 http://625258466418321206.ofip231209.xyz:80/play/Ferna1117/7766585AA2/321206.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="" group-title="Server 3⭐️",DISCOVERY CHANNEL SD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SD" tvg-logo="" group-title="Server 3⭐️",DISCOVERY SD
 http://625258466418321209.ofip231209.xyz:80/play/Ferna1117/7766585AA2/321209.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="" group-title="Server 3⭐️",DISCOVERY CHANNEL SD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SD" tvg-logo="" group-title="Server 3⭐️",DISCOVERY SD
 http://625258466418321212.ofip231209.xyz:80/play/Ferna1117/7766585AA2/321212.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL FHD" tvg-logo="" group-title="Server 3⭐️",DISNEY CHANNEL FHD
 http://625258466418321214.ofip231209.xyz:80/play/Ferna1117/7766585AA2/321214.ts
@@ -6964,7 +6964,7 @@ http://625258466418683905.ofip231209.xyz:80/play/Ferna1117/7766585AA2/683905.ts
 http://625258466418683907.ofip231209.xyz:80/play/Ferna1117/7766585AA2/683907.ts
 #EXTINF:-1 tvg-id="" tvg-name="CLASSICA FHD" tvg-logo="" group-title="Server 3⭐️",CLASSICA FHD
 http://625258466418683908.ofip231209.xyz:80/play/Ferna1117/7766585AA2/683908.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="" group-title="Server 3⭐️",DISCOVERY CHANNEL FHD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FHD" tvg-logo="" group-title="Server 3⭐️",DISCOVERY FHD
 http://625258466418683909.ofip231209.xyz:80/play/Ferna1117/7766585AA2/683909.ts
 #EXTINF:-1 tvg-id="" tvg-name="GOL PLAY SD" tvg-logo="" group-title="Server 3⭐️",GOL PLAY SD
 http://625258466418683910.ofip231209.xyz:80/play/Ferna1117/7766585AA2/683910.ts
@@ -6990,7 +6990,7 @@ http://625258466418684831.ofip231209.xyz:80/play/Ferna1117/7766585AA2/684831.ts
 http://625258466418686344.ofip231209.xyz:80/play/Ferna1117/7766585AA2/686344.ts
 #EXTINF:-1 tvg-id="" tvg-name="4VTELEVISION BOLLULLOS SD" tvg-logo="" group-title="Server 3⭐️",4VTELEVISION BOLLULLOS SD
 http://625258466418687030.ofip231209.xyz:80/play/Ferna1117/7766585AA2/687030.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="" group-title="Server 3⭐️",DISCOVERY CHANNEL FHD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FHD" tvg-logo="" group-title="Server 3⭐️",DISCOVERY FHD
 http://625258466418687031.ofip231209.xyz:80/play/Ferna1117/7766585AA2/687031.ts
 #EXTINF:-1 tvg-id="" tvg-name="DIVINITY HD" tvg-logo="" group-title="Server 3⭐️",DIVINITY HD
 http://625258466418687032.ofip231209.xyz:80/play/Ferna1117/7766585AA2/687032.ts
@@ -7176,7 +7176,7 @@ http://625258466418708129.ofip231209.xyz:80/play/Ferna1117/7766585AA2/708129.ts
 http://625258466418708130.ofip231209.xyz:80/play/Ferna1117/7766585AA2/708130.ts
 #EXTINF:-1 tvg-id="" tvg-name="VH1 CLASSICS HD" tvg-logo="" group-title="Server 3⭐️",VH1 CLASSICS HD
 http://625258466418708131.ofip231209.xyz:80/play/Ferna1117/7766585AA2/708131.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="" group-title="Server 3⭐️",DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HD" tvg-logo="" group-title="Server 3⭐️",DISCOVERY HD
 http://625258466418708582.ofip231209.xyz:80/play/Ferna1117/7766585AA2/708582.ts
 #EXTINF:-1 tvg-id="" tvg-name="RAKUTEN TV FAMILY HD" tvg-logo="" group-title="Server 3⭐️",RAKUTEN TV FAMILY HD
 http://625258466418709262.ofip231209.xyz:80/play/Ferna1117/7766585AA2/709262.ts
@@ -7343,7 +7343,7 @@ http://968136665933326817.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/326817.ts
 http://968136665933383406.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/383406.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/discoverychannel2.png" group-title="Server 5⭐️",DISCOVERY HD
 http://968136665933384244.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/384244.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNELS FHD" tvg-logo="" group-title="Server 5⭐️",DISCOVERY CHANNELS FHD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERYS FHD" tvg-logo="" group-title="Server 5⭐️",DISCOVERYS FHD
 http://968136665933683909.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/683909.ts
 #EXTINF:-1 tvg-id="LA 1" tvg-name="CANAL COCINA FHD" tvg-logo="https://miguia.tv/channels/big_43.png" group-title="Server 5⭐️",CANAL COCINA FHD
 http://968136665933321147.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321147.ts
@@ -10268,7 +10268,7 @@ http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/139321.ts
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/139115.ts
 #EXTINF:-1 tvg-id="" tvg-name="CANAL ORBE 21" tvg-logo="" group-title="Server 7⭐️",CANAL ORBE 21
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/139116.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="Server 7⭐️",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="" group-title="Server 7⭐️",DISCOVERY
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/139121.ts
 #EXTINF:-1 tvg-id="" tvg-name="FACTORIA DE FICCION" tvg-logo="" group-title="Server 7⭐️",FACTORIA DE FICCION
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/139122.ts

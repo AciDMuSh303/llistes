@@ -169,9 +169,9 @@ http://sansat.net:88/02000650970977/02000650970977/127707
 http://sansat.net:88/02000650970977/02000650970977/127728
 #EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="IBERALIA TV" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/IBERALIA_TV.png" group-title="Server 0⭐️",IBERALIA TV
 http://sansat.net:88/02000650970977/02000650970977/127708
-#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="CANAL DE CASA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CANAL_DECASA.png" group-title="Server 0⭐️",CANAL DE CASA
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="DECASA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CANAL_DECASA.png" group-title="Server 0⭐️",DECASA
 http://sansat.net:88/02000650970977/02000650970977/127729
-#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="CANAL DE CASA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CANAL_DECASA.png" group-title="Server 0⭐️",CANAL DE CASA
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="DECASA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CANAL_DECASA.png" group-title="Server 0⭐️",DECASA
 http://sansat.net:88/02000650970977/02000650970977/127709
 #EXTINF:-1 tvg-id="amc.es" tvg-name="AMC" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/AMC_HD.png" group-title="Server 0⭐️",AMC
 http://sansat.net:88/02000650970977/02000650970977/127730
@@ -988,7 +988,7 @@ http://955079601913648165.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/648165.ts
 http://955079601913649967.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/649967.ts
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 4 TENERIFE SD" tvg-logo="" group-title="Server 1⭐️",CANAL 4 TENERIFE SD
 http://955079601913658808.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/658808.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL DE CASA HD" tvg-logo="" group-title="Server 1⭐️",CANAL DE CASA HD
+#EXTINF:-1 tvg-id="" tvg-name="DECASA HD" tvg-logo="" group-title="Server 1⭐️",DECASA HD
 http://955079601913658809.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/658809.ts
 #EXTINF:-1 tvg-id="" tvg-name="CANAL HUELVA HD" tvg-logo="" group-title="Server 1⭐️",CANAL HUELVA HD
 http://955079601913658811.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/658811.ts
@@ -2946,7 +2946,7 @@ http://955079601913658805.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/658805.ts
 http://955079601913658806.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/658806.ts
 #EXTINF:-1 tvg-id="" tvg-name="BON DIA TV FHD" tvg-logo="" group-title="Server 1⭐️",BON DIA TV FHD
 http://955079601913658807.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/658807.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL DE CASA SD" tvg-logo="" group-title="Server 1⭐️",CANAL DE CASA SD
+#EXTINF:-1 tvg-id="" tvg-name="DECASA SD" tvg-logo="" group-title="Server 1⭐️",DECASA SD
 http://955079601913658810.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/658810.ts
 #EXTINF:-1 tvg-id="" tvg-name="CANAL MALAGA RTV HD" tvg-logo="" group-title="Server 1⭐️",CANAL MALAGA RTV HD
 http://955079601913658812.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/658812.ts
@@ -9336,7 +9336,7 @@ http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/1219
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/1220
 #EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV" tvg-logo="https://www.iberaliago.com/static/images/logo/logo-vertical.png" group-title="Server 6⭐️ VPN",IBERALIA TV
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/1223
-#EXTINF:-1 tvg-id="" tvg-name="DECASA 4K" tvg-logo="https://www.neeo.es/wp-content/uploads/2016/05/decasa-4K.png" group-title="Server 6⭐️ VPN",DECASA 4K
+#EXTINF:-1 tvg-id="" tvg-name="DECASA" tvg-logo="https://www.neeo.es/wp-content/uploads/2016/05/decasa-4K.png" group-title="Server 6⭐️ VPN",DECASA
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/1224
 #EXTINF:-1 tvg-id="" tvg-name="M+ NEGOCIOS" tvg-logo="https://pbs.twimg.com/profile_images/1348574671692816384/g-T6kUxu_400x400.png" group-title="Server 6⭐️ VPN",M+ NEGOCIOS
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/993
@@ -9836,7 +9836,7 @@ http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/59726.ts
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/59727.ts
 #EXTINF:-1 tvg-id="" tvg-name="AMC FHD" tvg-logo="" group-title="Server 7⭐️",AMC FHD
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/59728.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL DECASA" tvg-logo="" group-title="Server 7⭐️",CANAL DECASA
+#EXTINF:-1 tvg-id="" tvg-name="DECASA" tvg-logo="" group-title="Server 7⭐️",DECASA
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/59729.ts
 #EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA" tvg-logo="" group-title="Server 7⭐️",CANAL COCINA
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/59730.ts

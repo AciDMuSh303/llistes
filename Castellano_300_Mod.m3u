@@ -431,7 +431,7 @@ http://sansat.net:88/02000650970977/02000650970977/388936
 http://sansat.net:88/02000650970977/02000650970977/127847
 #EXTINF:-1 tvg-id="gol.es" tvg-name="GOL TV" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/GOL.png" group-title="Server 0⭐️",GOL TV
 http://sansat.net:88/02000650970977/02000650970977/127830
-#EXTINF:-1 tvg-id="" tvg-name="M+ ELLAS HD" tvg-logo="http://vodkom.com:25461/Logo//ESPANOL/M+ELLAS.png" group-title="Server 0⭐️",M+ ELLAS HD
+#EXTINF:-1 tvg-id="" tvg-name="M+ Ellas Vamos HD" tvg-logo="http://vodkom.com:25461/Logo//ESPANOL/M+ELLAS.png" group-title="Server 0⭐️",M+ Ellas Vamos HD
 http://sansat.net:88/02000650970977/02000650970977/194255
 #EXTINF:-1 tvg-id="" tvg-name="M+ CLÁSICOS" tvg-logo="http://vodkom.com:25461/Logo//ESPANOL/M+CLASICOS.png" group-title="Server 0⭐️",M+ CLÁSICOS
 http://sansat.net:88/02000650970977/02000650970977/194256
@@ -714,7 +714,7 @@ http://955079601913290784.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/290784.ts
 http://955079601913340039.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/340039.ts
 #EXTINF:-1 tvg-id="" tvg-name="DBIKE HD" tvg-logo="" group-title="Server 1⭐️",DBIKE HD
 http://955079601913466753.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/466753.ts
-#EXTINF:-1 tvg-id="" tvg-name="ELLAS #V HD" tvg-logo="" group-title="Server 1⭐️",ELLAS #V HD
+#EXTINF:-1 tvg-id="" tvg-name="M+ Ellas Vamos HD" tvg-logo="" group-title="Server 1⭐️",M+ Ellas Vamos HD
 http://955079601913466755.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/466755.ts
 #EXTINF:-1 tvg-id="" tvg-name="MOTO ADV HD" tvg-logo="" group-title="Server 1⭐️",MOTO ADV HD
 http://955079601913466762.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/466762.ts
@@ -726,7 +726,7 @@ http://955079601913538765.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/538765.ts
 http://955079601913542582.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/542582.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ REAL MADRID TV FHD" tvg-logo="" group-title="Server 1⭐️",M+ REAL MADRID TV FHD
 http://955079601913542873.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/542873.ts
-#EXTINF:-1 tvg-id="" tvg-name="ELLAS #V FHD" tvg-logo="" group-title="Server 1⭐️",ELLAS #V FHD
+#EXTINF:-1 tvg-id="" tvg-name="M+ Ellas Vamos FHD" tvg-logo="" group-title="Server 1⭐️",M+ Ellas Vamos FHD
 http://955079601913542877.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/542877.ts
 #EXTINF:-1 tvg-id="" tvg-name="TELEMADRID INT FHD" tvg-logo="" group-title="Server 1⭐️",TELEMADRID INT FHD
 http://955079601913544103.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/544103.ts
@@ -742,7 +742,7 @@ http://955079601913594964.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/594964.ts
 http://955079601913607435.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/607435.ts
 #EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="REAL MADRID TV HD" tvg-logo="" group-title="Server 1⭐️",REAL MADRID TV HD
 http://955079601913631807.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/631807.ts
-#EXTINF:-1 tvg-id="" tvg-name="ELLAS #V SD" tvg-logo="" group-title="Server 1⭐️",ELLAS #V SD
+#EXTINF:-1 tvg-id="" tvg-name="M+ Ellas Vamos SD" tvg-logo="" group-title="Server 1⭐️",M+ Ellas Vamos SD
 http://955079601913639620.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/639620.ts
 #EXTINF:-1 tvg-id="" tvg-name="TELEMADRID INT. FHD" tvg-logo="" group-title="Server 1⭐️",TELEMADRID INT. FHD
 http://955079601913639621.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/639621.ts
@@ -900,7 +900,7 @@ http://955079601913543736.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/543736.ts
 http://955079601913543737.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/543737.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ CLASSICOS FHD" tvg-logo="" group-title="Server 1⭐️",M+ CLASSICOS FHD
 http://955079601913543743.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/543743.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ ELLAS FHD" tvg-logo="" group-title="Server 1⭐️",M+ ELLAS FHD
+#EXTINF:-1 tvg-id="" tvg-name="M+ Ellas Vamos FHD" tvg-logo="" group-title="Server 1⭐️",M+ Ellas Vamos FHD
 http://955079601913543744.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/543744.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ SUPERAGENTES FHD" tvg-logo="" group-title="Server 1⭐️",M+ SUPERAGENTES FHD
 http://955079601913543745.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/543745.ts
@@ -924,7 +924,7 @@ http://955079601913543755.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/543755.ts
 http://955079601913550856.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/550856.ts
 #EXTINF:-1 tvg-id="" tvg-name="A PUNT FHD" tvg-logo="" group-title="Server 1⭐️",A PUNT FHD
 http://955079601913556712.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/556712.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ ELLAS SD" tvg-logo="" group-title="Server 1⭐️",M+ ELLAS SD
+#EXTINF:-1 tvg-id="" tvg-name="M+ Ellas Vamos SD" tvg-logo="" group-title="Server 1⭐️",M+ Ellas Vamos SD
 http://955079601913556713.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/556713.ts
 #EXTINF:-1 tvg-id="viajar.es" tvg-name="VIAJAR FHD" tvg-logo="" group-title="Server 1⭐️",VIAJAR FHD
 http://955079601913558674.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/558674.ts
@@ -4159,7 +4159,7 @@ http://970268178885464391.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/464391.ts
 http://970268178885466564.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/466564.ts
 #EXTINF:-1 tvg-id="" tvg-name="DBIKE HD" tvg-logo="" group-title="Server 2⭐️",DBIKE HD
 http://970268178885466753.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/466753.ts
-#EXTINF:-1 tvg-id="" tvg-name="ELLAS #V HD" tvg-logo="" group-title="Server 2⭐️",ELLAS #V HD
+#EXTINF:-1 tvg-id="" tvg-name="M+ Ellas Vamos HD" tvg-logo="" group-title="Server 2⭐️",M+ Ellas Vamos HD
 http://970268178885466755.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/466755.ts
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 FHD" tvg-logo="" group-title="Server 2⭐️",EUROSPORT 1 FHD
 http://970268178885466756.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/466756.ts
@@ -4383,7 +4383,7 @@ http://970268178885542581.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/542581.ts
 http://970268178885542582.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/542582.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ REAL MADRID TV FHD" tvg-logo="" group-title="Server 2⭐️",M+ REAL MADRID TV FHD
 http://970268178885542873.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/542873.ts
-#EXTINF:-1 tvg-id="" tvg-name="ELLAS #V FHD" tvg-logo="" group-title="Server 2⭐️",ELLAS #V FHD
+#EXTINF:-1 tvg-id="" tvg-name="M+ Ellas Vamos FHD" tvg-logo="" group-title="Server 2⭐️",M+ Ellas Vamos FHD
 http://970268178885542877.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/542877.ts
 #EXTINF:-1 tvg-id="" tvg-name="ARAGU00F3N TV INT SD" tvg-logo="" group-title="Server 2⭐️",ARAGU00F3N TV INT SD
 http://970268178885543731.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/543731.ts
@@ -4405,7 +4405,7 @@ http://970268178885543738.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/543738.ts
 http://970268178885543742.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/543742.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ CLASSICOS FHD" tvg-logo="" group-title="Server 2⭐️",M+ CLASSICOS FHD
 http://970268178885543743.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/543743.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ ELLAS FHD" tvg-logo="" group-title="Server 2⭐️",M+ ELLAS FHD
+#EXTINF:-1 tvg-id="" tvg-name="M+ Ellas Vamos FHD" tvg-logo="" group-title="Server 2⭐️",M+ Ellas Vamos FHD
 http://970268178885543744.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/543744.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ SUPERAGENTES FHD" tvg-logo="" group-title="Server 2⭐️",M+ SUPERAGENTES FHD
 http://970268178885543745.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/543745.ts
@@ -4631,7 +4631,7 @@ http://970268178885638214.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/638214.ts
 http://970268178885638215.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/638215.ts
 #EXTINF:-1 tvg-id="" tvg-name="LA OTRA SD" tvg-logo="" group-title="Server 2⭐️",LA OTRA SD
 http://970268178885639359.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/639359.ts
-#EXTINF:-1 tvg-id="" tvg-name="ELLAS #V SD" tvg-logo="" group-title="Server 2⭐️",ELLAS #V SD
+#EXTINF:-1 tvg-id="" tvg-name="M+ Ellas Vamos SD" tvg-logo="" group-title="Server 2⭐️",M+ Ellas Vamos SD
 http://970268178885639620.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/639620.ts
 #EXTINF:-1 tvg-id="" tvg-name="TELEMADRID INT. FHD" tvg-logo="" group-title="Server 2⭐️",TELEMADRID INT. FHD
 http://970268178885639621.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/639621.ts
@@ -4811,11 +4811,11 @@ http://970268178885680029.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/680029.ts
 http://970268178885680030.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/680030.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ CLÃ¡SICOS SD" tvg-logo="" group-title="Server 2⭐️",M+ CLÃ¡SICOS SD
 http://970268178885680031.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/680031.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ ELLAS #V FHD" tvg-logo="" group-title="Server 2⭐️",M+ ELLAS #V FHD
+#EXTINF:-1 tvg-id="" tvg-name="M+ Ellas Vamos FHD" tvg-logo="" group-title="Server 2⭐️",M+ Ellas Vamos FHD
 http://970268178885680032.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/680032.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ ELLAS #V HD" tvg-logo="" group-title="Server 2⭐️",M+ ELLAS #V HD
+#EXTINF:-1 tvg-id="" tvg-name="M+ Ellas Vamos HD" tvg-logo="" group-title="Server 2⭐️",M+ Ellas Vamos HD
 http://970268178885680033.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/680033.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ ELLAS #V SD" tvg-logo="" group-title="Server 2⭐️",M+ ELLAS #V SD
+#EXTINF:-1 tvg-id="" tvg-name="M+ Ellas Vamos SD" tvg-logo="" group-title="Server 2⭐️",M+ Ellas Vamos SD
 http://970268178885680034.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/680034.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ SAGAS FHD" tvg-logo="" group-title="Server 2⭐️",M+ SAGAS FHD
 http://970268178885680035.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/680035.ts
@@ -6203,7 +6203,7 @@ http://625258466418464391.ofip231209.xyz:80/play/Ferna1117/7766585AA2/464391.ts
 http://625258466418466564.ofip231209.xyz:80/play/Ferna1117/7766585AA2/466564.ts
 #EXTINF:-1 tvg-id="" tvg-name="DBIKE HD" tvg-logo="" group-title="Server 3⭐️",DBIKE HD
 http://625258466418466753.ofip231209.xyz:80/play/Ferna1117/7766585AA2/466753.ts
-#EXTINF:-1 tvg-id="" tvg-name="ELLAS #V HD" tvg-logo="" group-title="Server 3⭐️",ELLAS #V HD
+#EXTINF:-1 tvg-id="" tvg-name="M+ Ellas Vamos HD" tvg-logo="" group-title="Server 3⭐️",M+ Ellas Vamos HD
 http://625258466418466755.ofip231209.xyz:80/play/Ferna1117/7766585AA2/466755.ts
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 FHD" tvg-logo="" group-title="Server 3⭐️",EUROSPORT 1 FHD
 http://625258466418466756.ofip231209.xyz:80/play/Ferna1117/7766585AA2/466756.ts
@@ -6429,7 +6429,7 @@ http://625258466418542581.ofip231209.xyz:80/play/Ferna1117/7766585AA2/542581.ts
 http://625258466418542582.ofip231209.xyz:80/play/Ferna1117/7766585AA2/542582.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ REAL MADRID TV FHD" tvg-logo="" group-title="Server 3⭐️",M+ REAL MADRID TV FHD
 http://625258466418542873.ofip231209.xyz:80/play/Ferna1117/7766585AA2/542873.ts
-#EXTINF:-1 tvg-id="" tvg-name="ELLAS #V FHD" tvg-logo="" group-title="Server 3⭐️",ELLAS #V FHD
+#EXTINF:-1 tvg-id="" tvg-name="M+ Ellas Vamos FHD" tvg-logo="" group-title="Server 3⭐️",M+ Ellas Vamos FHD
 http://625258466418542877.ofip231209.xyz:80/play/Ferna1117/7766585AA2/542877.ts
 #EXTINF:-1 tvg-id="" tvg-name="ARAGU00F3N TV INT SD" tvg-logo="" group-title="Server 3⭐️",ARAGU00F3N TV INT SD
 http://625258466418543731.ofip231209.xyz:80/play/Ferna1117/7766585AA2/543731.ts
@@ -6451,7 +6451,7 @@ http://625258466418543738.ofip231209.xyz:80/play/Ferna1117/7766585AA2/543738.ts
 http://625258466418543742.ofip231209.xyz:80/play/Ferna1117/7766585AA2/543742.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ CLASSICOS FHD" tvg-logo="" group-title="Server 3⭐️",M+ CLASSICOS FHD
 http://625258466418543743.ofip231209.xyz:80/play/Ferna1117/7766585AA2/543743.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ ELLAS FHD" tvg-logo="" group-title="Server 3⭐️",M+ ELLAS FHD
+#EXTINF:-1 tvg-id="" tvg-name="M+ Ellas Vamos FHD" tvg-logo="" group-title="Server 3⭐️",M+ Ellas Vamos FHD
 http://625258466418543744.ofip231209.xyz:80/play/Ferna1117/7766585AA2/543744.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ SUPERAGENTES FHD" tvg-logo="" group-title="Server 3⭐️",M+ SUPERAGENTES FHD
 http://625258466418543745.ofip231209.xyz:80/play/Ferna1117/7766585AA2/543745.ts
@@ -6675,7 +6675,7 @@ http://625258466418638214.ofip231209.xyz:80/play/Ferna1117/7766585AA2/638214.ts
 http://625258466418638215.ofip231209.xyz:80/play/Ferna1117/7766585AA2/638215.ts
 #EXTINF:-1 tvg-id="" tvg-name="LA OTRA SD" tvg-logo="" group-title="Server 3⭐️",LA OTRA SD
 http://625258466418639359.ofip231209.xyz:80/play/Ferna1117/7766585AA2/639359.ts
-#EXTINF:-1 tvg-id="" tvg-name="ELLAS #V SD" tvg-logo="" group-title="Server 3⭐️",ELLAS #V SD
+#EXTINF:-1 tvg-id="" tvg-name="M+ Ellas Vamos SD" tvg-logo="" group-title="Server 3⭐️",M+ Ellas Vamos SD
 http://625258466418639620.ofip231209.xyz:80/play/Ferna1117/7766585AA2/639620.ts
 #EXTINF:-1 tvg-id="" tvg-name="TELEMADRID INT. FHD" tvg-logo="" group-title="Server 3⭐️",TELEMADRID INT. FHD
 http://625258466418639621.ofip231209.xyz:80/play/Ferna1117/7766585AA2/639621.ts
@@ -6861,11 +6861,11 @@ http://625258466418680029.ofip231209.xyz:80/play/Ferna1117/7766585AA2/680029.ts
 http://625258466418680030.ofip231209.xyz:80/play/Ferna1117/7766585AA2/680030.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ CLÃ¡SICOS SD" tvg-logo="" group-title="Server 3⭐️",M+ CLÃ¡SICOS SD
 http://625258466418680031.ofip231209.xyz:80/play/Ferna1117/7766585AA2/680031.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ ELLAS #V FHD" tvg-logo="" group-title="Server 3⭐️",M+ ELLAS #V FHD
+#EXTINF:-1 tvg-id="" tvg-name="M+ Ellas Vamos FHD" tvg-logo="" group-title="Server 3⭐️",M+ Ellas Vamos FHD
 http://625258466418680032.ofip231209.xyz:80/play/Ferna1117/7766585AA2/680032.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ ELLAS #V HD" tvg-logo="" group-title="Server 3⭐️",M+ ELLAS #V HD
+#EXTINF:-1 tvg-id="" tvg-name="M+ Ellas Vamos HD" tvg-logo="" group-title="Server 3⭐️",M+ Ellas Vamos HD
 http://625258466418680033.ofip231209.xyz:80/play/Ferna1117/7766585AA2/680033.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ ELLAS #V SD" tvg-logo="" group-title="Server 3⭐️",M+ ELLAS #V SD
+#EXTINF:-1 tvg-id="" tvg-name="M+ Ellas Vamos SD" tvg-logo="" group-title="Server 3⭐️",M+ Ellas Vamos SD
 http://625258466418680034.ofip231209.xyz:80/play/Ferna1117/7766585AA2/680034.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ SAGAS FHD" tvg-logo="" group-title="Server 3⭐️",M+ SAGAS FHD
 http://625258466418680035.ofip231209.xyz:80/play/Ferna1117/7766585AA2/680035.ts
@@ -7953,7 +7953,7 @@ http://968136665933543738.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/543738.ts
 http://968136665933543742.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/543742.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ CLASSICOS FHD" tvg-logo="" group-title="Server 5⭐️",M+ CLASSICOS FHD
 http://968136665933543743.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/543743.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ ELLAS FHD" tvg-logo="" group-title="Server 5⭐️",M+ ELLAS FHD
+#EXTINF:-1 tvg-id="" tvg-name="M+ Ellas Vamos FHD" tvg-logo="" group-title="Server 5⭐️",M+ Ellas Vamos FHD
 http://968136665933543744.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/543744.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ SUPERAGENTES FHD" tvg-logo="" group-title="Server 5⭐️",M+ SUPERAGENTES FHD
 http://968136665933543745.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/543745.ts
@@ -8194,11 +8194,11 @@ http://968136665933680029.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/680029.ts
 http://968136665933680030.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/680030.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ CLÃ¡SICOS SD" tvg-logo="" group-title="Server 5⭐️",M+ CLÃ¡SICOS SD
 http://968136665933680031.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/680031.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ ELLAS #V FHD" tvg-logo="" group-title="Server 5⭐️",M+ ELLAS #V FHD
+#EXTINF:-1 tvg-id="" tvg-name="M+ Ellas Vamos FHD" tvg-logo="" group-title="Server 5⭐️",M+ Ellas Vamos FHD
 http://968136665933680032.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/680032.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ ELLAS #V HD" tvg-logo="" group-title="Server 5⭐️",M+ ELLAS #V HD
+#EXTINF:-1 tvg-id="" tvg-name="M+ Ellas Vamos HD" tvg-logo="" group-title="Server 5⭐️",M+ Ellas Vamos HD
 http://968136665933680033.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/680033.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ ELLAS #V SD" tvg-logo="" group-title="Server 5⭐️",M+ ELLAS #V SD
+#EXTINF:-1 tvg-id="" tvg-name="M+ Ellas Vamos SD" tvg-logo="" group-title="Server 5⭐️",M+ Ellas Vamos SD
 http://968136665933680034.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/680034.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ SAGAS FHD" tvg-logo="" group-title="Server 5⭐️",M+ SAGAS FHD
 http://968136665933680035.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/680035.ts
@@ -8352,7 +8352,7 @@ http://968136665933463950.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/463950.ts
 http://968136665933463951.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/463951.ts
 #EXTINF:-1 tvg-id="" tvg-name="DBIKE HD" tvg-logo="" group-title="Server 5⭐️",DBIKE HD
 http://968136665933466753.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/466753.ts
-#EXTINF:-1 tvg-id="" tvg-name="ELLAS #V HD" tvg-logo="" group-title="Server 5⭐️",ELLAS #V HD
+#EXTINF:-1 tvg-id="" tvg-name="M+ Ellas Vamos HD" tvg-logo="" group-title="Server 5⭐️",M+ Ellas Vamos HD
 http://968136665933466755.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/466755.ts
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-name="EUROSPORT 1 FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP" group-title="Server 5⭐️",EUROSPORT 1 FHD
 http://968136665933466756.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/466756.ts
@@ -8468,7 +8468,7 @@ http://968136665933540949.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/540949.ts
 http://968136665933542582.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/542582.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ REAL MADRID TV FHD" tvg-logo="" group-title="Server 5⭐️",M+ REAL MADRID TV FHD
 http://968136665933542873.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/542873.ts
-#EXTINF:-1 tvg-id="" tvg-name="ELLAS #V FHD" tvg-logo="" group-title="Server 5⭐️",ELLAS #V FHD
+#EXTINF:-1 tvg-id="" tvg-name="M+ Ellas Vamos FHD" tvg-logo="" group-title="Server 5⭐️",M+ Ellas Vamos FHD
 http://968136665933542877.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/542877.ts
 #EXTINF:-1 tvg-id="" tvg-name="TELEMADRID INT FHD" tvg-logo="" group-title="Server 5⭐️",TELEMADRID INT FHD
 http://968136665933544103.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/544103.ts
@@ -8510,7 +8510,7 @@ http://968136665933630319.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/630319.ts
 http://968136665933630320.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/630320.ts
 #EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="REAL MADRID TV HD" tvg-logo="" group-title="Server 5⭐️",REAL MADRID TV HD
 http://968136665933631807.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/631807.ts
-#EXTINF:-1 tvg-id="" tvg-name="ELLAS #V SD" tvg-logo="" group-title="Server 5⭐️",ELLAS #V SD
+#EXTINF:-1 tvg-id="" tvg-name="M+ Ellas Vamos SD" tvg-logo="" group-title="Server 5⭐️",M+ Ellas Vamos SD
 http://968136665933639620.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/639620.ts
 #EXTINF:-1 tvg-id="" tvg-name="TELEMADRID INT. FHD" tvg-logo="" group-title="Server 5⭐️",TELEMADRID INT. FHD
 http://968136665933639621.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/639621.ts
@@ -9546,7 +9546,7 @@ http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/659
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/662
 #EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV" tvg-logo="https://i.imgur.com/xsuhBMd.png" group-title="Server 6⭐️ VPN",Real Madrid TV
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/676
-#EXTINF:-1 tvg-id="" tvg-name="M+ ELLAS HD" tvg-logo="https://gtswiki.gt-beginners.net/decal/png/32/06/62/5116653309927620632_1.png" group-title="Server 6⭐️ VPN",M+ ELLAS HD
+#EXTINF:-1 tvg-id="" tvg-name="M+ Ellas Vamos HD" tvg-logo="https://gtswiki.gt-beginners.net/decal/png/32/06/62/5116653309927620632_1.png" group-title="Server 6⭐️ VPN",M+ Ellas Vamos HD
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/700
 #EXTINF:-1 tvg-id="" tvg-name="GOL PLAY" tvg-logo="https://logo.iptveditor.com/gol.png" group-title="Server 6⭐️ VPN",GOL PLAY
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/703

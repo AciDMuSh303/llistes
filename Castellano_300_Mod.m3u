@@ -53,9 +53,9 @@ http://sansat.net:88/02000650970977/02000650970977/127647
 http://sansat.net:88/02000650970977/02000650970977/127672
 #EXTINF:-1 tvg-id="neox.es" tvg-name="NEOX" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/NEOX.png" group-title="Server 0⭐️",NEOX HD
 http://sansat.net:88/02000650970977/02000650970977/127648
-#EXTINF:-1 tvg-id="vamos.es" tvg-name="#VAMOS HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/.VAMOSHD.png" group-title="Server 0⭐️",#VAMOS HD
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="M+ VAMOS HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/.VAMOSHD.png" group-title="Server 0⭐️",M+ VAMOS HD
 http://sansat.net:88/02000650970977/02000650970977/144174
-#EXTINF:-1 tvg-id="vamos.es" tvg-name="#VAMOS HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/.VAMOSHD.png" group-title="Server 0⭐️",#VAMOS HD
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="M+ VAMOS HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/.VAMOSHD.png" group-title="Server 0⭐️",M+ VAMOS HD
 http://sansat.net:88/02000650970977/02000650970977/144173
 #EXTINF:-1 tvg-id="24horas.es" tvg-name="CANAL 24 HORAS" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/24H.png" group-title="Server 0⭐️",CANAL 24 HORAS
 http://sansat.net:88/02000650970977/02000650970977/127651
@@ -1106,9 +1106,9 @@ http://955079601913321068.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/321068.ts
 http://955079601913321069.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/321069.ts
 #EXTINF:-1 tvg-id="#0 HD" tvg-name="M+ ORIGINALES SD" tvg-logo="" group-title="Server 1⭐️",M+ ORIGINALES SD
 http://955079601913321070.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/321070.ts
-#EXTINF:-1 tvg-id="Condavision.TV" tvg-name="#VAMOS HD" tvg-logo="" group-title="Server 1⭐️",#VAMOS HD
+#EXTINF:-1 tvg-id="Condavision.TV" tvg-name="M+ VAMOS HD" tvg-logo="" group-title="Server 1⭐️",M+ VAMOS HD
 http://955079601913321072.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/321072.ts
-#EXTINF:-1 tvg-id="Condavision.TV" tvg-name="#VAMOS SD" tvg-logo="" group-title="Server 1⭐️",#VAMOS SD
+#EXTINF:-1 tvg-id="Condavision.TV" tvg-name="M+ VAMOS SD" tvg-logo="" group-title="Server 1⭐️",M+ VAMOS SD
 http://955079601913321073.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/321073.ts
 #EXTINF:-1 tvg-id="" tvg-name="ETB 3 SD" tvg-logo="" group-title="Server 1⭐️",ETB 3 SD
 http://955079601913165332.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/165332.ts
@@ -2538,7 +2538,7 @@ http://955079601913538738.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/538738.ts
 http://955079601913538739.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/538739.ts
 #EXTINF:-1 tvg-id="" tvg-name="TVG EVENTO 2 HD" tvg-logo="" group-title="Server 1⭐️",TVG EVENTO 2 HD
 http://955079601913538741.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/538741.ts
-#EXTINF:-1 tvg-id="vamos.es" tvg-name="#VAMOS FHD" tvg-logo="" group-title="Server 1⭐️",#VAMOS FHD
+#EXTINF:-1 tvg-id="" tvg-name="M+ VAMOS FHD" tvg-logo="" group-title="Server 1⭐️",M+ VAMOS FHD
 http://955079601913538744.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/538744.ts
 #EXTINF:-1 tvg-id="barcatv.es" tvg-name="BARCA TV HD" tvg-logo="" group-title="Server 1⭐️",BARCA TV HD
 http://955079601913538745.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/538745.ts
@@ -2666,7 +2666,7 @@ http://955079601913550860.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/550860.ts
 http://955079601913550861.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/550861.ts
 #EXTINF:-1 tvg-id="" tvg-name="TVE SD" tvg-logo="" group-title="Server 1⭐️",TVE SD
 http://955079601913550862.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/550862.ts
-#EXTINF:-1 tvg-id="vamos.es" tvg-name="M+ #VAMOS FHD" tvg-logo="" group-title="Server 1⭐️",M+ #VAMOS FHD
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="M+ VAMOS FHD" tvg-logo="" group-title="Server 1⭐️",M+ VAMOS FHD
 http://955079601913550863.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/550863.ts
 #EXTINF:-1 tvg-id="M+Cine EspaÃ±ol" tvg-name="M+ CINE Ã‘ HD" tvg-logo="" group-title="Server 1⭐️",M+ CINE Ã‘ HD
 http://955079601913552676.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/552676.ts
@@ -2732,9 +2732,9 @@ http://955079601913561136.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/561136.ts
 http://955079601913561137.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/561137.ts
 #EXTINF:-1 tvg-id="" tvg-name="TVG EVENTO 2 SD" tvg-logo="" group-title="Server 1⭐️",TVG EVENTO 2 SD
 http://955079601913563162.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/563162.ts
-#EXTINF:-1 tvg-id="vamos.es" tvg-name="M+ #VAMOS HD" tvg-logo="" group-title="Server 1⭐️",M+ #VAMOS HD
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="M+ VAMOS HD" tvg-logo="" group-title="Server 1⭐️",M+ VAMOS HD
 http://955079601913563579.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/563579.ts
-#EXTINF:-1 tvg-id="vamos.es" tvg-name="M+ #VAMOS SD" tvg-logo="" group-title="Server 1⭐️",M+ #VAMOS SD
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="M+ VAMOS SD" tvg-logo="" group-title="Server 1⭐️",M+ VAMOS SD
 http://955079601913563580.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/563580.ts
 #EXTINF:-1 tvg-id="" tvg-name="CANAL SIERRA DE CADIZ HD" tvg-logo="" group-title="Server 1⭐️",CANAL SIERRA DE CADIZ HD
 http://955079601913565526.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/565526.ts
@@ -3145,9 +3145,9 @@ http://970268178885321068.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/321068.ts
 http://970268178885321069.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/321069.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ ORIGINALES SD" tvg-logo="" group-title="Server 2⭐️",M+ ORIGINALES SD
 http://970268178885321070.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/321070.ts
-#EXTINF:-1 tvg-id="" tvg-name="#VAMOS HD" tvg-logo="" group-title="Server 2⭐️",#VAMOS HD
+#EXTINF:-1 tvg-id="" tvg-name="M+ VAMOS HD" tvg-logo="" group-title="Server 2⭐️",M+ VAMOS HD
 http://970268178885321072.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/321072.ts
-#EXTINF:-1 tvg-id="" tvg-name="#VAMOS SD" tvg-logo="" group-title="Server 2⭐️",#VAMOS SD
+#EXTINF:-1 tvg-id="" tvg-name="M+ VAMOS SD" tvg-logo="" group-title="Server 2⭐️",M+ VAMOS SD
 http://970268178885321073.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/321073.ts
 #EXTINF:-1 tvg-id="" tvg-name="ETB 3 SD" tvg-logo="" group-title="Server 2⭐️",ETB 3 SD
 http://970268178885165332.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/165332.ts
@@ -4287,7 +4287,7 @@ http://970268178885538740.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/538740.ts
 http://970268178885538741.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/538741.ts
 #EXTINF:-1 tvg-id="" tvg-name="VH1 SD" tvg-logo="" group-title="Server 2⭐️",VH1 SD
 http://970268178885538742.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/538742.ts
-#EXTINF:-1 tvg-id="" tvg-name="#VAMOS FHD" tvg-logo="" group-title="Server 2⭐️",#VAMOS FHD
+#EXTINF:-1 tvg-id="" tvg-name="M+ VAMOS FHD" tvg-logo="" group-title="Server 2⭐️",M+ VAMOS FHD
 http://970268178885538744.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/538744.ts
 #EXTINF:-1 tvg-id="" tvg-name="BARCA TV HD" tvg-logo="" group-title="Server 2⭐️",BARCA TV HD
 http://970268178885538745.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/538745.ts
@@ -4437,7 +4437,7 @@ http://970268178885550858.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/550858.ts
 http://970268178885550860.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/550860.ts
 #EXTINF:-1 tvg-id="" tvg-name="TELEMADRID FHD" tvg-logo="" group-title="Server 2⭐️",TELEMADRID FHD
 http://970268178885550861.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/550861.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ #VAMOS FHD" tvg-logo="" group-title="Server 2⭐️",M+ #VAMOS FHD
+#EXTINF:-1 tvg-id="" tvg-name="M+ VAMOS FHD" tvg-logo="" group-title="Server 2⭐️",M+ VAMOS FHD
 http://970268178885550863.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/550863.ts
 #EXTINF:-1 tvg-id="" tvg-name="WIMBLEDON HEVC" tvg-logo="" group-title="Server 2⭐️",WIMBLEDON HEVC
 http://970268178885550864.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/550864.ts
@@ -4497,9 +4497,9 @@ http://970268178885561136.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/561136.ts
 http://970268178885561137.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/561137.ts
 #EXTINF:-1 tvg-id="" tvg-name="TDT TV CANARIAS SD" tvg-logo="" group-title="Server 2⭐️",TDT TV CANARIAS SD
 http://970268178885561138.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/561138.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ #VAMOS HD" tvg-logo="" group-title="Server 2⭐️",M+ #VAMOS HD
+#EXTINF:-1 tvg-id="" tvg-name="M+ VAMOS HD" tvg-logo="" group-title="Server 2⭐️",M+ VAMOS HD
 http://970268178885563579.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/563579.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ #VAMOS SD" tvg-logo="" group-title="Server 2⭐️",M+ #VAMOS SD
+#EXTINF:-1 tvg-id="" tvg-name="M+ VAMOS SD" tvg-logo="" group-title="Server 2⭐️",M+ VAMOS SD
 http://970268178885563580.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/563580.ts
 #EXTINF:-1 tvg-id="" tvg-name="CMM CASTILLA LA MANCHA SD" tvg-logo="" group-title="Server 2⭐️",CMM CASTILLA LA MANCHA SD
 http://970268178885568192.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/568192.ts
@@ -5334,9 +5334,9 @@ http://625258466418321068.ofip231209.xyz:80/play/Ferna1117/7766585AA2/321068.ts
 http://625258466418321069.ofip231209.xyz:80/play/Ferna1117/7766585AA2/321069.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ ORIGINALES SD" tvg-logo="" group-title="Server 3⭐️",M+ ORIGINALES SD
 http://625258466418321070.ofip231209.xyz:80/play/Ferna1117/7766585AA2/321070.ts
-#EXTINF:-1 tvg-id="" tvg-name="#VAMOS HD" tvg-logo="" group-title="Server 3⭐️",#VAMOS HD
+#EXTINF:-1 tvg-id="" tvg-name="M+ VAMOS HD" tvg-logo="" group-title="Server 3⭐️",M+ VAMOS HD
 http://625258466418321072.ofip231209.xyz:80/play/Ferna1117/7766585AA2/321072.ts
-#EXTINF:-1 tvg-id="" tvg-name="#VAMOS SD" tvg-logo="" group-title="Server 3⭐️",#VAMOS SD
+#EXTINF:-1 tvg-id="" tvg-name="M+ VAMOS SD" tvg-logo="" group-title="Server 3⭐️",M+ VAMOS SD
 http://625258466418321073.ofip231209.xyz:80/play/Ferna1117/7766585AA2/321073.ts
 #EXTINF:-1 tvg-id="" tvg-name="ETB 3 SD" tvg-logo="" group-title="Server 3⭐️",ETB 3 SD
 http://625258466418165332.ofip231209.xyz:80/play/Ferna1117/7766585AA2/165332.ts
@@ -6333,7 +6333,7 @@ http://625258466418538740.ofip231209.xyz:80/play/Ferna1117/7766585AA2/538740.ts
 http://625258466418538741.ofip231209.xyz:80/play/Ferna1117/7766585AA2/538741.ts
 #EXTINF:-1 tvg-id="" tvg-name="VH1 SD" tvg-logo="" group-title="Server 3⭐️",VH1 SD
 http://625258466418538742.ofip231209.xyz:80/play/Ferna1117/7766585AA2/538742.ts
-#EXTINF:-1 tvg-id="" tvg-name="#VAMOS FHD" tvg-logo="" group-title="Server 3⭐️",#VAMOS FHD
+#EXTINF:-1 tvg-id="" tvg-name="M+ VAMOS FHD" tvg-logo="" group-title="Server 3⭐️",M+ VAMOS FHD
 http://625258466418538744.ofip231209.xyz:80/play/Ferna1117/7766585AA2/538744.ts
 #EXTINF:-1 tvg-id="" tvg-name="BARCA TV HD" tvg-logo="" group-title="Server 3⭐️",BARCA TV HD
 http://625258466418538745.ofip231209.xyz:80/play/Ferna1117/7766585AA2/538745.ts
@@ -6483,7 +6483,7 @@ http://625258466418550858.ofip231209.xyz:80/play/Ferna1117/7766585AA2/550858.ts
 http://625258466418550860.ofip231209.xyz:80/play/Ferna1117/7766585AA2/550860.ts
 #EXTINF:-1 tvg-id="" tvg-name="TELEMADRID FHD" tvg-logo="" group-title="Server 3⭐️",TELEMADRID FHD
 http://625258466418550861.ofip231209.xyz:80/play/Ferna1117/7766585AA2/550861.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ #VAMOS FHD" tvg-logo="" group-title="Server 3⭐️",M+ #VAMOS FHD
+#EXTINF:-1 tvg-id="" tvg-name="M+ VAMOS FHD" tvg-logo="" group-title="Server 3⭐️",M+ VAMOS FHD
 http://625258466418550863.ofip231209.xyz:80/play/Ferna1117/7766585AA2/550863.ts
 #EXTINF:-1 tvg-id="" tvg-name="WIMBLEDON HEVC" tvg-logo="" group-title="Server 3⭐️",WIMBLEDON HEVC
 http://625258466418550864.ofip231209.xyz:80/play/Ferna1117/7766585AA2/550864.ts
@@ -6543,9 +6543,9 @@ http://625258466418561136.ofip231209.xyz:80/play/Ferna1117/7766585AA2/561136.ts
 http://625258466418561137.ofip231209.xyz:80/play/Ferna1117/7766585AA2/561137.ts
 #EXTINF:-1 tvg-id="" tvg-name="TDT TV CANARIAS SD" tvg-logo="" group-title="Server 3⭐️",TDT TV CANARIAS SD
 http://625258466418561138.ofip231209.xyz:80/play/Ferna1117/7766585AA2/561138.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ #VAMOS HD" tvg-logo="" group-title="Server 3⭐️",M+ #VAMOS HD
+#EXTINF:-1 tvg-id="" tvg-name="M+ VAMOS HD" tvg-logo="" group-title="Server 3⭐️",M+ VAMOS HD
 http://625258466418563579.ofip231209.xyz:80/play/Ferna1117/7766585AA2/563579.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ #VAMOS SD" tvg-logo="" group-title="Server 3⭐️",M+ #VAMOS SD
+#EXTINF:-1 tvg-id="" tvg-name="M+ VAMOS SD" tvg-logo="" group-title="Server 3⭐️",M+ VAMOS SD
 http://625258466418563580.ofip231209.xyz:80/play/Ferna1117/7766585AA2/563580.ts
 #EXTINF:-1 tvg-id="" tvg-name="CMM CASTILLA LA MANCHA SD" tvg-logo="" group-title="Server 3⭐️",CMM CASTILLA LA MANCHA SD
 http://625258466418568192.ofip231209.xyz:80/play/Ferna1117/7766585AA2/568192.ts
@@ -8314,9 +8314,9 @@ http://968136665933684829.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/684829.ts
 http://968136665933684830.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/684830.ts
 #EXTINF:-1 tvg-id="" tvg-name="TVG EVENTS SD" tvg-logo="https://miguia.tv/channels/big_158.png" group-title="Server 5⭐️",TVG EVENTS SD
 http://968136665933684831.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/684831.ts
-#EXTINF:-1 tvg-id="Condavision.TV" tvg-name="#VAMOS HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title="Server 5⭐️",#VAMOS HD
+#EXTINF:-1 tvg-id="Condavision.TV" tvg-name="M+ VAMOS HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title="Server 5⭐️",M+ VAMOS HD
 http://968136665933321072.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321072.ts
-#EXTINF:-1 tvg-id="Condavision.TV" tvg-name="#VAMOS SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title="Server 5⭐️",#VAMOS SD
+#EXTINF:-1 tvg-id="Condavision.TV" tvg-name="M+ VAMOS SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title="Server 5⭐️",M+ VAMOS SD
 http://968136665933321073.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321073.ts
 #EXTINF:-1 tvg-id="" tvg-name="U-BEAT HD" tvg-logo="https://www.mundoplus.tv/img/ad6c05ec7593e29f477a22127fa98dff" group-title="Server 5⭐️",U-BEAT HD
 http://968136665933165452.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/165452.ts
@@ -8416,7 +8416,7 @@ http://968136665933538695.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/538695.ts
 http://968136665933538696.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/538696.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPDEP" group-title="Server 5⭐️",M+ DEPORTES SD
 http://968136665933538698.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/538698.ts
-#EXTINF:-1 tvg-id="vamos.es" tvg-name="#VAMOS FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title="Server 5⭐️",#VAMOS FHD
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="M+ VAMOS FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title="Server 5⭐️",M+ VAMOS FHD
 http://968136665933538744.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/538744.ts
 #EXTINF:-1 tvg-id="barcatv.es" tvg-name="BARCA TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BARNA.png" group-title="Server 5⭐️",BARCA TV HD
 http://968136665933538745.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/538745.ts
@@ -8478,7 +8478,7 @@ http://968136665933544103.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/544103.ts
 http://968136665933545232.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/545232.ts
 #EXTINF:-1 tvg-id="" tvg-name="Champions Tour HD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/champions-tour.png" group-title="Server 5⭐️",Champions Tour HD
 http://968136665933545233.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/545233.ts
-#EXTINF:-1 tvg-id="vamos.es" tvg-name="M+ #VAMOS FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VAMOSD.png" group-title="Server 5⭐️",M+ #VAMOS FHD
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="M+ VAMOS FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VAMOSD.png" group-title="Server 5⭐️",M+ VAMOS FHD
 http://968136665933550863.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/550863.ts
 #EXTINF:-1 tvg-id="" tvg-name="WIMBLEDON HEVC" tvg-logo="" group-title="Server 5⭐️",WIMBLEDON HEVC
 http://968136665933550864.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/550864.ts
@@ -8490,9 +8490,9 @@ http://968136665933554776.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/554776.ts
 http://968136665933558675.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/558675.ts
 #EXTINF:-1 tvg-id="" tvg-name="WIMBLEDON SD" tvg-logo="" group-title="Server 5⭐️",WIMBLEDON SD
 http://968136665933558676.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/558676.ts
-#EXTINF:-1 tvg-id="vamos.es" tvg-name="M+ #VAMOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VAMOSD.png" group-title="Server 5⭐️",M+ #VAMOS HD
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="M+ VAMOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VAMOSD.png" group-title="Server 5⭐️",M+ VAMOS HD
 http://968136665933563579.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/563579.ts
-#EXTINF:-1 tvg-id="vamos.es" tvg-name="M+ #VAMOS SD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VAMOSD.png" group-title="Server 5⭐️",M+ #VAMOS SD
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="M+ VAMOS SD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VAMOSD.png" group-title="Server 5⭐️",M+ VAMOS SD
 http://968136665933563580.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/563580.ts
 #EXTINF:-1 tvg-id="" tvg-name="TELEMADRID INT HD" tvg-logo="" group-title="Server 5⭐️",TELEMADRID INT HD
 http://968136665933589775.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/589775.ts
@@ -9722,7 +9722,7 @@ http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/59818.ts
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/59819.ts
 #EXTINF:-1 tvg-id="" tvg-name="M GOLF FHD" tvg-logo="" group-title="Server 7⭐️",M GOLF FHD
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/59820.ts
-#EXTINF:-1 tvg-id="" tvg-name="#VAMOS" tvg-logo="" group-title="Server 7⭐️",#VAMOS
+#EXTINF:-1 tvg-id="" tvg-name="M+ VAMOS" tvg-logo="" group-title="Server 7⭐️",M+ VAMOS
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/59822.ts
 #EXTINF:-1 tvg-id="" tvg-name="M DEPORTES FHD" tvg-logo="" group-title="Server 7⭐️",M DEPORTES FHD
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/59814.ts

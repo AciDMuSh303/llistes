@@ -149,9 +149,9 @@ http://sansat.net:88/02000650970977/02000650970977/127701
 http://sansat.net:88/02000650970977/02000650970977/127723
 #EXTINF:-1 tvg-id="axn.es" tvg-name="AXN HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/AXN_HD.png" group-title="Server 0⭐️",AXN HD
 http://sansat.net:88/02000650970977/02000650970977/127703
-#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="AXN WHITE HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/AXN_WHITE_HD.png" group-title="Server 0⭐️",AXN WHITE HD
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="AXN MOVIES HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/AXN_WHITE_HD.png" group-title="Server 0⭐️",AXN MOVIES HD
 http://sansat.net:88/02000650970977/02000650970977/127724
-#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="AXN WHITE HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/AXN_WHITE_HD.png" group-title="Server 0⭐️",AXN WHITE HD
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="AXN MOVIES HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/AXN_WHITE_HD.png" group-title="Server 0⭐️",AXN MOVIES HD
 http://sansat.net:88/02000650970977/02000650970977/127704
 #EXTINF:-1 tvg-id="syfy.es" tvg-name="SYFY" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/SYFY_HD.png" group-title="Server 0⭐️",SYFY
 http://sansat.net:88/02000650970977/02000650970977/127725
@@ -1730,11 +1730,11 @@ http://955079601913321099.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/321099.ts
 http://955079601913321100.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/321100.ts
 #EXTINF:-1 tvg-id="" tvg-name="AMC CRIME SD" tvg-logo="" group-title="Server 1⭐️",AMC CRIME SD
 http://955079601913321101.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/321101.ts
-#EXTINF:-1 tvg-id="AXN WHITE FHD" tvg-name="AXN WHITE FHD" tvg-logo="" group-title="Server 1⭐️",AXN WHITE FHD
+#EXTINF:-1 tvg-id="AXN MOVIES FHD" tvg-name="AXN MOVIES FHD" tvg-logo="" group-title="Server 1⭐️",AXN MOVIES FHD
 http://955079601913321115.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/321115.ts
-#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-name="AXN WHITE HD" tvg-logo="" group-title="Server 1⭐️",AXN WHITE HD
+#EXTINF:-1 tvg-id="AXN MOVIES HD" tvg-name="AXN MOVIES HD" tvg-logo="" group-title="Server 1⭐️",AXN MOVIES HD
 http://955079601913321116.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/321116.ts
-#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="AXN WHITE SD" tvg-logo="" group-title="Server 1⭐️",AXN WHITE SD
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="AXN MOVIES SD" tvg-logo="" group-title="Server 1⭐️",AXN MOVIES SD
 http://955079601913321117.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/321117.ts
 #EXTINF:-1 tvg-id="AXN FHD" tvg-name="AXN FHD" tvg-logo="https://miguia.tv/channels/big_5.png" group-title="Server 1⭐️",AXN FHD
 http://955079601913321118.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/321118.ts
@@ -3585,7 +3585,7 @@ http://970268178885321090.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/321090.ts
 http://970268178885321100.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/321100.ts
 #EXTINF:-1 tvg-id="" tvg-name="AMC CRIME SD" tvg-logo="" group-title="Server 2⭐️",AMC CRIME SD
 http://970268178885321101.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/321101.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE FHD" tvg-logo="" group-title="Server 2⭐️",AXN WHITE FHD
+#EXTINF:-1 tvg-id="" tvg-name="AXN MOVIES FHD" tvg-logo="" group-title="Server 2⭐️",AXN MOVIES FHD
 http://970268178885321115.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/321115.ts
 #EXTINF:-1 tvg-id="" tvg-name="AXN FHD" tvg-logo="" group-title="Server 2⭐️",AXN FHD
 http://970268178885321118.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/321118.ts
@@ -4861,7 +4861,7 @@ http://970268178885681438.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/681438.ts
 http://970268178885681786.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/681786.ts
 #EXTINF:-1 tvg-id="" tvg-name="ARAGON TV SD" tvg-logo="" group-title="Server 2⭐️",ARAGON TV SD
 http://970268178885681787.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/681787.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE HD" tvg-logo="" group-title="Server 2⭐️",AXN WHITE HD
+#EXTINF:-1 tvg-id="" tvg-name="AXN MOVIES HD" tvg-logo="" group-title="Server 2⭐️",AXN MOVIES HD
 http://970268178885681788.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/681788.ts
 #EXTINF:-1 tvg-id="" tvg-name="HISTORIA FHD" tvg-logo="" group-title="Server 2⭐️",HISTORIA FHD
 http://970268178885681789.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/681789.ts
@@ -5614,7 +5614,7 @@ http://625258466418321087.ofip231209.xyz:80/play/Ferna1117/7766585AA2/321087.ts
 http://625258466418321100.ofip231209.xyz:80/play/Ferna1117/7766585AA2/321100.ts
 #EXTINF:-1 tvg-id="" tvg-name="AMC CRIME SD" tvg-logo="" group-title="Server 3⭐️",AMC CRIME SD
 http://625258466418321101.ofip231209.xyz:80/play/Ferna1117/7766585AA2/321101.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE FHD" tvg-logo="" group-title="Server 3⭐️",AXN WHITE FHD
+#EXTINF:-1 tvg-id="" tvg-name="AXN MOVIES FHD" tvg-logo="" group-title="Server 3⭐️",AXN MOVIES FHD
 http://625258466418321115.ofip231209.xyz:80/play/Ferna1117/7766585AA2/321115.ts
 #EXTINF:-1 tvg-id="" tvg-name="AXN FHD" tvg-logo="" group-title="Server 3⭐️",AXN FHD
 http://625258466418321118.ofip231209.xyz:80/play/Ferna1117/7766585AA2/321118.ts
@@ -6913,7 +6913,7 @@ http://625258466418681438.ofip231209.xyz:80/play/Ferna1117/7766585AA2/681438.ts
 http://625258466418681786.ofip231209.xyz:80/play/Ferna1117/7766585AA2/681786.ts
 #EXTINF:-1 tvg-id="" tvg-name="ARAGON TV SD" tvg-logo="" group-title="Server 3⭐️",ARAGON TV SD
 http://625258466418681787.ofip231209.xyz:80/play/Ferna1117/7766585AA2/681787.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE HD" tvg-logo="" group-title="Server 3⭐️",AXN WHITE HD
+#EXTINF:-1 tvg-id="" tvg-name="AXN MOVIES HD" tvg-logo="" group-title="Server 3⭐️",AXN MOVIES HD
 http://625258466418681788.ofip231209.xyz:80/play/Ferna1117/7766585AA2/681788.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL SIERRA DE CADIZ FHD" tvg-logo="" group-title="Server 3⭐️",CANAL SIERRA DE CADIZ FHD
@@ -7383,7 +7383,7 @@ http://968136665933321090.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321090.ts
 http://968136665933321100.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321100.ts
 #EXTINF:-1 tvg-id="" tvg-name="AMC CRIME SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="Server 5⭐️",AMC CRIME SD
 http://968136665933321101.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321101.ts
-#EXTINF:-1 tvg-id="AXN WHITE FHD" tvg-name="AXN WHITE FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_78BE_3EC_1_C00000_0_0_0.png" group-title="Server 5⭐️",AXN WHITE FHD
+#EXTINF:-1 tvg-id="AXN MOVIES FHD" tvg-name="AXN MOVIES FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_78BE_3EC_1_C00000_0_0_0.png" group-title="Server 5⭐️",AXN MOVIES FHD
 http://968136665933321115.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321115.ts
 #EXTINF:-1 tvg-id="AXN FHD" tvg-name="AXN FHD" tvg-logo="https://miguia.tv/channels/big_5.png" group-title="Server 5⭐️",AXN FHD
 http://968136665933321118.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321118.ts
@@ -8242,7 +8242,7 @@ http://968136665933680052.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/680052.ts
 http://968136665933681786.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/681786.ts
 #EXTINF:-1 tvg-id="" tvg-name="ARAGON TV SD" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_27B0_3E9_22D4_CE40000_0_0_0.png" group-title="Server 5⭐️",ARAGON TV SD
 http://968136665933681787.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/681787.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE HD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_78BE_3EC_1_C00000_0_0_0.png" group-title="Server 5⭐️",AXN WHITE HD
+#EXTINF:-1 tvg-id="" tvg-name="AXN MOVIES HD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_78BE_3EC_1_C00000_0_0_0.png" group-title="Server 5⭐️",AXN MOVIES HD
 http://968136665933681788.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/681788.ts
 
 
@@ -9912,7 +9912,7 @@ http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/59779.ts
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/59781.ts
 #EXTINF:-1 tvg-id="" tvg-name="AXN FHD" tvg-logo="" group-title="Server 7⭐️",AXN FHD
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/59783.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE FHD" tvg-logo="" group-title="Server 7⭐️",AXN WHITE FHD
+#EXTINF:-1 tvg-id="" tvg-name="AXN MOVIES FHD" tvg-logo="" group-title="Server 7⭐️",AXN MOVIES FHD
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/59786.ts
 #EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD HD" tvg-logo="" group-title="Server 7⭐️",HOLLYWOOD HD
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/59787.ts
@@ -10018,7 +10018,7 @@ http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/139166.ts
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/139167.ts
 #EXTINF:-1 tvg-id="" tvg-name="AXN FHD" tvg-logo="" group-title="Server 7⭐️",AXN FHD
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/139168.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE HD" tvg-logo="" group-title="Server 7⭐️",AXN WHITE HD
+#EXTINF:-1 tvg-id="" tvg-name="AXN MOVIES HD" tvg-logo="" group-title="Server 7⭐️",AXN MOVIES HD
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/139169.ts
 #EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="" group-title="Server 7⭐️",TNT HD
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/139170.ts
@@ -10304,7 +10304,7 @@ http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/65835.ts
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/143075.ts
 #EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 HD" tvg-logo="" group-title="Server 7⭐️",ANTENA 3 HD
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/59706.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE HD" tvg-logo="" group-title="Server 7⭐️",AXN WHITE HD
+#EXTINF:-1 tvg-id="" tvg-name="AXN MOVIES HD" tvg-logo="" group-title="Server 7⭐️",AXN MOVIES HD
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/59785.ts
 #EXTINF:-1 tvg-id="" tvg-name="CALLE 13 HD" tvg-logo="" group-title="Server 7⭐️",CALLE 13 HD
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/143083.ts

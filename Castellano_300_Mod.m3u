@@ -5394,9 +5394,11 @@ http://625258466418165419.ofip231209.xyz:80/play/Ferna1117/7766585AA2/165419.ts
 http://625258466418165385.ofip231209.xyz:80/play/Ferna1117/7766585AA2/165385.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA HD" tvg-logo="" group-title="Server 3⭐️",M+ LALIGA HD
 http://625258466418165392.ofip231209.xyz:80/play/Ferna1117/7766585AA2/165392.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA SD" tvg-logo="" group-title="Server 3⭐️",M+ LALIGA SD
+
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga TV SD" tvg-logo="" group-title="Server 3⭐️",M+ LaLiga TV SD
 http://625258466418165393.ofip231209.xyz:80/play/Ferna1117/7766585AA2/165393.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA FHD" tvg-logo="" group-title="Server 3⭐️",M+ LA LIGA FHD
+#EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA FHD" tvg-logo="" group-title="Server 3⭐️",M+ LALIGA FHD
 http://625258466418262413.ofip231209.xyz:80/play/Ferna1117/7766585AA2/262413.ts
 #EXTINF:-1 tvg-id="" tvg-name="Dazn 1 SD" tvg-logo="" group-title="Server 3⭐️",Dazn 1 SD
 http://625258466418228384.ofip231209.xyz:80/play/Ferna1117/7766585AA2/228384.ts

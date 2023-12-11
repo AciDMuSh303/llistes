@@ -515,9 +515,9 @@ http://sansat.net:88/02000650970977/02000650970977/127876
 http://sansat.net:88/02000650970977/02000650970977/127849
 #EXTINF:-1 tvg-id="laligatvbar.es" tvg-name="LALIGA TV BAR" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LALIGATV_BAR.png" group-title="Server 0⭐️",LALIGA TV BAR
 http://sansat.net:88/02000650970977/02000650970977/169503
-#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="M+ LaLiga TV 1" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_1_HD.png" group-title="Server 0⭐️",M+ LaLiga TV 1
+#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="M+ LaLiga TV" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_1_HD.png" group-title="Server 0⭐️",M+ LaLiga TV
 http://sansat.net:88/02000650970977/02000650970977/127877
-#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="M+ LaLiga TV 1" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_1_HD.png" group-title="Server 0⭐️",M+ LaLiga TV 1
+#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="M+ LaLiga TV" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_1_HD.png" group-title="Server 0⭐️",M+ LaLiga TV
 http://sansat.net:88/02000650970977/02000650970977/127850
 #EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="M+ LaLiga TV 2" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_2_HD.png" group-title="Server 0⭐️",M+ LaLiga TV 2
 http://sansat.net:88/02000650970977/02000650970977/127878
@@ -547,9 +547,9 @@ http://sansat.net:88/02000650970977/02000650970977/127856
 http://sansat.net:88/02000650970977/02000650970977/127884
 #EXTINF:-1 tvg-id="mlaliga9.es" tvg-name="M+ LaLiga TV 9" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_9.png" group-title="Server 0⭐️",M+ LaLiga TV 9
 http://sansat.net:88/02000650970977/02000650970977/127857
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga TV 10" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_10.png" group-title="Server 0⭐️",M+ LaLiga TV 10
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga TV0" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_10.png" group-title="Server 0⭐️",M+ LaLiga TV0
 http://sansat.net:88/02000650970977/02000650970977/127885
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga TV 10" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_10.png" group-title="Server 0⭐️",M+ LaLiga TV 10
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga TV0" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LaLiga_10.png" group-title="Server 0⭐️",M+ LaLiga TV0
 http://sansat.net:88/02000650970977/02000650970977/127858
 #EXTINF:-1 tvg-id="mdeportes1.es" tvg-name="M+ DEPORTES1" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.DEPORTES1HD.png" group-title="Server 0⭐️",M+ DEPORTES1
 http://sansat.net:88/02000650970977/02000650970977/127886
@@ -9696,7 +9696,7 @@ http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/65855.ts
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/59793.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga TV FHD" tvg-logo="" group-title="Server 7⭐️",M+ LaLiga TV FHD
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/59794.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga TV 1" tvg-logo="" group-title="Server 7⭐️",M+ LaLiga TV 1
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga TV" tvg-logo="" group-title="Server 7⭐️",M+ LaLiga TV
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/59795.ts
 #EXTINF:-1 tvg-id="" tvg-name="LaLiga TV BAR" tvg-logo="" group-title="Server 7⭐️",LaLiga TV BAR
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/59799.ts
@@ -10164,7 +10164,7 @@ http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/139255.ts
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/139256.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga TV 2" tvg-logo="" group-title="Server 7⭐️",M+ LaLiga TV 2
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/139257.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga TV 1" tvg-logo="" group-title="Server 7⭐️",M+ LaLiga TV 1
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga TV" tvg-logo="" group-title="Server 7⭐️",M+ LaLiga TV
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/139258.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga TV BAR HD" tvg-logo="" group-title="Server 7⭐️",M+ LaLiga TV BAR HD
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/139262.ts

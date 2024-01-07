@@ -117,13 +117,13 @@ http://sansat.net:88/02000650970977/02000650970977/127757
 http://sansat.net:88/02000650970977/02000650970977/127772
 #EXTINF:-1 tvg-id="historia.es" tvg-name="HISTORIA HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/HISTORIA.png" group-title="Server 0⭐️",HISTORIA HD
 http://sansat.net:88/02000650970977/02000650970977/127758
-#EXTINF:-1 tvg-id="National Geographic" tvg-name="NAT GEOGRAPHIC" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/NAT_GEO_HD.png" group-title="Server 0⭐️",NAT GEOGRAPHIC
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/NAT_GEO_HD.png" group-title="Server 0⭐️",National Geographic HD
 http://sansat.net:88/02000650970977/02000650970977/127773
-#EXTINF:-1 tvg-id="National Geographic" tvg-name="NAT GEOGRAPHIC" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/NAT_GEO_HD.png" group-title="Server 0⭐️",NAT GEOGRAPHIC
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic HD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/NAT_GEO_HD.png" group-title="Server 0⭐️",National Geographic HD
 http://sansat.net:88/02000650970977/02000650970977/127759
-#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="NAT GEO WILD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/NG_WILD_HD.png" group-title="Server 0⭐️",NAT GEO WILD
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="National Geographic WILD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/NG_WILD_HD.png" group-title="Server 0⭐️",National Geographic WILD
 http://sansat.net:88/02000650970977/02000650970977/127774
-#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="NAT GEO WILD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/NG_WILD_HD.png" group-title="Server 0⭐️",NAT GEO WILD
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="National Geographic WILD" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/NG_WILD_HD.png" group-title="Server 0⭐️",National Geographic WILD
 http://sansat.net:88/02000650970977/02000650970977/127760
 #EXTINF:-1 tvg-id="cazapesca.es" tvg-name="CAZA Y PESCA" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/CAZAyPESCA_HD.png" group-title="Server 0⭐️",CAZA Y PESCA
 http://sansat.net:88/02000650970977/02000650970977/127775
@@ -1952,17 +1952,17 @@ http://955079601913321353.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/321353.ts
 http://955079601913321355.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/321355.ts
 #EXTINF:-1 tvg-id="" tvg-name="MTV HITS SD" tvg-logo="" group-title="Server 1⭐️",MTV HITS SD
 http://955079601913321360.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/321360.ts
-#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="NAT GEO WILD FHD" tvg-logo="" group-title="Server 1⭐️",NAT GEO WILD FHD
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="Nat Geo Wild FHD" tvg-logo="" group-title="Server 1⭐️",Nat Geo Wild FHD
 http://955079601913321364.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/321364.ts
-#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="NAT GEO WILD HD" tvg-logo="" group-title="Server 1⭐️",NAT GEO WILD HD
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="Nat Geo Wild HD" tvg-logo="" group-title="Server 1⭐️",Nat Geo Wild HD
 http://955079601913321365.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/321365.ts
-#EXTINF:-1 tvg-id="natgeo.es" tvg-name="NAT GEO SD" tvg-logo="" group-title="Server 1⭐️",NAT GEO SD
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="National Geographic SD" tvg-logo="" group-title="Server 1⭐️",National Geographic SD
 http://955079601913321366.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/321366.ts
-#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="" group-title="Server 1⭐️",NATIONAL GEOGRAPHIC WILD FHD
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="Nat Geo Wild FHD" tvg-logo="" group-title="Server 1⭐️",Nat Geo Wild FHD
 http://955079601913321368.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/321368.ts
-#EXTINF:-1 tvg-id="NAT GEO FHD" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="" group-title="Server 1⭐️",NATIONAL GEOGRAPHIC FHD
+#EXTINF:-1 tvg-id="National Geographic FHD" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="" group-title="Server 1⭐️",NATIONAL GEOGRAPHIC FHD
 http://955079601913321371.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/321371.ts
-#EXTINF:-1 tvg-id="NAT GEO HD" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="Server 1⭐️",NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="Server 1⭐️",NATIONAL GEOGRAPHIC HD
 http://955079601913321372.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/321372.ts
 #EXTINF:-1 tvg-id="NAT GEO" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="" group-title="Server 1⭐️",NATIONAL GEOGRAPHIC SD
 http://955079601913321373.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/321373.ts
@@ -2144,9 +2144,9 @@ http://955079601913336345.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/336345.ts
 http://955079601913336346.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/336346.ts
 #EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+ CINE N SD" tvg-logo="" group-title="Server 1⭐️",M+ CINE N SD
 http://955079601913336347.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/336347.ts
-#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="NAT GEO WILD SD" tvg-logo="" group-title="Server 1⭐️",NAT GEO WILD SD
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="Nat Geo Wild SD" tvg-logo="" group-title="Server 1⭐️",Nat Geo Wild SD
 http://955079601913336351.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/336351.ts
-#EXTINF:-1 tvg-id="natgeo.es" tvg-name="NAT GEO FHD" tvg-logo="https://miguia.tv/channels/big_124.png" group-title="Server 1⭐️",NAT GEO FHD
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="National Geographic FHD" tvg-logo="https://miguia.tv/channels/big_124.png" group-title="Server 1⭐️",National Geographic FHD
 http://955079601913336352.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/336352.ts
 #EXTINF:-1 tvg-id="" tvg-name="NAUTICAL CHANNEL HD" tvg-logo="" group-title="Server 1⭐️",NAUTICAL CHANNEL HD
 http://955079601913336353.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/336353.ts
@@ -2218,7 +2218,7 @@ http://955079601913339761.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/339761.ts
 http://955079601913339772.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/339772.ts
 #EXTINF:-1 tvg-id="" tvg-name="MELILLa TV HD" tvg-logo="" group-title="Server 1⭐️",MELILLa TV HD
 http://955079601913339773.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/339773.ts
-#EXTINF:-1 tvg-id="natgeo.es" tvg-name="NAT GEO HD" tvg-logo="" group-title="Server 1⭐️",NAT GEO HD
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="National Geographic HD" tvg-logo="" group-title="Server 1⭐️",National Geographic HD
 http://955079601913339777.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/339777.ts
 #EXTINF:-1 tvg-id="nickjr.es" tvg-name="NICK JUNIOR FHD" tvg-logo="" group-title="Server 1⭐️",NICK JUNIOR FHD
 http://955079601913339778.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/339778.ts
@@ -2276,9 +2276,9 @@ http://955079601913383251.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/383251.ts
 http://955079601913383259.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/383259.ts
 #EXTINF:-1 tvg-id="" tvg-name="MTV SD" tvg-logo="" group-title="Server 1⭐️",MTV SD
 http://955079601913383262.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/383262.ts
-#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-name="NATIONAL GEOGRAPHIC WILD HD" tvg-logo="" group-title="Server 1⭐️",NATIONAL GEOGRAPHIC WILD HD
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="Nat Geo Wild HD" tvg-logo="" group-title="Server 1⭐️",Nat Geo Wild HD
 http://955079601913383263.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/383263.ts
-#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NATIONAL GEOGRAPHIC WILD SD" tvg-logo="" group-title="Server 1⭐️",NATIONAL GEOGRAPHIC WILD SD
+#EXTINF:-1 tvg-id="National Geographic WILD" tvg-name="Nat Geo Wild SD" tvg-logo="" group-title="Server 1⭐️",Nat Geo Wild SD
 http://955079601913383264.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/383264.ts
 #EXTINF:-1 tvg-id="NICKELODEON FHD" tvg-name="NICKELODEON SD" tvg-logo="" group-title="Server 1⭐️",NICKELODEON SD
 http://955079601913383265.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/383265.ts
@@ -2470,7 +2470,7 @@ http://955079601913538665.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/538665.ts
 http://955079601913538666.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/538666.ts
 #EXTINF:-1 tvg-id="La 1 HD" tvg-name="MEZZO SD" tvg-logo="" group-title="Server 1⭐️",MEZZO SD
 http://955079601913538668.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/538668.ts
-#EXTINF:-1 tvg-id="NAT GEO HD" tvg-name="NAT. GEO. FHD" tvg-logo="" group-title="Server 1⭐️",NAT. GEO. FHD
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="National Geographic FHD" tvg-logo="" group-title="Server 1⭐️",National Geographic FHD
 http://955079601913538670.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/538670.ts
 #EXTINF:-1 tvg-id="" tvg-name="PLAY ANDALUCIA TV HD" tvg-logo="" group-title="Server 1⭐️",PLAY ANDALUCIA TV HD
 http://955079601913538671.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/538671.ts
@@ -3066,7 +3066,7 @@ http://955079601913673309.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/673309.ts
 http://955079601913673310.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/673310.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ TERROR SD" tvg-logo="" group-title="Server 1⭐️",M+ TERROR SD
 http://955079601913673311.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/673311.ts
-#EXTINF:-1 tvg-id="NAT GEO HD" tvg-name="NAT. GEO. SD" tvg-logo="" group-title="Server 1⭐️",NAT. GEO. SD
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="National Geographic SD" tvg-logo="" group-title="Server 1⭐️",National Geographic SD
 http://955079601913677554.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/677554.ts
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA 02 HD" tvg-logo="" group-title="Server 1⭐️",CINEMA 02 HD
 http://955079601913676327.of1030ok.xyz:80/play/vi91112/QTW35khx@5R/676327.ts
@@ -3775,11 +3775,11 @@ http://970268178885321358.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/321358.ts
 http://970268178885321359.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/321359.ts
 #EXTINF:-1 tvg-id="" tvg-name="MTV HITS SD" tvg-logo="" group-title="Server 2⭐️",MTV HITS SD
 http://970268178885321360.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/321360.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD FHD" tvg-logo="" group-title="Server 2⭐️",NAT GEO WILD FHD
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild FHD" tvg-logo="" group-title="Server 2⭐️",Nat Geo Wild FHD
 http://970268178885321364.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/321364.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD HD" tvg-logo="" group-title="Server 2⭐️",NAT GEO WILD HD
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild HD" tvg-logo="" group-title="Server 2⭐️",Nat Geo Wild HD
 http://970268178885321365.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/321365.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO SD" tvg-logo="" group-title="Server 2⭐️",NAT GEO SD
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic SD" tvg-logo="" group-title="Server 2⭐️",National Geographic SD
 http://970268178885321366.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/321366.ts
 #EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="" group-title="Server 2⭐️",NATIONAL GEOGRAPHIC FHD
 http://970268178885321371.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/321371.ts
@@ -3949,7 +3949,7 @@ http://970268178885336334.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/336334.ts
 http://970268178885336337.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/336337.ts
 #EXTINF:-1 tvg-id="" tvg-name="LOGOS TV SD" tvg-logo="" group-title="Server 2⭐️",LOGOS TV SD
 http://970268178885336341.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/336341.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD SD" tvg-logo="" group-title="Server 2⭐️",NAT GEO WILD SD
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild SD" tvg-logo="" group-title="Server 2⭐️",Nat Geo Wild SD
 http://970268178885336351.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/336351.ts
 #EXTINF:-1 tvg-id="" tvg-name="NEGOCIOS HD" tvg-logo="" group-title="Server 2⭐️",NEGOCIOS HD
 http://970268178885336355.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/336355.ts
@@ -4003,7 +4003,7 @@ http://970268178885339761.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/339761.ts
 http://970268178885339772.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/339772.ts
 #EXTINF:-1 tvg-id="" tvg-name="MELILLa TV HD" tvg-logo="" group-title="Server 2⭐️",MELILLa TV HD
 http://970268178885339773.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/339773.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD" tvg-logo="" group-title="Server 2⭐️",NAT GEO HD
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD" tvg-logo="" group-title="Server 2⭐️",National Geographic HD
 http://970268178885339777.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/339777.ts
 #EXTINF:-1 tvg-id="" tvg-name="NICK JUNIOR FHD" tvg-logo="" group-title="Server 2⭐️",NICK JUNIOR FHD
 http://970268178885339778.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/339778.ts
@@ -4055,7 +4055,7 @@ http://970268178885383250.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/383250.ts
 http://970268178885383259.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/383259.ts
 #EXTINF:-1 tvg-id="" tvg-name="MTV SD" tvg-logo="" group-title="Server 2⭐️",MTV SD
 http://970268178885383262.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/383262.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC WILD SD" tvg-logo="" group-title="Server 2⭐️",NATIONAL GEOGRAPHIC WILD SD
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild SD" tvg-logo="" group-title="Server 2⭐️",Nat Geo Wild SD
 http://970268178885383264.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/383264.ts
 #EXTINF:-1 tvg-id="" tvg-name="NICKELODEON SD" tvg-logo="" group-title="Server 2⭐️",NICKELODEON SD
 http://970268178885383265.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/383265.ts
@@ -4747,7 +4747,7 @@ http://970268178885673309.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/673309.ts
 http://970268178885673310.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/673310.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ TERROR SD" tvg-logo="" group-title="Server 2⭐️",M+ TERROR SD
 http://970268178885673311.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/673311.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT. GEO. SD" tvg-logo="" group-title="Server 2⭐️",NAT. GEO. SD
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic SD" tvg-logo="" group-title="Server 2⭐️",National Geographic SD
 http://970268178885677554.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/677554.ts
 #EXTINF:-1 tvg-id="" tvg-name="TELEMADRID INT. SD" tvg-logo="" group-title="Server 2⭐️",TELEMADRID INT. SD
 http://970268178885677889.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/677889.ts
@@ -4889,9 +4889,9 @@ http://970268178885681799.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/681799.ts
 http://970268178885681800.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/681800.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ PLUS HD" tvg-logo="" group-title="Server 2⭐️",M+ PLUS HD
 http://970268178885681801.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/681801.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT. GEO. FHD" tvg-logo="" group-title="Server 2⭐️",NAT. GEO. FHD
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic FHD" tvg-logo="" group-title="Server 2⭐️",National Geographic FHD
 http://970268178885681802.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/681802.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="" group-title="Server 2⭐️",NATIONAL GEOGRAPHIC WILD FHD
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild FHD" tvg-logo="" group-title="Server 2⭐️",Nat Geo Wild FHD
 http://970268178885681803.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/681803.ts
 #EXTINF:-1 tvg-id="" tvg-name="TELEONUBA SD" tvg-logo="" group-title="Server 2⭐️",TELEONUBA SD
 http://970268178885681804.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/681804.ts
@@ -4923,7 +4923,7 @@ http://970268178885683909.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/683909.ts
 http://970268178885683910.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/683910.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ ESTRENOS 2 HD" tvg-logo="" group-title="Server 2⭐️",M+ ESTRENOS 2 HD
 http://970268178885683911.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/683911.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT. GEO. HD" tvg-logo="" group-title="Server 2⭐️",NAT. GEO. HD
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD" tvg-logo="" group-title="Server 2⭐️",National Geographic HD
 http://970268178885683912.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/683912.ts
 #EXTINF:-1 tvg-id="" tvg-name="VISION 6 HD" tvg-logo="" group-title="Server 2⭐️",VISION 6 HD
 http://970268178885683913.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/683913.ts
@@ -4947,7 +4947,7 @@ http://970268178885687030.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/687030.ts
 http://970268178885687031.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/687031.ts
 #EXTINF:-1 tvg-id="" tvg-name="DIVINITY HD" tvg-logo="" group-title="Server 2⭐️",DIVINITY HD
 http://970268178885687032.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/687032.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC WILD HD" tvg-logo="" group-title="Server 2⭐️",NATIONAL GEOGRAPHIC WILD HD
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild HD" tvg-logo="" group-title="Server 2⭐️",Nat Geo Wild HD
 http://970268178885687033.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/687033.ts
 #EXTINF:-1 tvg-id="" tvg-name="7 TV SEVILLa FHD" tvg-logo="" group-title="Server 2⭐️",7 TV SEVILLa FHD
 http://970268178885688182.ofip231209.xyz:80/play/ja1121082/JVjwUmMcTM/688182.ts
@@ -5808,30 +5808,30 @@ http://625258466418321359.ofip231209.xyz:80/play/Ferna1117/7766585AA2/321359.ts
 http://625258466418321360.ofip231209.xyz:80/play/Ferna1117/7766585AA2/321360.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="" group-title="Server 3⭐️",NATIONAL GEOGRAPHIC WILD FHD
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild FHD" tvg-logo="" group-title="Server 3⭐️",Nat Geo Wild FHD
 http://625258466418681803.ofip231209.xyz:80/play/Ferna1117/7766585AA2/681803.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC WILD HD" tvg-logo="" group-title="Server 3⭐️",NATIONAL GEOGRAPHIC WILD HD
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild HD" tvg-logo="" group-title="Server 3⭐️",Nat Geo Wild HD
 http://625258466418687033.ofip231209.xyz:80/play/Ferna1117/7766585AA2/687033.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC WILD SD" tvg-logo="" group-title="Server 3⭐️",NATIONAL GEOGRAPHIC WILD SD
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild SD" tvg-logo="" group-title="Server 3⭐️",Nat Geo Wild SD
 http://625258466418383264.ofip231209.xyz:80/play/Ferna1117/7766585AA2/383264.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD FHD" tvg-logo="" group-title="Server 3⭐️",NAT GEO WILD FHD
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild FHD" tvg-logo="" group-title="Server 3⭐️",Nat Geo Wild FHD
 http://625258466418321364.ofip231209.xyz:80/play/Ferna1117/7766585AA2/321364.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD HD" tvg-logo="" group-title="Server 3⭐️",NAT GEO WILD HD
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild HD" tvg-logo="" group-title="Server 3⭐️",Nat Geo Wild HD
 http://625258466418321365.ofip231209.xyz:80/play/Ferna1117/7766585AA2/321365.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD SD" tvg-logo="" group-title="Server 3⭐️",NAT GEO WILD SD
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild SD" tvg-logo="" group-title="Server 3⭐️",Nat Geo Wild SD
 http://625258466418336351.ofip231209.xyz:80/play/Ferna1117/7766585AA2/336351.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="NAT. GEO. FHD" tvg-logo="" group-title="Server 3⭐️",NAT GEO FHD
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic FHD" tvg-logo="" group-title="Server 3⭐️",National Geographic FHD
 http://625258466418681802.ofip231209.xyz:80/play/Ferna1117/7766585AA2/681802.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD" tvg-logo="" group-title="Server 3⭐️",NAT GEO HD
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD" tvg-logo="" group-title="Server 3⭐️",National Geographic HD
 http://625258466418339777.ofip231209.xyz:80/play/Ferna1117/7766585AA2/339777.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT. GEO. HD" tvg-logo="" group-title="Server 3⭐️",NAT GEO HD
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD" tvg-logo="" group-title="Server 3⭐️",National Geographic HD
 http://625258466418683912.ofip231209.xyz:80/play/Ferna1117/7766585AA2/683912.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO SD" tvg-logo="" group-title="Server 3⭐️",NAT GEO SD
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic SD" tvg-logo="" group-title="Server 3⭐️",National Geographic SD
 http://625258466418321366.ofip231209.xyz:80/play/Ferna1117/7766585AA2/321366.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT. GEO. SD" tvg-logo="" group-title="Server 3⭐️",NAT GEO SD
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic SD" tvg-logo="" group-title="Server 3⭐️",National Geographic SD
 http://625258466418677554.ofip231209.xyz:80/play/Ferna1117/7766585AA2/677554.ts
 
 
@@ -7295,31 +7295,31 @@ http://968136665933321225.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321225.ts
 http://968136665933321226.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321226.ts
 #EXTINF:-1 tvg-id="" tvg-name="DMAX SD" tvg-logo="https://miguia.tv/channels/big_184.png" group-title="Server 5⭐️",DMAX SD
 http://968136665933321227.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321227.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="" group-title="Server 5⭐️",NATIONAL GEOGRAPHIC WILD FHD
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild FHD" tvg-logo="" group-title="Server 5⭐️",Nat Geo Wild FHD
 http://968136665933681803.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/681803.ts
-#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NATIONAL GEOGRAPHIC WILD SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NATGW" group-title="Server 5⭐️",NATIONAL GEOGRAPHIC WILD SD
+#EXTINF:-1 tvg-id="National Geographic WILD" tvg-name="Nat Geo Wild SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NATGW" group-title="Server 5⭐️",Nat Geo Wild SD
 http://968136665933383264.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/383264.ts
-#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="NAT GEO WILD FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7889_414_1_C00000_0_0_0.png" group-title="Server 5⭐️",NAT GEO WILD FHD
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="Nat Geo Wild FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7889_414_1_C00000_0_0_0.png" group-title="Server 5⭐️",Nat Geo Wild FHD
 http://968136665933321364.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321364.ts
-#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="NAT GEO WILD HD" tvg-logo="https://miguia.tv/channels/big_123.png" group-title="Server 5⭐️",NAT GEO WILD HD
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="Nat Geo Wild HD" tvg-logo="https://miguia.tv/channels/big_123.png" group-title="Server 5⭐️",Nat Geo Wild HD
 http://968136665933321365.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321365.ts
-#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="NAT GEO WILD SD" tvg-logo="https://miguia.tv/channels/big_123.png" group-title="Server 5⭐️",NAT GEO WILD SD
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="Nat Geo Wild SD" tvg-logo="https://miguia.tv/channels/big_123.png" group-title="Server 5⭐️",Nat Geo Wild SD
 http://968136665933336351.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/336351.ts
-#EXTINF:-1 tvg-id="natgeo.es" tvg-name="NAT GEO SD" tvg-logo="https://miguia.tv/channels/big_124.png" group-title="Server 5⭐️",NAT GEO SD
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="National Geographic SD" tvg-logo="https://miguia.tv/channels/big_124.png" group-title="Server 5⭐️",National Geographic SD
 http://968136665933321366.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321366.ts
-#EXTINF:-1 tvg-id="natgeo.es" tvg-name="NAT GEO HD" tvg-logo="https://miguia.tv/channels/big_124.png" group-title="Server 5⭐️",NAT GEO HD
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="National Geographic HD" tvg-logo="https://miguia.tv/channels/big_124.png" group-title="Server 5⭐️",National Geographic HD
 http://968136665933339777.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/339777.ts
-#EXTINF:-1 tvg-id="NAT GEO HD" tvg-name="NAT. GEO. SD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7829_428_1_C00000_0_0_0.png" group-title="Server 5⭐️",NAT. GEO. SD
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="National Geographic SD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7829_428_1_C00000_0_0_0.png" group-title="Server 5⭐️",National Geographic SD
 http://968136665933677554.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/677554.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT. GEO. FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7829_428_1_C00000_0_0_0.png" group-title="Server 5⭐️",NAT. GEO. FHD
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7829_428_1_C00000_0_0_0.png" group-title="Server 5⭐️",National Geographic FHD
 http://968136665933681802.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/681802.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT. GEO. HD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7829_428_1_C00000_0_0_0.png" group-title="Server 5⭐️",NAT. GEO. HD
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7829_428_1_C00000_0_0_0.png" group-title="Server 5⭐️",National Geographic HD
 http://968136665933683912.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/683912.ts
-#EXTINF:-1 tvg-id="NAT GEO FHD" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NATGEO" group-title="Server 5⭐️",NATIONAL GEOGRAPHIC FHD
+#EXTINF:-1 tvg-id="National Geographic FHD" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NATGEO" group-title="Server 5⭐️",NATIONAL GEOGRAPHIC FHD
 http://968136665933321371.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321371.ts
-#EXTINF:-1 tvg-id="NAT GEO HD" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NATGEO" group-title="Server 5⭐️",NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NATGEO" group-title="Server 5⭐️",NATIONAL GEOGRAPHIC HD
 http://968136665933321372.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321372.ts
-#EXTINF:-1 tvg-id="NAT GEO SD" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NATGEO" group-title="Server 5⭐️",NATIONAL GEOGRAPHIC SD
+#EXTINF:-1 tvg-id="National Geographic SD" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NATGEO" group-title="Server 5⭐️",NATIONAL GEOGRAPHIC SD
 http://968136665933321373.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321373.ts
 #EXTINF:-1 tvg-id="historia.es" tvg-name="HISTORIA HD" tvg-logo="https://miguia.tv/channels/big_92.png" group-title="Server 5⭐️",HISTORIA HD
 http://968136665933321262.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/321262.ts
@@ -9328,7 +9328,7 @@ http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/1213
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/1215
 #EXTINF:-1 tvg-id="" tvg-name="HISTORIA HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/HIST.png" group-title="Server 6⭐️ VPN",HISTORIA HD
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/1216
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGW.png" group-title="Server 6⭐️ VPN",NAT GEO WILD HD
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGW.png" group-title="Server 6⭐️ VPN",Nat Geo Wild HD
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/1218
 #EXTINF:-1 tvg-id="National Geographic" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGEO.png" group-title="Server 6⭐️ VPN",NATIONAL GEOGRAPHIC HD
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/1219
@@ -9960,13 +9960,13 @@ http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/59860.ts
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/59862.ts
 #EXTINF:-1 tvg-id="" tvg-name="ODISEA" tvg-logo="" group-title="Server 7⭐️",ODISEA
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/59863.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD" tvg-logo="" group-title="Server 7⭐️",NAT GEO HD
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD" tvg-logo="" group-title="Server 7⭐️",National Geographic HD
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/59864.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO FHD" tvg-logo="" group-title="Server 7⭐️",NAT GEO FHD
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic FHD" tvg-logo="" group-title="Server 7⭐️",National Geographic FHD
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/59865.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD HD " tvg-logo="" group-title="Server 7⭐️",NAT GEO WILD HD 
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild HD " tvg-logo="" group-title="Server 7⭐️",Nat Geo Wild HD 
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/59866.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD FHD" tvg-logo="" group-title="Server 7⭐️",NAT GEO WILD FHD
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild FHD" tvg-logo="" group-title="Server 7⭐️",Nat Geo Wild FHD
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/59867.ts
 #EXTINF:-1 tvg-id="" tvg-name="MTV ESPANA" tvg-logo="" group-title="Server 7⭐️",MTV ESPANA
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/59869.ts
@@ -10126,7 +10126,7 @@ http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/139224.ts
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/139225.ts
 #EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="" group-title="Server 7⭐️",NATIONAL GEOGRAPHIC FHD
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/139226.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD FHD" tvg-logo="" group-title="Server 7⭐️",NAT GEO WILD FHD
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild FHD" tvg-logo="" group-title="Server 7⭐️",Nat Geo Wild FHD
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/139227.ts
 #EXTINF:-1 tvg-id="" tvg-name="MTV 00s" tvg-logo="" group-title="Server 7⭐️",MTV 00s
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/139228.ts
@@ -10344,7 +10344,7 @@ http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/143133.ts
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/143134.ts
 #EXTINF:-1 tvg-id="" tvg-name="M CINE ESPAÑOL FHD" tvg-logo="" group-title="Server 7⭐️",M CINE ESPAÑOL FHD
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/143135.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD" tvg-logo="" group-title="Server 7⭐️",NAT GEO HD
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD" tvg-logo="" group-title="Server 7⭐️",National Geographic HD
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/143136.ts
 #EXTINF:-1 tvg-id="" tvg-name="REAL MADRID TV " tvg-logo="" group-title="Server 7⭐️",REAL MADRID TV 
 http://f1.millenium-ott.com:25443/live/V185zUguhUrUc/713estSdUw/65959.ts

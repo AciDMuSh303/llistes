@@ -710,11 +710,11 @@ http://dayser.info:8080/play/deqa9MMt4Ak43jBFsBsGsOM2oxCec2UwNYomXgn-xxU
 http://dayser.info:8080/play/deqa9MMt4Ak43jBFsBsGsM0vuP0C5J3h9S247v177BA
 #EXTINF:-1 tvg-id="" tvg-name="Canal 10 EmpordÃ  (360p) [Not 24/7]" tvg-logo="https://i.imgur.com/ojQ6wzX.png" group-title="Server 0⭐️VPN",Canal 10 EmpordÃ  (360p) [Not 24/7]
 http://dayser.info:8080/play/deqa9MMt4Ak43jBFsBsGsEgdVvZq64PNXlDyq2vnVQ4
-#EXTINF:-1 tvg-id="" tvg-name="Canal 24 Horas (720p)" tvg-logo="https://i.imgur.com/QYGrq71.png" group-title="Server 0⭐️VPN",Canal 24 Horas (720p)
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas (720p)" tvg-logo="https://i.imgur.com/QYGrq71.png" group-title="Server 0⭐️VPN",24 Horas (720p)
 http://dayser.info:8080/play/deqa9MMt4Ak43jBFsBsGsGMSXN-AztV_TpDoNc4me_Q
-#EXTINF:-1 tvg-id="" tvg-name="Canal 24 Horas Canarias (576p)" tvg-logo="https://i.imgur.com/tiv24xx.png" group-title="Server 0⭐️VPN",Canal 24 Horas Canarias (576p)
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Canarias (576p)" tvg-logo="https://i.imgur.com/tiv24xx.png" group-title="Server 0⭐️VPN",24 Horas Canarias (576p)
 http://dayser.info:8080/play/deqa9MMt4Ak43jBFsBsGsC6FJsdMZt-xT8Zg3ZeUS6U
-#EXTINF:-1 tvg-id="" tvg-name="Canal 24 Horas Catalunya (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/512px-Logo_TVE-24h.svg.png" group-title="Server 0⭐️VPN",Canal 24 Horas Catalunya (576p)
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas Catalunya (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/512px-Logo_TVE-24h.svg.png" group-title="Server 0⭐️VPN",24 Horas Catalunya (576p)
 http://dayser.info:8080/play/deqa9MMt4Ak43jBFsBsGsBq2eMZhoRQI9P2MCSVKbP8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 25 TV (Barbastro) (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/2BBGZ1H.png" group-title="Server 0⭐️VPN",Canal 25 TV (Barbastro) (720p) [Not 24/7]
 http://dayser.info:8080/play/deqa9MMt4Ak43jBFsBsGsL9PRrqtMLjOUtX3Fvwx_FA
@@ -1104,9 +1104,9 @@ http://931271985836321068.of1030ok.xyz:80/play/WQ8VE95QAC/DWUfxvxDfwrT/321068.ts
 http://931271985836321069.of1030ok.xyz:80/play/WQ8VE95QAC/DWUfxvxDfwrT/321069.ts
 #EXTINF:-1 tvg-id="#0 HD" tvg-name="M+ ORIGINALES SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MORIG" group-title="Server 1⭐️",M+ ORIGINALES SD
 http://931271985836321070.of1030ok.xyz:80/play/WQ8VE95QAC/DWUfxvxDfwrT/321070.ts
-#EXTINF:-1 tvg-id="24horas.es" tvg-name="24H SD" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_7738_416_1_C00000_0_0_0.png" group-title="Server 1⭐️",24H SD
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="24 Horas SD" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_7738_416_1_C00000_0_0_0.png" group-title="Server 1⭐️",24 Horas SD
 http://931271985836321076.of1030ok.xyz:80/play/WQ8VE95QAC/DWUfxvxDfwrT/321076.ts
-#EXTINF:-1 tvg-id="LA 1" tvg-name="24H FHD" tvg-logo="http://meteoalcorcon.es/tve_canal_24horas.png" group-title="Server 1⭐️",24H FHD
+#EXTINF:-1 tvg-id="LA 1" tvg-name="24 Horas FHD" tvg-logo="http://meteoalcorcon.es/tve_canal_24horas.png" group-title="Server 1⭐️",24 Horas FHD
 http://931271985836321077.of1030ok.xyz:80/play/WQ8VE95QAC/DWUfxvxDfwrT/321077.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="A PUNT SD" tvg-logo="https://www.radio.fr/images/broadcasts/31/dd/108578/1/c300.png" group-title="Server 1⭐️",A PUNT SD
 http://931271985836321083.of1030ok.xyz:80/play/WQ8VE95QAC/DWUfxvxDfwrT/321083.ts
@@ -1500,7 +1500,7 @@ http://931271985836336381.of1030ok.xyz:80/play/WQ8VE95QAC/DWUfxvxDfwrT/336381.ts
 http://931271985836336382.of1030ok.xyz:80/play/WQ8VE95QAC/DWUfxvxDfwrT/336382.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="VIDA RTV FHD" tvg-logo="https://cdn-profiles.tunein.com/s116672/images/logod.png" group-title="Server 1⭐️",VIDA RTV FHD
 http://931271985836336385.of1030ok.xyz:80/play/WQ8VE95QAC/DWUfxvxDfwrT/336385.ts
-#EXTINF:-1 tvg-id="24horas.es" tvg-name="24H HD" tvg-logo="http://meteoalcorcon.es/tve_canal_24horas.png" group-title="Server 1⭐️",24H HD
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="24 Horas HD" tvg-logo="http://meteoalcorcon.es/tve_canal_24horas.png" group-title="Server 1⭐️",24 Horas HD
 http://931271985836339730.of1030ok.xyz:80/play/WQ8VE95QAC/DWUfxvxDfwrT/339730.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="A PUNT HD" tvg-logo="https://www.radio.fr/images/broadcasts/31/dd/108578/1/c300.png" group-title="Server 1⭐️",A PUNT HD
 http://931271985836339733.of1030ok.xyz:80/play/WQ8VE95QAC/DWUfxvxDfwrT/339733.ts
@@ -2134,7 +2134,7 @@ http://931271985836287698.of1030ok.xyz:80/play/WQ8VE95QAC/DWUfxvxDfwrT/287698.ts
 http://931271985836290361.of1030ok.xyz:80/play/WQ8VE95QAC/DWUfxvxDfwrT/290361.ts
 #EXTINF:-1 tvg-id="La2_CAT.TV" tvg-name="La 2 CATALUNYA HD" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Server 1⭐️",La 2 CATALUNYA HD
 http://931271985836290785.of1030ok.xyz:80/play/WQ8VE95QAC/DWUfxvxDfwrT/290785.ts
-#EXTINF:-1 tvg-id="ext" tvg-name="24H CATALUNYA HD" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Server 1⭐️",24H CATALUNYA HD
+#EXTINF:-1 tvg-id="ext" tvg-name="24 Horas CATALUNYA HD" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Server 1⭐️",24 Horas CATALUNYA HD
 http://931271985836294688.of1030ok.xyz:80/play/WQ8VE95QAC/DWUfxvxDfwrT/294688.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="ESPORT3 FHD" tvg-logo="" group-title="Server 1⭐️",ESPORT3 FHD
 http://931271985836341930.of1030ok.xyz:80/play/WQ8VE95QAC/DWUfxvxDfwrT/341930.ts
@@ -2901,9 +2901,9 @@ http://808630668559321068.of1124.xyz:80/play/serrano2410A/0124973429A/321068.ts
 http://808630668559321069.of1124.xyz:80/play/serrano2410A/0124973429A/321069.ts
 #EXTINF:-1 tvg-id="#0 HD" tvg-name="M+ ORIGINALES SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MORIG" group-title="Server 2⭐️",M+ ORIGINALES SD
 http://808630668559321070.of1124.xyz:80/play/serrano2410A/0124973429A/321070.ts
-#EXTINF:-1 tvg-id="24horas.es" tvg-name="24H SD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/24h-es.png?raw=true" group-title="Server 2⭐️",24H SD
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="24 Horas SD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/24h-es.png?raw=true" group-title="Server 2⭐️",24 Horas SD
 http://808630668559321076.of1124.xyz:80/play/serrano2410A/0124973429A/321076.ts
-#EXTINF:-1 tvg-id="LA 1" tvg-name="24H FHD" tvg-logo="http://meteoalcorcon.es/tve_canal_24horas.png" group-title="Server 2⭐️",24H FHD
+#EXTINF:-1 tvg-id="LA 1" tvg-name="24 Horas FHD" tvg-logo="http://meteoalcorcon.es/tve_canal_24horas.png" group-title="Server 2⭐️",24 Horas FHD
 http://808630668559321077.of1124.xyz:80/play/serrano2410A/0124973429A/321077.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="A PUNT SD" tvg-logo="https://www.radio.fr/images/broadcasts/31/dd/108578/1/c300.png" group-title="Server 2⭐️",A PUNT SD
 http://808630668559321083.of1124.xyz:80/play/serrano2410A/0124973429A/321083.ts
@@ -3297,7 +3297,7 @@ http://808630668559336381.of1124.xyz:80/play/serrano2410A/0124973429A/336381.ts
 http://808630668559336382.of1124.xyz:80/play/serrano2410A/0124973429A/336382.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="VIDA RTV FHD" tvg-logo="https://cdn-profiles.tunein.com/s116672/images/logod.png" group-title="Server 2⭐️",VIDA RTV FHD
 http://808630668559336385.of1124.xyz:80/play/serrano2410A/0124973429A/336385.ts
-#EXTINF:-1 tvg-id="24horas.es" tvg-name="24H HD" tvg-logo="http://meteoalcorcon.es/tve_canal_24horas.png" group-title="Server 2⭐️",24H HD
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="24 Horas HD" tvg-logo="http://meteoalcorcon.es/tve_canal_24horas.png" group-title="Server 2⭐️",24 Horas HD
 http://808630668559339730.of1124.xyz:80/play/serrano2410A/0124973429A/339730.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="A PUNT HD" tvg-logo="https://www.radio.fr/images/broadcasts/31/dd/108578/1/c300.png" group-title="Server 2⭐️",A PUNT HD
 http://808630668559339733.of1124.xyz:80/play/serrano2410A/0124973429A/339733.ts
@@ -4915,7 +4915,7 @@ http://625258466418290785.ofip231209.xyz:80/play/Ferna1117/7766585AA2/290785.ts
 http://625258466418293864.ofip231209.xyz:80/play/Ferna1117/7766585AA2/293864.ts
 #EXTINF:-1 tvg-id="" tvg-name="TAQUILLa 3 FHD" tvg-logo="" group-title="Server 3⭐️",TAQUILLa 3 FHD
 http://625258466418293865.ofip231209.xyz:80/play/Ferna1117/7766585AA2/293865.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H CATALUNYA HD" tvg-logo="" group-title="Server 3⭐️",24H CATALUNYA HD
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas CATALUNYA HD" tvg-logo="" group-title="Server 3⭐️",24 Horas CATALUNYA HD
 http://625258466418294688.ofip231209.xyz:80/play/Ferna1117/7766585AA2/294688.ts
 #EXTINF:-1 tvg-id="" tvg-name="TRECE SD" tvg-logo="" group-title="Server 3⭐️",TRECE SD
 http://625258466418295613.ofip231209.xyz:80/play/Ferna1117/7766585AA2/295613.ts
@@ -6375,7 +6375,7 @@ http://625258466418692371.ofip231209.xyz:80/play/Ferna1117/7766585AA2/692371.ts
 http://625258466418692372.ofip231209.xyz:80/play/Ferna1117/7766585AA2/692372.ts
 #EXTINF:-1 tvg-id="" tvg-name="VIVIR CON GATOS HD" tvg-logo="" group-title="Server 3⭐️",VIVIR CON GATOS HD
 http://625258466418693488.ofip231209.xyz:80/play/Ferna1117/7766585AA2/693488.ts
-#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO VIP 24H HD" tvg-logo="" group-title="Server 3⭐️",GRAN HERMANO VIP 24H HD
+#EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO VIP 24 Horas HD" tvg-logo="" group-title="Server 3⭐️",GRAN HERMANO VIP 24 Horas HD
 http://625258466418693489.ofip231209.xyz:80/play/Ferna1117/7766585AA2/693489.ts
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX MOVIES FHD" tvg-logo="" group-title="Server 3⭐️",NETFLIX MOVIES FHD
 http://625258466418693785.ofip231209.xyz:80/play/Ferna1117/7766585AA2/693785.ts
@@ -6517,7 +6517,7 @@ http://625258466418708131.ofip231209.xyz:80/play/Ferna1117/7766585AA2/708131.ts
 http://625258466418708582.ofip231209.xyz:80/play/Ferna1117/7766585AA2/708582.ts
 #EXTINF:-1 tvg-id="" tvg-name="RAKUTEN TV FAMILY HD" tvg-logo="" group-title="Server 3⭐️",RAKUTEN TV FAMILY HD
 http://625258466418709262.ofip231209.xyz:80/play/Ferna1117/7766585AA2/709262.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H CANARIAS HD" tvg-logo="" group-title="Server 3⭐️",24H CANARIAS HD
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas CANARIAS HD" tvg-logo="" group-title="Server 3⭐️",24 Horas CANARIAS HD
 http://625258466418709327.ofip231209.xyz:80/play/Ferna1117/7766585AA2/709327.ts
 #EXTINF:-1 tvg-id="" tvg-name="MOLa TV HD" tvg-logo="" group-title="Server 3⭐️",MOLa TV HD
 http://625258466418709329.ofip231209.xyz:80/play/Ferna1117/7766585AA2/709329.ts
@@ -9261,7 +9261,7 @@ http://968136665933286987.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/286987.ts
 http://968136665933286988.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/286988.ts
 #EXTINF:-1 tvg-id="" tvg-name="ONDA 15 TV SD" tvg-logo="https://graph.facebook.com/Onda15Radio/picture?width=200&height=200" group-title="Server 5⭐️",ONDA 15 TV SD
 http://968136665933286989.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/286989.ts
-#EXTINF:-1 tvg-id="" tvg-name="ONDA CÃ¡DIZ 24H HD" tvg-logo="https://graph.facebook.com/ondacadiz/picture?width=200&height=200" group-title="Server 5⭐️",ONDA CÃ¡DIZ 24H HD
+#EXTINF:-1 tvg-id="" tvg-name="ONDA CÃ¡DIZ 24 Horas HD" tvg-logo="https://graph.facebook.com/ondacadiz/picture?width=200&height=200" group-title="Server 5⭐️",ONDA CÃ¡DIZ 24 Horas HD
 http://968136665933286990.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/286990.ts
 #EXTINF:-1 tvg-id="OndaCadiz.TV" tvg-name="ONDA CÃ¡DIZ HD" tvg-logo="https://graph.facebook.com/ondacadiz/picture?width=200&height=200" group-title="Server 5⭐️",ONDA CÃ¡DIZ HD
 http://968136665933286991.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/286991.ts
@@ -9395,7 +9395,7 @@ http://968136665933290369.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/290369.ts
 http://968136665933290785.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/290785.ts
 #EXTINF:-1 tvg-id="8M.TV" tvg-name="La 8 MEDITERRÃ¡NEO HD" tvg-logo="https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200" group-title="Server 5⭐️",La 8 MEDITERRÃ¡NEO HD
 http://968136665933290786.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/290786.ts
-#EXTINF:-1 tvg-id="" tvg-name="MTMAD 24H HD" tvg-logo="http://graph.facebook.com/mtmad.es/picture?width=320&height=320" group-title="Server 5⭐️",MTMAD 24H HD
+#EXTINF:-1 tvg-id="" tvg-name="MTMAD 24 Horas HD" tvg-logo="http://graph.facebook.com/mtmad.es/picture?width=320&height=320" group-title="Server 5⭐️",MTMAD 24 Horas HD
 http://968136665933291397.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/291397.ts
 #EXTINF:-1 tvg-id="" tvg-name="BIOSFERA TV HD" tvg-logo="https://graph.facebook.com/biosferamedia/picture?width=200&height=200" group-title="Server 5⭐️",BIOSFERA TV HD
 http://968136665933291658.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/291658.ts
@@ -9407,7 +9407,7 @@ http://968136665933292728.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/292728.ts
 http://968136665933292860.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/292860.ts
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERS TV HD" tvg-logo="https://graph.facebook.com/UniversValenciaMedia/picture?width=200&height=200" group-title="Server 5⭐️",UNIVERS TV HD
 http://968136665933292861.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/292861.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H CANARIAS HD" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Server 5⭐️",24H CANARIAS HD
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas CANARIAS HD" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Server 5⭐️",24 Horas CANARIAS HD
 http://968136665933294370.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/294370.ts
 #EXTINF:-1 tvg-id="" tvg-name="7 MURCIA SD" tvg-logo="https://i.imgur.com/M0JqHa9.png" group-title="Server 5⭐️",7 MURCIA SD
 http://968136665933294371.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/294371.ts
@@ -9415,7 +9415,7 @@ http://968136665933294371.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/294371.ts
 http://968136665933294372.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/294372.ts
 #EXTINF:-1 tvg-id="" tvg-name="TELEGILENA HD" tvg-logo="https://pbs.twimg.com/profile_images/1323402078153285632/xCLDLju__200x200.jpg" group-title="Server 5⭐️",TELEGILENA HD
 http://968136665933294373.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/294373.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H CATALUNYA HD" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Server 5⭐️",24H CATALUNYA HD
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas CATALUNYA HD" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Server 5⭐️",24 Horas CATALUNYA HD
 http://968136665933294688.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/294688.ts
 #EXTINF:-1 tvg-id="" tvg-name="ZAFRA TV FHD" tvg-logo="https://graph.facebook.com/ZFtelevision/picture?width=200&height=200" group-title="Server 5⭐️",ZAFRA TV FHD
 http://968136665933295066.of1030ok.xyz:80/play/Furgo3005/uvjXqnd5rr/295066.ts
@@ -9945,7 +9945,7 @@ http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/609
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/612
 #EXTINF:-1 tvg-id="La 1" tvg-name="TCM" tvg-logo="https://i.postimg.cc/y8nhKZcP/Dise-o-sin-t-tulo-20.png" group-title="Server 6⭐️ VPN",TCM
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/615
-#EXTINF:-1 tvg-id="" tvg-name="La Resistencia 24H por M+" tvg-logo="https://i.postimg.cc/yNYJypJh/Dise-o-sin-t-tulo-14.png" group-title="Server 6⭐️ VPN",La Resistencia 24H por M+
+#EXTINF:-1 tvg-id="" tvg-name="La Resistencia 24 Horas por M+" tvg-logo="https://i.postimg.cc/yNYJypJh/Dise-o-sin-t-tulo-14.png" group-title="Server 6⭐️ VPN",La Resistencia 24 Horas por M+
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/618
 #EXTINF:-1 tvg-id="" tvg-name="XTRM" tvg-logo="https://i.postimg.cc/LXBcTDrS/Dise-o-sin-t-tulo-17.png" group-title="Server 6⭐️ VPN",XTRM
 http://pinkpanther.uk:8080/uLavGkKhmPM5/gCcELJh7DDtZ/621
@@ -12186,9 +12186,9 @@ https://live-edge-ams-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live
 http://ventdelnord.tv:8080/escala/directe.m3u8
 #EXTINF:-1 tvg-id="Canal24Horas.es" tvg-name="24 Horas (720p)" tvg-logo="" group-title="Autonomicas",24 Horas (720p)
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-id="Canal24HorasCanarias.es" tvg-name="Canal 24 Horas Canarias (576p)" tvg-logo="" group-title="Autonomicas",Canal 24 Horas Canarias (576p)
+#EXTINF:-1 tvg-id="Canal24HorasCanarias.es" tvg-name="24 Horas Canarias (576p)" tvg-logo="" group-title="Autonomicas",24 Horas Canarias (576p)
 https://ztnr.rtve.es/ztnr/5473142.m3u8
-#EXTINF:-1 tvg-id="Canal24HorasCatalunya.es" tvg-name="Canal 24 Horas Catalunya (576p)" tvg-logo="" group-title="Autonomicas",Canal 24 Horas Catalunya (576p)
+#EXTINF:-1 tvg-id="Canal24HorasCatalunya.es" tvg-name="24 Horas Catalunya (576p)" tvg-logo="" group-title="Autonomicas",24 Horas Catalunya (576p)
 https://ztnr.rtve.es/ztnr/4952053.m3u8
 #EXTINF:-1 tvg-id="Canal25TV.es" tvg-name="Canal 25 TV (Barbastro) (720p) [Not 24/7]" tvg-logo="" group-title="Autonomicas",Canal 25 TV (Barbastro) (720p) [Not 24/7]
 https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
@@ -12432,7 +12432,7 @@ https://cloudvideo.servers10.com:8081/8034/index.m3u8
 https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
 #EXTINF:-1 tvg-id="OndaCadiz.es" tvg-name="Onda Cadiz (1080p)" tvg-logo="" group-title="Autonomicas",Onda Cadiz (1080p)
 https://adc-hls.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="OndaCadiz.es" tvg-name="Onda Cadiz 24h (720p)" tvg-logo="" group-title="Autonomicas",Onda Cadiz 24h (720p)
+#EXTINF:-1 tvg-id="OndaCadiz.es" tvg-name="Onda Cadiz 24 Horas (720p)" tvg-logo="" group-title="Autonomicas",Onda Cadiz 24 Horas (720p)
 https://ondacadiztv.es:30443/octv/24h/playlist.m3u8
 #EXTINF:-1 tvg-id="OndaMadrid.es" tvg-name="Onda Madrid (360p)" tvg-logo="" group-title="Autonomicas",Onda Madrid (360p)
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/ondamadrid_1/index.m3u8

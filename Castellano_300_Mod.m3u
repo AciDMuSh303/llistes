@@ -135,7 +135,7 @@ http://876910943503321194.ofd0208.xyz:80/play/rogelioaguilar/zY5F1s8GiO/321194.t
 http://876910943503321203.ofd0208.xyz:80/play/rogelioaguilar/zY5F1s8GiO/321203.ts
 #EXTINF:-1 tvg-id="CANAL DECASA" tvg-name="DECASA TV SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DECASA" group-title="Server 1⭐️",DECASA TV SD
 http://876910943503321206.ofd0208.xyz:80/play/rogelioaguilar/zY5F1s8GiO/321206.ts
-#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_772F_416_1_C00000_0_0_0.png" group-title="Server 1⭐️",DISCOVERY CHANNEL SD
+#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_772F_416_1_C00000_0_0_0.png" group-title="Server 1⭐️",DISCOVERY CHANNELS SD
 http://876910943503321209.ofd0208.xyz:80/play/rogelioaguilar/zY5F1s8GiO/321209.ts
 #EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY CHANNELS SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DCR" group-title="Server 1⭐️",DISCOVERY CHANNELS SD
 http://876910943503321212.ofd0208.xyz:80/play/rogelioaguilar/zY5F1s8GiO/321212.ts
@@ -205,17 +205,17 @@ http://876910943503321294.ofd0208.xyz:80/play/rogelioaguilar/zY5F1s8GiO/321294.t
 http://876910943503321300.ofd0208.xyz:80/play/rogelioaguilar/zY5F1s8GiO/321300.ts
 #EXTINF:-1 tvg-id="Mega" tvg-name="MEGA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/MegaHD.png" group-title="Server 1⭐️",MEGA SD
 http://876910943503321301.ofd0208.xyz:80/play/rogelioaguilar/zY5F1s8GiO/321301.ts
-#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M+ ACCION FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="Server 1⭐️",M+ ACCION FHD
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M+ ACCIÓN FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="Server 1⭐️",M+ ACCIÓN FHD
 http://876910943503321305.ofd0208.xyz:80/play/rogelioaguilar/zY5F1s8GiO/321305.ts
-#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M+ ACCION HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="Server 1⭐️",M+ ACCION HD
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M+ ACCIÓN HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="Server 1⭐️",M+ ACCIÓN HD
 http://876910943503321306.ofd0208.xyz:80/play/rogelioaguilar/zY5F1s8GiO/321306.ts
-#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M+ ACCION SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="Server 1⭐️",M+ ACCION SD
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M+ ACCIÓN SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="Server 1⭐️",M+ ACCIÓN SD
 http://876910943503321307.ofd0208.xyz:80/play/rogelioaguilar/zY5F1s8GiO/321307.ts
-#EXTINF:-1 tvg-id="M+ CLÃSICOS HD" tvg-name="M+ CLASICOS FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="Server 1⭐️",M+ CLASICOS FHD
+#EXTINF:-1 tvg-id="M+ CLÃSICOS HD" tvg-name="M+ CLÁSICOS FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="Server 1⭐️",M+ CLÁSICOS FHD
 http://876910943503321314.ofd0208.xyz:80/play/rogelioaguilar/zY5F1s8GiO/321314.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ CLASICOS HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MCLAS" group-title="Server 1⭐️",M+ CLASICOS HD
+#EXTINF:-1 tvg-id="" tvg-name="M+ CLÁSICOS HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MCLAS" group-title="Server 1⭐️",M+ CLÁSICOS HD
 http://876910943503321315.ofd0208.xyz:80/play/rogelioaguilar/zY5F1s8GiO/321315.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ CLASICOS SD" tvg-logo="http://vpsapache.hopto.org/images/m_plus_clacicos.png" group-title="Server 1⭐️",M+ CLASICOS SD
+#EXTINF:-1 tvg-id="" tvg-name="M+ CLÁSICOS SD" tvg-logo="http://vpsapache.hopto.org/images/m_plus_clacicos.png" group-title="Server 1⭐️",M+ CLÁSICOS SD
 http://876910943503321316.ofd0208.xyz:80/play/rogelioaguilar/zY5F1s8GiO/321316.ts
 #EXTINF:-1 tvg-id="M+ Comedia HD" tvg-name="M+ COMEDIA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPCOME.png" group-title="Server 1⭐️",M+ COMEDIA FHD
 http://876910943503321317.ofd0208.xyz:80/play/rogelioaguilar/zY5F1s8GiO/321317.ts

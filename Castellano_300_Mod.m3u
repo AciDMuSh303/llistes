@@ -8,6 +8,7 @@
 
 
 
+
 #EXTINF:-1 tvg-id="la1.es" tvg-name="LA 1 FHD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="Server 1⭐️",LA 1 FHD
 http://834701933118321276.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321276.ts
 #EXTINF:-1 tvg-id="la1.es" tvg-name="LA 1 HD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="Server 1⭐️",LA 1 HD
@@ -83,11 +84,11 @@ http://834701933118321138.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321138.ts
 http://834701933118321139.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321139.ts
 #EXTINF:-1 tvg-id="calle13.es" tvg-name="CALLE 13 SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CL13" group-title="Server 1⭐️",CALLE 13 SD
 http://834701933118321140.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321140.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Server 1⭐️",Canal Cocina FHD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA FHD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ce9f53f9a703bfe101d2d59bddce21c0.png" group-title="Server 1⭐️",CANAL COCINA FHD
 http://834701933118321147.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321147.ts
-#EXTINF:-1 tvg-id="" tvg-name="D" tvg-logo="" group-title="Server 1⭐️",Canal Cocina HD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ce9f53f9a703bfe101d2d59bddce21c0.png" group-title="Server 1⭐️",CANAL COCINA HD
 http://834701933118321148.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321148.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Server 1⭐️",Canal Cocina SD
+#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA SD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ce9f53f9a703bfe101d2d59bddce21c0.png" group-title="Server 1⭐️",CANAL COCINA SD
 http://834701933118321149.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321149.ts
 
 
@@ -99,18 +100,18 @@ http://834701933118321226.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321226.ts
 http://834701933118321227.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321227.ts
 
 
-#EXTINF:-1 tvg-id="mega.es" tvg-name="MEGA FHD" tvg-logo="http://fanc.tmsimg.com/assets/s16527_ll_h3_ac.png" group-title="Server 1⭐️",MEGA FHD
+#EXTINF:-1 tvg-id="mega.es" tvg-name="MEGA FHD" tvg-logo="http://vpsapache.hopto.org/images/mega.png" group-title="Server 1⭐️",MEGA FHD
 http://834701933118554775.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/554775.ts
 #EXTINF:-1 tvg-id="mega.es" tvg-name="MEGA HD" tvg-logo="http://vpsapache.hopto.org/images/mega.png" group-title="Server 1⭐️",MEGA HD
 http://834701933118321300.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321300.ts
 #EXTINF:-1 tvg-id="mega.es" tvg-name="MEGA SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MEGA" group-title="Server 1⭐️",MEGA SD
 http://834701933118321301.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321301.ts
 
-#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="CANAL DECASA FHD" tvg-logo="" group-title="Server 1⭐️",CANAL DECASA FHD
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="CANAL DECASA FHD" tvg-logo="" group-title="Server 1⭐️",DECASA FHD
 http://834701933118339739.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/339739.ts
-#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="CANAL DECASA HD" tvg-logo="" group-title="Server 1⭐️",CANAL DECASA HD
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="CANAL DECASA HD" tvg-logo="" group-title="Server 1⭐️",DECASA HD
 http://834701933118321153.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321153.ts
-#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="CANAL DECASA SD" tvg-logo="" group-title="Server 1⭐️",CANAL DECASA SD
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="CANAL DECASA SD" tvg-logo="" group-title="Server 1⭐️",DECASA SD
 http://834701933118336289.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/336289.ts
 
 #EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="DECASA FHD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUvbBBSy_XORuzpU_L2Ybu-H.png" group-title="Server 1⭐️",DECASA FHD
@@ -2983,9 +2984,6 @@ http://834701933118780854.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/780854.ts
 http://834701933118780855.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/780855.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="SSC-EXTRA 3" tvg-logo="https://i.ibb.co/r4XWPYt/Asset-1-18x.png" group-title="Server 1⭐️",SSC-EXTRA 3
 http://834701933118780856.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/780856.ts
-
-
-
 
 
 

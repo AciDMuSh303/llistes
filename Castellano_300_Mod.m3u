@@ -66,8 +66,6 @@ http://834701933118877363.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/877363.ts
 http://834701933118383249.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/383249.ts
 #EXTINF:-1 tvg-id="atreseries.es" tvg-name="ATRESERIES HD" tvg-logo="https://miguia.tv/channels/big_276.png" group-title="Server 1⭐️",ATRESERIES HD
 http://834701933118321087.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321087.ts
-#EXTINF:-1 tvg-id="atreseries.es" tvg-name="ATRESERIES HD" tvg-logo="https://miguia.tv/channels/big_276.png" group-title="Server 2⭐️",ATRESERIES HD
-http://963702489709321087.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/321087.ts
 #EXTINF:-1 tvg-id="atreseries.es" tvg-name="ATRESERIES SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ATRESS" group-title="Server 1⭐️",ATRESERIES SD
 http://834701933118383250.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/383250.ts
 #EXTINF:-1 tvg-id="atreseries.es" tvg-name="ATRESERIES SD" tvg-logo="https://miguia.tv/channels/big_276.png" group-title="Server 1⭐️",ATRESERIES SD
@@ -3064,6 +3062,11 @@ http://963702489709321118.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/321118.ts
 http://963702489709321119.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/321119.ts
 #EXTINF:-1 tvg-id="axn.es" tvg-name="AXN SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/AXN" group-title="Server 2⭐️",AXN SD
 http://963702489709321120.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/321120.ts
+
+
+#EXTINF:-1 tvg-id="atreseries.es" tvg-name="ATRESERIES HD" tvg-logo="https://miguia.tv/channels/big_276.png" group-title="Server 2⭐️",ATRESERIES HD
+http://963702489709321087.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/321087.ts
+
 #EXTINF:-1 tvg-id="bemad.es" tvg-name="BE MAD HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BEMAD" group-title="Server 2⭐️",BE MAD HD
 http://963702489709321126.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/321126.ts
 #EXTINF:-1 tvg-id="bemad.es" tvg-name="BE MAD SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BEMAD" group-title="Server 2⭐️",BE MAD SD

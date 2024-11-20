@@ -40,18 +40,23 @@ http://834701933118321197.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321197.ts
 #EXTINF:-1 tvg-id="cuatro.es" tvg-name="CUATRO SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/C4" group-title="Server 1⭐️",CUATRO SD
 http://834701933118321198.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321198.ts
 
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="LA SEXTA FHD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUvZgVGr9xka5xbcGVaYD1uF8cLQ9GyJC4B34s5jkS3BFw.png" group-title="Server 1⭐️",LA SEXTA FHD
+http://834701933118321288.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321288.ts
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="LA SEXTA HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SEXTA" group-title="Server 1⭐️",LA SEXTA HD
+http://834701933118321289.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321289.ts
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="LA SEXTA SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SEXTA" group-title="Server 1⭐️",LA SEXTA SD
+http://834701933118321290.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321290.ts
 
-#EXTINF:-1 tvg-id="babytv.es" tvg-name="BABY TV SD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUspkoBvUiv-okegyTVZota1CTme9M2VfK68-KaZAWaWjQ.png" group-title="Server 1⭐️",BABY TV SD
-http://834701933118321122.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321122.ts
+#EXTINF:-1 tvg-id="neox.es" tvg-name="NEOX FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_7587_412_1_C00000_0_0_0.png" group-title="Server 1⭐️",NEOX FHD
+http://834701933118321374.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321374.ts
+#EXTINF:-1 tvg-id="neox.es" tvg-name="NEOX HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NEOX" group-title="Server 1⭐️",NEOX HD
+http://834701933118321375.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321375.ts
+#EXTINF:-1 tvg-id="neox.es" tvg-name="NEOX SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NEOX" group-title="Server 1⭐️",NEOX SD
+http://834701933118321376.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321376.ts
 
 
-
-#EXTINF:-1 tvg-id="M+ Originales" tvg-name="M+ ORIGINALES FHD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjj8kiMDawOe2Jth7g9knpJNg.png" group-title="Server 1⭐️",M+ ORIGINALES FHD
-http://834701933118321068.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321068.ts
-#EXTINF:-1 tvg-id="M+ Originales" tvg-name="M+ ORIGINALES HD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjj8kiMDawOe2Jth7g9knpJNg.png" group-title="Server 1⭐️",M+ ORIGINALES HD
-http://834701933118321069.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321069.ts
-#EXTINF:-1 tvg-id="M+ Originales" tvg-name="M+ ORIGINALES SD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjj8kiMDawOe2Jth7g9knpJNg.png" group-title="Server 1⭐️",M+ ORIGINALES SD
-http://834701933118321070.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321070.ts
+#EXTINF:-1 tvg-id="nova.es" tvg-name="NOVA HD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUtYCYtlIJ-0BPPpdSZI5yDk_BVqtHOjYu6FUgTJ-QHJiA.png" group-title="Server 1⭐️",NOVA HD
+http://834701933118321383.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321383.ts
 
 #EXTINF:-1 tvg-id="atreseries.es" tvg-name="ATRESERIES FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ATRESS" group-title="Server 1⭐️",ATRESERIES FHD
 http://834701933118648164.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/648164.ts
@@ -73,17 +78,17 @@ http://834701933118321103.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321103.ts
 #EXTINF:-1 tvg-id="amc.es" tvg-name="AMC SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/AMC" group-title="Server 1⭐️",AMC SD
 http://834701933118321104.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321104.ts
 
-#EXTINF:-1 tvg-id="AMC Break" tvg-name="AMC BREAK FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BIOGRA.png" group-title="Server 1⭐️",AMC BREAK FHD
+#EXTINF:-1 tvg-id="AMC Break" tvg-name="AMC BREAK FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BIOGRA" group-title="Server 1⭐️",AMC BREAK FHD
 http://834701933118336283.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/336283.ts
 #EXTINF:-1 tvg-id="AMC Break" tvg-name="AMC BREAK HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BIOGRA" group-title="Server 1⭐️",AMC BREAK HD
 http://834701933118336284.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/336284.ts
-#EXTINF:-1 tvg-id="AMC Break" tvg-name="AMC BREAK SD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BIOGRA.png" group-title="Server 1⭐️",AMC BREAK SD
+#EXTINF:-1 tvg-id="AMC Break" tvg-name="AMC BREAK SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BIOGRA" group-title="Server 1⭐️",AMC BREAK SD
 http://834701933118321100.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321100.ts
 
 
-#EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC CRIME FHD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUs98CDWsvIFHcek2etKsu9dsksSfBCXC3yLHs0ry4mFsA.png" group-title="Server 1⭐️",AMC CRIME FHD
+#EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC CRIME FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CYM"" group-title="Server 1⭐️",AMC CRIME FHD
 http://834701933118825098.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/825098.ts
-#EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC CRIME HD" tvg-logo="http://vpsapache.hopto.org/images/mypadeltv.png" group-title="Server 1⭐️",AMC CRIME HD
+#EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC CRIME HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CYM"" group-title="Server 1⭐️",AMC CRIME HD
 http://834701933118386495.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/386495.ts
 #EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC CRIME SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CYM" group-title="Server 1⭐️",AMC CRIME SD
 http://834701933118321101.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321101.ts
@@ -105,8 +110,6 @@ http://834701933118321126.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321126.ts
 #EXTINF:-1 tvg-id="bemad.es" tvg-name="BE MAD SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BEMAD" group-title="Server 1⭐️",BE MAD SD
 http://834701933118321127.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321127.ts
 
-#EXTINF:-1 tvg-id="boing.es" tvg-name="BOING SD" tvg-logo="https://miguia.tv/channels/big_17.png" group-title="Server 1⭐️",BOING SD
-http://834701933118321135.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321135.ts
 
 #EXTINF:-1 tvg-id="calle13.es" tvg-name="CALLE 13 FHD" tvg-logo="http://cesbos.portal.ovh/logos/calle13-44x36.jpg" group-title="Server 1⭐️",CALLE 13 FHD
 http://834701933118321138.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321138.ts
@@ -226,7 +229,6 @@ http://834701933118875962.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/875962.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="DVIAJE FHD" tvg-logo="https://wottatv.com/wp-content/uploads/2022/09/DVIAJE_SINRELLENO-1.png" group-title="Server 1⭐️",DVIAJE FHD
 http://834701933118932837.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/932837.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="DVIAJE FHD" tvg-logo="https://dyncont.masmediatv.es/channel_title_logos/xZSV-Fl4ZYit-Ra_-bumT5E7leGeK7ED.png" group-title="Server 1⭐️",DVIAJE FHD
 http://834701933118966475.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/966475.ts
 #EXTINF:-1 tvg-id="" tvg-name="DVIAJE FHD" tvg-logo="https://contenidostv.es/images/logos512/dviaje.png" group-title="Server 1⭐️",DVIAJE FHD
@@ -243,12 +245,23 @@ http://834701933118909096.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909096.ts
 
 #EXTINF:-1 tvg-id="canalpanda.es" tvg-name="CANAL PANDA SD" tvg-logo="http://astrill.today:80/images/KPr_Ouz8236z9JLqgRm5YGDA3EOK8_eYVLOMfemaCOPZXCFZcI0TMJjVsqRpWcOQOS8ZPBg37pCkWNaNoYIjJA.png" group-title="Server 1⭐️",CANAL PANDA SD
 http://834701933118321163.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321163.ts
+
+#EXTINF:-1 tvg-id="boing.es" tvg-name="BOING SD" tvg-logo="https://miguia.tv/channels/big_17.png" group-title="Server 1⭐️",BOING SD
+http://834701933118321135.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321135.ts
+
+
+#EXTINF:-1 tvg-id="babytv.es" tvg-name="BABY TV SD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUspkoBvUiv-okegyTVZota1CTme9M2VfK68-KaZAWaWjQ.png" group-title="Server 1⭐️",BABY TV SD
+http://834701933118321122.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321122.ts
+
+
 #EXTINF:-1 tvg-id="cazapesca.es" tvg-name="CAZA Y PESCA FHD" tvg-logo="http://fanc.tmsimg.com/assets/s105552_ll_h3_aa.png" group-title="Server 1⭐️",CAZA Y PESCA FHD
 http://834701933118321168.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321168.ts
 #EXTINF:-1 tvg-id="cazapesca.es" tvg-name="CAZA Y PESCA HD" tvg-logo="http://fanc.tmsimg.com/assets/s105552_ll_h3_aa.png" group-title="Server 1⭐️",CAZA Y PESCA HD
 http://834701933118321169.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321169.ts
 #EXTINF:-1 tvg-id="cazapesca.es" tvg-name="CAZA Y PESCA SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CAZPES" group-title="Server 1⭐️",CAZA Y PESCA SD
 http://834701933118321170.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321170.ts
+
+
 #EXTINF:-1 tvg-id="CazavisiÃ³n" tvg-name="CAZAVISION FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7533_426_1_C00000_0_0_0.png" group-title="Server 1⭐️",CAZAVISION FHD
 http://834701933118321172.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321172.ts
 #EXTINF:-1 tvg-id="classica.es" tvg-name="CLASSICA HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CLASSD" group-title="Server 1⭐️",CLASSICA HD
@@ -259,12 +272,14 @@ http://834701933118321183.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321183.ts
 http://834701933118321184.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321184.ts
 #EXTINF:-1 tvg-id="comedycentral.es" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/PCM" group-title="Server 1⭐️",COMEDY CENTRAL SD
 http://834701933118321185.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321185.ts
+
 #EXTINF:-1 tvg-id="cosmo.es" tvg-name="COSMO FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/COSMO" group-title="Server 1⭐️",COSMO FHD
 http://834701933118321187.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321187.ts
 #EXTINF:-1 tvg-id="cosmo.es" tvg-name="COSMO HD" tvg-logo="http://fanc.tmsimg.com/assets/s102744_ll_h3_aa.png" group-title="Server 1⭐️",COSMO HD
 http://834701933118321188.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321188.ts
 #EXTINF:-1 tvg-id="cosmo.es" tvg-name="COSMO SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/COSMO" group-title="Server 1⭐️",COSMO SD
 http://834701933118321189.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321189.ts
+
 #EXTINF:-1 tvg-id="dark.es" tvg-name="DARK SD" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_4_6_6_CE40000_0_0_0.png" group-title="Server 1⭐️",DARK SD
 http://834701933118321203.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321203.ts
 
@@ -279,82 +294,392 @@ http://834701933118321214.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321214.ts
 http://834701933118321215.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321215.ts
 #EXTINF:-1 tvg-id="disneychannel.es" tvg-name="DISNEY CHANNEL SD" tvg-logo="http://fanc.tmsimg.com/assets/s53439_ll_h3_aa.png" group-title="Server 1⭐️",DISNEY CHANNEL SD
 http://834701933118321216.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321216.ts
+
 #EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="DISNEY JUNIOR HD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUt5uin3EqQDN1O_xCni4mw3vu5WgjKUmm_QAzea6eSKVg.png" group-title="Server 1⭐️",DISNEY JUNIOR HD
 http://834701933118321217.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321217.ts
 #EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="DISNEY JUNIOR SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/PLAYDC" group-title="Server 1⭐️",DISNEY JUNIOR SD
 http://834701933118321218.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321218.ts
+
 #EXTINF:-1 tvg-id="dreamworks.es" tvg-name="DREAMWORKS HD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_750D_420_1_C00000_0_0_0.png" group-title="Server 1⭐️",DREAMWORKS HD
 http://834701933118321229.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321229.ts
 #EXTINF:-1 tvg-id="dreamworks.es" tvg-name="DREAMWORKS SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DWSP" group-title="Server 1⭐️",DREAMWORKS SD
 http://834701933118321230.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321230.ts
+
 #EXTINF:-1 tvg-id="fox.es" tvg-name="FOX FHD" tvg-logo="http://astrill.today:80/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78TmG2mAEI1wwJneFRF1YXl2UHGz0ZJ5mLOwd_fCSYyz4w.png" group-title="Server 1⭐️",FOX FHD
 http://834701933118321251.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321251.ts
 #EXTINF:-1 tvg-id="fox.es" tvg-name="FOX SD" tvg-logo="http://astrill.today:80/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78TmG2mAEI1wwJneFRF1YXl2UHGz0ZJ5mLOwd_fCSYyz4w.png" group-title="Server 1⭐️",FOX SD
 http://834701933118321253.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321253.ts
+
 #EXTINF:-1 tvg-id="hollywood.es" tvg-name="HOLLYWOOD FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_750C_420_1_C00000_0_0_0.png" group-title="Server 1⭐️",HOLLYWOOD FHD
 http://834701933118321265.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321265.ts
 #EXTINF:-1 tvg-id="hollywood.es" tvg-name="HOLLYWOOD HD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_750C_420_1_C00000_0_0_0.png" group-title="Server 1⭐️",HOLLYWOOD HD
 http://834701933118321266.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321266.ts
 #EXTINF:-1 tvg-id="hollywood.es" tvg-name="HOLLYWOOD SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/HOLLYW" group-title="Server 1⭐️",HOLLYWOOD SD
 http://834701933118321267.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321267.ts
+
 #EXTINF:-1 tvg-id="La Resistencia" tvg-name="LA RESISTENCIA HD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZXCIsqFnE4apmMsHHBv3T4ghrCE-ffRqbcsYZXyN0ea8g.png" group-title="Server 1⭐️",LA RESISTENCIA HD
 http://834701933118321286.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321286.ts
 #EXTINF:-1 tvg-id="La Resistencia" tvg-name="LA RESISTENCIA SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/RESIST" group-title="Server 1⭐️",LA RESISTENCIA SD
 http://834701933118321287.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321287.ts
-#EXTINF:-1 tvg-id="lasexta.es" tvg-name="LA SEXTA FHD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUvZgVGr9xka5xbcGVaYD1uF8cLQ9GyJC4B34s5jkS3BFw.png" group-title="Server 1⭐️",LA SEXTA FHD
-http://834701933118321288.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321288.ts
-#EXTINF:-1 tvg-id="lasexta.es" tvg-name="LA SEXTA HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SEXTA" group-title="Server 1⭐️",LA SEXTA HD
-http://834701933118321289.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321289.ts
-#EXTINF:-1 tvg-id="lasexta.es" tvg-name="LA SEXTA SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SEXTA" group-title="Server 1⭐️",LA SEXTA SD
-http://834701933118321290.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321290.ts
+
+
+
+
+#EXTINF:-1 tvg-id="M+ Originales" tvg-name="M+ ORIGINALES FHD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjj8kiMDawOe2Jth7g9knpJNg.png" group-title="Server 1⭐️",M+ ORIGINALES FHD
+http://834701933118321068.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321068.ts
+#EXTINF:-1 tvg-id="M+ Originales" tvg-name="M+ ORIGINALES HD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjj8kiMDawOe2Jth7g9knpJNg.png" group-title="Server 1⭐️",M+ ORIGINALES HD
+http://834701933118321069.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321069.ts
+#EXTINF:-1 tvg-id="M+ Originales" tvg-name="M+ ORIGINALES SD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjj8kiMDawOe2Jth7g9knpJNg.png" group-title="Server 1⭐️",M+ ORIGINALES SD
+http://834701933118321070.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321070.ts
+
+
 #EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M+ ACCIÓN FHD" tvg-logo="http://cesbos.portal.ovh/logos/movistar-accion.jpg" group-title="Server 1⭐️",M+ ACCIÓN FHD
 http://834701933118321305.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321305.ts
 #EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M+ ACCIÓN HD" tvg-logo="http://fanc.tmsimg.com/assets/s91183_ll_h3_aa.png" group-title="Server 1⭐️",M+ ACCIÓN HD
 http://834701933118321306.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321306.ts
 #EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M+ ACCIÓN SD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUsQCzvCmewrsiMp7806n5pKYKPCYs8ILPoO7jx3wO30fA.png" group-title="Server 1⭐️",M+ ACCIÓN SD
 http://834701933118321307.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321307.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="M+ CLÁSICOS FHD" tvg-logo="http://vpsapache.hopto.org/images/m_plus_clacicos.png" group-title="Server 1⭐️",M+ CLÁSICOS FHD
 http://834701933118321314.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321314.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ CLÁSICOS HD" tvg-logo="http://vpsapache.hopto.org/images/m_plus_clacicos.png" group-title="Server 1⭐️",M+ CLÁSICOS HD
 http://834701933118321315.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321315.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ CLÁSICOS SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MCLAS" group-title="Server 1⭐️",M+ CLÁSICOS SD
 http://834701933118321316.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321316.ts
+
 #EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="M+ COMEDIA FHD" tvg-logo="http://cesbos.portal.ovh/logos/movistar-comedia.jpg" group-title="Server 1⭐️",M+ COMEDIA FHD
 http://834701933118321317.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321317.ts
 #EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="M+ COMEDIA HD" tvg-logo="http://cesbos.portal.ovh/logos/movistar-comedia.jpg" group-title="Server 1⭐️",M+ COMEDIA HD
 http://834701933118321318.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321318.ts
 #EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="M+ COMEDIA SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPCOME" group-title="Server 1⭐️",M+ COMEDIA SD
 http://834701933118321319.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321319.ts
+
 #EXTINF:-1 tvg-id="M+ Drama" tvg-name="M+ DRAMA FHD" tvg-logo="http://cesbos.portal.ovh/logos/movistar-dcine.jpg" group-title="Server 1⭐️",M+ DRAMA FHD
 http://834701933118321331.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321331.ts
 #EXTINF:-1 tvg-id="M+ Drama" tvg-name="M+ DRAMA HD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUutBHFdQAICGwBROUiMzWaLqlTOXi-aYrrYiYlcmA7d7Q.png" group-title="Server 1⭐️",M+ DRAMA HD
 http://834701933118321332.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321332.ts
 #EXTINF:-1 tvg-id="M+ Drama" tvg-name="M+ DRAMA SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPCOLE" group-title="Server 1⭐️",M+ DRAMA SD
 http://834701933118321333.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321333.ts
+
 #EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="M+ ESTRENOS FHD" tvg-logo="http://astrill.today:80/images/HjwEu7iTOqkLhxl1ITLIBZxq418yDK4wxg7T5hPu0Uo-D_hO0V6Q1aKOHrCxnbiz.png" group-title="Server 1⭐️",M+ ESTRENOS FHD
 http://834701933118321337.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321337.ts
+
 #EXTINF:-1 tvg-id="movistarseries.es" tvg-name="M+ SERIES FHD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUsQCzvCmewrsiMp7806n5pKbbqN1_7W6fO8G2bQft-t0g.png" group-title="Server 1⭐️",M+ SERIES FHD
 http://834701933118321347.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321347.ts
 #EXTINF:-1 tvg-id="movistarseries.es" tvg-name="M+ SERIES HD" tvg-logo="http://fanc.tmsimg.com/assets/s91195_ll_h3_aa.png" group-title="Server 1⭐️",M+ SERIES HD
 http://834701933118321348.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321348.ts
 #EXTINF:-1 tvg-id="movistarseries.es" tvg-name="M+ SERIES SD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUsQCzvCmewrsiMp7806n5pKbbqN1_7W6fO8G2bQft-t0g.png" group-title="Server 1⭐️",M+ SERIES SD
 http://834701933118321349.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321349.ts
+
+#EXTINF:-1 tvg-id="M+ Documentales" tvg-name="M+ DOCUMENTALES FHD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjjpYOYXnG7Sb3CFutAFeFEeg.png" group-title="Server 1⭐️",M+ DOCUMENTALES FHD
+http://834701933118552954.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/552954.ts
+#EXTINF:-1 tvg-id="M+ Documentales" tvg-name="M+ DOCUMENTALES HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MDOC" group-title="Server 1⭐️",M+ DOCUMENTALES HD
+http://834701933118552955.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/552955.ts
+#EXTINF:-1 tvg-id="M+ Documentales" tvg-name="M+ DOCUMENTALES SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MDOC" group-title="Server 1⭐️",M+ DOCUMENTALES SD
+http://834701933118552956.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/552956.ts
+
+#EXTINF:-1 tvg-id="M+ Indie" tvg-name="M+ INDIE FHD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjjpw5vxldopUdS4nCt0BcWdg.png" group-title="Server 1⭐️",M+ INDIE FHD
+http://834701933118552957.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/552957.ts
+#EXTINF:-1 tvg-id="M+ Indie" tvg-name="M+ INDIE HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MINDI" group-title="Server 1⭐️",M+ INDIE HD
+http://834701933118552958.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/552958.ts
+#EXTINF:-1 tvg-id="M+ Indie" tvg-name="M+ INDIE SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MINDI" group-title="Server 1⭐️",M+ INDIE SD
+http://834701933118552959.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/552959.ts
+
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+ CINE FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7539_426_1_C00000_0_0_0.png" group-title="Server 1⭐️",M+ CINE FHD
+http://834701933118559513.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/559513.ts
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+ CINE HD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjjyUBbXsos4g_jqkK7yvaCvA.png" group-title="Server 1⭐️",M+ CINE HD
+http://834701933118561133.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/561133.ts
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+ CINE SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MV1" group-title="Server 1⭐️",M+ CINE SD
+http://834701933118561134.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/561134.ts
+
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+ CINE ESPAÑOL FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_7736_416_1_C00000_0_0_0.png" group-title="Server 1⭐️",M+ CINE ESPAÑOL FHD
+http://834701933118620943.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/620943.ts
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+ CINE ESPAÑOL HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCESP" group-title="Server 1⭐️",M+ CINE ESPAÑOL HD
+http://834701933118620944.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/620944.ts
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+ CINE ESPAÑOL SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCESP" group-title="Server 1⭐️",M+ CINE ESPAÑOL SD
+http://834701933118620945.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/620945.ts
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="M+ CINE ESPAÑOL SD" tvg-logo="http://astrill.today:80/images/bwniThQJbhh-J3B6bMLDKJ_U8dCSuhagHIZrDoH_etBc4b4fe_X415lEpUax1kwyPNAf5BD_kLKb8vd53QhZpvi4-NfchvePkprhQeZlek6xaAR_HH_sLHsCOuX1gswNKuoU92GpBVe-JF66Xj00fxQVlSk17rf5JzlnKwPLp0-UvAepk0jAmz_i5cSCblrz.png" group-title="Server 1⭐️",M+ CINE ESPAÑOL SD
+http://834701933118862452.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/862452.ts
+
+
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+ CINE ESPAÑOL FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCESP.png" group-title="Server 1⭐️",M+ CINE ESPAÑOL FHD
+http://834701933118825162.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/825162.ts
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+ CINE ESPAÑOL HD" tvg-logo="http://astrill.today:80/images/bwniThQJbhh-J3B6bMLDKJ_U8dCSuhagHIZrDoH_etBc4b4fe_X415lEpUax1kwyPNAf5BD_kLKb8vd53QhZpvi4-NfchvePkprhQeZlek6xaAR_HH_sLHsCOuX1gswNKuoU92GpBVe-JF66Xj00fxQVlSk17rf5JzlnKwPLp0-UvAepk0jAmz_i5cSCblrz.png" group-title="Server 1⭐️",M+ CINE ESPAÑOL HD
+http://834701933118825163.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/825163.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ ELLAS #V HD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjj0NmHa2e3ls_b0JwJgIFFag.png" group-title="Server 1⭐️",M+ ELLAS #V HD
+http://834701933118825169.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/825169.ts
+
+#EXTINF:-1 tvg-id="movistarfest.es" tvg-name="M+ FEST HD" tvg-logo="http://astrill.today:80/images/HjwEu7iTOqkLhxl1ITLIBZxq418yDK4wxg7T5hPu0UrrTcpXhT4QSBmraZeJO9tx.png" group-title="Server 1⭐️",M+ FEST HD
+http://834701933118825173.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/825173.ts
+
+#EXTINF:-1 tvg-id="Movistar plus+" tvg-name="M+ PLUS HD" tvg-logo="http://estoxy.net:80/images/58646119ccedefad46e3c20bc9a55d17.png" group-title="Server 1⭐️",M+ PLUS HD
+http://834701933118825178.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/825178.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ SUSPENSE HD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjj0IkJbYLVEdxeYHNXO0Q5wA.png" group-title="Server 1⭐️",M+ SUSPENSE HD
+http://834701933118869035.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/869035.ts
+
+
+
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ II GUERRA MUNDIAL FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MGUERR" group-title="Server 1⭐️",M+ II GUERRA MUNDIAL FHD
+http://834701933118869029.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/869029.ts
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ II GUERRA MUNDIAL HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MGUERR" group-title="Server 1⭐️",M+ II GUERRA MUNDIAL HD
+http://834701933118864345.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/864345.ts
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ II GUERRA MUNDIAL SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MGUERR" group-title="Server 1⭐️",M+ II GUERRA MUNDIAL SD
+http://834701933118864346.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/864346.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ CLASSICO HD" tvg-logo="" group-title="Server 1⭐️",M+ CLASSICO HD
+http://834701933118870237.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/870237.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ SAGAS FHD" tvg-logo="" group-title="Server 1⭐️",M+ SAGAS FHD
+http://834701933118870240.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/870240.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ SAGAS HD" tvg-logo="" group-title="Server 1⭐️",M+ SAGAS HD
+http://834701933118870241.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/870241.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ SUPERAGENTES SD" tvg-logo="" group-title="Server 1⭐️",M+ SUPERAGENTES SD
+http://834701933118870244.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/870244.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ ORGULLO LGTBIQ+ FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MORGUL" group-title="Server 1⭐️",M+ ORGULLO LGTBIQ+ FHD
+http://834701933118870749.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/870749.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ ORGULLO LGTBIQ+ HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MORGUL" group-title="Server 1⭐️",M+ ORGULLO LGTBIQ+ HD
+http://834701933118870750.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/870750.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ CLÃ¡SCIOS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Movistar_Cl%C3%A1sicos.svg/640px-Movistar_Cl%C3%A1sicos.svg.png" group-title="Server 1⭐️",M+ CLÃ¡SCIOS HD
+http://834701933118871553.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/871553.ts
+#EXTINF:-1 tvg-id="movistarseries2.es" tvg-name="M+ SERIES 2 FHD" tvg-logo="http://fanc.tmsimg.com/assets/s91195_ll_h3_aa.png" group-title="Server 1⭐️",M+ SERIES 2 FHD
+http://834701933118871555.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/871555.ts
+
+#EXTINF:-1 tvg-id="movistarestrenos2.es" tvg-name="M+ ESTRENOS SD" tvg-logo="http://estoxy.net:80/images/HjwEu7iTOqkLhxl1ITLIBZxq418yDK4wxg7T5hPu0Uo-D_hO0V6Q1aKOHrCxnbiz.png" group-title="Server 1⭐️",M+ ESTRENOS SD
+http://834701933118872381.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/872381.ts
+
+#EXTINF:-1 tvg-id="movistarclasicos.es" tvg-name="M+ CLÁSICOS HD" tvg-logo="" group-title="Server 1⭐️",M+ CLÁSICOS HD
+http://834701933118874889.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/874889.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ SUPERAGENTES HD" tvg-logo="" group-title="Server 1⭐️",M+ SUPERAGENTES HD
+http://834701933118874894.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/874894.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ CLASSICO FHD" tvg-logo="" group-title="Server 1⭐️",M+ CLASSICO FHD
+http://834701933118875645.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/875645.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ ELLAS #V FHD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjj0NmHa2e3ls_b0JwJgIFFag.png" group-title="Server 1⭐️",M+ ELLAS #V FHD
+http://834701933118875646.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/875646.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ ELLAS #V SD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjj0NmHa2e3ls_b0JwJgIFFag.png" group-title="Server 1⭐️",M+ ELLAS #V SD
+http://834701933118858851.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/858851.ts
+
+#EXTINF:-1 tvg-id="movistarestrenos2.es" tvg-name="M+ ESTRENOS HD" tvg-logo="http://astrill.today:80/images/HjwEu7iTOqkLhxl1ITLIBZxq418yDK4wxg7T5hPu0Uo-D_hO0V6Q1aKOHrCxnbiz.png" group-title="Server 1⭐️",M+ ESTRENOS HD
+http://834701933118875975.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/875975.ts
+
+
+#EXTINF:-1 tvg-id="movistarestrenos2.es" tvg-name="M+ ESTRENOS 2 FHD" tvg-logo="http://ultra4k.ottlion.com:8000/images/Oo40nM-UPvZidPzU3eJIL4BmutKBTrr3z9vXBy9qjZwWp_TcJSatOChNvx-L8QfnpW0hdmkpBzcVpnulPcRmvJfkspy2s093sLhfc_3f2m2jTVW_ylE7fDuLRGp-3UND3u1r_HrBfFK970tkUBZxN5rlhCBZCj5fMWuatLPui0iHLE9ejOJ1TnxIQxocAJDJ.png" group-title="Server 1⭐️",M+ ESTRENOS 2 FHD
+http://834701933118877084.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/877084.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ ORGULLO LGTBIQ+ SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MORGUL" group-title="Server 1⭐️",M+ ORGULLO LGTBIQ+ SD
+http://834701933118877085.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/877085.ts
+
+#EXTINF:-1 tvg-id="movistarseries2.es" tvg-name="M+ SERIES 2 SD" tvg-logo="http://fanc.tmsimg.com/assets/s91195_ll_h3_aa.png" group-title="Server 1⭐️",M+ SERIES 2 SD
+http://834701933118877086.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/877086.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ SUSPENSE FHD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjj0IkJbYLVEdxeYHNXO0Q5wA.png" group-title="Server 1⭐️",M+ SUSPENSE FHD
+http://834701933118877087.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/877087.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ DISNEY HD" tvg-logo="" group-title="Server 1⭐️",M+ DISNEY HD
+http://834701933118877373.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/877373.ts
+#EXTINF:-1 tvg-id="movistarestrenos2.es" tvg-name="M+ ESTRENOS 2 HD" tvg-logo="http://ultra4k.ottlion.com:8000/images/Oo40nM-UPvZidPzU3eJIL4BmutKBTrr3z9vXBy9qjZwWp_TcJSatOChNvx-L8QfnpW0hdmkpBzcVpnulPcRmvJfkspy2s093sLhfc_3f2m2jTVW_ylE7fDuLRGp-3UND3u1r_HrBfFK970tkUBZxN5rlhCBZCj5fMWuatLPui0iHLE9ejOJ1TnxIQxocAJDJ.png" group-title="Server 1⭐️",M+ ESTRENOS 2 HD
+http://834701933118877374.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/877374.ts
+#EXTINF:-1 tvg-id="movistarseries2.es" tvg-name="M+ SERIES 2 HD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7882_414_1_C00000_0_0_0.png" group-title="Server 1⭐️",M+ SERIES 2 HD
+http://834701933118877375.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/877375.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ CLÃ¡SCIOS SD" tvg-logo="http://astrill.today:80/images/bwniThQJbhh-J3B6bMLDKJ_U8dCSuhagHIZrDoH_etBc4b4fe_X415lEpUax1kwyZXBwC-ibqeMhGyV29pqLTiTeVbhhCEMAb10aT2TO8Z3mDpEJjadnZTIgJL4FjB5LJPQml2AnDTq5hI9mws0pX70bnJpQqC9ASi--PYoES_0.png" group-title="Server 1⭐️",M+ CLÃ¡SCIOS SD
+http://834701933118879272.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/879272.ts
+
+#EXTINF:-1 tvg-id="movistaroscars.es" tvg-name="M+ OSCAR HD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjj4B-CB5t_yvgrJoWR8nJQ9qMJTvFK2XCH-PYxkT5elRM.png" group-title="Server 1⭐️",M+ OSCAR HD
+http://834701933118879534.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/879534.ts
+#EXTINF:-1 tvg-id="movistaroscars.es" tvg-name="M+ OSCAR SD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjj4B-CB5t_yvgrJoWR8nJQ9qMJTvFK2XCH-PYxkT5elRM.png" group-title="Server 1⭐️",M+ OSCAR SD
+http://834701933118879535.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/879535.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ SAGAS SD" tvg-logo="" group-title="Server 1⭐️",M+ SAGAS SD
+http://834701933118879536.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/879536.ts
+
+#EXTINF:-1 tvg-id="Movistar plus+" tvg-name="M+ PLUS FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar_es_0.png" group-title="Server 1⭐️",M+ PLUS FHD
+http://834701933118880854.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/880854.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ CLASSICO SD" tvg-logo="" group-title="Server 1⭐️",M+ CLASSICO SD
+http://834701933118904534.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/904534.ts
+
+#EXTINF:-1 tvg-id="movistarclasicos.es" tvg-name="M+ CLÁSICOS SD" tvg-logo="" group-title="Server 1⭐️",M+ CLÁSICOS SD
+http://834701933118883735.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/883735.ts
+#EXTINF:-1 tvg-id="movistarestrenos2.es" tvg-name="M+ ESTRENOS 2 SD" tvg-logo="http://ultra4k.ottlion.com:8000/images/Oo40nM-UPvZidPzU3eJIL4BmutKBTrr3z9vXBy9qjZwWp_TcJSatOChNvx-L8QfnpW0hdmkpBzcVpnulPcRmvJfkspy2s093sLhfc_3f2m2jTVW_ylE7fDuLRGp-3UND3u1r_HrBfFK970tkUBZxN5rlhCBZCj5fMWuatLPui0iHLE9ejOJ1TnxIQxocAJDJ.png" group-title="Server 1⭐️",M+ ESTRENOS 2 SD
+http://834701933118883736.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/883736.ts
+
+#EXTINF:-1 tvg-id="movistarfest.es" tvg-name="M+ FEST FHD" tvg-logo="http://astrill.today:80/images/HjwEu7iTOqkLhxl1ITLIBZxq418yDK4wxg7T5hPu0UrrTcpXhT4QSBmraZeJO9tx.png" group-title="Server 1⭐️",M+ FEST FHD
+http://834701933118884040.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/884040.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ FUTBOL FHD" tvg-logo="http://astrill.today:80/images/HjwEu7iTOqkLhxl1ITLIBZxq418yDK4wxg7T5hPu0UoSQxMjB-yEsJAF9DAEeWjbGlOqAkZ83lJHBnMglJEHwQ.png" group-title="Server 1⭐️",M+ FUTBOL FHD
+http://834701933118894635.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/894635.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ FUTBOL HD" tvg-logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/movistarfutbol.png" group-title="Server 1⭐️",M+ FUTBOL HD
+http://834701933118889530.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/889530.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ MOTOGP FHD" tvg-logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/mmotogp.png" group-title="Server 1⭐️",M+ MOTOGP FHD
+http://834701933118889531.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/889531.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ MOTOGP HD" tvg-logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/mmotogp.png" group-title="Server 1⭐️",M+ MOTOGP HD
+http://834701933118906373.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/906373.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ MOTOGP SD" tvg-logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/mmotogp.png" group-title="Server 1⭐️",M+ MOTOGP SD
+http://834701933118875976.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/875976.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ COMEDIA ROMÃ¡NTICA FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MROMAN" group-title="Server 1⭐️",M+ COMEDIA ROMÃ¡NTICA FHD
+http://834701933118891904.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/891904.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ COMEDIA ROMÃ¡NTICA HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MROMAN" group-title="Server 1⭐️",M+ COMEDIA ROMÃ¡NTICA HD
+http://834701933118891905.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/891905.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ COMEDIA ROMÃ¡NTICA SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MROMAN" group-title="Server 1⭐️",M+ COMEDIA ROMÃ¡NTICA SD
+http://834701933118891906.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/891906.ts
+#EXTINF:-1 tvg-id="M+ Vacaciones" tvg-name="M+ VACACIONES FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MVCIVA" group-title="Server 1⭐️",M+ VACACIONES FHD
+http://834701933118891907.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/891907.ts
+#EXTINF:-1 tvg-id="1+1 Internacional" tvg-name="M+ VACACIONES HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MVCIVA" group-title="Server 1⭐️",M+ VACACIONES HD
+http://834701933118891908.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/891908.ts
+#EXTINF:-1 tvg-id="M+ Vacaciones" tvg-name="M+ VACACIONES SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MVCIVA" group-title="Server 1⭐️",M+ VACACIONES SD
+http://834701933118891909.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/891909.ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ ACTION FHD" tvg-logo="" group-title="Server 1⭐️",M+ ACTION FHD
+http://834701933118902755.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/902755.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ DISNEY FHD" tvg-logo="" group-title="Server 1⭐️",M+ DISNEY FHD
+http://834701933118902756.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/902756.ts
+
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ COMEDIA ROMANTICA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MROMAN.png" group-title="Server 1⭐️",M+ COMEDIA ROMANTICA FHD
+http://834701933118909120.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909120.ts
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ COMEDIA ROMANTICA HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MROMAN.png" group-title="Server 1⭐️",M+ COMEDIA ROMANTICA HD
+http://834701933118909121.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909121.ts
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ COMEDIA ROMANTICA SD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MROMAN.png" group-title="Server 1⭐️",M+ COMEDIA ROMANTICA SD
+http://834701933118909122.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909122.ts
+#EXTINF:-1 tvg-id="movistaroscars.es" tvg-name="M+ OSCAR FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MOSCAR.png" group-title="Server 1⭐️",M+ OSCAR FHD
+http://834701933118909123.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909123.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ XTRA FHD" tvg-logo="" group-title="Server 1⭐️",M+ XTRA FHD
+http://834701933118909124.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909124.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ ORIGINALES FHD" tvg-logo="" group-title="Server 1⭐️",M+ ORIGINALES FHD
+http://834701933118909125.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909125.ts
+
+#EXTINF:-1 tvg-id="movistarseriesmania.es" tvg-name="M+ SERIESMANIA FHD" tvg-logo="" group-title="Server 1⭐️",M+ SERIESMANIA FHD
+http://834701933118909226.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909226.ts
+
+#EXTINF:-1 tvg-id="movistarclasicos.es" tvg-name="M+ CLÁSICOS FHD" tvg-logo="" group-title="Server 1⭐️",M+ CLÁSICOS FHD
+http://834701933118911722.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/911722.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ XTRA HD" tvg-logo="" group-title="Server 1⭐️",M+ XTRA HD
+http://834701933118911723.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/911723.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ ORIGINALES HD" tvg-logo="" group-title="Server 1⭐️",M+ ORIGINALES HD
+http://834701933118911724.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/911724.ts
+
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ BRAD PITT FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MBRAD.png" group-title="Server 1⭐️",M+ BRAD PITT FHD
+http://834701933118912470.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/912470.ts
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ BRAD PITT HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MBRAD.png" group-title="Server 1⭐️",M+ BRAD PITT HD
+http://834701933118912471.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/912471.ts
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ BRAD PITT SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MBRAD.png" group-title="Server 1⭐️",M+ BRAD PITT SD
+http://834701933118912472.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/912472.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ FUTBOL SD" tvg-logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/movistarfutbol.png" group-title="Server 1⭐️",M+ FUTBOL SD
+http://834701933118912473.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/912473.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ ORIGINALES SD" tvg-logo="" group-title="Server 1⭐️",M+ ORIGINALES SD
+http://834701933118912474.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/912474.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ ACTION HD" tvg-logo="" group-title="Server 1⭐️",M+ ACTION HD
+http://834701933118917739.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/917739.ts
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ HITCHCOCKI FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MBRAD.png" group-title="Server 1⭐️",M+ HITCHCOCKI FHD
+http://834701933118920249.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/920249.ts
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ HITCHCOCKI HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MBRAD.png" group-title="Server 1⭐️",M+ HITCHCOCKI HD
+http://834701933118920250.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/920250.ts
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ HITCHCOCKI SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MBRAD.png" group-title="Server 1⭐️",M+ HITCHCOCKI SD
+http://834701933118920251.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/920251.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ ACTION SD" tvg-logo="" group-title="Server 1⭐️",M+ ACTION SD
+http://834701933118923109.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/923109.ts
+
+#EXTINF:-1 tvg-id="movistarfest.es" tvg-name="M+ FEST SD" tvg-logo="http://astrill.today:80/images/HjwEu7iTOqkLhxl1ITLIBZxq418yDK4wxg7T5hPu0UrrTcpXhT4QSBmraZeJO9tx.png" group-title="Server 1⭐️",M+ FEST SD
+http://834701933118926692.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/926692.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ CLÃ¡SCIOS FHD" tvg-logo="http://astrill.today:80/images/bwniThQJbhh-J3B6bMLDKJ_U8dCSuhagHIZrDoH_etBc4b4fe_X415lEpUax1kwyZXBwC-ibqeMhGyV29pqLTiTeVbhhCEMAb10aT2TO8Z3mDpEJjadnZTIgJL4FjB5LJPQml2AnDTq5hI9mws0pX70bnJpQqC9ASi--PYoES_0.png" group-title="Server 1⭐️",M+ CLÃ¡SCIOS FHD
+http://834701933118932840.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/932840.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ SKYSHOWTIME 1 HD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjjtCMIL2LSAO3FCLNYFCS7aaYfL8TX2OjD0G646lK_2zo.png" group-title="Server 1⭐️",M+ SKYSHOWTIME 1 HD
+http://834701933118932841.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/932841.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ SKYSHOWTIME 1 SD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjjtCMIL2LSAO3FCLNYFCS7aaYfL8TX2OjD0G646lK_2zo.png" group-title="Server 1⭐️",M+ SKYSHOWTIME 1 SD
+http://834701933118932842.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/932842.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ CINE ESPAÑOL ES HD" tvg-logo="" group-title="Server 1⭐️",M+ CINE ESPAÑOL ES HD
+http://834701933118933713.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/933713.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ CLINT EASTWOOD FHD ES FHD" tvg-logo="" group-title="Server 1⭐️",M+ CLINT EASTWOOD FHD ES FHD
+http://834701933118933714.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/933714.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ DISNEY ES FHD" tvg-logo="" group-title="Server 1⭐️",M+ DISNEY ES FHD
+http://834701933118933715.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/933715.ts
+#EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="M+ ORIGINALES FHD SD BITRATE HD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjj8kiMDawOe2Jth7g9knpJNg.png" group-title="Server 1⭐️",M+ ORIGINALES FHD SD BITRATE HD
+http://834701933118933716.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/933716.ts
+
+#EXTINF:-1 tvg-id="M+ Originales" tvg-name="ORIGINALES FHD" tvg-logo="http://cesbos.portal.ovh/logos/canal-0.jpg" group-title="Server 1⭐️",ORIGINALES FHD
+http://834701933118933728.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/933728.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES M+ + FHD" tvg-logo="" group-title="Server 1⭐️",ES M+ + FHD
+http://834701933118936167.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/936167.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ CINE ESPAÑOL ES FHD" tvg-logo="" group-title="Server 1⭐️",M+ CINE ESPAÑOL ES FHD
+http://834701933118936168.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/936168.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ WOODY ALLEN ES FHD" tvg-logo="" group-title="Server 1⭐️",M+ WOODY ALLEN ES FHD
+http://834701933118937283.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/937283.ts
+#EXTINF:-1 tvg-id="M+ Originales" tvg-name="ORIGINALES HD" tvg-logo="http://cesbos.portal.ovh/logos/canal-0.jpg" group-title="Server 1⭐️",ORIGINALES HD
+http://834701933118937284.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/937284.ts
+
+#EXTINF:-1 tvg-id="Movistar plus+" tvg-name="M+ PLUS SD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUsQCzvCmewrsiMp7806n5pKCRZXpoiQ4DLgnPgOUMbpZw.png" group-title="Server 1⭐️",M+ PLUS SD
+http://834701933118945852.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/945852.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ES M+ + SD" tvg-logo="" group-title="Server 1⭐️",ES M+ + SD
+http://834701933118964140.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/964140.ts
+
+
+
+#EXTINF:-1 tvg-id="M+ Elecciones EE.UU." tvg-name="M+ ELECCIONES EE.UU FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEEUU.png" group-title="Server 1⭐️",M+ ELECCIONES EE.UU FHD
+http://834701933118955481.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/955481.ts
+#EXTINF:-1 tvg-id="M+ Elecciones EE.UU." tvg-name="M+ ELECCIONES EE.UU HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEEUU.png" group-title="Server 1⭐️",M+ ELECCIONES EE.UU HD
+http://834701933118955482.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/955482.ts
+#EXTINF:-1 tvg-id="M+ Elecciones EE.UU." tvg-name="M+ ELECCIONES EE.UU SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEEUU.png" group-title="Server 1⭐️",M+ ELECCIONES EE.UU SD
+http://834701933118953511.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/953511.ts
+
+
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ TERROR FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TERROR.png" group-title="Server 1⭐️",M+ TERROR FHD
+http://834701933118941477.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/941477.ts
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ TERROR HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TERROR.png" group-title="Server 1⭐️",M+ TERROR HD
+http://834701933118941478.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/941478.ts
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ TERROR SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TERROR.png" group-title="Server 1⭐️",M+ TERROR SD
+http://834701933118941479.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/941479.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ BBC EARTH FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MBBC" group-title="Server 1⭐️",M+ BBC EARTH FHD
+http://834701933118960269.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/960269.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ BBC EARTH HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MBBC" group-title="Server 1⭐️",M+ BBC EARTH HD
+http://834701933118960270.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/960270.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ BBC EARTH SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MBBC" group-title="Server 1⭐️",M+ BBC EARTH SD
+
+
+#EXTINF:-1 tvg-id="M+ Elecciones EE.UU." tvg-name="M+ ANIME FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MANIME" group-title="Server 1⭐️",M+ ANIME FHD
+http://834701933118963129.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/963129.ts
+#EXTINF:-1 tvg-id="M+ Elecciones EE.UU." tvg-name="M+ ANIME HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MANIME" group-title="Server 1⭐️",M+ ANIME HD
+http://834701933118963130.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/963130.ts
+#EXTINF:-1 tvg-id="M+ Elecciones EE.UU." tvg-name="M+ ANIME SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MANIME" group-title="Server 1⭐️",M+ ANIME SD
+http://834701933118963131.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/963131.ts
+
+#EXTINF:-1 tvg-id="M+ Elecciones EE.UU." tvg-name="M+ ELECCIONES EE.UU. FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MEEUU" group-title="Server 1⭐️",M+ ELECCIONES EE.UU. FHD
+http://834701933118963132.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/963132.ts
+#EXTINF:-1 tvg-id="M+ Elecciones EE.UU." tvg-name="M+ ELECCIONES EE.UU. HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MEEUU" group-title="Server 1⭐️",M+ ELECCIONES EE.UU. HD
+http://834701933118963133.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/963133.ts
+#EXTINF:-1 tvg-id="M+ Elecciones EE.UU." tvg-name="M+ ELECCIONES EE.UU. SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MEEUU" group-title="Server 1⭐️",M+ ELECCIONES EE.UU. SD
+http://834701933118963134.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/963134.ts
+
+
 #EXTINF:-1 tvg-id="MTV Hits HD" tvg-name="MTV HITS SD" tvg-logo="https://logo.nero-iptv.click//lagi/ES_ESPANE_MUSICA/MTV_HD.png" group-title="Server 1⭐️",MTV HITS SD
 http://834701933118321360.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321360.ts
-#EXTINF:-1 tvg-id="neox.es" tvg-name="NEOX FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_7587_412_1_C00000_0_0_0.png" group-title="Server 1⭐️",NEOX FHD
-http://834701933118321374.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321374.ts
-#EXTINF:-1 tvg-id="neox.es" tvg-name="NEOX HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NEOX" group-title="Server 1⭐️",NEOX HD
-http://834701933118321375.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321375.ts
-#EXTINF:-1 tvg-id="neox.es" tvg-name="NEOX SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NEOX" group-title="Server 1⭐️",NEOX SD
-http://834701933118321376.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321376.ts
+
 #EXTINF:-1 tvg-id="nickjr.es" tvg-name="NICK JUNIOR HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NICKJR" group-title="Server 1⭐️",NICK JUNIOR HD
 http://834701933118321377.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321377.ts
 #EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="NICK JUNIOR SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NICKJR" group-title="Server 1⭐️",NICK JUNIOR SD
 http://834701933118321379.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321379.ts
 #EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="NICKELODEON HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NICK" group-title="Server 1⭐️",NICKELODEON HD
 http://834701933118321381.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321381.ts
-#EXTINF:-1 tvg-id="nova.es" tvg-name="NOVA HD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUtYCYtlIJ-0BPPpdSZI5yDk_BVqtHOjYu6FUgTJ-QHJiA.png" group-title="Server 1⭐️",NOVA HD
-http://834701933118321383.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321383.ts
 #EXTINF:-1 tvg-id="" tvg-name="SOLIDARIA TV HD" tvg-logo="https://nnssmadrid.files.wordpress.com/2015/09/a4-solidaria-tv.png" group-title="Server 1⭐️",SOLIDARIA TV HD
 http://834701933118321410.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321410.ts
 #EXTINF:-1 tvg-id="somos.es" tvg-name="SOMOS FHD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUs5CKQGE8NJh9fWy9xrwQu6.png" group-title="Server 1⭐️",SOMOS FHD
@@ -482,34 +807,10 @@ http://834701933118543732.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/543732.ts
 http://834701933118543736.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/543736.ts
 #EXTINF:-1 tvg-id="mezzolivehd.es" tvg-name="MEZZO LIVE FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MEZZLI" group-title="Server 1⭐️",MEZZO LIVE FHD
 http://834701933118550860.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/550860.ts
-#EXTINF:-1 tvg-id="M+ Documentales" tvg-name="M+ DOCUMENTALES FHD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjjpYOYXnG7Sb3CFutAFeFEeg.png" group-title="Server 1⭐️",M+ DOCUMENTALES FHD
-http://834701933118552954.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/552954.ts
-#EXTINF:-1 tvg-id="M+ Documentales" tvg-name="M+ DOCUMENTALES HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MDOC" group-title="Server 1⭐️",M+ DOCUMENTALES HD
-http://834701933118552955.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/552955.ts
-#EXTINF:-1 tvg-id="M+ Documentales" tvg-name="M+ DOCUMENTALES SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MDOC" group-title="Server 1⭐️",M+ DOCUMENTALES SD
-http://834701933118552956.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/552956.ts
-#EXTINF:-1 tvg-id="M+ Indie" tvg-name="M+ INDIE FHD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjjpw5vxldopUdS4nCt0BcWdg.png" group-title="Server 1⭐️",M+ INDIE FHD
-http://834701933118552957.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/552957.ts
-#EXTINF:-1 tvg-id="M+ Indie" tvg-name="M+ INDIE HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MINDI" group-title="Server 1⭐️",M+ INDIE HD
-http://834701933118552958.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/552958.ts
-#EXTINF:-1 tvg-id="M+ Indie" tvg-name="M+ INDIE SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MINDI" group-title="Server 1⭐️",M+ INDIE SD
-http://834701933118552959.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/552959.ts
 #EXTINF:-1 tvg-id="13 TV" tvg-name="13 TV SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/13TV" group-title="Server 1⭐️",13 TV SD
 http://834701933118554773.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/554773.ts
-#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+ CINE FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7539_426_1_C00000_0_0_0.png" group-title="Server 1⭐️",M+ CINE FHD
-http://834701933118559513.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/559513.ts
-#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+ CINE HD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjjyUBbXsos4g_jqkK7yvaCvA.png" group-title="Server 1⭐️",M+ CINE HD
-http://834701933118561133.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/561133.ts
-#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+ CINE SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MV1" group-title="Server 1⭐️",M+ CINE SD
-http://834701933118561134.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/561134.ts
 #EXTINF:-1 tvg-id="CazavisiÃ³n" tvg-name="CAZAVISION HD" tvg-logo="https://lh3.googleusercontent.com/4T7UYZXO_gy_K5Xu9N86B4nmm0XDOO5hv51x9cmgvgXBul93Rgaj5Sl3FlJerF0E8LE" group-title="Server 1⭐️",CAZAVISION HD
 http://834701933118598197.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/598197.ts
-#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+ CINE ESPAÃ‘OL FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_7736_416_1_C00000_0_0_0.png" group-title="Server 1⭐️",M+ CINE ESPAÑOL FHD
-http://834701933118620943.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/620943.ts
-#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+ CINE ESPAÃ‘OL HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCESP" group-title="Server 1⭐️",M+ CINE ESPAÑOL HD
-http://834701933118620944.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/620944.ts
-#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+ CINE ESPAÃ‘OL SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCESP" group-title="Server 1⭐️",M+ CINE ESPAÑOL SD
-http://834701933118620945.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/620945.ts
 #EXTINF:-1 tvg-id="nova.es" tvg-name="NOVA FHD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUtYCYtlIJ-0BPPpdSZI5yDk_BVqtHOjYu6FUgTJ-QHJiA.png" group-title="Server 1⭐️",NOVA FHD
 http://834701933118630822.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/630822.ts
 #EXTINF:-1 tvg-id="dark.es" tvg-name="DARK HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DARK" group-title="Server 1⭐️",DARK HD
@@ -570,16 +871,6 @@ http://834701933118825136.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/825136.ts
 http://834701933118825143.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/825143.ts
 #EXTINF:-1 tvg-id="laotra.es" tvg-name="LA OTRA FHD" tvg-logo="http://astrill.today:80/images/eYxuW-xDHfr41GS4K3_NlE6IafMLZ8Z5p0jMjncZr1gG0jUQwbvfoWfg0Hr_Xf-NJbSUGvVudes-jDCQBgIx6oUC_nh_OL68NrooSn7iwNY.jpg" group-title="Server 1⭐️",LA OTRA FHD
 http://834701933118825160.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/825160.ts
-#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+ CINE ESPANOL FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCESP.png" group-title="Server 1⭐️",M+ CINE ESPANOL FHD
-http://834701933118825162.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/825162.ts
-#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+ CINE ESPANOL HD" tvg-logo="http://astrill.today:80/images/bwniThQJbhh-J3B6bMLDKJ_U8dCSuhagHIZrDoH_etBc4b4fe_X415lEpUax1kwyPNAf5BD_kLKb8vd53QhZpvi4-NfchvePkprhQeZlek6xaAR_HH_sLHsCOuX1gswNKuoU92GpBVe-JF66Xj00fxQVlSk17rf5JzlnKwPLp0-UvAepk0jAmz_i5cSCblrz.png" group-title="Server 1⭐️",M+ CINE ESPANOL HD
-http://834701933118825163.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/825163.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ ELLAS #V HD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjj0NmHa2e3ls_b0JwJgIFFag.png" group-title="Server 1⭐️",M+ ELLAS #V HD
-http://834701933118825169.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/825169.ts
-#EXTINF:-1 tvg-id="movistarfest.es" tvg-name="M+ FEST HD" tvg-logo="http://astrill.today:80/images/HjwEu7iTOqkLhxl1ITLIBZxq418yDK4wxg7T5hPu0UrrTcpXhT4QSBmraZeJO9tx.png" group-title="Server 1⭐️",M+ FEST HD
-http://834701933118825173.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/825173.ts
-#EXTINF:-1 tvg-id="Movistar plus+" tvg-name="M+ PLUS HD" tvg-logo="http://estoxy.net:80/images/58646119ccedefad46e3c20bc9a55d17.png" group-title="Server 1⭐️",M+ PLUS HD
-http://834701933118825178.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/825178.ts
 #EXTINF:-1 tvg-id="mezzolivehd.es" tvg-name="MEZZO LIVE HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MEZZLI" group-title="Server 1⭐️",MEZZO LIVE HD
 http://834701933118825183.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/825183.ts
 #EXTINF:-1 tvg-id="mezzo.es" tvg-name="MEZZO HD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUsxOn5JXXxrxKxJZ54cE4zb4CBrFKaJoOf5cICw_LVS8g.png" group-title="Server 1⭐️",MEZZO HD
@@ -637,8 +928,6 @@ http://834701933118861583.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/861583.ts
 http://834701933118861599.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/861599.ts
 #EXTINF:-1 tvg-id="gol.es" tvg-name="GOL FHD" tvg-logo="http://astrill.today:80/images/AhN_hQmW4EUy_JoQ3BQTPUNojFu7vr3D6OBsIF_lPdzHQM-WxXBToyGsPwi_Z_7Hu4VqmK_gBLAmLuWhXPUFvjXGyK1QIT-kyMsRwUsICH1MA_NEB6Gmv6PpB9wRqGTS.png" group-title="Server 1⭐️",GOL FHD
 http://834701933118862044.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/862044.ts
-#EXTINF:-1 tvg-id="M+ Cine EspaÃ±ol" tvg-name="M+ CINE ESPANOL SD" tvg-logo="http://astrill.today:80/images/bwniThQJbhh-J3B6bMLDKJ_U8dCSuhagHIZrDoH_etBc4b4fe_X415lEpUax1kwyPNAf5BD_kLKb8vd53QhZpvi4-NfchvePkprhQeZlek6xaAR_HH_sLHsCOuX1gswNKuoU92GpBVe-JF66Xj00fxQVlSk17rf5JzlnKwPLp0-UvAepk0jAmz_i5cSCblrz.png" group-title="Server 1⭐️",M+ CINE ESPANOL SD
-http://834701933118862452.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/862452.ts
 #EXTINF:-1 tvg-id="" tvg-name="CMM FHD" tvg-logo="http://astrill.today:80/images/4QhFMMJaxMwJmkaRn-c8z-b54QLN_OaVzfizy8ZLvTfin0xGLpafKQ4Do3CTHNVG-KUSeaoAET2tADQm75vOB68VuYoNels14m01Qly8IYc.png" group-title="Server 1⭐️",CMM FHD
 http://834701933118863691.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/863691.ts
 #EXTINF:-1 tvg-id="" tvg-name="GOL PLAY TV FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_74A3_41C_1_C00000_0_0_0.png" group-title="Server 1⭐️",GOL PLAY TV FHD
@@ -649,10 +938,6 @@ http://834701933118863717.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/863717.ts
 http://834701933118864327.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/864327.ts
 #EXTINF:-1 tvg-id="etb2.es" tvg-name="ETB 2 HD" tvg-logo="https://miguia.tv/channels/big_79.png" group-title="Server 1⭐️",ETB 2 HD
 http://834701933118864338.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/864338.ts
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ II GUERRA MUNDIAL HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MGUERR" group-title="Server 1⭐️",M+ II GUERRA MUNDIAL HD
-http://834701933118864345.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/864345.ts
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ II GUERRA MUNDIAL SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MGUERR" group-title="Server 1⭐️",M+ II GUERRA MUNDIAL SD
-http://834701933118864346.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/864346.ts
 #EXTINF:-1 tvg-id="Divinity" tvg-name="DIVINITY HD" tvg-logo="https://miguia.tv/channels/big_76.png" group-title="Server 1⭐️",DIVINITY HD
 http://834701933118865848.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/865848.ts
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-name="MEZZO SD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUsxOn5JXXxrxKxJZ54cE4zb4CBrFKaJoOf5cICw_LVS8g.png" group-title="Server 1⭐️",MEZZO SD
@@ -671,10 +956,6 @@ http://834701933118868994.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/868994.ts
 http://834701933118869000.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/869000.ts
 #EXTINF:-1 tvg-id="" tvg-name="COSMO TV SD" tvg-logo="http://estoxy.net:80/images/c6dae14fb7058fd936868419f14cb48b.png" group-title="Server 1⭐️",COSMO TV SD
 http://834701933118869011.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/869011.ts
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ II GUERRA MUNDIAL FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MGUERR" group-title="Server 1⭐️",M+ II GUERRA MUNDIAL FHD
-http://834701933118869029.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/869029.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ SUSPENSE HD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjj0IkJbYLVEdxeYHNXO0Q5wA.png" group-title="Server 1⭐️",M+ SUSPENSE HD
-http://834701933118869035.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/869035.ts
 #EXTINF:-1 tvg-id="aragontv.es" tvg-name="ARAGON TV SD" tvg-logo="http://astrill.today:80/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DXxTPa-a0bNrjLd7vlM0szordmNxBPRSoVvfLn15Mn05g.png" group-title="Server 1⭐️",ARAGON TV SD
 http://834701933118870208.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/870208.ts
 #EXTINF:-1 tvg-id="aragontvint.es" tvg-name="ARAGÃ³N TV INT HD" tvg-logo="" group-title="Server 1⭐️",ARAGÃ³N TV INT HD
@@ -693,14 +974,6 @@ http://834701933118870229.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/870229.ts
 http://834701933118870230.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/870230.ts
 #EXTINF:-1 tvg-id="GOL PLAY" tvg-name="GOL PLAY HD" tvg-logo="" group-title="Server 1⭐️",GOL PLAY HD
 http://834701933118870232.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/870232.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ CLASSICO HD" tvg-logo="" group-title="Server 1⭐️",M+ CLASSICO HD
-http://834701933118870237.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/870237.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ SAGAS FHD" tvg-logo="" group-title="Server 1⭐️",M+ SAGAS FHD
-http://834701933118870240.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/870240.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ SAGAS HD" tvg-logo="" group-title="Server 1⭐️",M+ SAGAS HD
-http://834701933118870241.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/870241.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ SUPERAGENTES SD" tvg-logo="" group-title="Server 1⭐️",M+ SUPERAGENTES SD
-http://834701933118870244.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/870244.ts
 #EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV LIVE HD" tvg-logo="" group-title="Server 1⭐️",MTV LIVE HD
 http://834701933118870250.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/870250.ts
 #EXTINF:-1 tvg-id="" tvg-name="TDT A PUNT VALENCIA HD" tvg-logo="" group-title="Server 1⭐️",TDT A PUNT VALENCIA HD
@@ -717,16 +990,8 @@ http://834701933118870269.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/870269.ts
 http://834701933118870273.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/870273.ts
 #EXTINF:-1 tvg-id="TVG Europa" tvg-name="TVG EUROPA SD" tvg-logo="http://ultra4k.ottlion.com:8000/images/Oo40nM-UPvZidPzU3eJILyLf1LyIKAUafhhXBlUq84kSpJBHDFJzC2_r1yATHvLLuu-1JYbTSIrGwWVZxO7kyrhQ4ZngYez3Lg46WZvUW0qMYmtTvGXOMmZ2CJ2Mvzmwb94kxWZAu_mrsacyXllBP4Zz6ZX-fd650psFGCdJyFo.jpg" group-title="Server 1⭐️",TVG EUROPA SD
 http://834701933118870275.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/870275.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ ORGULLO LGTBIQ+ FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MORGUL" group-title="Server 1⭐️",M+ ORGULLO LGTBIQ+ FHD
-http://834701933118870749.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/870749.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ ORGULLO LGTBIQ+ HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MORGUL" group-title="Server 1⭐️",M+ ORGULLO LGTBIQ+ HD
-http://834701933118870750.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/870750.ts
 #EXTINF:-1 tvg-id="clantve.es" tvg-name="CLAN SD" tvg-logo="http://astrill.today:80/images/MHEOZoNepjclQVzFoaa5oOk5f4oYfxOQkbGKOJ3RAaUA0NcEnNEw5okBLYVjocU4FYuqqD4Si75VhfzWzKzfQddWEzoram7XsinZbXpnyDs.png" group-title="Server 1⭐️",CLAN SD
 http://834701933118871544.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/871544.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ CLÃ¡SCIOS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Movistar_Cl%C3%A1sicos.svg/640px-Movistar_Cl%C3%A1sicos.svg.png" group-title="Server 1⭐️",M+ CLÃ¡SCIOS HD
-http://834701933118871553.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/871553.ts
-#EXTINF:-1 tvg-id="movistarseries2.es" tvg-name="M+ SERIES 2 FHD" tvg-logo="http://fanc.tmsimg.com/assets/s91195_ll_h3_aa.png" group-title="Server 1⭐️",M+ SERIES 2 FHD
-http://834701933118871555.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/871555.ts
 #EXTINF:-1 tvg-id="solmusica.es" tvg-name="SOL MUSICA HD" tvg-logo="http://ultra4k.ottlion.com:8000/images/Oo40nM-UPvZidPzU3eJIL9h1U61Dyxm3XUzPOAoV9-InOcQN7FYD_tOv1BHNAMw6qKf_c4kecYdtSmkNCr4jITIw6rP_QWlQmF4W-PcexHTwCmV7srqH73h_WU1DGLUYQPja0a8dKGR9AZJ9eSPxmbDiiDJlP44my512chV5sQZGqG1YHCHD6Qcp3qbdkJUj.png" group-title="Server 1⭐️",SOL MUSICA HD
 http://834701933118871563.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/871563.ts
 #EXTINF:-1 tvg-id="" tvg-name="88 STEREO TV SD" tvg-logo="http://ultra4k.ottlion.com:8000/images/b3x82stvR-K79QSAHP9SOCA-oEPqI5L179QonVkcavRIyURMDh3Qcz9giOB7fxztkuA8IXQvcPMRu8rxef4_DTp9uk_YP_DQqqzaKTd5XiU.png" group-title="Server 1⭐️",88 STEREO TV SD
@@ -747,8 +1012,6 @@ http://834701933118872192.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/872192.ts
 http://834701933118872364.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/872364.ts
 #EXTINF:-1 tvg-id="Levante TV" tvg-name="LEVANTE TV HD" tvg-logo="http://graph.facebook.com/levantetv/picture?width=320&height=320" group-title="Server 1⭐️",LEVANTE TV HD
 http://834701933118872379.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/872379.ts
-#EXTINF:-1 tvg-id="movistarestrenos2.es" tvg-name="M+ ESTRENOS SD" tvg-logo="http://estoxy.net:80/images/HjwEu7iTOqkLhxl1ITLIBZxq418yDK4wxg7T5hPu0Uo-D_hO0V6Q1aKOHrCxnbiz.png" group-title="Server 1⭐️",M+ ESTRENOS SD
-http://834701933118872381.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/872381.ts
 #EXTINF:-1 tvg-id="Onda Cadiz TV" tvg-name="ONDA CADIZ TV FHD" tvg-logo="http://iptv.speedhd10.com/logos/ONDAALGECIRAS.jpg" group-title="Server 1⭐️",ONDA CADIZ TV FHD
 http://834701933118872386.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/872386.ts
 #EXTINF:-1 tvg-id="" tvg-name="TDT TV CANARIAS HD" tvg-logo="" group-title="Server 1⭐️",TDT TV CANARIAS HD
@@ -797,10 +1060,6 @@ http://834701933118874878.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/874878.ts
 http://834701933118874881.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/874881.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY XD HD" tvg-logo="http://estoxy.net:80/images/HM3xx55KZnCUdlPuNC1k2GwUee_HeV47TzX8gNpnfyD2Yb9QBytMRzLzJiB6ZrtlYJXgUYlQ1bPOlT5CZugZYg.png" group-title="Server 1⭐️",DISNEY XD HD
 http://834701933118874883.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/874883.ts
-#EXTINF:-1 tvg-id="movistarclasicos.es" tvg-name="M+ CLÁSICOS HD" tvg-logo="" group-title="Server 1⭐️",M+ CLÁSICOS HD
-http://834701933118874889.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/874889.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ SUPERAGENTES HD" tvg-logo="" group-title="Server 1⭐️",M+ SUPERAGENTES HD
-http://834701933118874894.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/874894.ts
 #EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT NETWORK FHD" tvg-logo="http://fanc.tmsimg.com/assets/s91029_ll_h3_ab.png" group-title="Server 1⭐️",PARAMOUNT NETWORK FHD
 http://834701933118874899.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/874899.ts
 #EXTINF:-1 tvg-id="" tvg-name="RETRO MUSIC SD" tvg-logo="http://ultra4k.ottlion.com:8000/images/Oo40nM-UPvZidPzU3eJIL9h1U61Dyxm3XUzPOAoV9-InOcQN7FYD_tOv1BHNAMw6Lce8DtRqYRkmjZrvPJoohYlfV0oiwDeuu4NkDMTnfEPKAEIFh8K2Fw6P5KmDtnuLYtJ7sflra7p0T3knsP7rDaQk1xWAX3Mq04Vamqw5bhUsxQuwv-e6Ty5-IZL91WAZ.png" group-title="Server 1⭐️",RETRO MUSIC SD
@@ -811,10 +1070,6 @@ http://834701933118875640.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/875640.ts
 http://834701933118875641.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/875641.ts
 #EXTINF:-1 tvg-id="" tvg-name="FDF HD" tvg-logo="https://miguia.tv/channels/big_85.png" group-title="Server 1⭐️",FDF HD
 http://834701933118875644.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/875644.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ CLASSICO FHD" tvg-logo="" group-title="Server 1⭐️",M+ CLASSICO FHD
-http://834701933118875645.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/875645.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ ELLAS #V FHD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjj0NmHa2e3ls_b0JwJgIFFag.png" group-title="Server 1⭐️",M+ ELLAS #V FHD
-http://834701933118875646.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/875646.ts
 #EXTINF:-1 tvg-id="" tvg-name="MOTO ADV CHANNEL FHD" tvg-logo="http://vpsapache.hopto.org/images/motoadv.PNG" group-title="Server 1⭐️",MOTO ADV CHANNEL FHD
 http://834701933118875649.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/875649.ts
 #EXTINF:-1 tvg-id="" tvg-name="TDT3 IBIZA SD" tvg-logo="" group-title="Server 1⭐️",TDT3 IBIZA SD
@@ -835,10 +1090,6 @@ http://834701933118875966.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/875966.ts
 http://834701933118875968.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/875968.ts
 #EXTINF:-1 tvg-id="" tvg-name="EXTREMADURA TV FHD" tvg-logo="http://astrill.today:80/images/bOT4q5SgoWrndtVq08oOQua8SITN0h1rzFJ03QeRW4dta4MgNBlt8xPl97JTrWirGiBJf2uH3e9Sw5IWbIRAk8jOqcCGKuoZAmdTu_eCEiI.png" group-title="Server 1⭐️",EXTREMADURA TV FHD
 http://834701933118875969.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/875969.ts
-#EXTINF:-1 tvg-id="movistarestrenos2.es" tvg-name="M+ ESTRENOS HD" tvg-logo="http://astrill.today:80/images/HjwEu7iTOqkLhxl1ITLIBZxq418yDK4wxg7T5hPu0Uo-D_hO0V6Q1aKOHrCxnbiz.png" group-title="Server 1⭐️",M+ ESTRENOS HD
-http://834701933118875975.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/875975.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ MOTOGP SD" tvg-logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/mmotogp.png" group-title="Server 1⭐️",M+ MOTOGP SD
-http://834701933118875976.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/875976.ts
 #EXTINF:-1 tvg-id="" tvg-name="PTV MÃ¡LAGA FHD" tvg-logo="http://www.ptvmalaga.com/logomalaga.png" group-title="Server 1⭐️",PTV MÃ¡LAGA FHD
 http://834701933118875977.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/875977.ts
 #EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="REAL MADRID SD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUvi3hEJTh8EDnOw3nWz8fT1DGpTxySrQoR3Qw01NOHrHA.png" group-title="Server 1⭐️",REAL MADRID SD
@@ -887,14 +1138,6 @@ http://834701933118877081.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/877081.ts
 http://834701933118877082.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/877082.ts
 #EXTINF:-1 tvg-id="La 7" tvg-name="LA 7 FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/la7-es.png?raw=true" group-title="Server 1⭐️",LA 7 FHD
 http://834701933118877083.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/877083.ts
-#EXTINF:-1 tvg-id="movistarestrenos2.es" tvg-name="M+ ESTRENOS 2 FHD" tvg-logo="http://ultra4k.ottlion.com:8000/images/Oo40nM-UPvZidPzU3eJIL4BmutKBTrr3z9vXBy9qjZwWp_TcJSatOChNvx-L8QfnpW0hdmkpBzcVpnulPcRmvJfkspy2s093sLhfc_3f2m2jTVW_ylE7fDuLRGp-3UND3u1r_HrBfFK970tkUBZxN5rlhCBZCj5fMWuatLPui0iHLE9ejOJ1TnxIQxocAJDJ.png" group-title="Server 1⭐️",M+ ESTRENOS 2 FHD
-http://834701933118877084.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/877084.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ ORGULLO LGTBIQ+ SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MORGUL" group-title="Server 1⭐️",M+ ORGULLO LGTBIQ+ SD
-http://834701933118877085.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/877085.ts
-#EXTINF:-1 tvg-id="movistarseries2.es" tvg-name="M+ SERIES 2 SD" tvg-logo="http://fanc.tmsimg.com/assets/s91195_ll_h3_aa.png" group-title="Server 1⭐️",M+ SERIES 2 SD
-http://834701933118877086.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/877086.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ SUSPENSE FHD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjj0IkJbYLVEdxeYHNXO0Q5wA.png" group-title="Server 1⭐️",M+ SUSPENSE FHD
-http://834701933118877087.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/877087.ts
 #EXTINF:-1 tvg-id="" tvg-name="MULTIFUTBOL 1 HD" tvg-logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/movistarmultifutbol.png" group-title="Server 1⭐️",MULTIFUTBOL 1 HD
 http://834701933118877088.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/877088.ts
 #EXTINF:-1 tvg-id="" tvg-name="MY PADEL TV FHD" tvg-logo="https://static.worldpadeltourtv.com/wpt-resources/pro/web/icons/landing/logo-WPT.png" group-title="Server 1⭐️",MY PADEL TV FHD
@@ -943,12 +1186,6 @@ http://834701933118877370.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/877370.ts
 http://834701933118877371.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/877371.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPORT 3 CAT HD" tvg-logo="http://estoxy.net:80/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuums7LMiJZ5fz60QdbOBbKW00WIekqN78icE0GlElFpb6jA.png" group-title="Server 1⭐️",ESPORT 3 CAT HD
 http://834701933118877372.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/877372.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ DISNEY HD" tvg-logo="" group-title="Server 1⭐️",M+ DISNEY HD
-http://834701933118877373.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/877373.ts
-#EXTINF:-1 tvg-id="movistarestrenos2.es" tvg-name="M+ ESTRENOS 2 HD" tvg-logo="http://ultra4k.ottlion.com:8000/images/Oo40nM-UPvZidPzU3eJIL4BmutKBTrr3z9vXBy9qjZwWp_TcJSatOChNvx-L8QfnpW0hdmkpBzcVpnulPcRmvJfkspy2s093sLhfc_3f2m2jTVW_ylE7fDuLRGp-3UND3u1r_HrBfFK970tkUBZxN5rlhCBZCj5fMWuatLPui0iHLE9ejOJ1TnxIQxocAJDJ.png" group-title="Server 1⭐️",M+ ESTRENOS 2 HD
-http://834701933118877374.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/877374.ts
-#EXTINF:-1 tvg-id="movistarseries2.es" tvg-name="M+ SERIES 2 HD" tvg-logo="http://vpsapache.hopto.org/images/1_0_19_7882_414_1_C00000_0_0_0.png" group-title="Server 1⭐️",M+ SERIES 2 HD
-http://834701933118877375.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/877375.ts
 #EXTINF:-1 tvg-id="" tvg-name="MTV CLASSIC SD" tvg-logo="" group-title="Server 1⭐️",MTV CLASSIC SD
 http://834701933118877376.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/877376.ts
 #EXTINF:-1 tvg-id="" tvg-name="MULTIFUTBOL 1 SD" tvg-logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/movistarmultifutbol.png" group-title="Server 1⭐️",MULTIFUTBOL 1 SD
@@ -993,8 +1230,6 @@ http://834701933118879269.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/879269.ts
 http://834701933118879270.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/879270.ts
 #EXTINF:-1 tvg-id="gol.es" tvg-name="GOL SD" tvg-logo="http://compass.xboxlive.com/assets/43/e3/43e36213-33fc-4c23-bdb7-e7c8cff61e44.png" group-title="Server 1⭐️",GOL SD
 http://834701933118879271.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/879271.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ CLÃ¡SCIOS SD" tvg-logo="http://astrill.today:80/images/bwniThQJbhh-J3B6bMLDKJ_U8dCSuhagHIZrDoH_etBc4b4fe_X415lEpUax1kwyZXBwC-ibqeMhGyV29pqLTiTeVbhhCEMAb10aT2TO8Z3mDpEJjadnZTIgJL4FjB5LJPQml2AnDTq5hI9mws0pX70bnJpQqC9ASi--PYoES_0.png" group-title="Server 1⭐️",M+ CLÃ¡SCIOS SD
-http://834701933118879272.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/879272.ts
 #EXTINF:-1 tvg-id="" tvg-name="PEQUERADIO TV HD" tvg-logo="http://www.espai.jazztel.es/images/pequeradio.png" group-title="Server 1⭐️",PEQUERADIO TV HD
 http://834701933118879273.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/879273.ts
 #EXTINF:-1 tvg-id="" tvg-name="TELEVISA HD" tvg-logo="http://estoxy.net:80/images/5ec9ffa57cc553da11d80edcde36e58d.png" group-title="Server 1⭐️",TELEVISA HD
@@ -1011,12 +1246,6 @@ http://834701933118879531.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/879531.ts
 http://834701933118879532.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/879532.ts
 #EXTINF:-1 tvg-id="" tvg-name="IBERALIA 100% CAZA FHD" tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliacaza.png" group-title="Server 1⭐️",IBERALIA 100% CAZA FHD
 http://834701933118879533.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/879533.ts
-#EXTINF:-1 tvg-id="movistaroscars.es" tvg-name="M+ OSCAR HD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjj4B-CB5t_yvgrJoWR8nJQ9qMJTvFK2XCH-PYxkT5elRM.png" group-title="Server 1⭐️",M+ OSCAR HD
-http://834701933118879534.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/879534.ts
-#EXTINF:-1 tvg-id="movistaroscars.es" tvg-name="M+ OSCAR SD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjj4B-CB5t_yvgrJoWR8nJQ9qMJTvFK2XCH-PYxkT5elRM.png" group-title="Server 1⭐️",M+ OSCAR SD
-http://834701933118879535.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/879535.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ SAGAS SD" tvg-logo="" group-title="Server 1⭐️",M+ SAGAS SD
-http://834701933118879536.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/879536.ts
 #EXTINF:-1 tvg-id="" tvg-name="MTV ESPAÃ‘A SD" tvg-logo="http://ultra4k.ottlion.com:8000/images/Oo40nM-UPvZidPzU3eJIL4BmutKBTrr3z9vXBy9qjZwWp_TcJSatOChNvx-L8QfnpW0hdmkpBzcVpnulPcRmvIgtcrifdXXV0u60yHoI-HBFiiTygHMVVx-pjaDY1KhaoOAUXpEQo8_-W2OaZzt_LpWX5NoOnRq-Aby9tHTJB1Pxk81Ey4hmAjecqB9obDHV.png" group-title="Server 1⭐️",MTV ESPAÃ‘A SD
 http://834701933118879537.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/879537.ts
 #EXTINF:-1 tvg-id="barcatv.es" tvg-name="BARCA TV SD" tvg-logo="http://estoxy.net:80/images/6cafb59644155713e808b4589b25f23b.png" group-title="Server 1⭐️",BARCA TV SD
@@ -1025,8 +1254,6 @@ http://834701933118880851.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/880851.ts
 http://834701933118880852.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/880852.ts
 #EXTINF:-1 tvg-id="ETB 1" tvg-name="ETB 1 SD" tvg-logo="https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/a/a6/ETB1_Spain.svg/1200px-ETB1_Spain.svg.png" group-title="Server 1⭐️",ETB 1 SD
 http://834701933118880853.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/880853.ts
-#EXTINF:-1 tvg-id="Movistar plus+" tvg-name="M+ PLUS FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar_es_0.png" group-title="Server 1⭐️",M+ PLUS FHD
-http://834701933118880854.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/880854.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA Ã± HD" tvg-logo="http://vpsapache.hopto.org/images/beinxtraespanol.png" group-title="Server 1⭐️",BEIN SPORTS XTRA Ã± HD
 http://834701933118882057.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/882057.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEMAD TV SD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c0/Be_Mad_TV.svg-0.png" group-title="Server 1⭐️",BEMAD TV SD
@@ -1055,18 +1282,12 @@ http://834701933118883732.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/883732.ts
 http://834701933118883733.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/883733.ts
 #EXTINF:-1 tvg-id="" tvg-name="EXTREMADURA TV SD" tvg-logo="http://huribroadcast.com/wp-content/uploads/2015/03/CANAL-EXTREMADURA.png" group-title="Server 1⭐️",EXTREMADURA TV SD
 http://834701933118883734.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/883734.ts
-#EXTINF:-1 tvg-id="movistarclasicos.es" tvg-name="M+ CLÁSICOS SD" tvg-logo="" group-title="Server 1⭐️",M+ CLÁSICOS SD
-http://834701933118883735.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/883735.ts
-#EXTINF:-1 tvg-id="movistarestrenos2.es" tvg-name="M+ ESTRENOS 2 SD" tvg-logo="http://ultra4k.ottlion.com:8000/images/Oo40nM-UPvZidPzU3eJIL4BmutKBTrr3z9vXBy9qjZwWp_TcJSatOChNvx-L8QfnpW0hdmkpBzcVpnulPcRmvJfkspy2s093sLhfc_3f2m2jTVW_ylE7fDuLRGp-3UND3u1r_HrBfFK970tkUBZxN5rlhCBZCj5fMWuatLPui0iHLE9ejOJ1TnxIQxocAJDJ.png" group-title="Server 1⭐️",M+ ESTRENOS 2 SD
-http://834701933118883736.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/883736.ts
 #EXTINF:-1 tvg-id="" tvg-name="TELE MADRID 6 FHD" tvg-logo="" group-title="Server 1⭐️",TELE MADRID 6 FHD
 http://834701933118883737.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/883737.ts
 #EXTINF:-1 tvg-id="tv3cat.es" tvg-name="TV3 CAT HD" tvg-logo="" group-title="Server 1⭐️",TV3 CAT HD
 http://834701933118883738.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/883738.ts
 #EXTINF:-1 tvg-id="TVG 2" tvg-name="TVG 2 SD" tvg-logo="http://ultra4k.ottlion.com:8000/images/Oo40nM-UPvZidPzU3eJILyMduj1KxeSjV5skTlExrwqPuWUpKzSdFs3Q1AOmqB9wxOKqVn7PGK0YRuCh-f8u6xn9GBcAxlxR9qAY2150tct4wM85oTF91nOSW22ya46lD8Fzfd7J-q0llLDQuSioS6Tj54CbjL4trnH1G7fy8AQ.jpg" group-title="Server 1⭐️",TVG 2 SD
 http://834701933118883739.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/883739.ts
-#EXTINF:-1 tvg-id="movistarfest.es" tvg-name="M+ FEST FHD" tvg-logo="http://astrill.today:80/images/HjwEu7iTOqkLhxl1ITLIBZxq418yDK4wxg7T5hPu0UrrTcpXhT4QSBmraZeJO9tx.png" group-title="Server 1⭐️",M+ FEST FHD
-http://834701933118884040.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/884040.ts
 #EXTINF:-1 tvg-id="" tvg-name="7 TV MURCIA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/7TVRM.svg/220px-7TVRM.svg.png" group-title="Server 1⭐️",7 TV MURCIA FHD
 http://834701933118884217.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/884217.ts
 #EXTINF:-1 tvg-id="" tvg-name="CMM SD" tvg-logo="http://astrill.today:80/images/4QhFMMJaxMwJmkaRn-c8z-b54QLN_OaVzfizy8ZLvTfin0xGLpafKQ4Do3CTHNVG-KUSeaoAET2tADQm75vOB68VuYoNels14m01Qly8IYc.png" group-title="Server 1⭐️",CMM SD
@@ -1085,10 +1306,6 @@ http://834701933118885788.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/885788.ts
 http://834701933118885789.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/885789.ts
 #EXTINF:-1 tvg-id="" tvg-name="DBIKE FHD" tvg-logo="https://dbikechannel.es/wp-content/uploads/2022/09/logodbike2020.png" group-title="Server 1⭐️",DBIKE FHD
 http://834701933118887670.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/887670.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ FUTBOL HD" tvg-logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/movistarfutbol.png" group-title="Server 1⭐️",M+ FUTBOL HD
-http://834701933118889530.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/889530.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ MOTOGP FHD" tvg-logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/mmotogp.png" group-title="Server 1⭐️",M+ MOTOGP FHD
-http://834701933118889531.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/889531.ts
 #EXTINF:-1 tvg-id="" tvg-name="3/24 CAT HD" tvg-logo="http://estoxy.net:80/images/MG6fkP3mY676KsZIoy_t3FZRK7HH44huTwBfRjcfPpLr4xpRsRMJqHKgCwe030NMDDp-irIMrTd7ginVZ_teAg.jpg" group-title="Server 1⭐️",3/24 CAT HD
 http://834701933118890938.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/890938.ts
 #EXTINF:-1 tvg-id="" tvg-name="GALICIA TV FHD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUv441wl2FOskW1yzm6GHwZZzrQ_ugrlRAEA0JuBjprkbg.png" group-title="Server 1⭐️",GALICIA TV FHD
@@ -1097,18 +1314,6 @@ http://834701933118890939.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/890939.ts
 http://834701933118890940.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/890940.ts
 #EXTINF:-1 tvg-id="" tvg-name="CRIMEN INVES FHD" tvg-logo="" group-title="Server 1⭐️",CRIMEN INVES FHD
 http://834701933118891903.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/891903.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ COMEDIA ROMÃ¡NTICA FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MROMAN" group-title="Server 1⭐️",M+ COMEDIA ROMÃ¡NTICA FHD
-http://834701933118891904.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/891904.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ COMEDIA ROMÃ¡NTICA HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MROMAN" group-title="Server 1⭐️",M+ COMEDIA ROMÃ¡NTICA HD
-http://834701933118891905.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/891905.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ COMEDIA ROMÃ¡NTICA SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MROMAN" group-title="Server 1⭐️",M+ COMEDIA ROMÃ¡NTICA SD
-http://834701933118891906.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/891906.ts
-#EXTINF:-1 tvg-id="M+ Vacaciones" tvg-name="M+ VACACIONES FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MVCIVA" group-title="Server 1⭐️",M+ VACACIONES FHD
-http://834701933118891907.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/891907.ts
-#EXTINF:-1 tvg-id="1+1 Internacional" tvg-name="M+ VACACIONES HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MVCIVA" group-title="Server 1⭐️",M+ VACACIONES HD
-http://834701933118891908.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/891908.ts
-#EXTINF:-1 tvg-id="M+ Vacaciones" tvg-name="M+ VACACIONES SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MVCIVA" group-title="Server 1⭐️",M+ VACACIONES SD
-http://834701933118891909.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/891909.ts
 #EXTINF:-1 tvg-id="" tvg-name="ALCARRIA TV HD" tvg-logo="http://www.alcarria.tv/web/wp-content/uploads/2016/09/cropped-cropped-logonegroalcarriatv.png" group-title="Server 1⭐️",ALCARRIA TV HD
 http://834701933118892920.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/892920.ts
 #EXTINF:-1 tvg-id="" tvg-name="EXTREMADURA TV HD" tvg-logo="http://astrill.today:80/images/bOT4q5SgoWrndtVq08oOQua8SITN0h1rzFJ03QeRW4dta4MgNBlt8xPl97JTrWirGiBJf2uH3e9Sw5IWbIRAk8jOqcCGKuoZAmdTu_eCEiI.png" group-title="Server 1⭐️",EXTREMADURA TV HD
@@ -1119,8 +1324,6 @@ http://834701933118893574.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/893574.ts
 http://834701933118894019.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/894019.ts
 #EXTINF:-1 tvg-id="mtv.es" tvg-name="MTV ESPANA HD" tvg-logo="http://estoxy.net:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUspat_khgmWop6TTc-ax35R.png" group-title="Server 1⭐️",MTV ESPANA HD
 http://834701933118894020.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/894020.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ FUTBOL FHD" tvg-logo="http://astrill.today:80/images/HjwEu7iTOqkLhxl1ITLIBZxq418yDK4wxg7T5hPu0UoSQxMjB-yEsJAF9DAEeWjbGlOqAkZ83lJHBnMglJEHwQ.png" group-title="Server 1⭐️",M+ FUTBOL FHD
-http://834701933118894635.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/894635.ts
 #EXTINF:-1 tvg-id="" tvg-name="A PUNT HD" tvg-logo="" group-title="Server 1⭐️",A PUNT HD
 http://834701933118895081.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/895081.ts
 #EXTINF:-1 tvg-id="" tvg-name="CRIMEN INVES HD" tvg-logo="" group-title="Server 1⭐️",CRIMEN INVES HD
@@ -1153,10 +1356,6 @@ http://834701933118902752.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/902752.ts
 http://834701933118902753.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/902753.ts
 #EXTINF:-1 tvg-id="" tvg-name="LA 1 CATALUNA HD" tvg-logo="" group-title="Server 1⭐️",LA 1 CATALUNA HD
 http://834701933118902754.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/902754.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ ACTION FHD" tvg-logo="" group-title="Server 1⭐️",M+ ACTION FHD
-http://834701933118902755.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/902755.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ DISNEY FHD" tvg-logo="" group-title="Server 1⭐️",M+ DISNEY FHD
-http://834701933118902756.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/902756.ts
 #EXTINF:-1 tvg-id="" tvg-name="TP A7 HD" tvg-logo="" group-title="Server 1⭐️",TP A7 HD
 http://834701933118902757.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/902757.ts
 #EXTINF:-1 tvg-id="" tvg-name="LA 1 CATALUNA FHD" tvg-logo="" group-title="Server 1⭐️",LA 1 CATALUNA FHD
@@ -1177,8 +1376,6 @@ http://834701933118904315.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/904315.ts
 http://834701933118904316.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/904316.ts
 #EXTINF:-1 tvg-id="tv3cataluny.es" tvg-name="TV3 CATALUNYA HD" tvg-logo="http://fanc.tmsimg.com/assets/s87126_ll_h3_aa.png" group-title="Server 1⭐️",TV3 CATALUNYA HD
 http://834701933118904317.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/904317.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ CLASSICO SD" tvg-logo="" group-title="Server 1⭐️",M+ CLASSICO SD
-http://834701933118904534.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/904534.ts
 #EXTINF:-1 tvg-id="" tvg-name="MULTIFUTBOL 1 FHD" tvg-logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/movistarmultifutbol.png" group-title="Server 1⭐️",MULTIFUTBOL 1 FHD
 http://834701933118904535.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/904535.ts
 #EXTINF:-1 tvg-id="" tvg-name="TDT TV ARAGON SD" tvg-logo="" group-title="Server 1⭐️",TDT TV ARAGON SD
@@ -1187,8 +1384,6 @@ http://834701933118904536.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/904536.ts
 http://834701933118904537.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/904537.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPORT 3 CAT FHD" tvg-logo="http://astrill.today:80/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuums7LMiJZ5fz60QdbOBbKW00WIekqN78icE0GlElFpb6jA.png" group-title="Server 1⭐️",ESPORT 3 CAT FHD
 http://834701933118906372.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/906372.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ MOTOGP HD" tvg-logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/mmotogp.png" group-title="Server 1⭐️",M+ MOTOGP HD
-http://834701933118906373.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/906373.ts
 #EXTINF:-1 tvg-id="aande.es" tvg-name="A&E HD" tvg-logo="http://fanc.tmsimg.com/assets/s10035_ll_h3_ab.png" group-title="Server 1⭐️",A&E HD
 http://834701933118907184.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/907184.ts
 #EXTINF:-1 tvg-id="" tvg-name="+MEDIA TV FHD" tvg-logo="https://paraproblar.b-cdn.net/images/logos512/masmedia.png" group-title="Server 1⭐️",+MEDIA TV FHD
@@ -1215,7 +1410,7 @@ http://834701933118909075.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909075.ts
 http://834701933118909076.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909076.ts
 #EXTINF:-1 tvg-id="" tvg-name="CBN ESPANOL SD" tvg-logo="https://www.cbn.com/partners/video/img/live_channel/cbn-espanol-channel-thumb.png" group-title="Server 1⭐️",CBN ESPANOL SD
 http://834701933118909077.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909077.ts
-#EXTINF:-1 tvg-id="CGTN EspaÃ±ol" tvg-name="CGTN ESPAÃ‘OL FHD" tvg-logo="https://espanol-static.cgtn.com/w/images/icon/logo@3x.png" group-title="Server 1⭐️",CGTN ESPAÑOL FHD
+#EXTINF:-1 tvg-id="CGTN EspaÃ±ol" tvg-name="CGTN ESPAÑOL FHD" tvg-logo="https://espanol-static.cgtn.com/w/images/icon/logo@3x.png" group-title="Server 1⭐️",CGTN ESPAÑOL FHD
 http://834701933118909078.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909078.ts
 #EXTINF:-1 tvg-id="" tvg-name="CINE FEEL GOOD VERDI SD" tvg-logo="https://www.vamosaver.tv/wp-content/uploads/2021/02/verdi2.png" group-title="Server 1⭐️",CINE FEEL GOOD VERDI SD
 http://834701933118909079.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909079.ts
@@ -1293,18 +1488,6 @@ http://834701933118909117.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909117.ts
 http://834701933118909118.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909118.ts
 #EXTINF:-1 tvg-id="" tvg-name="LOLLY KIDS SD" tvg-logo="https://www.coool.tv/wp-content/uploads/2022/12/lolly-kids-tv.png" group-title="Server 1⭐️",LOLLY KIDS SD
 http://834701933118909119.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909119.ts
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ COMEDIA ROMANTICA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MROMAN.png" group-title="Server 1⭐️",M+ COMEDIA ROMANTICA FHD
-http://834701933118909120.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909120.ts
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ COMEDIA ROMANTICA HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MROMAN.png" group-title="Server 1⭐️",M+ COMEDIA ROMANTICA HD
-http://834701933118909121.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909121.ts
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ COMEDIA ROMANTICA SD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MROMAN.png" group-title="Server 1⭐️",M+ COMEDIA ROMANTICA SD
-http://834701933118909122.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909122.ts
-#EXTINF:-1 tvg-id="movistaroscars.es" tvg-name="M+ OSCAR FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MOSCAR.png" group-title="Server 1⭐️",M+ OSCAR FHD
-http://834701933118909123.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909123.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ XTRA FHD" tvg-logo="" group-title="Server 1⭐️",M+ XTRA FHD
-http://834701933118909124.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909124.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+M+ ORIGINALES FHD" tvg-logo="" group-title="Server 1⭐️",M+M+ ORIGINALES FHD
-http://834701933118909125.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909125.ts
 #EXTINF:-1 tvg-id="" tvg-name="MULTICINE ATRESPLAYER SD" tvg-logo="https://up6.cc/2023/12/170388512058851.png" group-title="Server 1⭐️",MULTICINE ATRESPLAYER SD
 http://834701933118909126.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909126.ts
 #EXTINF:-1 tvg-id="" tvg-name="MUNDO SERIES SD" tvg-logo="https://media.tvup.cloud/canales/color_lg_659d3df441ebff82eb57ddc8.png" group-title="Server 1⭐️",MUNDO SERIES SD
@@ -1335,9 +1518,9 @@ http://834701933118909138.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909138.ts
 http://834701933118909139.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909139.ts
 #EXTINF:-1 tvg-id="" tvg-name="REK TV GAMER SD" tvg-logo="https://www.rektv.es/wp-content/uploads/2022/03/rektv-black.png" group-title="Server 1⭐️",REK TV GAMER SD
 http://834701933118909140.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909140.ts
-#EXTINF:-1 tvg-id="" tvg-name="RT ESPAÃ‘OL FHD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_rt-tv-russia-today_m.png" group-title="Server 1⭐️",RT ESPAÑOL FHD
+#EXTINF:-1 tvg-id="" tvg-name="RT ESPAÑOL FHD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_rt-tv-russia-today_m.png" group-title="Server 1⭐️",RT ESPAÑOL FHD
 http://834701933118909141.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909141.ts
-#EXTINF:-1 tvg-id="" tvg-name="RT ESPAÃ‘OL HD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_rt-tv-russia-today_m.png" group-title="Server 1⭐️",RT ESPAÑOL HD
+#EXTINF:-1 tvg-id="" tvg-name="RT ESPAÑOL HD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_rt-tv-russia-today_m.png" group-title="Server 1⭐️",RT ESPAÑOL HD
 http://834701933118909142.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909142.ts
 #EXTINF:-1 tvg-id="SELEKT" tvg-name="SELEKT TV HD" tvg-logo="https://dfbjv537ke6pk.cloudfront.net/images/STVLogo.png" group-title="Server 1⭐️",SELEKT TV HD
 http://834701933118909143.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909143.ts
@@ -1405,8 +1588,9 @@ http://834701933118909173.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909173.ts
 http://834701933118909174.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909174.ts
 #EXTINF:-1 tvg-id="" tvg-name="BETEVÃ CAT FHD" tvg-logo="http://estoxy.net:80/images/f9fa9ca8a21de3297af98b960318054b.jpg" group-title="Server 1⭐️",BETEVÃ CAT FHD
 http://834701933118909175.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909175.ts
-#EXTINF:-1 tvg-id="AMC Break" tvg-name="BREAK SD" tvg-logo="" group-title="Server 1⭐️",BREAK SD
-http://834701933118909176.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909176.ts
+
+
+
 #EXTINF:-1 tvg-id="BuenViaje" tvg-name="BUENVIAJE FHD" tvg-logo="" group-title="Server 1⭐️",BUENVIAJE FHD
 http://834701933118909177.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909177.ts
 #EXTINF:-1 tvg-id="" tvg-name="CABLEWORLD MEDIA FHD" tvg-logo="https://www.cableworldmedia.net/backend/web/uploads/channel/channel_60803ad2ad916.png" group-title="Server 1⭐️",CABLEWORLD MEDIA FHD
@@ -1505,8 +1689,6 @@ http://834701933118909223.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909223.ts
 http://834701933118909224.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909224.ts
 #EXTINF:-1 tvg-id="" tvg-name="LOGOS TV SD" tvg-logo="https://i.imgur.com/ZvC3Su3.png" group-title="Server 1⭐️",LOGOS TV SD
 http://834701933118909225.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909225.ts
-#EXTINF:-1 tvg-id="movistarseriesmania.es" tvg-name="M+ SERIESMANIA FHD" tvg-logo="" group-title="Server 1⭐️",M+ SERIESMANIA FHD
-http://834701933118909226.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909226.ts
 #EXTINF:-1 tvg-id="" tvg-name="MELILLA TV SD" tvg-logo="https://diretele.com/wp-content/uploads/2018/09/tv-melilla-en-directo.png" group-title="Server 1⭐️",MELILLA TV SD
 http://834701933118909227.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909227.ts
 #EXTINF:-1 tvg-id="" tvg-name="MIJAS HD" tvg-logo="https://diretele.com/wp-content/uploads/2019/03/mijas-3.40-tv-en-directo.png" group-title="Server 1⭐️",MIJAS HD
@@ -1645,12 +1827,6 @@ http://834701933118911719.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/911719.ts
 http://834701933118911720.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/911720.ts
 #EXTINF:-1 tvg-id="" tvg-name="I24 NEWS FHD" tvg-logo="http://fanc.tmsimg.com/assets/s87376_ll_h3_ab.png" group-title="Server 1⭐️",I24 NEWS FHD
 http://834701933118911721.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/911721.ts
-#EXTINF:-1 tvg-id="movistarclasicos.es" tvg-name="M+ CLÁSICOS FHD" tvg-logo="" group-title="Server 1⭐️",M+ CLÁSICOS FHD
-http://834701933118911722.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/911722.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ XTRA HD" tvg-logo="" group-title="Server 1⭐️",M+ XTRA HD
-http://834701933118911723.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/911723.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+M+ ORIGINALES HD" tvg-logo="" group-title="Server 1⭐️",M+M+ ORIGINALES HD
-http://834701933118911724.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/911724.ts
 #EXTINF:-1 tvg-id="" tvg-name="MARBELLA TV HD" tvg-logo="https://diretele.com/wp-content/uploads/2019/03/Marbella-TV.png" group-title="Server 1⭐️",MARBELLA TV HD
 http://834701933118911725.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/911725.ts
 #EXTINF:-1 tvg-id="" tvg-name="NATURE TIME FHD" tvg-logo="https://images.pluto.tv/channels/61fc0df14159c40007250432/colorLogoPNG.png" group-title="Server 1⭐️",NATURE TIME FHD
@@ -1685,16 +1861,6 @@ http://834701933118912467.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/912467.ts
 http://834701933118912468.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/912468.ts
 #EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="FACTORIA DE FICCION SD" tvg-logo="" group-title="Server 1⭐️",FACTORIA DE FICCION SD
 http://834701933118912469.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/912469.ts
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ BRAD PITT FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MBRAD.png" group-title="Server 1⭐️",M+ BRAD PITT FHD
-http://834701933118912470.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/912470.ts
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ BRAD PITT HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MBRAD.png" group-title="Server 1⭐️",M+ BRAD PITT HD
-http://834701933118912471.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/912471.ts
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ BRAD PITT SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MBRAD.png" group-title="Server 1⭐️",M+ BRAD PITT SD
-http://834701933118912472.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/912472.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ FUTBOL SD" tvg-logo="http://kiev.tvlogos.xyz:8080/Nakip3/logos/logozip/picons/logos/movistarfutbol.png" group-title="Server 1⭐️",M+ FUTBOL SD
-http://834701933118912473.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/912473.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+M+ ORIGINALES SD" tvg-logo="" group-title="Server 1⭐️",M+M+ ORIGINALES SD
-http://834701933118912474.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/912474.ts
 #EXTINF:-1 tvg-id="" tvg-name="MELILLA TV HD" tvg-logo="https://diretele.com/wp-content/uploads/2018/09/tv-melilla-en-directo.png" group-title="Server 1⭐️",MELILLA TV HD
 http://834701933118912475.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/912475.ts
 #EXTINF:-1 tvg-id="" tvg-name="MX - FOX SPORTS 2 HD" tvg-logo="http://vpsapache.hopto.org/images/fox_sports_2_mexico.png" group-title="Server 1⭐️",MX - FOX SPORTS 2 HD
@@ -1717,7 +1883,7 @@ http://834701933118913715.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/913715.ts
 http://834701933118915006.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/915006.ts
 #EXTINF:-1 tvg-id="canalcocina.es" tvg-name="CANALE COCINA FHD" tvg-logo="" group-title="Server 1⭐️",CANALE COCINA FHD
 http://834701933118915007.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/915007.ts
-#EXTINF:-1 tvg-id="" tvg-name="COPS EN ESPAÃ‘OL HD" tvg-logo="https://www.cops.com/wp-content/uploads/2021/04/COPS_SilverLogo-300x100.png" group-title="Server 1⭐️",COPS EN ESPAÑOL HD
+#EXTINF:-1 tvg-id="" tvg-name="COPS EN ESPAÑOL HD" tvg-logo="https://www.cops.com/wp-content/uploads/2021/04/COPS_SilverLogo-300x100.png" group-title="Server 1⭐️",COPS EN ESPAÑOL HD
 http://834701933118915008.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/915008.ts
 #EXTINF:-1 tvg-id="Escapa TV" tvg-name="ESCAPA TV HD" tvg-logo="https://www.populoos.es/assets/images/tv/escapa.png" group-title="Server 1⭐️",ESCAPA TV HD
 http://834701933118915009.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/915009.ts
@@ -1733,7 +1899,7 @@ http://834701933118915013.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/915013.ts
 http://834701933118915016.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/915016.ts
 #EXTINF:-1 tvg-id="" tvg-name="TOON GOGGLES SD" tvg-logo="https://channels.roku.com/images/5bcf223b79ce4f959d76497b531088d4-hd.png" group-title="Server 1⭐️",TOON GOGGLES SD
 http://834701933118915017.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/915017.ts
-#EXTINF:-1 tvg-id="" tvg-name="COPS EN ESPAÃ‘OL FHD" tvg-logo="https://www.cops.com/wp-content/uploads/2021/04/COPS_SilverLogo-300x100.png" group-title="Server 1⭐️",COPS EN ESPAÑOL FHD
+#EXTINF:-1 tvg-id="" tvg-name="COPS EN ESPAÑOL FHD" tvg-logo="https://www.cops.com/wp-content/uploads/2021/04/COPS_SilverLogo-300x100.png" group-title="Server 1⭐️",COPS EN ESPAÑOL FHD
 http://834701933118915927.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/915927.ts
 #EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="FACTORIA DE FICCION HD" tvg-logo="" group-title="Server 1⭐️",FACTORIA DE FICCION HD
 http://834701933118915928.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/915928.ts
@@ -1741,26 +1907,14 @@ http://834701933118915928.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/915928.ts
 http://834701933118915929.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/915929.ts
 #EXTINF:-1 tvg-id="tveintamerica.es" tvg-name="TVE INTERNACIONAL FHD" tvg-logo="http://astrill.today:80/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yoynXWD9Q0easWjmMx7xK0aqjrhEikPhRBCZ15nXZmA9A.png" group-title="Server 1⭐️",TVE INTERNACIONAL FHD
 http://834701933118916903.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/916903.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ ACTION HD" tvg-logo="" group-title="Server 1⭐️",M+ ACTION HD
-http://834701933118917739.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/917739.ts
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ HITCHCOCKI FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MBRAD.png" group-title="Server 1⭐️",M+ HITCHCOCKI FHD
-http://834701933118920249.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/920249.ts
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ HITCHCOCKI HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MBRAD.png" group-title="Server 1⭐️",M+ HITCHCOCKI HD
-http://834701933118920250.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/920250.ts
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ HITCHCOCKI SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MBRAD.png" group-title="Server 1⭐️",M+ HITCHCOCKI SD
-http://834701933118920251.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/920251.ts
 #EXTINF:-1 tvg-id="" tvg-name="PTV ALMERÃ­A HD" tvg-logo="" group-title="Server 1⭐️",PTV ALMERÃ­A HD
 http://834701933118920252.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/920252.ts
-#EXTINF:-1 tvg-id="AMC Break" tvg-name="BREAK HD" tvg-logo="" group-title="Server 1⭐️",BREAK HD
-http://834701933118921331.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/921331.ts
 #EXTINF:-1 tvg-id="canalextremadura.es" tvg-name="EXTREMADURA SD" tvg-logo="https://tvguia.info/wp-content/uploads/2021/11/Canal-Extremadura.png" group-title="Server 1⭐️",EXTREMADURA SD
 http://834701933118922191.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/922191.ts
 #EXTINF:-1 tvg-id="" tvg-name="TU CINE FHD" tvg-logo="https://media.tvup.cloud/canales/color_lg_659d3df441ebff82eb57ddc8.png" group-title="Server 1⭐️",TU CINE FHD
 http://834701933118922192.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/922192.ts
 #EXTINF:-1 tvg-id="" tvg-name="I24 NEWS HD" tvg-logo="http://fanc.tmsimg.com/assets/s87376_ll_h3_ab.png" group-title="Server 1⭐️",I24 NEWS HD
 http://834701933118923108.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/923108.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ ACTION SD" tvg-logo="" group-title="Server 1⭐️",M+ ACTION SD
-http://834701933118923109.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/923109.ts
 #EXTINF:-1 tvg-id="" tvg-name="SHOWTIME 1 HD" tvg-logo="http://vpsapache.hopto.org/images/surf_channel.PNG" group-title="Server 1⭐️",SHOWTIME 1 HD
 http://834701933118923110.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/923110.ts
 #EXTINF:-1 tvg-id="" tvg-name="7RM HD" tvg-logo="http://fanc.tmsimg.com/assets/s97476_ll_h3_aa.png" group-title="Server 1⭐️",7RM HD
@@ -1777,8 +1931,6 @@ http://834701933118926689.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/926689.ts
 http://834701933118926690.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/926690.ts
 #EXTINF:-1 tvg-id="El Garage TV" tvg-name="GARAGE TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GARAGE.png" group-title="Server 1⭐️",GARAGE TV HD
 http://834701933118926691.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/926691.ts
-#EXTINF:-1 tvg-id="movistarfest.es" tvg-name="M+ FEST SD" tvg-logo="http://astrill.today:80/images/HjwEu7iTOqkLhxl1ITLIBZxq418yDK4wxg7T5hPu0UrrTcpXhT4QSBmraZeJO9tx.png" group-title="Server 1⭐️",M+ FEST SD
-http://834701933118926692.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/926692.ts
 #EXTINF:-1 tvg-id="" tvg-name="MY TIME FHD" tvg-logo="https://up6.cc/2024/09/172725560720581.png" group-title="Server 1⭐️",MY TIME FHD
 http://834701933118926693.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/926693.ts
 #EXTINF:-1 tvg-id="" tvg-name="MY TIME HD" tvg-logo="https://up6.cc/2024/09/172725560720581.png" group-title="Server 1⭐️",MY TIME HD
@@ -1811,12 +1963,6 @@ http://834701933118932836.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/932836.ts
 http://834701933118932838.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/932838.ts
 #EXTINF:-1 tvg-id="la2.es" tvg-name="LA2 HD" tvg-logo="http://vpsapache.hopto.org/images/ES_02_la2.png" group-title="Server 1⭐️",LA2 HD
 http://834701933118932839.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/932839.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ CLÃ¡SCIOS FHD" tvg-logo="http://astrill.today:80/images/bwniThQJbhh-J3B6bMLDKJ_U8dCSuhagHIZrDoH_etBc4b4fe_X415lEpUax1kwyZXBwC-ibqeMhGyV29pqLTiTeVbhhCEMAb10aT2TO8Z3mDpEJjadnZTIgJL4FjB5LJPQml2AnDTq5hI9mws0pX70bnJpQqC9ASi--PYoES_0.png" group-title="Server 1⭐️",M+ CLÃ¡SCIOS FHD
-http://834701933118932840.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/932840.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ SKYSHOWTIME 1 HD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjjtCMIL2LSAO3FCLNYFCS7aaYfL8TX2OjD0G646lK_2zo.png" group-title="Server 1⭐️",M+ SKYSHOWTIME 1 HD
-http://834701933118932841.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/932841.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ SKYSHOWTIME 1 SD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjjtCMIL2LSAO3FCLNYFCS7aaYfL8TX2OjD0G646lK_2zo.png" group-title="Server 1⭐️",M+ SKYSHOWTIME 1 SD
-http://834701933118932842.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/932842.ts
 #EXTINF:-1 tvg-id="" tvg-name="MOTO ADV FHD" tvg-logo="https://scontent.fcmn3-2.fna.fbcdn.net/v/t39.30808-1/300473172_2116970035131528_3671140579611952732_n.jpg?stp=dst-jpg_p200x200&_nc_cat=106&ccb=1-7&_nc_sid=c6021c&_nc_ohc=mSKl8sr51sgAX91ObAB&_nc_oc=AQlb_Lucr1IOD5inbfcciBhJ-nddzDIQ5GVPWnxbNNBhXlaxduKPHDRhiDBMS5ABpzU&_nc_ht=scontent.fcmn3-2.fna&oh=00_AfB-2uZQXg1Q30XMaB_-ebBP0pRWkHrK7DNVh6ZUpRUmKA&oe=643DA451" group-title="Server 1⭐️",MOTO ADV FHD
 http://834701933118932843.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/932843.ts
 #EXTINF:-1 tvg-id="" tvg-name="MYTIME MOVIE NETWORK FHD" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="Server 1⭐️",MYTIME MOVIE NETWORK FHD
@@ -1855,14 +2001,6 @@ http://834701933118933710.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/933710.ts
 http://834701933118933711.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/933711.ts
 #EXTINF:-1 tvg-id="" tvg-name="LA 1 Â FHD FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tve1_madrid.png" group-title="Server 1⭐️",LA 1 Â FHD FHD
 http://834701933118933712.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/933712.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ CINE ESPAÃ‘OL ES HD" tvg-logo="" group-title="Server 1⭐️",M+ CINE ESPAÑOL ES HD
-http://834701933118933713.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/933713.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ CLINT EASTWOOD FHD ES FHD" tvg-logo="" group-title="Server 1⭐️",M+ CLINT EASTWOOD FHD ES FHD
-http://834701933118933714.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/933714.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ DISNEY ES FHD" tvg-logo="" group-title="Server 1⭐️",M+ DISNEY ES FHD
-http://834701933118933715.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/933715.ts
-#EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="M+ ORIGINALES FHD SD BITRATE HD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjj8kiMDawOe2Jth7g9knpJNg.png" group-title="Server 1⭐️",M+ ORIGINALES FHD SD BITRATE HD
-http://834701933118933716.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/933716.ts
 #EXTINF:-1 tvg-id="" tvg-name="MEZZO LIVE 1080 FHD" tvg-logo="" group-title="Server 1⭐️",MEZZO LIVE 1080 FHD
 http://834701933118933717.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/933717.ts
 #EXTINF:-1 tvg-id="" tvg-name="MTV ROCKS SD" tvg-logo="http://fanc.tmsimg.com/assets/s90327_ll_h3_aa.png" group-title="Server 1⭐️",MTV ROCKS SD
@@ -1885,8 +2023,6 @@ http://834701933118933725.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/933725.ts
 http://834701933118933726.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/933726.ts
 #EXTINF:-1 tvg-id="" tvg-name="NORTEVISION FHD" tvg-logo="" group-title="Server 1⭐️",NORTEVISION FHD
 http://834701933118933727.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/933727.ts
-#EXTINF:-1 tvg-id="M+ Originales" tvg-name="ORIGINALES FHD" tvg-logo="http://cesbos.portal.ovh/logos/canal-0.jpg" group-title="Server 1⭐️",ORIGINALES FHD
-http://834701933118933728.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/933728.ts
 #EXTINF:-1 tvg-id="Sol MÃºsica" tvg-name="SOL MÃºSICA HD" tvg-logo="http://astrill.today:80/images/KPr_Ouz8236z9JLqgRm5YGDA3EOK8_eYVLOMfemaCOOCjLO2eD0Kny0I3Eu-ooTh.png" group-title="Server 1⭐️",SOL MÃºSICA HD
 http://834701933118933729.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/933729.ts
 #EXTINF:-1 tvg-id="" tvg-name="SPORT 3 .CAT FHD" tvg-logo="http://cesbos.portal.ovh/logos/esport3.jpg" group-title="Server 1⭐️",SPORT 3 .CAT FHD
@@ -1913,11 +2049,7 @@ http://834701933118936164.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/936164.ts
 http://834701933118936165.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/936165.ts
 #EXTINF:-1 tvg-id="Enfamilia" tvg-name="EN FAMILIA HD" tvg-logo="" group-title="Server 1⭐️",EN FAMILIA HD
 http://834701933118936166.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/936166.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES M+ + FHD" tvg-logo="" group-title="Server 1⭐️",ES M+ + FHD
-http://834701933118936167.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/936167.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ CINE ESPAÃ‘OL ES FHD" tvg-logo="" group-title="Server 1⭐️",M+ CINE ESPAÑOL ES FHD
-http://834701933118936168.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/936168.ts
-#EXTINF:-1 tvg-id="" tvg-name="MCINE ESPAÃ‘OL HD" tvg-logo="" group-title="Server 1⭐️",MCINE ESPAÑOL HD
+#EXTINF:-1 tvg-id="" tvg-name="MCINE ESPAÑOL HD" tvg-logo="" group-title="Server 1⭐️",MCINE ESPAÑOL HD
 http://834701933118936169.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/936169.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ESPANAA HD" tvg-logo="" group-title="Server 1⭐️",BEIN SPORTS ESPANAA HD
 http://834701933118937279.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/937279.ts
@@ -1927,10 +2059,6 @@ http://834701933118937280.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/937280.ts
 http://834701933118937281.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/937281.ts
 #EXTINF:-1 tvg-id="disneychannel.es" tvg-name="DISNEY SD" tvg-logo="" group-title="Server 1⭐️",DISNEY SD
 http://834701933118937282.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/937282.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ WOODY ALLEN ES FHD" tvg-logo="" group-title="Server 1⭐️",M+ WOODY ALLEN ES FHD
-http://834701933118937283.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/937283.ts
-#EXTINF:-1 tvg-id="M+ Originales" tvg-name="ORIGINALES HD" tvg-logo="http://cesbos.portal.ovh/logos/canal-0.jpg" group-title="Server 1⭐️",ORIGINALES HD
-http://834701933118937284.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/937284.ts
 #EXTINF:-1 tvg-id="" tvg-name="PLTV SYFY FHD" tvg-logo="" group-title="Server 1⭐️",PLTV SYFY FHD
 http://834701933118937285.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/937285.ts
 #EXTINF:-1 tvg-id="" tvg-name="SELEKT FHD" tvg-logo="https://advanced-television.com/wp-content/uploads/2021/01/Logo_SELEKT_Black.jpg" group-title="Server 1⭐️",SELEKT FHD
@@ -1965,16 +2093,8 @@ http://834701933118940539.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/940539.ts
 http://834701933118940540.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/940540.ts
 #EXTINF:-1 tvg-id="" tvg-name="GLOBAL TENDENCIAS SD" tvg-logo="https://www.ptvtelecom.com/wp-content/uploads/canales/globaltendencias.png" group-title="Server 1⭐️",GLOBAL TENDENCIAS SD
 http://834701933118941476.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/941476.ts
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ TERROR FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TERROR.png" group-title="Server 1⭐️",M+ TERROR FHD
-http://834701933118941477.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/941477.ts
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ TERROR HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TERROR.png" group-title="Server 1⭐️",M+ TERROR HD
-http://834701933118941478.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/941478.ts
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ TERROR SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TERROR.png" group-title="Server 1⭐️",M+ TERROR SD
-http://834701933118941479.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/941479.ts
 #EXTINF:-1 tvg-id="" tvg-name="3/24 .CAT FHD" tvg-logo="" group-title="Server 1⭐️",3/24 .CAT FHD
 http://834701933118945851.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/945851.ts
-#EXTINF:-1 tvg-id="Movistar plus+" tvg-name="M+ PLUS SD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUsQCzvCmewrsiMp7806n5pKCRZXpoiQ4DLgnPgOUMbpZw.png" group-title="Server 1⭐️",M+ PLUS SD
-http://834701933118945852.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/945852.ts
 #EXTINF:-1 tvg-id="classica.es" tvg-name="CLASSICA FHD" tvg-logo="" group-title="Server 1⭐️",CLASSICA FHD
 http://834701933118946541.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/946541.ts
 #EXTINF:-1 tvg-id="" tvg-name="ALACANTI TV FHD" tvg-logo="https://iteleflix.com/archivos/Logo-Alacanti-TV.png" group-title="Server 1⭐️",ALACANTI TV FHD
@@ -2007,8 +2127,6 @@ http://834701933118952478.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/952478.ts
 http://834701933118952479.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/952479.ts
 #EXTINF:-1 tvg-id="Enfamilia" tvg-name="EN FAMILIA FHD" tvg-logo="" group-title="Server 1⭐️",EN FAMILIA FHD
 http://834701933118953510.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/953510.ts
-#EXTINF:-1 tvg-id="M+ Elecciones EE.UU." tvg-name="M+ ELECCIONES EE.UU SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEEUU.png" group-title="Server 1⭐️",M+ ELECCIONES EE.UU SD
-http://834701933118953511.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/953511.ts
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA FHD" tvg-logo="" group-title="Server 1⭐️",NETFLIX DRAMA FHD
 http://834701933118953512.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/953512.ts
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX KIDS HD" tvg-logo="" group-title="Server 1⭐️",NETFLIX KIDS HD
@@ -2023,10 +2141,6 @@ http://834701933118954616.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/954616.ts
 http://834701933118954617.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/954617.ts
 #EXTINF:-1 tvg-id="" tvg-name="ETB BASQUE HD" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="Server 1⭐️",ETB BASQUE HD
 http://834701933118955480.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/955480.ts
-#EXTINF:-1 tvg-id="M+ Elecciones EE.UU." tvg-name="M+ ELECCIONES EE.UU FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEEUU.png" group-title="Server 1⭐️",M+ ELECCIONES EE.UU FHD
-http://834701933118955481.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/955481.ts
-#EXTINF:-1 tvg-id="M+ Elecciones EE.UU." tvg-name="M+ ELECCIONES EE.UU HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEEUU.png" group-title="Server 1⭐️",M+ ELECCIONES EE.UU HD
-http://834701933118955482.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/955482.ts
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX KIDS 2 HD" tvg-logo="" group-title="Server 1⭐️",NETFLIX KIDS 2 HD
 http://834701933118955483.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/955483.ts
 #EXTINF:-1 tvg-id="" tvg-name="324 CATALUÃ‘A HD" tvg-logo="https://statics.ccma.cat/ccma/img/logo-3-24.png" group-title="Server 1⭐️",324 CATALUÃ‘A HD
@@ -2045,32 +2159,13 @@ http://834701933118957856.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/957856.ts
 http://834701933118957857.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/957857.ts
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 2 FHD" tvg-logo="" group-title="Server 1⭐️",NETFLIX ACTION 2 FHD
 http://834701933118957858.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/957858.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ BBC EARTH FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MBBC" group-title="Server 1⭐️",M+ BBC EARTH FHD
-http://834701933118960269.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/960269.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ BBC EARTH HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MBBC" group-title="Server 1⭐️",M+ BBC EARTH HD
-http://834701933118960270.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/960270.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ BBC EARTH SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MBBC" group-title="Server 1⭐️",M+ BBC EARTH SD
 http://834701933118960271.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/960271.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPORT 3 CAT SD" tvg-logo="http://astrill.today:80/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuums7LMiJZ5fz60QdbOBbKW00WIekqN78icE0GlElFpb6jA.png" group-title="Server 1⭐️",ESPORT 3 CAT SD
 http://834701933118963127.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/963127.ts
 #EXTINF:-1 tvg-id="" tvg-name="FRANCE 24 HD" tvg-logo="https://static.france24.com/meta_og_twcards/jsonld_publisher.png" group-title="Server 1⭐️",FRANCE 24 HD
 http://834701933118963128.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/963128.ts
-#EXTINF:-1 tvg-id="M+ Elecciones EE.UU." tvg-name="M+ ANIME FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MANIME" group-title="Server 1⭐️",M+ ANIME FHD
-http://834701933118963129.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/963129.ts
-#EXTINF:-1 tvg-id="M+ Elecciones EE.UU." tvg-name="M+ ANIME HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MANIME" group-title="Server 1⭐️",M+ ANIME HD
-http://834701933118963130.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/963130.ts
-#EXTINF:-1 tvg-id="M+ Elecciones EE.UU." tvg-name="M+ ANIME SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MANIME" group-title="Server 1⭐️",M+ ANIME SD
-http://834701933118963131.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/963131.ts
-#EXTINF:-1 tvg-id="M+ Elecciones EE.UU." tvg-name="M+ ELECCIONES EE.UU. FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MEEUU" group-title="Server 1⭐️",M+ ELECCIONES EE.UU. FHD
-http://834701933118963132.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/963132.ts
-#EXTINF:-1 tvg-id="M+ Elecciones EE.UU." tvg-name="M+ ELECCIONES EE.UU. HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MEEUU" group-title="Server 1⭐️",M+ ELECCIONES EE.UU. HD
-http://834701933118963133.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/963133.ts
-#EXTINF:-1 tvg-id="M+ Elecciones EE.UU." tvg-name="M+ ELECCIONES EE.UU. SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MEEUU" group-title="Server 1⭐️",M+ ELECCIONES EE.UU. SD
-http://834701933118963134.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/963134.ts
 #EXTINF:-1 tvg-id="" tvg-name="BON DIA TV SD" tvg-logo="http://vpsapache.hopto.org/images/bondiatv.png" group-title="Server 1⭐️",BON DIA TV SD
 http://834701933118964139.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/964139.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES M+ + SD" tvg-logo="" group-title="Server 1⭐️",ES M+ + SD
-http://834701933118964140.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/964140.ts
 #EXTINF:-1 tvg-id="" tvg-name="FIGHT SPORT HD" tvg-logo="" group-title="Server 1⭐️",FIGHT SPORT HD
 http://834701933118964141.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/964141.ts
 #EXTINF:-1 tvg-id="" tvg-name="GRAND HERMANO HD" tvg-logo="" group-title="Server 1⭐️",GRAND HERMANO HD
@@ -2097,8 +2192,8 @@ http://834701933118964948.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/964948.ts
 http://834701933118964949.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/964949.ts
 #EXTINF:-1 tvg-id="Enfamilia" tvg-name="EN FAMILIA SD" tvg-logo="" group-title="Server 1⭐️",EN FAMILIA SD
 http://834701933118966087.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/966087.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ ELLAS #V SD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjj0NmHa2e3ls_b0JwJgIFFag.png" group-title="Server 1⭐️",M+ ELLAS #V SD
-http://834701933118858851.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/858851.ts
+
+
 #EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="LIGA DE CAMPEONES FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="Server 1⭐️",LIGA DE CAMPEONES FHD
 http://834701933118246282.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/246282.ts
 #EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="LIGA DE CAMPEONES HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="Server 1⭐️",LIGA DE CAMPEONES HD
@@ -2181,13 +2276,13 @@ http://834701933118329115.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/329115.ts
 http://834701933118489190.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/489190.ts
 #EXTINF:-1 tvg-id="" tvg-name="M LaLiga SmartbankTV 5 HD" tvg-logo="https://www.diarioabierto.es/wp-content/uploads/2019/07/logo-la-liga-smartbank.jpg" group-title="Server 1⭐️",M LaLiga SmartbankTV 5 HD
 http://834701933118489195.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/489195.ts
-#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="ES:LALIGA TV HYPERMOTION FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS" group-title="Server 1⭐️",ES:LALIGA TV HYPERMOTION FHD
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="LALIGA TV HYPERMOTION FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS" group-title="Server 1⭐️",LALIGA TV HYPERMOTION FHD
 http://834701933118571903.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/571903.ts
-#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="ES:LALIGA TV HYPERMOTION HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS" group-title="Server 1⭐️",ES:LALIGA TV HYPERMOTION HD
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="LALIGA TV HYPERMOTION HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS" group-title="Server 1⭐️",LALIGA TV HYPERMOTION HD
 http://834701933118571904.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/571904.ts
-#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="ES:LALIGA TV HYPERMOTION SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS" group-title="Server 1⭐️",ES:LALIGA TV HYPERMOTION SD
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="LALIGA TV HYPERMOTION SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS" group-title="Server 1⭐️",LALIGA TV HYPERMOTION SD
 http://834701933118571905.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/571905.ts
-#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 2" tvg-name="ES:LALIGA TV HYPERMOTION 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS2" group-title="Server 1⭐️",ES:LALIGA TV HYPERMOTION 2 HD
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 2" tvg-name="LALIGA TV HYPERMOTION 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS2" group-title="Server 1⭐️",LALIGA TV HYPERMOTION 2 HD
 http://834701933118571906.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/571906.ts
 #EXTINF:-1 tvg-id="" tvg-name="LALIGA+ FHD" tvg-logo="https://osobogey.com/wp-content/uploads/2021/05/Logos-LaLigaSportsTV_h_Mesa-de-trabajo-1.png" group-title="Server 1⭐️",LALIGA+ FHD
 http://834701933118660537.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/660537.ts
@@ -2197,9 +2292,9 @@ http://834701933118660538.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/660538.ts
 http://834701933118928392.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/928392.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:LALIGA Sports TV HD" tvg-logo="" group-title="Server 1⭐️",ES:LALIGA Sports TV HD
 http://834701933118928393.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/928393.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES:LALIGA TV 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-3-es.png" group-title="Server 1⭐️",ES:LALIGA TV 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-3-es.png" group-title="Server 1⭐️",LALIGA TV 3 HD
 http://834701933118953990.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/953990.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES:LALIGA TV 4 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-3-es.png" group-title="Server 1⭐️",ES:LALIGA TV 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV 4 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-3-es.png" group-title="Server 1⭐️",LALIGA TV 4 HD
 http://834701933118953991.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/953991.ts
 #EXTINF:-1 tvg-id="DAZN LALIGA 2" tvg-name="DAZN LALIGA 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-2-es.png" group-title="Server 1⭐️",DAZN LALIGA 2 HD
 http://834701933118320779.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/320779.ts
@@ -3042,12 +3137,14 @@ http://963702489709321197.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/321197.ts
 http://963702489709321198.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/321198.ts
 #EXTINF:-1 tvg-id="babytv.es" tvg-name="BABY TV SD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUspkoBvUiv-okegyTVZota1CTme9M2VfK68-KaZAWaWjQ.png" group-title="Server 2⭐️",BABY TV SD
 http://963702489709321122.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/321122.ts
+
 #EXTINF:-1 tvg-id="amc.es" tvg-name="AMC FHD" tvg-logo="http://astrill.today:80/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsT2ioIW55P-X8sXhaNTyRNh91IaMhdXrTO2Tg5pW1GXw.png" group-title="Server 2⭐️",AMC FHD
 http://963702489709321102.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/321102.ts
 #EXTINF:-1 tvg-id="amc.es" tvg-name="AMC HD" tvg-logo="http://astrill.today:80/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsT2ioIW55P-X8sXhaNTyRNh91IaMhdXrTO2Tg5pW1GXw.png" group-title="Server 2⭐️",AMC HD
 http://963702489709321103.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/321103.ts
 #EXTINF:-1 tvg-id="amc.es" tvg-name="AMC SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/AMC" group-title="Server 2⭐️",AMC SD
 http://963702489709321104.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/321104.ts
+
 #EXTINF:-1 tvg-id="M+ Originales" tvg-name="M+ ORIGINALES FHD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjj8kiMDawOe2Jth7g9knpJNg.png" group-title="Server 2⭐️",M+ ORIGINALES FHD
 http://963702489709321068.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/321068.ts
 #EXTINF:-1 tvg-id="M+ Originales" tvg-name="M+ ORIGINALES HD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjj8kiMDawOe2Jth7g9knpJNg.png" group-title="Server 2⭐️",M+ ORIGINALES HD
@@ -3387,11 +3484,11 @@ http://963702489709561133.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/561133.ts
 http://963702489709561134.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/561134.ts
 #EXTINF:-1 tvg-id="CazavisiÃ³n" tvg-name="CAZAVISION HD" tvg-logo="https://lh3.googleusercontent.com/4T7UYZXO_gy_K5Xu9N86B4nmm0XDOO5hv51x9cmgvgXBul93Rgaj5Sl3FlJerF0E8LE" group-title="Server 2⭐️",CAZAVISION HD
 http://963702489709598197.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/598197.ts
-#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+ CINE ESPAÃ‘OL FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_7736_416_1_C00000_0_0_0.png" group-title="Server 2⭐️",M+ CINE ESPAÃ‘OL FHD
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+ CINE ESPAÑOL FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_7736_416_1_C00000_0_0_0.png" group-title="Server 2⭐️",M+ CINE ESPAÑOL FHD
 http://963702489709620943.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/620943.ts
-#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+ CINE ESPAÃ‘OL HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCESP" group-title="Server 2⭐️",M+ CINE ESPAÃ‘OL HD
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+ CINE ESPAÑOL HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCESP" group-title="Server 2⭐️",M+ CINE ESPAÑOL HD
 http://963702489709620944.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/620944.ts
-#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+ CINE ESPAÃ‘OL SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCESP" group-title="Server 2⭐️",M+ CINE ESPAÃ‘OL SD
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+ CINE ESPAÑOL SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCESP" group-title="Server 2⭐️",M+ CINE ESPAÑOL SD
 http://963702489709620945.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/620945.ts
 #EXTINF:-1 tvg-id="nova.es" tvg-name="NOVA FHD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUtYCYtlIJ-0BPPpdSZI5yDk_BVqtHOjYu6FUgTJ-QHJiA.png" group-title="Server 2⭐️",NOVA FHD
 http://963702489709630822.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/630822.ts
@@ -3461,9 +3558,9 @@ http://963702489709825136.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/825136.ts
 http://963702489709825143.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/825143.ts
 #EXTINF:-1 tvg-id="laotra.es" tvg-name="LA OTRA FHD" tvg-logo="http://astrill.today:80/images/eYxuW-xDHfr41GS4K3_NlE6IafMLZ8Z5p0jMjncZr1gG0jUQwbvfoWfg0Hr_Xf-NJbSUGvVudes-jDCQBgIx6oUC_nh_OL68NrooSn7iwNY.jpg" group-title="Server 2⭐️",LA OTRA FHD
 http://963702489709825160.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/825160.ts
-#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+ CINE ESPANOL FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCESP.png" group-title="Server 2⭐️",M+ CINE ESPANOL FHD
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+ CINE ESPAÑOL FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCESP.png" group-title="Server 2⭐️",M+ CINE ESPAÑOL FHD
 http://963702489709825162.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/825162.ts
-#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+ CINE ESPANOL HD" tvg-logo="http://astrill.today:80/images/bwniThQJbhh-J3B6bMLDKJ_U8dCSuhagHIZrDoH_etBc4b4fe_X415lEpUax1kwyPNAf5BD_kLKb8vd53QhZpvi4-NfchvePkprhQeZlek6xaAR_HH_sLHsCOuX1gswNKuoU92GpBVe-JF66Xj00fxQVlSk17rf5JzlnKwPLp0-UvAepk0jAmz_i5cSCblrz.png" group-title="Server 2⭐️",M+ CINE ESPANOL HD
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+ CINE ESPAÑOL HD" tvg-logo="http://astrill.today:80/images/bwniThQJbhh-J3B6bMLDKJ_U8dCSuhagHIZrDoH_etBc4b4fe_X415lEpUax1kwyPNAf5BD_kLKb8vd53QhZpvi4-NfchvePkprhQeZlek6xaAR_HH_sLHsCOuX1gswNKuoU92GpBVe-JF66Xj00fxQVlSk17rf5JzlnKwPLp0-UvAepk0jAmz_i5cSCblrz.png" group-title="Server 2⭐️",M+ CINE ESPAÑOL HD
 http://963702489709825163.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/825163.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ ELLAS #V HD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjj0NmHa2e3ls_b0JwJgIFFag.png" group-title="Server 2⭐️",M+ ELLAS #V HD
 http://963702489709825169.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/825169.ts
@@ -3537,7 +3634,7 @@ http://963702489709861583.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/861583.ts
 http://963702489709861599.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/861599.ts
 #EXTINF:-1 tvg-id="gol.es" tvg-name="GOL FHD" tvg-logo="http://astrill.today:80/images/AhN_hQmW4EUy_JoQ3BQTPUNojFu7vr3D6OBsIF_lPdzHQM-WxXBToyGsPwi_Z_7Hu4VqmK_gBLAmLuWhXPUFvjXGyK1QIT-kyMsRwUsICH1MA_NEB6Gmv6PpB9wRqGTS.png" group-title="Server 2⭐️",GOL FHD
 http://963702489709862044.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/862044.ts
-#EXTINF:-1 tvg-id="M+ Cine EspaÃ±ol" tvg-name="M+ CINE ESPANOL SD" tvg-logo="http://astrill.today:80/images/bwniThQJbhh-J3B6bMLDKJ_U8dCSuhagHIZrDoH_etBc4b4fe_X415lEpUax1kwyPNAf5BD_kLKb8vd53QhZpvi4-NfchvePkprhQeZlek6xaAR_HH_sLHsCOuX1gswNKuoU92GpBVe-JF66Xj00fxQVlSk17rf5JzlnKwPLp0-UvAepk0jAmz_i5cSCblrz.png" group-title="Server 2⭐️",M+ CINE ESPANOL SD
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="M+ CINE ESPAÑOL SD" tvg-logo="http://astrill.today:80/images/bwniThQJbhh-J3B6bMLDKJ_U8dCSuhagHIZrDoH_etBc4b4fe_X415lEpUax1kwyPNAf5BD_kLKb8vd53QhZpvi4-NfchvePkprhQeZlek6xaAR_HH_sLHsCOuX1gswNKuoU92GpBVe-JF66Xj00fxQVlSk17rf5JzlnKwPLp0-UvAepk0jAmz_i5cSCblrz.png" group-title="Server 2⭐️",M+ CINE ESPAÑOL SD
 http://963702489709862452.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/862452.ts
 #EXTINF:-1 tvg-id="" tvg-name="CANAL HISTORIA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST" group-title="Server 2⭐️",CANAL HISTORIA FHD
 http://963702489709863688.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/863688.ts
@@ -4135,7 +4232,7 @@ http://963702489709909075.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/909075.ts
 http://963702489709909076.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/909076.ts
 #EXTINF:-1 tvg-id="" tvg-name="CBN ESPANOL SD" tvg-logo="https://www.cbn.com/partners/video/img/live_channel/cbn-espanol-channel-thumb.png" group-title="Server 2⭐️",CBN ESPANOL SD
 http://963702489709909077.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/909077.ts
-#EXTINF:-1 tvg-id="CGTN EspaÃ±ol" tvg-name="CGTN ESPAÃ‘OL FHD" tvg-logo="https://espanol-static.cgtn.com/w/images/icon/logo@3x.png" group-title="Server 2⭐️",CGTN ESPAÃ‘OL FHD
+#EXTINF:-1 tvg-id="CGTN EspaÃ±ol" tvg-name="CGTN ESPAÑOL FHD" tvg-logo="https://espanol-static.cgtn.com/w/images/icon/logo@3x.png" group-title="Server 2⭐️",CGTN ESPAÑOL FHD
 http://963702489709909078.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/909078.ts
 #EXTINF:-1 tvg-id="" tvg-name="CINE FEEL GOOD VERDI SD" tvg-logo="https://www.vamosaver.tv/wp-content/uploads/2021/02/verdi2.png" group-title="Server 2⭐️",CINE FEEL GOOD VERDI SD
 http://963702489709909079.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/909079.ts
@@ -4261,9 +4358,9 @@ http://963702489709909138.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/909138.ts
 http://963702489709909139.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/909139.ts
 #EXTINF:-1 tvg-id="" tvg-name="REK TV GAMER SD" tvg-logo="https://www.rektv.es/wp-content/uploads/2022/03/rektv-black.png" group-title="Server 2⭐️",REK TV GAMER SD
 http://963702489709909140.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/909140.ts
-#EXTINF:-1 tvg-id="" tvg-name="RT ESPAÃ‘OL FHD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_rt-tv-russia-today_m.png" group-title="Server 2⭐️",RT ESPAÃ‘OL FHD
+#EXTINF:-1 tvg-id="" tvg-name="RT ESPAÑOL FHD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_rt-tv-russia-today_m.png" group-title="Server 2⭐️",RT ESPAÑOL FHD
 http://963702489709909141.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/909141.ts
-#EXTINF:-1 tvg-id="" tvg-name="RT ESPAÃ‘OL HD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_rt-tv-russia-today_m.png" group-title="Server 2⭐️",RT ESPAÃ‘OL HD
+#EXTINF:-1 tvg-id="" tvg-name="RT ESPAÑOL HD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_rt-tv-russia-today_m.png" group-title="Server 2⭐️",RT ESPAÑOL HD
 http://963702489709909142.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/909142.ts
 #EXTINF:-1 tvg-id="SELEKT" tvg-name="SELEKT TV HD" tvg-logo="https://dfbjv537ke6pk.cloudfront.net/images/STVLogo.png" group-title="Server 2⭐️",SELEKT TV HD
 http://963702489709909143.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/909143.ts
@@ -4645,7 +4742,7 @@ http://963702489709913715.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/913715.ts
 http://963702489709915006.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/915006.ts
 #EXTINF:-1 tvg-id="canalcocina.es" tvg-name="CANALE COCINA FHD" tvg-logo="" group-title="Server 2⭐️",CANALE COCINA FHD
 http://963702489709915007.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/915007.ts
-#EXTINF:-1 tvg-id="" tvg-name="COPS EN ESPAÃ‘OL HD" tvg-logo="https://www.cops.com/wp-content/uploads/2021/04/COPS_SilverLogo-300x100.png" group-title="Server 2⭐️",COPS EN ESPAÃ‘OL HD
+#EXTINF:-1 tvg-id="" tvg-name="COPS EN ESPAÑOL HD" tvg-logo="https://www.cops.com/wp-content/uploads/2021/04/COPS_SilverLogo-300x100.png" group-title="Server 2⭐️",COPS EN ESPAÑOL HD
 http://963702489709915008.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/915008.ts
 #EXTINF:-1 tvg-id="Escapa TV" tvg-name="ESCAPA TV HD" tvg-logo="https://www.populoos.es/assets/images/tv/escapa.png" group-title="Server 2⭐️",ESCAPA TV HD
 http://963702489709915009.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/915009.ts
@@ -4665,7 +4762,7 @@ http://963702489709915015.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/915015.ts
 http://963702489709915016.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/915016.ts
 #EXTINF:-1 tvg-id="" tvg-name="TOON GOGGLES SD" tvg-logo="https://channels.roku.com/images/5bcf223b79ce4f959d76497b531088d4-hd.png" group-title="Server 2⭐️",TOON GOGGLES SD
 http://963702489709915017.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/915017.ts
-#EXTINF:-1 tvg-id="" tvg-name="COPS EN ESPAÃ‘OL FHD" tvg-logo="https://www.cops.com/wp-content/uploads/2021/04/COPS_SilverLogo-300x100.png" group-title="Server 2⭐️",COPS EN ESPAÃ‘OL FHD
+#EXTINF:-1 tvg-id="" tvg-name="COPS EN ESPAÑOL FHD" tvg-logo="https://www.cops.com/wp-content/uploads/2021/04/COPS_SilverLogo-300x100.png" group-title="Server 2⭐️",COPS EN ESPAÑOL FHD
 http://963702489709915927.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/915927.ts
 #EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="FACTORIA DE FICCION HD" tvg-logo="" group-title="Server 2⭐️",FACTORIA DE FICCION HD
 http://963702489709915928.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/915928.ts
@@ -4793,7 +4890,7 @@ http://963702489709933710.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/933710.ts
 http://963702489709933711.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/933711.ts
 #EXTINF:-1 tvg-id="" tvg-name="LA 1 Â FHD FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tve1_madrid.png" group-title="Server 2⭐️",LA 1 Â FHD FHD
 http://963702489709933712.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/933712.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ CINE ESPAÃ‘OL ES HD" tvg-logo="" group-title="Server 2⭐️",M+ CINE ESPAÃ‘OL ES HD
+#EXTINF:-1 tvg-id="" tvg-name="M+ CINE ESPAÑOL ES HD" tvg-logo="" group-title="Server 2⭐️",M+ CINE ESPAÑOL ES HD
 http://963702489709933713.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/933713.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ CLINT EASTWOOD FHD ES FHD" tvg-logo="" group-title="Server 2⭐️",M+ CLINT EASTWOOD FHD ES FHD
 http://963702489709933714.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/933714.ts
@@ -4853,9 +4950,9 @@ http://963702489709936165.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/936165.ts
 http://963702489709936166.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/936166.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES M+ + FHD" tvg-logo="" group-title="Server 2⭐️",ES M+ + FHD
 http://963702489709936167.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/936167.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ CINE ESPAÃ‘OL ES FHD" tvg-logo="" group-title="Server 2⭐️",M+ CINE ESPAÃ‘OL ES FHD
+#EXTINF:-1 tvg-id="" tvg-name="M+ CINE ESPAÑOL ES FHD" tvg-logo="" group-title="Server 2⭐️",M+ CINE ESPAÑOL ES FHD
 http://963702489709936168.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/936168.ts
-#EXTINF:-1 tvg-id="" tvg-name="MCINE ESPAÃ‘OL HD" tvg-logo="" group-title="Server 2⭐️",MCINE ESPAÃ‘OL HD
+#EXTINF:-1 tvg-id="" tvg-name="MCINE ESPAÑOL HD" tvg-logo="" group-title="Server 2⭐️",MCINE ESPAÑOL HD
 http://963702489709936169.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/936169.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ESPANAA HD" tvg-logo="" group-title="Server 2⭐️",BEIN SPORTS ESPANAA HD
 http://963702489709937279.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/937279.ts
@@ -5111,13 +5208,13 @@ http://963702489709329115.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/329115.ts
 http://963702489709489190.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/489190.ts
 #EXTINF:-1 tvg-id="" tvg-name="M LaLiga SmartbankTV 5 HD" tvg-logo="https://www.diarioabierto.es/wp-content/uploads/2019/07/logo-la-liga-smartbank.jpg" group-title="Server 2⭐️",M LaLiga SmartbankTV 5 HD
 http://963702489709489195.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/489195.ts
-#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="ES:LALIGA TV HYPERMOTION FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS" group-title="Server 2⭐️",ES:LALIGA TV HYPERMOTION FHD
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="LALIGA TV HYPERMOTION FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS" group-title="Server 2⭐️",LALIGA TV HYPERMOTION FHD
 http://963702489709571903.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/571903.ts
-#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="ES:LALIGA TV HYPERMOTION HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS" group-title="Server 2⭐️",ES:LALIGA TV HYPERMOTION HD
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="LALIGA TV HYPERMOTION HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS" group-title="Server 2⭐️",LALIGA TV HYPERMOTION HD
 http://963702489709571904.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/571904.ts
-#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="ES:LALIGA TV HYPERMOTION SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS" group-title="Server 2⭐️",ES:LALIGA TV HYPERMOTION SD
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="LALIGA TV HYPERMOTION SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS" group-title="Server 2⭐️",LALIGA TV HYPERMOTION SD
 http://963702489709571905.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/571905.ts
-#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 2" tvg-name="ES:LALIGA TV HYPERMOTION 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS2" group-title="Server 2⭐️",ES:LALIGA TV HYPERMOTION 2 HD
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 2" tvg-name="LALIGA TV HYPERMOTION 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS2" group-title="Server 2⭐️",LALIGA TV HYPERMOTION 2 HD
 http://963702489709571906.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/571906.ts
 #EXTINF:-1 tvg-id="" tvg-name="LALIGA+ FHD" tvg-logo="https://osobogey.com/wp-content/uploads/2021/05/Logos-LaLigaSportsTV_h_Mesa-de-trabajo-1.png" group-title="Server 2⭐️",LALIGA+ FHD
 http://963702489709660537.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/660537.ts
@@ -5127,9 +5224,9 @@ http://963702489709660538.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/660538.ts
 http://963702489709928392.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/928392.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES:LALIGA Sports TV HD" tvg-logo="" group-title="Server 2⭐️",ES:LALIGA Sports TV HD
 http://963702489709928393.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/928393.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES:LALIGA TV 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-3-es.png" group-title="Server 2⭐️",ES:LALIGA TV 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-3-es.png" group-title="Server 2⭐️",LALIGA TV 3 HD
 http://963702489709953990.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/953990.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES:LALIGA TV 4 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-3-es.png" group-title="Server 2⭐️",ES:LALIGA TV 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV 4 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-3-es.png" group-title="Server 2⭐️",LALIGA TV 4 HD
 http://963702489709953991.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/953991.ts
 #EXTINF:-1 tvg-id="" tvg-name="SUPERCOPA FHD" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/M_SUPERCOPA_BLANCO_VERDE_176x122.png" group-title="Server 2⭐️",SUPERCOPA FHD
 http://963702489709760430.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/760430.ts

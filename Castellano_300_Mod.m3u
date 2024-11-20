@@ -139,11 +139,11 @@ http://834701933118961510.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/961510.ts
 
 
 
-#EXTINF:-1 tvg-id="Discovery" tvg-name="DISCOVERY FHD" tvg-logo="" group-title="Server 1⭐️",DISCOVERY FHD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FHD" tvg-logo="" group-title="Server 1⭐️",DISCOVERY FHD
 http://834701933118859785.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/859785.ts
-#EXTINF:-1 tvg-id="Discovery" tvg-name="DISCOVERY HD" tvg-logo="" group-title="Server 1⭐️",DISCOVERY HD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HD" tvg-logo="" group-title="Server 1⭐️",DISCOVERY HD
 http://834701933118859786.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/859786.ts
-#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY SD" tvg-logo="" group-title="Server 1⭐️",DISCOVERY SD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SD" tvg-logo="" group-title="Server 1⭐️",DISCOVERY SD
 http://834701933118879264.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/879264.ts
 
 
@@ -180,17 +180,17 @@ http://834701933118339761.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/339761.ts
 http://834701933118321262.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321262.ts
 
 
-#EXTINF:-1 tvg-id="odisea.es" tvg-name="CANAL ODISEA FHD" tvg-logo="" group-title="Server 1⭐️",CANAL ODISEA FHD
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="ODISEA FHD" tvg-logo="" group-title="Server 1⭐️",ODISEA FHD
 http://834701933118877365.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/877365.ts
 #EXTINF:-1 tvg-id="odisea.es" tvg-name="ODISEA FHD" tvg-logo="http://fanc.tmsimg.com/assets/s91212_h3_aa.png" group-title="Server 1⭐️",ODISEA FHD
 http://834701933118825200.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/825200.ts
 #EXTINF:-1 tvg-id="odisea.es" tvg-name="ODISEA HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ODISEA" group-title="Server 1⭐️",ODISEA HD
 http://834701933118825201.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/825201.ts
-#EXTINF:-1 tvg-id="odisea.es" tvg-name="CANAL ODISEA HD" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_778A_424_1_C00000_0_0_0.png" group-title="Server 1⭐️",CANAL ODISEA HD
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="ODISEA HD" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_778A_424_1_C00000_0_0_0.png" group-title="Server 1⭐️",ODISEA HD
 http://834701933118877072.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/877072.ts
 #EXTINF:-1 tvg-id="odisea.es" tvg-name="ODISEA SD" tvg-logo="http://fanc.tmsimg.com/assets/s91212_h3_aa.png" group-title="Server 1⭐️",ODISEA SD
 http://834701933118321390.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321390.ts
-#EXTINF:-1 tvg-id="odisea.es" tvg-name="CANAL ODISEA SD" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_778A_424_1_C00000_0_0_0.png" group-title="Server 1⭐️",CANAL ODISEA SD
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="ODISEA SD" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_778A_424_1_C00000_0_0_0.png" group-title="Server 1⭐️",ODISEA SD
 http://834701933118875962.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/875962.ts
 
 

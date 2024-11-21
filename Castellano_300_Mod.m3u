@@ -365,12 +365,15 @@ http://834701933118321287.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321287.ts
 
 
 
-#EXTINF:-1 tvg-id="M+" tvg-name="M+" tvg-logo="" group-title="Server 1⭐️",M+ FHD
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Plus+" tvg-logo="" group-title="Server 1⭐️",Movistar Plus+ FHD
 http://834701933118321068.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321068.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Plus+" tvg-logo="" group-title="Server 1⭐️",Movistar Plus+ SD
+http://834701933118321070.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321070.ts
+
+
 #EXTINF:-1 tvg-id="M+ Originales" tvg-name="M+ ORIGINALES HD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjj8kiMDawOe2Jth7g9knpJNg.png" group-title="Server 1⭐️",M+ ORIGINALES HD
 http://834701933118321069.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321069.ts
-#EXTINF:-1 tvg-id="M+ Originales" tvg-name="M+ ORIGINALES SD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjj8kiMDawOe2Jth7g9knpJNg.png" group-title="Server 1⭐️",M+ ORIGINALES SD
-http://834701933118321070.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321070.ts
+
 
 
 #EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M+ ACCIÓN FHD" tvg-logo="http://cesbos.portal.ovh/logos/movistar-accion.jpg" group-title="Server 1⭐️",M+ ACCIÓN FHD

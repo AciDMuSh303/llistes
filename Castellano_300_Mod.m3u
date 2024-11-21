@@ -113,7 +113,7 @@ http://834701933118321119.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321119.ts
 #EXTINF:-1 tvg-id="axn.es" tvg-name="AXN SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/AXN" group-title="Server 1⭐️",AXN SD
 http://834701933118321120.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321120.ts
 
-#EXTINF:-1 tvg-id="bemad.es" tvg-name="BE MAD FHD" tvg-logo="http://fanc.tmsimg.com/assets/s102848_ll_h3_aa.png" group-title="Server 1⭐️",BE MAD FHD
+#EXTINF:-1 tvg-id="bemad.es" tvg-name="BE MAD FHD" tvg-logo=https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BEMAD" group-title="Server 1⭐️",BE MAD FHD
 http://834701933118542578.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/542578.ts
 #EXTINF:-1 tvg-id="bemad.es" tvg-name="BE MAD HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BEMAD" group-title="Server 1⭐️",BE MAD HD
 http://834701933118321126.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321126.ts
@@ -121,9 +121,9 @@ http://834701933118321126.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321126.ts
 http://834701933118321127.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321127.ts
 
 
-#EXTINF:-1 tvg-id="calle13.es" tvg-name="CALLE 13 FHD" tvg-logo="http://cesbos.portal.ovh/logos/calle13-44x36.jpg" group-title="Server 1⭐️",CALLE 13 FHD
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="CALLE 13 FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CL13" group-title="Server 1⭐️",CALLE 13 FHD
 http://834701933118321138.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321138.ts
-#EXTINF:-1 tvg-id="calle13.es" tvg-name="CALLE 13 HD" tvg-logo="http://fanc.tmsimg.com/assets/s90352_ll_h3_aa.png" group-title="Server 1⭐️",CALLE 13 HD
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="CALLE 13 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CL13" group-title="Server 1⭐️",CALLE 13 HD
 http://834701933118321139.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321139.ts
 #EXTINF:-1 tvg-id="calle13.es" tvg-name="CALLE 13 SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CL13" group-title="Server 1⭐️",CALLE 13 SD
 http://834701933118321140.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321140.ts
@@ -151,31 +151,35 @@ http://834701933118321300.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321300.ts
 #EXTINF:-1 tvg-id="mega.es" tvg-name="MEGA SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MEGA" group-title="Server 1⭐️",MEGA SD
 http://834701933118321301.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321301.ts
 
-#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="CANAL DECASA FHD" tvg-logo="" group-title="Server 1⭐️",DECASA FHD
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="DECASA FHD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUvbBBSy_XORuzpU_L2Ybu-H.png" group-title="Server 1⭐️",DECASA FHD
 http://834701933118339739.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/339739.ts
-#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="CANAL DECASA HD" tvg-logo="" group-title="Server 1⭐️",DECASA HD
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="DECASA HD" tvg-logo="" group-title="Server 1⭐️",DECASA HD
 http://834701933118321153.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321153.ts
-#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="CANAL DECASA SD" tvg-logo="" group-title="Server 1⭐️",DECASA SD
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="DECASA SD" tvg-logo="" group-title="Server 1⭐️",DECASA SD
 http://834701933118336289.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/336289.ts
+
 #EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="DECASA FHD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUvbBBSy_XORuzpU_L2Ybu-H.png" group-title="Server 1⭐️",DECASA FHD
 http://834701933118858832.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/858832.ts
-#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="DECASA HD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUvbBBSy_XORuzpU_L2Ybu-H.png" group-title="Server 1⭐️",DECASA HD
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="DECASA HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DECASA" group-title="Server 1⭐️",DECASA HD
 http://834701933118873331.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/873331.ts
-#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="DECASA SD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUvbBBSy_XORuzpU_L2Ybu-H.png" group-title="Server 1⭐️",DECASA SD
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="DECASA SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DECASA" group-title="Server 1⭐️",DECASA SD
 http://834701933118879263.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/879263.ts
-#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="DECASA FHD" tvg-logo="" group-title="Server 1⭐️",DECASA FHD
+
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="DECASA FHD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUvbBBSy_XORuzpU_L2Ybu-H.png" group-title="Server 1⭐️",DECASA FHD
 http://834701933118911718.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/911718.ts
-#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="DECASA HD" tvg-logo="" group-title="Server 1⭐️",DECASA HD
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="DECASA HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DECASA" group-title="Server 1⭐️",DECASA HD
 http://834701933118953509.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/953509.ts
-#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="DECASA SD" tvg-logo="" group-title="Server 1⭐️",DECASA SD
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="DECASA SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DECASA" group-title="Server 1⭐️",DECASA SD
 http://834701933118951326.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/951326.ts
+
 #EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="DECASA SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DECASA" group-title="Server 1⭐️",DECASA SD
 http://834701933118321206.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321206.ts
-#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="DECASA FHD" tvg-logo="http://cesbos.portal.ovh/logos/decasa.jpg" group-title="Server 1⭐️",DECASA FHD
+
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="DECASA FHD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUvbBBSy_XORuzpU_L2Ybu-H.pngg" group-title="Server 1⭐️",DECASA FHD
 http://834701933118933703.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/933703.ts
-#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="DECASA HD" tvg-logo="http://cesbos.portal.ovh/logos/decasa.jpg" group-title="Server 1⭐️",DECASA HD
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="DECASA HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DECASA" group-title="Server 1⭐️",DECASA HD
 http://834701933118933704.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/933704.ts
-#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="DECASA SD" tvg-logo="http://cesbos.portal.ovh/logos/decasa.jpg" group-title="Server 1⭐️",DECASA SD
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="DECASA SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DECASA" group-title="Server 1⭐️",DECASA SD
 http://834701933118961510.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/961510.ts
 
 

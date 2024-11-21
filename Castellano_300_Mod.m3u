@@ -113,7 +113,8 @@ http://834701933118321119.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321119.ts
 #EXTINF:-1 tvg-id="axn.es" tvg-name="AXN SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/AXN" group-title="Server 1⭐️",AXN SD
 http://834701933118321120.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321120.ts
 
-#EXTINF:-1 tvg-id="bemad.es" tvg-name="BE MAD FHD" tvg-logo=https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BEMAD" group-title="Server 1⭐️",BE MAD FHD
+
+#EXTINF:-1 tvg-id="bemad.es" tvg-name="BE MAD FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BEMAD" group-title="Server 1⭐️",BE MAD FHD
 http://834701933118542578.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/542578.ts
 #EXTINF:-1 tvg-id="bemad.es" tvg-name="BE MAD HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BEMAD" group-title="Server 1⭐️",BE MAD HD
 http://834701933118321126.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321126.ts

@@ -376,9 +376,9 @@ http://834701933118321069.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321069.ts
 
 
 
-#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M+ ACCIÓN FHD" tvg-logo="http://cesbos.portal.ovh/logos/movistar-accion.jpg" group-title="Server 1⭐️",M+ ACCIÓN FHD
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M+ ACCIÓN FHD" tvg-logo="" group-title="Server 1⭐️",M+ ACCIÓN FHD
 http://834701933118321305.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321305.ts
-#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M+ ACCIÓN HD" tvg-logo="http://fanc.tmsimg.com/assets/s91183_ll_h3_aa.png" group-title="Server 1⭐️",M+ ACCIÓN HD
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M+ ACCIÓN HD" tvg-logo="" group-title="Server 1⭐️",M+ ACCIÓN HD
 http://834701933118321306.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321306.ts
 #EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M+ ACCIÓN SD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUsQCzvCmewrsiMp7806n5pKYKPCYs8ILPoO7jx3wO30fA.png" group-title="Server 1⭐️",M+ ACCIÓN SD
 http://834701933118321307.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321307.ts
@@ -390,18 +390,18 @@ http://834701933118321315.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321315.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ CLÁSICOS SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MCLAS" group-title="Server 1⭐️",M+ CLÁSICOS SD
 http://834701933118321316.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321316.ts
 
-#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="M+ COMEDIA FHD" tvg-logo="http://cesbos.portal.ovh/logos/movistar-comedia.jpg" group-title="Server 1⭐️",M+ COMEDIA FHD
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="M+ COMEDIA FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPCOME" group-title="Server 1⭐️",M+ COMEDIA FHD
 http://834701933118321317.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321317.ts
-#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="M+ COMEDIA HD" tvg-logo="http://cesbos.portal.ovh/logos/movistar-comedia.jpg" group-title="Server 1⭐️",M+ COMEDIA HD
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="M+ COMEDIA HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPCOME" group-title="Server 1⭐️",M+ COMEDIA HD
 http://834701933118321318.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321318.ts
 #EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="M+ COMEDIA SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPCOME" group-title="Server 1⭐️",M+ COMEDIA SD
 http://834701933118321319.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321319.ts
 
-#EXTINF:-1 tvg-id="M+ Drama" tvg-name="M+ DRAMA FHD" tvg-logo="http://cesbos.portal.ovh/logos/movistar-dcine.jpg" group-title="Server 1⭐️",M+ DRAMA FHD
+#EXTINF:-1 tvg-id="M+ Drama" tvg-name="M+ DRAMA FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPCOLE" group-title="Server 1⭐️",M+ DRAMA FHD
 http://834701933118321331.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321331.ts
 #EXTINF:-1 tvg-id="M+ Drama" tvg-name="M+ DRAMA HD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUutBHFdQAICGwBROUiMzWaLqlTOXi-aYrrYiYlcmA7d7Q.png" group-title="Server 1⭐️",M+ DRAMA HD
 http://834701933118321332.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321332.ts
-#EXTINF:-1 tvg-id="M+ Drama" tvg-name="M+ DRAMA SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPCOLE" group-title="Server 1⭐️",M+ DRAMA SD
+#EXTINF:-1 tvg-id="M+ Drama" tvg-name="M+ DRAMA SD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUutBHFdQAICGwBROUiMzWaLqlTOXi-aYrrYiYlcmA7d7Q.png" group-title="Server 1⭐️",M+ DRAMA SD
 http://834701933118321333.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321333.ts
 
 #EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="M+ ESTRENOS FHD" tvg-logo="http://astrill.today:80/images/HjwEu7iTOqkLhxl1ITLIBZxq418yDK4wxg7T5hPu0Uo-D_hO0V6Q1aKOHrCxnbiz.png" group-title="Server 1⭐️",M+ ESTRENOS FHD

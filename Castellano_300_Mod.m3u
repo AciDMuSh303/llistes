@@ -370,21 +370,20 @@ http://834701933118561134.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/561134.ts
 
 
 
-#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+ CINE ESPAÑOL FHD" tvg-logo="http://vpsapache.hopto.org/images/1_0_1_7736_416_1_C00000_0_0_0.png" group-title="Server 1⭐️",M+ CINE ESPAÑOL FHD
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+ CINE ESPAÑOL FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCESP.png" group-title="Server 1⭐️",M+ CINE ESPAÑOL FHD
 http://834701933118620943.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/620943.ts
 #EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+ CINE ESPAÑOL HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCESP" group-title="Server 1⭐️",M+ CINE ESPAÑOL HD
 http://834701933118620944.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/620944.ts
 #EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+ CINE ESPAÑOL SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCESP" group-title="Server 1⭐️",M+ CINE ESPAÑOL SD
 http://834701933118620945.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/620945.ts
-#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="M+ CINE ESPAÑOL SD" tvg-logo="http://astrill.today:80/images/bwniThQJbhh-J3B6bMLDKJ_U8dCSuhagHIZrDoH_etBc4b4fe_X415lEpUax1kwyPNAf5BD_kLKb8vd53QhZpvi4-NfchvePkprhQeZlek6xaAR_HH_sLHsCOuX1gswNKuoU92GpBVe-JF66Xj00fxQVlSk17rf5JzlnKwPLp0-UvAepk0jAmz_i5cSCblrz.png" group-title="Server 1⭐️",M+ CINE ESPAÑOL SD
-http://834701933118862452.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/862452.ts
 
 
 #EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+ CINE ESPAÑOL FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCESP.png" group-title="Server 1⭐️",M+ CINE ESPAÑOL FHD
 http://834701933118825162.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/825162.ts
-#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+ CINE ESPAÑOL HD" tvg-logo="http://astrill.today:80/images/bwniThQJbhh-J3B6bMLDKJ_U8dCSuhagHIZrDoH_etBc4b4fe_X415lEpUax1kwyPNAf5BD_kLKb8vd53QhZpvi4-NfchvePkprhQeZlek6xaAR_HH_sLHsCOuX1gswNKuoU92GpBVe-JF66Xj00fxQVlSk17rf5JzlnKwPLp0-UvAepk0jAmz_i5cSCblrz.png" group-title="Server 1⭐️",M+ CINE ESPAÑOL HD
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+ CINE ESPAÑOL HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCESP.png" group-title="Server 1⭐️",M+ CINE ESPAÑOL HD
 http://834701933118825163.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/825163.ts
-
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="M+ CINE ESPAÑOL SD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCESP.png" group-title="Server 1⭐️",M+ CINE ESPAÑOL SD
+http://834701933118862452.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/862452.ts
 
 
 #EXTINF:-1 tvg-id="movistarfest.es" tvg-name="M+ FEST HD" tvg-logo="http://astrill.today:80/images/HjwEu7iTOqkLhxl1ITLIBZxq418yDK4wxg7T5hPu0UrrTcpXhT4QSBmraZeJO9tx.png" group-title="Server 1⭐️",M+ FEST HD

@@ -86,9 +86,9 @@ http://834701933118336284.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/336284.ts
 http://834701933118321100.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321100.ts
 
 
-#EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC CRIME FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CYM"" group-title="Server 1⭐️",AMC CRIME FHD
+#EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC CRIME FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CYM" group-title="Server 1⭐️",AMC CRIME FHD
 http://834701933118825098.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/825098.ts
-#EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC CRIME HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CYM"" group-title="Server 1⭐️",AMC CRIME HD
+#EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC CRIME HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CYM" group-title="Server 1⭐️",AMC CRIME HD
 http://834701933118386495.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/386495.ts
 #EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC CRIME SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CYM" group-title="Server 1⭐️",AMC CRIME SD
 http://834701933118321101.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321101.ts
@@ -97,6 +97,10 @@ http://834701933118321101.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321101.ts
 
 #EXTINF:-1 tvg-id="axnwhite.es" tvg-name="AXN WHITE FHD" tvg-logo="http://astrill.today:80/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsUIiak5gOoZb3iaTV7BWstGsqTYPJYPKaQ6jrlvDYotQ.png" group-title="Server 1⭐️",AXN WHITE FHD
 http://834701933118321115.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321115.ts
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="AXN WHITE HD" tvg-logo="http://astrill.today:80/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DUMAgWgxzonr9QH9V3Gx7InUXGi4g_kwBUgmTetFnE4Dg.png" group-title="Server 1⭐️",AXN WHITE HD
+http://834701933118864327.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/864327.ts
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="AXN WHITE SD" tvg-logo="http://fanc.tmsimg.com/assets/s91177_ll_h3_aa.png" group-title="Server 1⭐️",AXN WHITE SD
+http://834701933118909072.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909072.ts
 
 #EXTINF:-1 tvg-id="axn.es" tvg-name="AXN FHD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUuygYIB0HMOHR1L3veEpXkh_xGJ7fza1cjSKJVMLWx81A.png" group-title="Server 1⭐️",AXN FHD
 http://834701933118321118.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321118.ts
@@ -934,8 +938,6 @@ http://834701933118863691.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/863691.ts
 http://834701933118863698.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/863698.ts
 #EXTINF:-1 tvg-id="tv3cat.es" tvg-name="TV3 FHD" tvg-logo="http://vpsapache.hopto.org/images/tv3.png" group-title="Server 1⭐️",TV3 FHD
 http://834701933118863717.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/863717.ts
-#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="AXN WHITE HD" tvg-logo="http://astrill.today:80/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DUMAgWgxzonr9QH9V3Gx7InUXGi4g_kwBUgmTetFnE4Dg.png" group-title="Server 1⭐️",AXN WHITE HD
-http://834701933118864327.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/864327.ts
 #EXTINF:-1 tvg-id="etb2.es" tvg-name="ETB 2 HD" tvg-logo="https://miguia.tv/channels/big_79.png" group-title="Server 1⭐️",ETB 2 HD
 http://834701933118864338.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/864338.ts
 #EXTINF:-1 tvg-id="Divinity" tvg-name="DIVINITY HD" tvg-logo="https://miguia.tv/channels/big_76.png" group-title="Server 1⭐️",DIVINITY HD
@@ -1398,8 +1400,6 @@ http://834701933118909069.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909069.ts
 http://834701933118909070.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909070.ts
 #EXTINF:-1 tvg-id="" tvg-name="ACONTRA+ CINE SD" tvg-logo="https://images.eu-west-1.prod.magine.com/i/salavirtualdecine/l/97612f74-3e7a-4df1-a6fc-3c617cb6d0aa.png" group-title="Server 1⭐️",ACONTRA+ CINE SD
 http://834701933118909071.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909071.ts
-#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="AXN WHITE SD" tvg-logo="http://fanc.tmsimg.com/assets/s91177_ll_h3_aa.png" group-title="Server 1⭐️",AXN WHITE SD
-http://834701933118909072.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909072.ts
 #EXTINF:-1 tvg-id="BOM Cine" tvg-name="BOM CINE SD" tvg-logo="https://miguia.tv/channels/big_307.png" group-title="Server 1⭐️",BOM CINE SD
 http://834701933118909073.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909073.ts
 #EXTINF:-1 tvg-id="BuenViaje" tvg-name="BUENVIAJE HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BUENV.png" group-title="Server 1⭐️",BUENVIAJE HD

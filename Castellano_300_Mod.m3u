@@ -51,8 +51,6 @@ http://834701933118321374.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321374.ts
 http://834701933118321375.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321375.ts
 #EXTINF:-1 tvg-id="neox.es" tvg-name="NEOX SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NEOX" group-title="Server 1⭐️",NEOX SD
 http://834701933118321376.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321376.ts
-
-
 #EXTINF:-1 tvg-id="nova.es" tvg-name="NOVA FHD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUtYCYtlIJ-0BPPpdSZI5yDk_BVqtHOjYu6FUgTJ-QHJiA.png" group-title="Server 1⭐️",NOVA FHD
 http://834701933118630822.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/630822.ts
 #EXTINF:-1 tvg-id="nova.es" tvg-name="NOVA HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NOVA" group-title="Server 1⭐️",NOVA HD
@@ -74,6 +72,8 @@ http://834701933118321087.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321087.ts
 http://834701933118383250.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/383250.ts
 #EXTINF:-1 tvg-id="atreseries.es" tvg-name="ATRESERIES SD" tvg-logo="https://miguia.tv/channels/big_276.png" group-title="Server 1⭐️",ATRESERIES SD
 http://834701933118885244.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/885244.ts
+
+
 
 #EXTINF:-1 tvg-id="amc.es" tvg-name="AMC FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/AMC" group-title="Server 1⭐️",AMC FHD
 http://834701933118321102.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321102.ts
@@ -154,9 +154,9 @@ http://834701933118321301.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321301.ts
 
 #EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="DECASA FHD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUvbBBSy_XORuzpU_L2Ybu-H.png" group-title="Server 1⭐️",DECASA FHD
 http://834701933118339739.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/339739.ts
-#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="DECASA HD" tvg-logo="" group-title="Server 1⭐️",DECASA HD
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="DECASA HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DECASA" group-title="Server 1⭐️",DECASA HD
 http://834701933118321153.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321153.ts
-#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="DECASA SD" tvg-logo="" group-title="Server 1⭐️",DECASA SD
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="DECASA SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DECASA" group-title="Server 1⭐️",DECASA SD
 http://834701933118336289.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/336289.ts
 
 #EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="DECASA FHD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUvbBBSy_XORuzpU_L2Ybu-H.png" group-title="Server 1⭐️",DECASA FHD

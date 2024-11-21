@@ -375,6 +375,26 @@ http://834701933118825163.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/825163.ts
 #EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="M+ CINE ESPAÑOL SD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCESP.png" group-title="Server 1⭐️",M+ CINE ESPAÑOL SD
 http://834701933118862452.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/862452.ts
 
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ BBC EARTH FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MBBC" group-title="Server 1⭐️",M+ BBC EARTH FHD
+http://834701933118869029.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/869029.ts
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ BBC EARTH" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MBBC" group-title="Server 1⭐️",M+ BBC EARTH HD
+http://834701933118864345.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/864345.ts
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ BBC EARTH" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MBBC" group-title="Server 1⭐️",M+ BBC EARTH SD
+http://834701933118864346.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/864346.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ BBC EARTH FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MBBC" group-title="Server 1⭐️",M+ BBC EARTH FHD
+http://834701933118960269.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/960269.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ BBC EARTH HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MBBC" group-title="Server 1⭐️",M+ BBC EARTH HD
+http://834701933118960270.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/960270.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ BBC EARTH SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MBBC" group-title="Server 1⭐️",M+ BBC EARTH SD
+http://834701933118321337.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321337.ts
+
+
+
+
+
+
+
 
 
 
@@ -390,12 +410,7 @@ http://834701933118869035.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/869035.ts
 
 
 
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ II GUERRA MUNDIAL FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MGUERR" group-title="Server 1⭐️",M+ II GUERRA MUNDIAL FHD
-http://834701933118869029.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/869029.ts
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ II GUERRA MUNDIAL HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MGUERR" group-title="Server 1⭐️",M+ II GUERRA MUNDIAL HD
-http://834701933118864345.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/864345.ts
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ II GUERRA MUNDIAL SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MGUERR" group-title="Server 1⭐️",M+ II GUERRA MUNDIAL SD
-http://834701933118864346.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/864346.ts
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="M+ CLASSICO HD" tvg-logo="" group-title="Server 1⭐️",M+ CLASSICO HD
@@ -615,12 +630,6 @@ http://834701933118941478.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/941478.ts
 #EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ TERROR SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TERROR.png" group-title="Server 1⭐️",M+ TERROR SD
 http://834701933118941479.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/941479.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="M+ BBC EARTH FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MBBC" group-title="Server 1⭐️",M+ BBC EARTH FHD
-http://834701933118960269.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/960269.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ BBC EARTH HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MBBC" group-title="Server 1⭐️",M+ BBC EARTH HD
-http://834701933118960270.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/960270.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ BBC EARTH SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MBBC" group-title="Server 1⭐️",M+ BBC EARTH SD
-http://834701933118321337.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321337.ts
 
 #EXTINF:-1 tvg-id="M+ Elecciones EE.UU." tvg-name="M+ ANIME FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MANIME" group-title="Server 1⭐️",M+ ANIME FHD
 http://834701933118963129.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/963129.ts

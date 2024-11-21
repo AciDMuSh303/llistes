@@ -250,7 +250,7 @@ http://834701933118321390.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321390.ts
 http://834701933118875962.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/875962.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="DVIAJE FHD" tvg-logo="https://dyncont.masmediatv.es/channel_title_logos/xZSV-Fl4ZYit-Ra_-bumT5E7leGeK7ED.pn" group-title="Server 1⭐️",DVIAJE FHD
+#EXTINF:-1 tvg-id="" tvg-name="DVIAJE FHD" tvg-logo="https://dyncont.masmediatv.es/channel_title_logos/xZSV-Fl4ZYit-Ra_-bumT5E7leGeK7ED.png" group-title="Server 1⭐️",DVIAJE FHD
 http://834701933118932837.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/932837.ts
 #EXTINF:-1 tvg-id="" tvg-name="DVIAJE FHD" tvg-logo="https://dyncont.masmediatv.es/channel_title_logos/xZSV-Fl4ZYit-Ra_-bumT5E7leGeK7ED.png" group-title="Server 1⭐️",DVIAJE FHD
 http://834701933118966475.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/966475.ts
@@ -365,6 +365,14 @@ http://834701933118321287.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321287.ts
 
 
 
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Plus+" tvg-logo="" group-title="Server 1⭐️",Movistar Plus+ FHD
 http://834701933118321068.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321068.ts
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Plus+" tvg-logo="" group-title="Server 1⭐️",Movistar Plus+ SD
@@ -404,8 +412,13 @@ http://834701933118321332.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321332.ts
 #EXTINF:-1 tvg-id="M+ Drama" tvg-name="M+ DRAMA SD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUutBHFdQAICGwBROUiMzWaLqlTOXi-aYrrYiYlcmA7d7Q.png" group-title="Server 1⭐️",M+ DRAMA SD
 http://834701933118321333.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321333.ts
 
-#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="M+ ESTRENOS FHD" tvg-logo="http://astrill.today:80/images/HjwEu7iTOqkLhxl1ITLIBZxq418yDK4wxg7T5hPu0Uo-D_hO0V6Q1aKOHrCxnbiz.png" group-title="Server 1⭐️",M+ ESTRENOS FHD
-http://834701933118321337.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321337.ts
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="movistarseries.es" tvg-name="M+ SERIES FHD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUsQCzvCmewrsiMp7806n5pKbbqN1_7W6fO8G2bQft-t0g.png" group-title="Server 1⭐️",M+ SERIES FHD
 http://834701933118321347.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321347.ts
@@ -693,7 +706,7 @@ http://834701933118960269.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/960269.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ BBC EARTH HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MBBC" group-title="Server 1⭐️",M+ BBC EARTH HD
 http://834701933118960270.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/960270.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ BBC EARTH SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MBBC" group-title="Server 1⭐️",M+ BBC EARTH SD
-
+http://834701933118321337.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321337.ts
 
 #EXTINF:-1 tvg-id="M+ Elecciones EE.UU." tvg-name="M+ ANIME FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MANIME" group-title="Server 1⭐️",M+ ANIME FHD
 http://834701933118963129.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/963129.ts

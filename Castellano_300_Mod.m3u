@@ -96,6 +96,8 @@ http://834701933118825098.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/825098.ts
 http://834701933118386495.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/386495.ts
 #EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC CRIME SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CYM" group-title="Server 1⭐️",AMC CRIME SD
 http://834701933118321101.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321101.ts
+#EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC CRIME SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CYM" group-title="Server 1⭐️",AMC CRIME SD
+http://834701933118911724.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/911724.ts
 
 
 
@@ -299,27 +301,20 @@ http://834701933118825178.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/825178.ts
 http://834701933118321070.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321070.ts
 
 
-#EXTINF:-1 tvg-id="M+ Originales" tvg-name="M+ ORIGINALES HD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjj8kiMDawOe2Jth7g9knpJNg.png" group-title="Server 1⭐️",M+ ORIGINALES HD
+#EXTINF:-1 tvg-id="M+ Originales" tvg-name="M+ ORIGINALES FHD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjj8kiMDawOe2Jth7g9knpJNg.png" group-title="Server 1⭐️",M+ ORIGINALES FHD
 http://834701933118321069.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321069.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="M+ ORIGINALES FHD" tvg-logo="" group-title="Server 1⭐️",M+ ORIGINALES FHD
-http://834701933118909125.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909125.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="M+ ORIGINALES HD" tvg-logo="" group-title="Server 1⭐️",M+ ORIGINALES HD
-http://834701933118911724.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/911724.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="M+ ORIGINALES SD" tvg-logo="" group-title="Server 1⭐️",M+ ORIGINALES SD
-http://834701933118912474.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/912474.ts
-
-#EXTINF:-1 tvg-id="M+ Originales" tvg-name="ORIGINALES HD" tvg-logo="http://cesbos.portal.ovh/logos/canal-0.jpg" group-title="Server 1⭐️",ORIGINALES HD
-http://834701933118937284.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/937284.ts
-
-
-#EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="M+ ORIGINALES FHD SD BITRATE HD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjj8kiMDawOe2Jth7g9knpJNg.png" group-title="Server 1⭐️",M+ ORIGINALES FHD SD BITRATE HD
-http://834701933118933716.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/933716.ts
-
 #EXTINF:-1 tvg-id="M+ Originales" tvg-name="ORIGINALES FHD" tvg-logo="http://cesbos.portal.ovh/logos/canal-0.jpg" group-title="Server 1⭐️",ORIGINALES FHD
 http://834701933118933728.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/933728.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ ORIGINALES FHD" tvg-logo="" group-title="Server 1⭐️",M+ ORIGINALES FHD
+http://834701933118909125.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909125.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ ORIGINALES SD" tvg-logo="" group-title="Server 1⭐️",M+ ORIGINALES SD
+http://834701933118912474.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/912474.ts
+#EXTINF:-1 tvg-id="M+ Originales" tvg-name="ORIGINALES HD" tvg-logo="http://cesbos.portal.ovh/logos/canal-0.jpg" group-title="Server 1⭐️",ORIGINALES HD
+http://834701933118937284.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/937284.ts
+#EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="M+ ORIGINALES HD" tvg-logo="http://astrill.today:80/images/kw6J4S5tBQ7WVj66ZWQClcjFUQtJ4V8sM6r32BRxIZU3WXbVjI7Fsf3k-oICxqjj8kiMDawOe2Jth7g9knpJNg.png" group-title="Server 1⭐️",M+ ORIGINALES HD
+http://834701933118933716.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/933716.ts
+
+
 
 
 

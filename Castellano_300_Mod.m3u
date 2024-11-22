@@ -9,11 +9,11 @@
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="LA 1 FHD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="Server 1⭐️",LA 1 FHD
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="LA 1 FHD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="Server 1⭐️",LA 1 FHD
 http://834701933118321276.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321276.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA 1 HD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="Server 1⭐️",LA 1 HD
+#EXTINF:-1 tvg-id="la1.es" tvg-name="LA 1 HD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="Server 1⭐️",LA 1 HD
 http://834701933118321277.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321277.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA 1 SD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="Server 1⭐️",LA 1 SD
+#EXTINF:-1 tvg-id="la1.es" tvg-name="LA 1 SD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="Server 1⭐️",LA 1 SD
 http://834701933118321278.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321278.ts
 #EXTINF:-1 tvg-id="la2.es" tvg-name="LA 2 FHD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUsQptmR3opg0prud0nf0gsi.png" group-title="Server 1⭐️",LA 2 FHD
 http://834701933118321279.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/321279.ts
@@ -375,11 +375,11 @@ http://834701933118825163.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/825163.ts
 #EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="M+ CINE ESPAÑOL SD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCESP.png" group-title="Server 1⭐️",M+ CINE ESPAÑOL SD
 http://834701933118862452.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/862452.ts
 
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ BBC EARTH FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MBBC" group-title="Server 1⭐️",M+ BBC EARTH FHD
+#EXTINF:-1 tvg-id="" tvg-name="M+ BBC EARTH FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MBBC" group-title="Server 1⭐️",M+ BBC EARTH FHD
 http://834701933118869029.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/869029.ts
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ BBC EARTH" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MBBC" group-title="Server 1⭐️",M+ BBC EARTH HD
+#EXTINF:-1 tvg-id="" tvg-name="M+ BBC EARTH" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MBBC" group-title="Server 1⭐️",M+ BBC EARTH HD
 http://834701933118864345.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/864345.ts
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="M+ BBC EARTH" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MBBC" group-title="Server 1⭐️",M+ BBC EARTH SD
+#EXTINF:-1 tvg-id="" tvg-name="M+ BBC EARTH" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MBBC" group-title="Server 1⭐️",M+ BBC EARTH SD
 http://834701933118864346.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/864346.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="M+ BBC EARTH FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MBBC" group-title="Server 1⭐️",M+ BBC EARTH FHD

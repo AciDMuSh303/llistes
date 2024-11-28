@@ -1447,7 +1447,7 @@ http://834701933118909073.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909073.ts
 http://834701933118909075.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909075.ts
 #EXTINF:-1 tvg-id="" tvg-name="CANAL ORBE 21 SD" tvg-logo="http://meteoalcorcon.es/canal_orbe_21_ar.png" group-title="Server 1⭐️",CANAL ORBE 21 SD
 http://834701933118909076.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909076.ts
-#EXTINF:-1 tvg-id="" tvg-name="CBN ESPANOL SD" tvg-logo="https://www.cbn.com/partners/video/img/live_channel/cbn-espanol-channel-thumb.png" group-title="Server 1⭐️",CBN ESPANOL SD
+#EXTINF:-1 tvg-id="" tvg-name="CBN Español SD" tvg-logo="https://www.cbn.com/partners/video/img/live_channel/cbn-espanol-channel-thumb.png" group-title="Server 1⭐️",CBN Español SD
 http://834701933118909077.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909077.ts
 #EXTINF:-1 tvg-id="CGTN EspaÃ±ol" tvg-name="CGTN ESPAÑOL FHD" tvg-logo="https://espanol-static.cgtn.com/w/images/icon/logo@3x.png" group-title="Server 1⭐️",CGTN ESPAÑOL FHD
 http://834701933118909078.ofxn1112.xyz:80/live/te41909/jhEeP9ATGp/909078.ts
@@ -4276,7 +4276,7 @@ http://963702489709909074.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/909074.ts
 http://963702489709909075.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/909075.ts
 #EXTINF:-1 tvg-id="" tvg-name="CANAL ORBE 21 SD" tvg-logo="http://meteoalcorcon.es/canal_orbe_21_ar.png" group-title="Server 2⭐️",CANAL ORBE 21 SD
 http://963702489709909076.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/909076.ts
-#EXTINF:-1 tvg-id="" tvg-name="CBN ESPANOL SD" tvg-logo="https://www.cbn.com/partners/video/img/live_channel/cbn-espanol-channel-thumb.png" group-title="Server 2⭐️",CBN ESPANOL SD
+#EXTINF:-1 tvg-id="" tvg-name="CBN Español SD" tvg-logo="https://www.cbn.com/partners/video/img/live_channel/cbn-espanol-channel-thumb.png" group-title="Server 2⭐️",CBN Español SD
 http://963702489709909077.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/909077.ts
 #EXTINF:-1 tvg-id="CGTN EspaÃ±ol" tvg-name="CGTN ESPAÑOL FHD" tvg-logo="https://espanol-static.cgtn.com/w/images/icon/logo@3x.png" group-title="Server 2⭐️",CGTN ESPAÑOL FHD
 http://963702489709909078.ofxn1112.xyz:80/live/te516184/ET4myQewVgv@/909078.ts
@@ -7126,7 +7126,7 @@ http://panel.zaz.ovh:8080/live/01_03G59980216738232/ftxmyPjVCmpA/fd21c044-c481-4
 http://panel.zaz.ovh:8080/live/01_03G59980216738232/ftxmyPjVCmpA/3f917cc8-e0aa-4abe-9753-aaf9370054aa.m3u
 #EXTINF:-1 tvg-id="La Sexta HD" tvg-name="La Sexta SD" tvg-logo="http://picon.tvparanosotros.ru/picon2023/lasextasd.png" group-title="Server 4⭐️",La Sexta SD
 http://panel.zaz.ovh:8080/live/01_03G59980216738232/ftxmyPjVCmpA/5bbecfcc-d0ce-459e-80b9-b9ac965f599d.m3u
-#EXTINF:-1 tvg-id="CGTN Español" tvg-name="CGTN ESPANOL SD" tvg-logo="http://picon.tvparanosotros.ru/picon2023/cgtnespanolfhd.png" group-title="Server 4⭐️",CGTN ESPANOL SD
+#EXTINF:-1 tvg-id="CGTN Español" tvg-name="CGTN Español SD" tvg-logo="http://picon.tvparanosotros.ru/picon2023/cgtnespanolfhd.png" group-title="Server 4⭐️",CGTN Español SD
 http://panel.zaz.ovh:8080/live/01_03G59980216738232/ftxmyPjVCmpA/fd3da694-3dec-4b7b-b388-a6ee8e816d3c.m3u
 #EXTINF:-1 tvg-id="Multideporte" tvg-name="Multideporte SD" tvg-logo="http://picon.tvparanosotros.ru/picon2023/multideportesd.png" group-title="Server 4⭐️",Multideporte SD
 http://panel.zaz.ovh:8080/live/01_03G59980216738232/ftxmyPjVCmpA/7e962652-df80-435d-b329-262e1f387fa3.m3u
@@ -9398,8 +9398,7 @@ http://dmtn.tv:8080/GEN-broLINE/mfYMHgu/275227
 
 
 
-#EXTINF:-1 tvg-id="ext" tvg-name="â€¢â—â˜…--- ES TDT ----â˜…â—â€¢" tvg-logo="http://flags.fmcdn.net/data/flags/w580/es.png" group-title="Server 8⭐️",â€¢â—â˜…--- ES TDT ----â˜…â—â€¢
-http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/6935.ts
+
 #EXTINF:-1 tvg-id="LA1.es" tvg-name="LA 1 FHD (Fibra)" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tve1_madrid.png" group-title="Server 8⭐️",LA 1 FHD (Fibra)
 http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/50657.ts
 #EXTINF:-1 tvg-id="LA1.es" tvg-name="LA 1 FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tve1_madrid.png" group-title="Server 8⭐️",LA 1 FHD
@@ -9614,8 +9613,7 @@ http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/20851.ts
 http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/20516.ts
 #EXTINF:-1 tvg-id="Teleonuba.TV" tvg-name="Teleonuba TV" tvg-logo="http://www.teleonuba.es/wp-content/uploads/2016/02/logo-cabecera.png" group-title="Server 8⭐️",Teleonuba TV
 http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/20505.ts
-#EXTINF:-1 tvg-id="ext" tvg-name="â€¢â—â˜…--- ES Documentales ----â˜…â—â€¢" tvg-logo="http://flags.fmcdn.net/data/flags/w580/es.png" group-title="Server 8⭐️",â€¢â—â˜…--- ES Documentales ----â˜…â—â€¢
-http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/6941.ts
+
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ Documentales FHD (Fibra)" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MDOC.png" group-title="Server 8⭐️",M+ Documentales FHD (Fibra)
 http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/73487.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ Documentales FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MDOC.png" group-title="Server 8⭐️",M+ Documentales FHD
@@ -9678,8 +9676,7 @@ http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/20530.ts
 http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/50264.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="Nature Time FHD" tvg-logo="https://images.pluto.tv/channels/61fc0df14159c40007250432/colorLogoPNG.png" group-title="Server 8⭐️",Nature Time FHD
 http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/73339.ts
-#EXTINF:-1 tvg-id="ext" tvg-name="â€¢â—â˜…--- ES Estilo de Vida ----â˜…â—â€¢" tvg-logo="http://flags.fmcdn.net/data/flags/w580/es.png" group-title="Server 8⭐️",â€¢â—â˜…--- ES Estilo de Vida ----â˜…â—â€¢
-http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/6940.ts
+
 #EXTINF:-1 tvg-id="CrimeAndInvestigation.es" tvg-name="AMC Crime FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/crimen_investigacion.png" group-title="Server 8⭐️",AMC Crime FHD
 http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/73454.ts
 #EXTINF:-1 tvg-id="CrimeAndInvestigation.es" tvg-name="AMC Crime HD" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/crimen_investigacion.png" group-title="Server 8⭐️",AMC Crime HD
@@ -9712,8 +9709,7 @@ http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/62344.ts
 http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/62343.ts
 #EXTINF:-1 tvg-id="NatGeoWild.es" tvg-name="Escapa TV FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIcjogaO2Q5A2l5yeOLN-zeKlYOd-mplDmDQ&s" group-title="Server 8⭐️",Escapa TV FHD
 http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/25180.ts
-#EXTINF:-1 tvg-id="ext" tvg-name="â€¢â—â˜…--- ES Movistar+ Series ----â˜…â—â€¢" tvg-logo="http://flags.fmcdn.net/data/flags/w580/es.png" group-title="Server 8⭐️",â€¢â—â˜…--- ES Movistar+ Series ----â˜…â—â€¢
-http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/6934.ts
+
 #EXTINF:-1 tvg-id="Benavente.TV" tvg-name="M+ SkyShowtime 1 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/SKYSHO.png" group-title="Server 8⭐️",M+ SkyShowtime 1 FHD
 http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/20510.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ SkyShowtime 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/SKYSHO.png" group-title="Server 8⭐️",M+ SkyShowtime 1 HD
@@ -9846,8 +9842,7 @@ http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/73283.ts
 http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/3342.ts
 #EXTINF:-1 tvg-id="Selekt.es" tvg-name="SELEKT SD" tvg-logo="https://advanced-television.com/wp-content/uploads/2021/01/Logo_SELEKT_Black.jpg" group-title="Server 8⭐️",SELEKT SD
 http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/11598.ts
-#EXTINF:-1 tvg-id="ext" tvg-name="â€¢â—â˜…--- ES Movistar+ Cine ----â˜…â—â€¢" tvg-logo="http://flags.fmcdn.net/data/flags/w580/es.png" group-title="Server 8⭐️",â€¢â—â˜…--- ES Movistar+ Cine ----â˜…â—â€¢
-http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/6933.ts
+
 #EXTINF:-1 tvg-id="ext" tvg-name="Max Avances FHD" tvg-logo="https://f-de-film.com/wp-content/uploads/2024/09/maxavances_logo_mp.jpg?w=1280&h=720&crop=1" group-title="Server 8⭐️",Max Avances FHD
 http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/41828.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="Max Avances HD" tvg-logo="https://f-de-film.com/wp-content/uploads/2024/09/maxavances_logo_mp.jpg?w=1280&h=720&crop=1" group-title="Server 8⭐️",Max Avances HD
@@ -9910,13 +9905,13 @@ http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/56008.ts
 http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/56009.ts
 #EXTINF:-1 tvg-id="M.Clasicos.es" tvg-name="M+ Cláscios SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Movistar_Cl%C3%A1sicos.svg/640px-Movistar_Cl%C3%A1sicos.svg.png" group-title="Server 8⭐️",M+ Cláscios SD
 http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/56010.ts
-#EXTINF:-1 tvg-id="DCineEsp.es" tvg-name="M+ Cine Espanol FHD (Fibra)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1200px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="Server 8⭐️",M+ Cine Espanol FHD (Fibra)
+#EXTINF:-1 tvg-id="DCineEsp.es" tvg-name="M+ Cine Español FHD (Fibra)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1200px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="Server 8⭐️",M+ Cine Español FHD (Fibra)
 http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/38303.ts
-#EXTINF:-1 tvg-id="DCineEsp.es" tvg-name="M+ Cine Espanol FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1200px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="Server 8⭐️",M+ Cine Espanol FHD
+#EXTINF:-1 tvg-id="DCineEsp.es" tvg-name="M+ Cine Español FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1200px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="Server 8⭐️",M+ Cine Español FHD
 http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/48898.ts
-#EXTINF:-1 tvg-id="DCineEsp.es" tvg-name="M+ Cine Espanol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1200px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="Server 8⭐️",M+ Cine Espanol HD
+#EXTINF:-1 tvg-id="DCineEsp.es" tvg-name="M+ Cine Español HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1200px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="Server 8⭐️",M+ Cine Español HD
 http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/3786.ts
-#EXTINF:-1 tvg-id="DCineEsp.es" tvg-name="M+ Cine Espanol SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1200px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="Server 8⭐️",M+ Cine Espanol SD
+#EXTINF:-1 tvg-id="DCineEsp.es" tvg-name="M+ Cine Español SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1200px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="Server 8⭐️",M+ Cine Español SD
 http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/48911.ts
 #EXTINF:-1 tvg-id="LaLigaSmartbankTV3.es" tvg-name="M+ Oscar FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MOSCAR.png" group-title="Server 8⭐️",M+ Oscar FHD
 http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/32100.ts
@@ -9990,8 +9985,8 @@ http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/73336.ts
 http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/73337.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="Runtime Clasicos HD" tvg-logo="https://www.muycomputer.com/wp-content/uploads/2022/09/runtime.jpg" group-title="Server 8⭐️",Runtime Clasicos HD
 http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/73338.ts
-#EXTINF:-1 tvg-id="ext" tvg-name="â€¢â—â˜…--- ES Canales a la carta ----â˜…â—â€¢" tvg-logo="http://flags.fmcdn.net/data/flags/w580/es.png" group-title="Server 8⭐️",â€¢â—â˜…--- ES Canales a la carta ----â˜…â—â€¢
-http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/6937.ts
+
+
 #EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="Caza y Pesca FHD (Fibra)" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/caza_y_pesca_es.png" group-title="Server 8⭐️",Caza y Pesca FHD (Fibra)
 http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/50828.ts
 #EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="Caza y Pesca FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/caza_y_pesca_es.png" group-title="Server 8⭐️",Caza y Pesca FHD

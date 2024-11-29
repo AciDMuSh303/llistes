@@ -9622,13 +9622,13 @@ http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/73488.ts
 http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/73489.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ Documentales SD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MDOC.png" group-title="Server 8⭐️",M+ Documentales SD
 http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/73490.ts
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic FHD (Fibra)" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nat_geo_us.png" group-title="Server 8⭐️",National Geographic FHD (Fibra)
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="National Geographic FHD (Fibra)" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nat_geo_us.png" group-title="Server 8⭐️",National Geographic FHD (Fibra)
 http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/50822.ts
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nat_geo_us.png" group-title="Server 8⭐️",National Geographic FHD
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="National Geographic FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nat_geo_us.png" group-title="Server 8⭐️",National Geographic FHD
 http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/3243.ts
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nat_geo_us.png" group-title="Server 8⭐️",National Geographic HD
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="National Geographic HD" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nat_geo_us.png" group-title="Server 8⭐️",National Geographic HD
 http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/4379.ts
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic SD" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nat_geo_us.png" group-title="Server 8⭐️",National Geographic SD
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="National Geographic SD" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nat_geo_us.png" group-title="Server 8⭐️",National Geographic SD
 http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/3613.ts
 #EXTINF:-1 tvg-id="NatGeoWild.es" tvg-name="Nat Geo Wild FHD (Fibra)" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nat_geo_wild_us.png" group-title="Server 8⭐️",Nat Geo Wild FHD (Fibra)
 http://31.43.191.135:8080/dmtn/KL86djT2jb@js26FD/50823.ts

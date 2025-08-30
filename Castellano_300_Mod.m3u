@@ -33,11 +33,11 @@ http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/81548
 http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/81493
 #EXTINF:-1 tvg-id="24horas.es" tvg-name="CANAL 24 HORAS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tve_canal_24horas.png" group-title="Server 1 ⭐️ VPN",CANAL 24 HORAS
 http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/81563
-#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M+ ACCION" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movistar_es_accion.png" group-title="Server 1 ⭐️ VPN",M+ ACCION
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M+ ACCIÓN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movistar_es_accion.png" group-title="Server 1 ⭐️ VPN",M+ ACCIÓN
 http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/81602
-#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M+ ACCION FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movistar_es_accion.png" group-title="Server 1 ⭐️ VPN",M+ ACCION FHD
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M+ ACCIÓN FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movistar_es_accion.png" group-title="Server 1 ⭐️ VPN",M+ ACCIÓN FHD
 http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/81520
-#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+ CINE ESPANOL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movistar_es_cine_espanol.png" group-title="Server 1 ⭐️ VPN",M+ CINE ESPANOL
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+ CINE ESPAÑOL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movistar_es_cine_ESPAÑOL.png" group-title="Server 1 ⭐️ VPN",M+ CINE ESPAÑOL
 http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/81604
 #EXTINF:-1 tvg-id="movistarestrenos2.es" tvg-name="M+ ESTRENOS 2 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-estrenos-2-es.png" group-title="Server 1 ⭐️ VPN",M+ ESTRENOS 2 FHD
 http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/81521
@@ -333,15 +333,15 @@ http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/2688
 http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/2757
 #EXTINF:-1 tvg-id="24horas.es" tvg-name="24 HORAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="Server 2 ⭐️ VPN",24 HORAS HD
 http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/2689
-#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M+  ACCION HD" tvg-logo="https://w7.pngwing.com/pngs/479/622/png-transparent-spain-television-channel-movistar-accion-movistar-carreras-thumbnail.png" group-title="Server 2 ⭐️ VPN",M+  ACCION HD
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M+ ACCIÓN HD" tvg-logo="https://w7.pngwing.com/pngs/479/622/png-transparent-spain-television-channel-movistar-accion-movistar-carreras-thumbnail.png" group-title="Server 2 ⭐️ VPN",M+ ACCIÓN HD
 http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/2761
-#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M+  ACCION FHD" tvg-logo="https://w7.pngwing.com/pngs/479/622/png-transparent-spain-television-channel-movistar-accion-movistar-carreras-thumbnail.png" group-title="Server 2 ⭐️ VPN",M+  ACCION FHD
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M+ ACCIÓN FHD" tvg-logo="https://w7.pngwing.com/pngs/479/622/png-transparent-spain-television-channel-movistar-accion-movistar-carreras-thumbnail.png" group-title="Server 2 ⭐️ VPN",M+ ACCIÓN FHD
 http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/2696
-#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+  CINE ESPANOL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1200px-Movistar_DCine.svg.png" group-title="Server 2 ⭐️ VPN",M+  CINE ESPANOL HD
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+  CINE ESPAÑOL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1200px-Movistar_DCine.svg.png" group-title="Server 2 ⭐️ VPN",M+  CINE ESPAÑOL HD
 http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/2695
-#EXTINF:-1 tvg-id="dcineespanol.es" tvg-name="M+  CINE HD" tvg-logo="https://download.logo.wine/logo/Movistar_Cine_Espa%C3%B1ol/Movistar_Cine_Espa%C3%B1ol-Logo.wine.png" group-title="Server 2 ⭐️ VPN",M+  CINE HD
+#EXTINF:-1 tvg-id="dcineESPAÑOL.es" tvg-name="M+  CINE HD" tvg-logo="https://download.logo.wine/logo/Movistar_Cine_Espa%C3%B1ol/Movistar_Cine_Espa%C3%B1ol-Logo.wine.png" group-title="Server 2 ⭐️ VPN",M+  CINE HD
 http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/2759
-#EXTINF:-1 tvg-id="dcineespanol.es" tvg-name="M+  CINE FHD" tvg-logo="https://download.logo.wine/logo/Movistar_Cine_Espa%C3%B1ol/Movistar_Cine_Espa%C3%B1ol-Logo.wine.png" group-title="Server 2 ⭐️ VPN",M+  CINE FHD
+#EXTINF:-1 tvg-id="dcineESPAÑOL.es" tvg-name="M+  CINE FHD" tvg-logo="https://download.logo.wine/logo/Movistar_Cine_Espa%C3%B1ol/Movistar_Cine_Espa%C3%B1ol-Logo.wine.png" group-title="Server 2 ⭐️ VPN",M+  CINE FHD
 http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/2697
 #EXTINF:-1 tvg-id="movistarestrenos2.es" tvg-name="M+   HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movistar-cinedoc-and-roll-es.png" group-title="Server 2 ⭐️ VPN",M+   HD
 http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/43206
@@ -633,17 +633,17 @@ http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/277674
 http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/278074
 #EXTINF:-1 tvg-id="ext" tvg-name="PTV MALAGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/PTV_Telecom_logo.png" group-title="Server 3 ⭐️ VPN",PTV MALAGA
 http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/277694
-#EXTINF:-1 tvg-id="dcineespanol.es" tvg-name="M+  CINE HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV1.png" group-title="Server 3 ⭐️ VPN",M+  CINE HD
+#EXTINF:-1 tvg-id="dcineESPAÑOL.es" tvg-name="M+  CINE HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV1.png" group-title="Server 3 ⭐️ VPN",M+  CINE HD
 http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/288508
-#EXTINF:-1 tvg-id="dcineespanol.es" tvg-name="M+  CINE FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV1.png" group-title="Server 3 ⭐️ VPN",M+  CINE FHD
+#EXTINF:-1 tvg-id="dcineESPAÑOL.es" tvg-name="M+  CINE FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MV1.png" group-title="Server 3 ⭐️ VPN",M+  CINE FHD
 http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/288507
-#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+  CINE ESPANOL HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="Server 3 ⭐️ VPN",M+  CINE ESPANOL HD
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+  CINE ESPAÑOL HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="Server 3 ⭐️ VPN",M+  CINE ESPAÑOL HD
 http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/288493
-#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+  CINE ESPANOL FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="Server 3 ⭐️ VPN",M+  CINE ESPANOL FHD
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+  CINE ESPAÑOL FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="Server 3 ⭐️ VPN",M+  CINE ESPAÑOL FHD
 http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/288492
-#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M+  ACCION HD" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar_es_accion.png" group-title="Server 3 ⭐️ VPN",M+  ACCION HD
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M+ ACCIÓN HD" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar_es_accion.png" group-title="Server 3 ⭐️ VPN",M+ ACCIÓN HD
 http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/288499
-#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M+  ACCION FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar_es_accion.png" group-title="Server 3 ⭐️ VPN",M+  ACCION FHD
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="M+ ACCIÓN FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar_es_accion.png" group-title="Server 3 ⭐️ VPN",M+ ACCIÓN FHD
 http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/288498
 #EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="M+  COMEDIA HD" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movistar_es_comedia.png" group-title="Server 3 ⭐️ VPN",M+  COMEDIA HD
 http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/288502
@@ -1442,7 +1442,7 @@ http://esproututt.top:8080/es9241737416143002/924a2ab9365d/61
 http://esproututt.top:8080/es9241737416143002/924a2ab9365d/62
 #EXTINF:-1 tvg-id="ext" tvg-name="TV5MONDE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TV5MONDE.png" group-title="Server 4 ⭐️ VPN",TV5MONDE
 http://esproututt.top:8080/es9241737416143002/924a2ab9365d/63
-#EXTINF:-1 tvg-id="CGTN.es" tvg-name="CGTN ESPAÑOL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/CGTN_Espanol.png" group-title="Server 4 ⭐️ VPN",CGTN ESPAÑOL
+#EXTINF:-1 tvg-id="CGTN.es" tvg-name="CGTN ESPAÑOL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/CGTN_ESPAÑOL.png" group-title="Server 4 ⭐️ VPN",CGTN ESPAÑOL
 http://esproututt.top:8080/es9241737416143002/924a2ab9365d/64
 #EXTINF:-1 tvg-id="ext" tvg-name="BLOOMBERG" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Bloomberg.png" group-title="Server 4 ⭐️ VPN",BLOOMBERG
 http://esproututt.top:8080/es9241737416143002/924a2ab9365d/65

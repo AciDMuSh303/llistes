@@ -159,9 +159,9 @@ http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/81569
 http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/81500
 #EXTINF:-1 tvg-id="canalcocina.es" tvg-name="CANAL COCINA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_cocina.png" group-title="Server 1 ⭐️ VPN",CANAL COCINA
 http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/81564
-#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="CANAL DECASA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/decasa.png" group-title="Server 1 ⭐️ VPN",CANAL DECASA
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="DECASA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/decasa.png" group-title="Server 1 ⭐️ VPN",DECASA
 http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/81565
-#EXTINF:-1 tvg-id="odisea.es" tvg-name="CANAL ODISEA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/odisea_es.png" group-title="Server 1 ⭐️ VPN",CANAL ODISEA
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="ODISEA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/odisea_es.png" group-title="Server 1 ⭐️ VPN",ODISEA
 http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/81566
 #EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="CRIMEN INVESTIGACION" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/crimen-plus-investigacion-us.png" group-title="Server 1 ⭐️ VPN",CRIMEN INVESTIGACION
 http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/81574
@@ -527,7 +527,7 @@ http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/2802
 http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/2741
 #EXTINF:-1 tvg-id="canalsurandalucia.es" tvg-name="CANAL SUR ANDALUCIA" tvg-logo="https://static.filmon.com/assets/channels/6116/extra_big_logo.png" group-title="Server 2 ⭐️ VPN",CANAL SUR ANDALUCIA
 http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/2801
-#EXTINF:-1 tvg-id="odisea.es" tvg-name="CANAL ODISEA" tvg-logo="https://odisea.es/wp-content/uploads/2019/06/OdiseaElCanal.png" group-title="Server 2 ⭐️ VPN",CANAL ODISEA
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="ODISEA" tvg-logo="https://odisea.es/wp-content/uploads/2019/06/OdiseaElCanal.png" group-title="Server 2 ⭐️ VPN",ODISEA
 http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/2800
 #EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="CANAL DE CASA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Decasa.png" group-title="Server 2 ⭐️ VPN",CANAL DE CASA
 http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/2744
@@ -739,9 +739,9 @@ http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/288595
 http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/288604
 #EXTINF:-1 tvg-id="ext" tvg-name="DW" tvg-logo="http://www.dw.com/cssi/dwlogo-print.gif" group-title="Server 3 ⭐️ VPN",DW
 http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/278079
-#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="CANAL DECASA HD" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/decasa.png" group-title="Server 3 ⭐️ VPN",CANAL DECASA HD
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="DECASA HD" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/decasa.png" group-title="Server 3 ⭐️ VPN",DECASA HD
 http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/288636
-#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="CANAL DECASA FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/decasa.png" group-title="Server 3 ⭐️ VPN",CANAL DECASA FHD
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="DECASA FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/decasa.png" group-title="Server 3 ⭐️ VPN",DECASA FHD
 http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/288635
 #EXTINF:-1 tvg-id="BuenViaje" tvg-name="BUENVIAJE FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BUENV.png" group-title="Server 3 ⭐️ VPN",BUENVIAJE FHD
 http://userch.altri.org:80/eneafigdiepietro/bfs8sDM/288638
@@ -1352,7 +1352,7 @@ http://esproututt.top:8080/es9241737416143002/924a2ab9365d/44
 http://esproututt.top:8080/es9241737416143002/924a2ab9365d/45
 #EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="CANAL COCINA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Cocina.png" group-title="Server 4 ⭐️ VPN",CANAL COCINA
 http://esproututt.top:8080/es9241737416143002/924a2ab9365d/46
-#EXTINF:-1 tvg-id="0" tvg-name="CANAL DECASA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Decasa.png" group-title="Server 4 ⭐️ VPN",CANAL DECASA
+#EXTINF:-1 tvg-id="0" tvg-name="DECASA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Decasa.png" group-title="Server 4 ⭐️ VPN",DECASA
 http://esproututt.top:8080/es9241737416143002/924a2ab9365d/47
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ BUEN VIAJE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BuenViaje.png" group-title="Server 4 ⭐️ VPN",M+ BUEN VIAJE
 http://esproututt.top:8080/es9241737416143002/924a2ab9365d/411
